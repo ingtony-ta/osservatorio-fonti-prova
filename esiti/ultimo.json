@@ -1,5 +1,5 @@
 {
- "eseguito_alle_utc": "2026-10-04T16:31:14+00:00",
+ "eseguito_alle_utc": "2026-10-04T16:38:01+00:00",
  "fonti": [
   {
    "codice": 200,
@@ -25,11 +25,11 @@
    "codice": 200,
    "tipo": "application/json;charset=UTF-8",
    "byte": 8179,
-   "impronta": "5b10df5002f0fb71",
+   "impronta": "fadf291a29164fd4",
    "url_finale": "https://ec.europa.eu/info/law/better-regulation/brpapi/searchInitiatives?language=EN&page=0&size=3&feedbackStatus=OPEN",
    "id": "haveyoursay",
    "nome": "Have Your Say, consultazioni aperte (API)",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
@@ -84,52 +84,52 @@
   {
    "codice": 200,
    "tipo": "text/html;charset=UTF-8",
-   "byte": 181910,
-   "impronta": "cddbeab7ff4bfff3",
+   "byte": 181927,
+   "impronta": "afb99568c7ea9916",
    "url_finale": "https://www.mase.gov.it/portale/web/guest/archivio-notizie-1",
    "id": "mase",
    "nome": "Ministero dell'ambiente, notizie",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
    "tipo": "text/html; charset=utf-8",
    "byte": 156699,
-   "impronta": "ede020aed0b7e390",
+   "impronta": "afe217cceabcf77d",
    "url_finale": "https://www.mimit.gov.it/it/notizie-stampa",
    "id": "mimit",
    "nome": "MIMIT, notizie",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
    "tipo": "text/html; charset=utf-8",
    "byte": 1305257,
-   "impronta": "6c38638039b33b76",
+   "impronta": "cffb97253fc1224e",
    "url_finale": "https://www.camera.it/leg19/142",
    "id": "camera",
    "nome": "Camera, atti del Governo",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
    "tipo": "text/html;charset=UTF-8",
    "byte": 160917,
-   "impronta": "81620960b7b51025",
+   "impronta": "64c098613a336c69",
    "url_finale": "https://www.adm.gov.it/portale/circolari-dogane",
    "id": "adm",
    "nome": "Agenzia delle dogane, circolari",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
    "tipo": "text/html;charset=UTF-8",
    "byte": 154932,
-   "impronta": "73c2913515539067",
+   "impronta": "45e7e7ba1919b002",
    "url_finale": "https://www.agcm.it/Media-e-Comunicazione/comunicati-stampa/index",
    "id": "agcm",
    "nome": "AGCM, comunicati",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 202,
