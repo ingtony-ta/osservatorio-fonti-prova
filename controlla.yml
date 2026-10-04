@@ -1,0 +1,28 @@
+name: Controllo delle fonti pubbliche
+
+on:
+  schedule:
+    - cron: "37 2 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  controlla:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Chiede le fonti e registra l'esito
+        run: python controlla_fonti.py
+      - name: Salva l'esito nel repository
+        run: |
+          git config user.name "robot osservatorio"
+          git config user.email "robot@users.noreply.github.com"
+          git add esiti
+          git diff --cached --quiet || git commit -m "Esito del controllo $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git push
