@@ -1,6 +1,6 @@
 """Estrazione di prova delle novità dalle fonti pubbliche con dati strutturati.
 
-Legge le interfacce dati della sala stampa della Commissione, delle consultazioni Have Your Say, di Safety Gate e
+Legge le interfacce dati della sala stampa della Commissione, delle consultazioni Have Your Say e
 due feed (Consiglio UE, Gazzetta Ufficiale serie UE). Per ogni voce registra data, titolo, collegamento e se
 contiene parole del dominio (sicurezza prodotti, imballaggi, chimica, batterie, giocattoli, ecodesign, dogane,
 consumatori). Segnala le voci nuove rispetto all'esecuzione precedente. Solo fonti pubbliche.
@@ -64,18 +64,6 @@ def haveyoursay():
     return out
 
 
-def safetygate():
-    d = json.loads(scarica("https://ec.europa.eu/safety-gate-alerts/public/api/notification/mostRecent/", "POST", '{"language":"en","page":"0"}', "application/json"))
-    out = []
-    for v in d.get("content", [])[:40]:
-        p = v.get("product") or {}
-        rischi = ", ".join((r.get("name") or "").lower() for r in (v.get("risk") or {}).get("riskType", []))
-        out.append({"fonte": "Safety Gate", "id": "sg:" + str(v.get("reference")), "data": (v.get("publicationDate") or "")[:10],
-                    "titolo": f"{p.get('name', '')}: {p.get('nameSpecific', '')}".strip(": "), "tipo": "rischio " + rischi if rischi else "notifica",
-                    "url": "https://ec.europa.eu/safety-gate-alerts/screen/search"})
-    return out
-
-
 def feed(url, nome, prefisso):
     radice = ET.fromstring(scarica(url))
     out = []
@@ -95,7 +83,7 @@ def main():
     cartella = Path("esiti")
     cartella.mkdir(exist_ok=True)
     tutte, errori = [], []
-    for nome, f in [("sala stampa", presscorner), ("Have Your Say", haveyoursay), ("Safety Gate", safetygate),
+    for nome, f in [("sala stampa", presscorner), ("Have Your Say", haveyoursay),
                     ("Consiglio UE", lambda: feed("https://www.consilium.europa.eu/en/rss/pressreleases.ashx", "Consiglio UE, comunicati", "cu")),
                     ("Gazzetta UE", lambda: feed("https://www.gazzettaufficiale.it/rss/S2", "Gazzetta Ufficiale, serie UE", "gu"))]:
         try:
@@ -113,7 +101,7 @@ def main():
     prima_volta = not visti
     for v in tutte:
         v["parole"] = pertinente(v["titolo"] + " " + v.get("tipo", ""))
-        v["pertinente"] = bool(v["parole"]) or v["fonte"] == "Safety Gate"
+        v["pertinente"] = bool(v["parole"])
         v["nuova"] = v["id"] not in visti
     nuove = [v for v in tutte if v["nuova"]]
     visti |= {v["id"] for v in tutte}
