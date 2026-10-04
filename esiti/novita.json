@@ -1,6 +1,6 @@
 {
- "eseguito_alle_utc": "2026-10-04T16:39:06+00:00",
- "prima_volta": true,
+ "eseguito_alle_utc": "2026-10-04T16:46:37+00:00",
+ "prima_volta": false,
  "errori": [],
  "voci": [
   {
@@ -12,7 +12,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2063",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -23,7 +23,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2057",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -34,7 +34,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2047",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -45,7 +45,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2019",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -56,7 +56,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2049",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -67,7 +67,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2045",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -78,7 +78,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2042",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -89,7 +89,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2041",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -100,7 +100,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2039",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -111,7 +111,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2037",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -122,7 +122,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2036",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -133,7 +133,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -144,7 +144,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1866",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -155,7 +155,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1874",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -166,7 +166,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1872",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -179,7 +179,7 @@
     "waste"
    ],
    "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -192,7 +192,7 @@
     "reach"
    ],
    "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -203,7 +203,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1870",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -214,7 +214,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1916",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -225,7 +225,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1869",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -236,7 +236,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2031",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -247,7 +247,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2024",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -258,7 +258,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2020",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -271,7 +271,7 @@
     "consumer"
    ],
    "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -282,7 +282,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2008",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -293,7 +293,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_2009",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -304,7 +304,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2017",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -315,7 +315,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2010",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -326,7 +326,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2007",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -337,7 +337,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2006",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -348,7 +348,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2005",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -359,7 +359,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2004",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -370,7 +370,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2002",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -381,7 +381,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1991",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -392,7 +392,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1990",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -403,7 +403,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_1860",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -414,7 +414,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1859",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -425,7 +425,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1983",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -436,7 +436,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1981",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -447,7 +447,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1834",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -458,7 +458,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1965",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -469,7 +469,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_1955",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -480,7 +480,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1954",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -491,7 +491,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_1953",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -502,7 +502,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1950",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -513,7 +513,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1946",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -524,7 +524,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1940",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -535,7 +535,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1941",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -548,7 +548,7 @@
     "artificial intelligence"
    ],
    "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -559,7 +559,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1938",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -571,7 +571,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -583,7 +583,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19138_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -595,7 +595,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16352_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -607,7 +607,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14860_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -621,7 +621,7 @@
     "chemical"
    ],
    "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -633,7 +633,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19397_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -649,7 +649,7 @@
     "chemical"
    ],
    "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -663,7 +663,7 @@
     "waste"
    ],
    "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -675,7 +675,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14569_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -687,7 +687,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/17215_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -699,7 +699,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19354_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -711,7 +711,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19293_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -723,7 +723,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19332_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -735,7 +735,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/18659_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -749,7 +749,7 @@
     "waste"
    ],
    "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -763,7 +763,7 @@
     "toy"
    ],
    "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -775,7 +775,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15492_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -787,7 +787,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/18894_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -799,7 +799,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16912_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -811,7 +811,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/18833_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -823,7 +823,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/18512_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -835,7 +835,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19222_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -847,7 +847,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/17576_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -859,7 +859,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15792_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -871,7 +871,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14778_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -883,7 +883,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14549_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -895,7 +895,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16872_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -907,7 +907,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/18194_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -919,7 +919,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/17172_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -931,7 +931,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14820_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -943,7 +943,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14638_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -955,7 +955,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16413_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -967,7 +967,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14628_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -979,496 +979,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15252_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/01482/26",
-   "data": "2026-10-02",
-   "titolo": "Ring: 925 Sterling Silver Vintage Classic Design Open Adjustable Feather Punk Ring For Women Birthday",
-   "tipo": "rischio chemical",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02645/26",
-   "data": "2026-10-02",
-   "titolo": "Sandals: Sandales Femme en cuir beige",
-   "tipo": "rischio chemical",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:A12/00121/23",
-   "data": "2026-10-02",
-   "titolo": "Hair dye: per uomo crema colorante 3 N. Castano Scuro",
-   "tipo": "rischio chemical, environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02788/26",
-   "data": "2026-10-01",
-   "titolo": "Lighting chain: lampki choinkowe",
-   "tipo": "rischio electric_shock",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02787/26",
-   "data": "2026-10-01",
-   "titolo": "Magnetic toy: Magnetic",
-   "tipo": "rischio choking, injuries",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02786/26",
-   "data": "2026-10-01",
-   "titolo": "Plastic toy: Jouet de simulation pour enfants, maison de jeu, clé de voiture musicale, voitures intelligentes",
-   "tipo": "rischio chemical",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical",
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02785/26",
-   "data": "2026-10-01",
-   "titolo": "Soft toy: CXL",
-   "tipo": "rischio choking",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02783/26",
-   "data": "2026-10-01",
-   "titolo": "Magnetic toy: The Game That Connects\t\t",
-   "tipo": "rischio choking, injuries",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02784/26",
-   "data": "2026-10-01",
-   "titolo": "Magnetic toy : Magnetic balls 5mm rainbow color",
-   "tipo": "rischio choking, injuries",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02782/26",
-   "data": "2026-10-01",
-   "titolo": "Children's jacket: Waterproof rain jacket for children taupe",
-   "tipo": "rischio chemical, environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02781/26",
-   "data": "2026-10-01",
-   "titolo": "Lamp: None",
-   "tipo": "rischio electric_shock",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02780/26",
-   "data": "2026-10-01",
-   "titolo": "Musical toy: Piano-Xylophone",
-   "tipo": "rischio choking",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02779/26",
-   "data": "2026-10-01",
-   "titolo": "Handbag: ASDA Ladies’ Handbags",
-   "tipo": "rischio chemical",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02778/26",
-   "data": "2026-10-01",
-   "titolo": "Diving equipment: None",
-   "tipo": "rischio asphyxiation",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02777/26",
-   "data": "2026-10-01",
-   "titolo": "Magnetic toy: Magnetic Sticks 61 pcs\t\t",
-   "tipo": "rischio choking, injuries",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02776/26",
-   "data": "2026-10-01",
-   "titolo": "Push along toy: FUNNY WHEEL",
-   "tipo": "rischio choking",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02775/26",
-   "data": "2026-10-01",
-   "titolo": "Rain poncho: None",
-   "tipo": "rischio injuries, strangulation",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02774/26",
-   "data": "2026-10-01",
-   "titolo": "Sensory toy: Silicone Rattle Teether",
-   "tipo": "rischio choking",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02773/26",
-   "data": "2026-10-01",
-   "titolo": "Magnetic toy: Circular magnet clash chess",
-   "tipo": "rischio choking, injuries",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02772/26",
-   "data": "2026-10-01",
-   "titolo": "Earrings: None",
-   "tipo": "rischio chemical",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02771/26",
-   "data": "2026-10-01",
-   "titolo": "Plastic toy: Véhicule de construction électrique avec boîte de vitesses transparente",
-   "tipo": "rischio damage_to_sight",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02770/26",
-   "data": "2026-10-01",
-   "titolo": "Teething toy: Teether Toy Koala",
-   "tipo": "rischio choking, suffocation",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02769/26",
-   "data": "2026-10-01",
-   "titolo": "Plastic bag: Storage Bag",
-   "tipo": "rischio chemical",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02768/26",
-   "data": "2026-10-01",
-   "titolo": "Anti-insect lamp: Mosquito Killer Lamp",
-   "tipo": "rischio electric_shock",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02767/26",
-   "data": "2026-10-01",
-   "titolo": "Magnetic toy: None",
-   "tipo": "rischio injuries",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02766/26",
-   "data": "2026-10-01",
-   "titolo": "Gel nail polish: Smalto gel",
-   "tipo": "rischio chemical",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02764/26",
-   "data": "2026-10-01",
-   "titolo": "Fancy-dress costume: Ninja Samouraï Costume Set",
-   "tipo": "rischio entrapment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02765/26",
-   "data": "2026-10-01",
-   "titolo": "Disco light: Mini lumière disco LED RGB rotative à 360 degrés, télécommande et contrôle musical, éclairage de scè",
-   "tipo": "rischio electric_shock",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02763/26",
-   "data": "2026-10-01",
-   "titolo": "Magnetic toy: Magnetic Chess Game",
-   "tipo": "rischio choking, injuries",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02762/26",
-   "data": "2026-10-01",
-   "titolo": "Plastic bag: None",
-   "tipo": "rischio chemical",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "chemical"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02761/26",
-   "data": "2026-10-01",
-   "titolo": "Karaoke machine: Zestaw Karaoke",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02760/26",
-   "data": "2026-10-01",
-   "titolo": "Luminous balloon: Inflated Beach Ballon",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02759/26",
-   "data": "2026-10-01",
-   "titolo": "Karaoke machine : Mini karaoke machine",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02758/26",
-   "data": "2026-10-01",
-   "titolo": "Dance mat: Wireless Dance Pad",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02757/26",
-   "data": "2026-10-01",
-   "titolo": "Wireless mouse : Wireless mouse",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02756/26",
-   "data": "2026-10-01",
-   "titolo": "Luminous ball: Ball Light 1/2Pc 40cm Ball Light 16 Colors LED B",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02755/26",
-   "data": "2026-10-01",
-   "titolo": "Dance mat: OSTENT Non-slip Dancing Mat",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02754/26",
-   "data": "2026-10-01",
-   "titolo": "Luminous bouncy ball: Outdoor luminous ball with LED light and with remote control, intended for use in the garden.",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02752/26",
-   "data": "2026-10-01",
-   "titolo": "Soft toy: Cute-Breathing-Koala",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [
-    "toy"
-   ],
-   "pertinente": true,
-   "nuova": true
-  },
-  {
-   "fonte": "Safety Gate",
-   "id": "sg:SR/02751/26",
-   "data": "2026-10-01",
-   "titolo": "Push game: Speed Push Game",
-   "tipo": "rischio environment",
-   "url": "https://ec.europa.eu/safety-gate-alerts/screen/search",
-   "parole": [],
-   "pertinente": true,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1479,7 +990,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/forward-look-2026/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1490,7 +1001,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/media-advisory-the-10th-meeting-of-the-eu-republic-of-moldova-association-council-5-october-2026/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1501,7 +1012,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/g7-leaders-statement-on-global-energy-security-and-market-stability/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1512,7 +1023,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/weekly-schedule-of-president-antonio-costa/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1523,7 +1034,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/european-peace-facility-council-approves-10-million-for-the-balkan-medical-task-force/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1534,7 +1045,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/01/council-adopts-new-rules-on-return-for-those-with-no-right-to-stay-in-the-eu/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1545,7 +1056,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/rafah-crossing-point-council-appoints-new-head-of-eu-border-assistance-mission/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1556,7 +1067,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/simplification-council-agrees-negotiating-stance-to-fast-track-environmental-assessments/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1567,7 +1078,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/media-advisory-justice-and-home-affairs-council-of-1-and-2-october-2026/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1578,7 +1089,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/court-of-justice-of-the-eu-member-states-representatives-appoint-a-judge-to-the-court-of-justice-and-two-judges-to-the-general-court/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1589,7 +1100,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/council-agrees-negotiating-stance-to-simplify-and-streamline-food-and-feed-safety-requirements/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1600,7 +1111,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/29/mff-2028-2034-council-agrees-negotiating-position-on-future-eu-support-for-the-fisheries-sector/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1611,7 +1122,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/council-strengthens-eu-space-threat-response-architecture/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1622,7 +1133,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/human-rights-violations-in-russia-council-lists-ten-individuals-over-the-barring-of-yabloko-from-the-state-duma-elections/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1633,7 +1144,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/eu-sanctions-10-individuals-and-17-entities-over-unlawful-deportation-of-ukrainian-children-to-russia/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1644,7 +1155,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-defence-industry-council-identifies-the-first-five-projects-of-common-interest/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1655,7 +1166,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-peace-facility-council-adopts-assistance-measure-to-support-defence-capacities-of-cabo-verde/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1666,7 +1177,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-public-prosecutor-s-office-council-appoints-new-prosecutors-for-germany-and-slovenia/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1677,7 +1188,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/eu-csdp-civilian-missions-council-renews-mandates-of-eubam-rafah-and-eupol-copps-until-30-june-2027/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1688,7 +1199,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/pharma-package-council-adopts-new-rules-for-a-fairer-and-more-competitive-eu-pharmaceutical-sector/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1699,7 +1210,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=3&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1710,7 +1221,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=7&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1721,7 +1232,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=10&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1732,7 +1243,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=12&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1743,7 +1254,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=14&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1754,7 +1265,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=17&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1765,7 +1276,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=22&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1776,7 +1287,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=23&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1787,7 +1298,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=24&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1798,7 +1309,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=25&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1809,7 +1320,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=28&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1820,7 +1331,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=33&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1831,7 +1342,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=34&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   }
  ]
 }

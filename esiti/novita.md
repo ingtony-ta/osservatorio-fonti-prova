@@ -1,6 +1,6 @@
-# Novità estratte il 04-10-2026 16:39 UTC
+# Novità estratte il 04-10-2026 16:46 UTC
 
-Voci lette: 157. Pertinenti al dominio (parole chiave): 49. Prima esecuzione: tutte le voci risultano nuove.
+Voci lette: 117. Pertinenti al dominio (parole chiave): 9. Nuove dall'ultima esecuzione: 0.
 
 ## Commissione, sala stampa (4 pertinenti su 50)
 
@@ -16,24 +16,6 @@ Voci lette: 157. Pertinenti al dominio (parole chiave): 49. Prima esecuzione: tu
 - 2026-09-28 · [Early warning report on waste 2027](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/17712_it) · REPORT Ares(2026)3757008 (scade 2026-10-26)
 - 2026-09-18 · [List of non-OECD countries that are authorized to import certain non-hazardous waste from the EU](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14861_it) · REG_DEL Ares(2025)7729795 (scade 2026-10-16)
 - 2026-09-17 · [Amendment of the Toy Safety Directive - Lilial, BPA, phenol and BIT](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16152_it) · DIR Ares(2025)11233920 (scade 2026-10-15)
-
-## Safety Gate (40 pertinenti su 40)
-
-- 2026-10-02 · [Ring: 925 Sterling Silver Vintage Classic Design Open Adjustable Feather Punk Ring For Women Birthday](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio chemical
-- 2026-10-02 · [Sandals: Sandales Femme en cuir beige](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio chemical
-- 2026-10-02 · [Hair dye: per uomo crema colorante 3 N. Castano Scuro](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio chemical, environment
-- 2026-10-01 · [Lighting chain: lampki choinkowe](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio electric_shock
-- 2026-10-01 · [Magnetic toy: Magnetic](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio choking, injuries
-- 2026-10-01 · [Plastic toy: Jouet de simulation pour enfants, maison de jeu, clé de voiture musicale, voitures intelligentes](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio chemical
-- 2026-10-01 · [Soft toy: CXL](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio choking
-- 2026-10-01 · [Magnetic toy: The Game That Connects		](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio choking, injuries
-- 2026-10-01 · [Magnetic toy : Magnetic balls 5mm rainbow color](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio choking, injuries
-- 2026-10-01 · [Children's jacket: Waterproof rain jacket for children taupe](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio chemical, environment
-- 2026-10-01 · [Lamp: None](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio electric_shock
-- 2026-10-01 · [Musical toy: Piano-Xylophone](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio choking
-- 2026-10-01 · [Handbag: ASDA Ladies’ Handbags](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio chemical
-- 2026-10-01 · [Diving equipment: None](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio asphyxiation
-- 2026-10-01 · [Magnetic toy: Magnetic Sticks 61 pcs		](https://ec.europa.eu/safety-gate-alerts/screen/search) · rischio choking, injuries
 
 ## Consiglio UE, comunicati (0 pertinenti su 20)
 
