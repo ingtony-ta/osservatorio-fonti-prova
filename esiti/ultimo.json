@@ -1,0 +1,175 @@
+{
+ "eseguito_alle_utc": "2026-10-04T16:31:14+00:00",
+ "fonti": [
+  {
+   "codice": 200,
+   "tipo": "text/csv; charset=UTF-8",
+   "byte": 40,
+   "impronta": "a5d151057b665327",
+   "url_finale": "https://publications.europa.eu/webapi/rdf/sparql?query=SELECT%20%3Fc%20WHERE%20%7B%3Fw%20%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23resource_legal_id_celex%3E%20%3Fc%7D%20LIMIT%202",
+   "id": "sparql",
+   "nome": "Ufficio pubblicazioni UE, SPARQL",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "application/json",
+   "byte": 2378,
+   "impronta": "7e6ce55a13a68a47",
+   "url_finale": "https://ec.europa.eu/commission/presscorner/api/latestnews?language=en&pagesize=5",
+   "id": "presscorner",
+   "nome": "Commissione, sala stampa (API)",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "application/json;charset=UTF-8",
+   "byte": 8179,
+   "impronta": "5b10df5002f0fb71",
+   "url_finale": "https://ec.europa.eu/info/law/better-regulation/brpapi/searchInitiatives?language=EN&page=0&size=3&feedbackStatus=OPEN",
+   "id": "haveyoursay",
+   "nome": "Have Your Say, consultazioni aperte (API)",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "application/json;charset=UTF-8",
+   "byte": 90993,
+   "impronta": "8075173d3e4ef428",
+   "url_finale": "https://ec.europa.eu/safety-gate-alerts/public/api/notification/mostRecent/",
+   "id": "safetygate",
+   "nome": "Safety Gate, ultime notifiche (API)",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/html;charset=UTF-8",
+   "byte": 66553,
+   "impronta": "8d514b79cfcc9c27",
+   "url_finale": "https://www.gazzettaufficiale.it/30giorni/serie_generale",
+   "id": "gazzetta30",
+   "nome": "Gazzetta Ufficiale, serie generale (30 giorni)",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "application/rss+xml",
+   "byte": 10864,
+   "impronta": "a757459dd22e2408",
+   "url_finale": "https://www.gazzettaufficiale.it/rss/S2",
+   "id": "gazzettaS2",
+   "nome": "Gazzetta Ufficiale, feed serie UE",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/xml; charset=utf-8",
+   "byte": 12409,
+   "impronta": "41eeee7dd07a9ef6",
+   "url_finale": "https://www.consilium.europa.eu/en/rss/pressreleases.ashx",
+   "id": "consilium",
+   "nome": "Consiglio UE, feed comunicati",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/html; charset=utf-8",
+   "byte": 49925,
+   "impronta": "90c22f853106136c",
+   "url_finale": "https://www.governo.it/it/archivio-riunioni",
+   "id": "governo",
+   "nome": "Governo, archivio riunioni",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/html;charset=UTF-8",
+   "byte": 181910,
+   "impronta": "cddbeab7ff4bfff3",
+   "url_finale": "https://www.mase.gov.it/portale/web/guest/archivio-notizie-1",
+   "id": "mase",
+   "nome": "Ministero dell'ambiente, notizie",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/html; charset=utf-8",
+   "byte": 156699,
+   "impronta": "ede020aed0b7e390",
+   "url_finale": "https://www.mimit.gov.it/it/notizie-stampa",
+   "id": "mimit",
+   "nome": "MIMIT, notizie",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/html; charset=utf-8",
+   "byte": 1305257,
+   "impronta": "6c38638039b33b76",
+   "url_finale": "https://www.camera.it/leg19/142",
+   "id": "camera",
+   "nome": "Camera, atti del Governo",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/html;charset=UTF-8",
+   "byte": 160917,
+   "impronta": "81620960b7b51025",
+   "url_finale": "https://www.adm.gov.it/portale/circolari-dogane",
+   "id": "adm",
+   "nome": "Agenzia delle dogane, circolari",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/html;charset=UTF-8",
+   "byte": 154932,
+   "impronta": "73c2913515539067",
+   "url_finale": "https://www.agcm.it/Media-e-Comunicazione/comunicati-stampa/index",
+   "id": "agcm",
+   "nome": "AGCM, comunicati",
+   "cambiata": false
+  },
+  {
+   "codice": 202,
+   "tipo": "text/html; charset=UTF-8",
+   "byte": 0,
+   "impronta": "e3b0c44298fc1c14",
+   "url_finale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32023R0988",
+   "id": "eurlex",
+   "nome": "EUR-Lex (atto di prova, noto per la sfida anti-bot)",
+   "cambiata": false
+  },
+  {
+   "codice": 403,
+   "tipo": "text/html",
+   "byte": 0,
+   "impronta": "",
+   "errore": "HTTP Error 403: Forbidden",
+   "id": "echa",
+   "nome": "ECHA, notizie (noto 403)",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/html; charset=UTF-8",
+   "byte": 81073,
+   "impronta": "3bcf802cad080c70",
+   "url_finale": "https://www.ppwrtracker-europen.eu/",
+   "id": "europen",
+   "nome": "Tracker EUROPEN sugli atti PPWR",
+   "cambiata": false
+  },
+  {
+   "codice": 200,
+   "tipo": "text/html; charset=utf-8",
+   "byte": 108711,
+   "impronta": "59f2f0a4def241ec",
+   "url_finale": "https://green-forum.ec.europa.eu/packaging-and-packaging-waste-regulation-implementation_en",
+   "id": "greenforum",
+   "nome": "Commissione, pagina di attuazione PPWR",
+   "cambiata": false
+  }
+ ]
+}
