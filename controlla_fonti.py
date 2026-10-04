@@ -104,6 +104,12 @@ def main():
         if s.tell() == 0:
             s.write("data_utc,raggiunte,totali," + ",".join(f["id"] for f in FONTI) + "\n")
         s.write(f"{adesso:%Y-%m-%d %H:%M},{ok},{len(righe)}," + ",".join(str(r["codice"]) for r in righe) + "\n")
+    # estrazione delle novità dalle fonti con dati strutturati (un errore qui non ferma il controllo delle fonti)
+    try:
+        import estrai_novita
+        estrai_novita.main()
+    except Exception as e:
+        print("estrazione delle novità non riuscita:", type(e).__name__, e)
     return 0
 
 
