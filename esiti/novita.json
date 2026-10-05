@@ -1,5 +1,5 @@
 {
- "eseguito_alle_utc": "2026-10-04T16:46:37+00:00",
+ "eseguito_alle_utc": "2026-10-05T09:34:30+00:00",
  "prima_volta": false,
  "errori": [],
  "voci": [
@@ -771,7 +771,7 @@
    "data": "2026-09-15",
    "titolo": "Revision of EU rules on public procurement",
    "tipo": "PROP_REG Ares(2025)9170767",
-   "scadenza": "2026-11-29",
+   "scadenza": "2026-11-30",
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15492_it",
    "parole": [],
    "pertinente": false,
@@ -983,6 +983,17 @@
   },
   {
    "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/speech-by-president-antonio-costa-at-the-opening-ceremony-of-the-academic-year-of-the-college-of-europe-natolin-campus/",
+   "data": "",
+   "titolo": "Speech by President António Costa at the opening ceremony of the academic year of the College of Europe (Natolin campus)",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/speech-by-president-antonio-costa-at-the-opening-ceremony-of-the-academic-year-of-the-college-of-europe-natolin-campus/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/forward-look-2026/",
    "data": "",
    "titolo": "Forward look: 5 - 18 October 2026",
@@ -1186,17 +1197,6 @@
    "titolo": "EU CSDP civilian missions: Council renews mandates of EUBAM Rafah and EUPOL COPPS until 30 June 2027",
    "tipo": "feed",
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/eu-csdp-civilian-missions-council-renews-mandates-of-eubam-rafah-and-eupol-copps-until-30-june-2027/",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/pharma-package-council-adopts-new-rules-for-a-fairer-and-more-competitive-eu-pharmaceutical-sector/",
-   "data": "",
-   "titolo": "‘Pharma package’: Council adopts new rules for a fairer and more competitive EU pharmaceutical sector",
-   "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/pharma-package-council-adopts-new-rules-for-a-fairer-and-more-competitive-eu-pharmaceutical-sector/",
    "parole": [],
    "pertinente": false,
    "nuova": false

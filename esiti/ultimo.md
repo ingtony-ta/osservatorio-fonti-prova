@@ -1,16 +1,16 @@
-# Esito del 04-10-2026 16:46 UTC
+# Esito del 05-10-2026 09:33 UTC
 
 Fonti raggiunte: 14 su 16.
 
 | Fonte | Codice | Peso | Cambiata dall'ultima volta |
 |---|---|---|---|
-| Ufficio pubblicazioni UE, SPARQL | 200 | 40 B | no |
-| Commissione, sala stampa (API) | 200 | 2378 B | no |
-| Have Your Say, consultazioni aperte (API) | 200 | 8179 B | no |
-| Gazzetta Ufficiale, serie generale (30 giorni) | 200 | 66553 B | no |
+| Ufficio pubblicazioni UE, SPARQL | 200 | 48 B | sì |
+| Commissione, sala stampa (API) | 200 | 2378 B | sì |
+| Have Your Say, consultazioni aperte (API) | 200 | 8179 B | sì |
+| Gazzetta Ufficiale, serie generale (30 giorni) | 200 | 64716 B | sì |
 | Gazzetta Ufficiale, feed serie UE | 200 | 10864 B | no |
-| Consiglio UE, feed comunicati | 200 | 12409 B | no |
-| Governo, archivio riunioni | 200 | 49925 B | no |
+| Consiglio UE, feed comunicati | 200 | 12478 B | sì |
+| Governo, archivio riunioni | 200 | 49925 B | sì |
 | Ministero dell'ambiente, notizie | 200 | 181929 B | sì |
 | MIMIT, notizie | 200 | 156699 B | sì |
 | Camera, atti del Governo | 200 | 1305257 B | sì |

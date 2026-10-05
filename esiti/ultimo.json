@@ -1,45 +1,45 @@
 {
- "eseguito_alle_utc": "2026-10-04T16:46:10+00:00",
+ "eseguito_alle_utc": "2026-10-05T09:33:53+00:00",
  "fonti": [
   {
    "codice": 200,
    "tipo": "text/csv; charset=UTF-8",
-   "byte": 40,
-   "impronta": "a5d151057b665327",
+   "byte": 48,
+   "impronta": "4048e0a2329415d2",
    "url_finale": "https://publications.europa.eu/webapi/rdf/sparql?query=SELECT%20%3Fc%20WHERE%20%7B%3Fw%20%3Chttp%3A%2F%2Fpublications.europa.eu%2Fontology%2Fcdm%23resource_legal_id_celex%3E%20%3Fc%7D%20LIMIT%202",
    "id": "sparql",
    "nome": "Ufficio pubblicazioni UE, SPARQL",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
    "tipo": "application/json",
    "byte": 2378,
-   "impronta": "7e6ce55a13a68a47",
+   "impronta": "6bc8c0672a129c33",
    "url_finale": "https://ec.europa.eu/commission/presscorner/api/latestnews?language=en&pagesize=5",
    "id": "presscorner",
    "nome": "Commissione, sala stampa (API)",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
    "tipo": "application/json;charset=UTF-8",
    "byte": 8179,
-   "impronta": "fadf291a29164fd4",
+   "impronta": "5b10df5002f0fb71",
    "url_finale": "https://ec.europa.eu/info/law/better-regulation/brpapi/searchInitiatives?language=EN&page=0&size=3&feedbackStatus=OPEN",
    "id": "haveyoursay",
    "nome": "Have Your Say, consultazioni aperte (API)",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
    "tipo": "text/html;charset=UTF-8",
-   "byte": 66553,
-   "impronta": "8d514b79cfcc9c27",
+   "byte": 64716,
+   "impronta": "bf5d7d1b7d5acdab",
    "url_finale": "https://www.gazzettaufficiale.it/30giorni/serie_generale",
    "id": "gazzetta30",
    "nome": "Gazzetta Ufficiale, serie generale (30 giorni)",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
@@ -54,28 +54,28 @@
   {
    "codice": 200,
    "tipo": "text/xml; charset=utf-8",
-   "byte": 12409,
-   "impronta": "41eeee7dd07a9ef6",
+   "byte": 12478,
+   "impronta": "75cb36defba02173",
    "url_finale": "https://www.consilium.europa.eu/en/rss/pressreleases.ashx",
    "id": "consilium",
    "nome": "Consiglio UE, feed comunicati",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
    "tipo": "text/html; charset=utf-8",
    "byte": 49925,
-   "impronta": "90c22f853106136c",
+   "impronta": "5634a9544a71e2bd",
    "url_finale": "https://www.governo.it/it/archivio-riunioni",
    "id": "governo",
    "nome": "Governo, archivio riunioni",
-   "cambiata": false
+   "cambiata": true
   },
   {
    "codice": 200,
    "tipo": "text/html;charset=UTF-8",
    "byte": 181929,
-   "impronta": "ce2b0df1cd08b8e1",
+   "impronta": "8cf371cb2188ddc0",
    "url_finale": "https://www.mase.gov.it/portale/web/guest/archivio-notizie-1",
    "id": "mase",
    "nome": "Ministero dell'ambiente, notizie",
@@ -85,7 +85,7 @@
    "codice": 200,
    "tipo": "text/html; charset=utf-8",
    "byte": 156699,
-   "impronta": "f33d1d36cf33514c",
+   "impronta": "9a3ec04b55debf60",
    "url_finale": "https://www.mimit.gov.it/it/notizie-stampa",
    "id": "mimit",
    "nome": "MIMIT, notizie",
@@ -95,7 +95,7 @@
    "codice": 200,
    "tipo": "text/html; charset=utf-8",
    "byte": 1305257,
-   "impronta": "b72ad531cf942675",
+   "impronta": "44abe0f7498ffd4b",
    "url_finale": "https://www.camera.it/leg19/142",
    "id": "camera",
    "nome": "Camera, atti del Governo",
@@ -105,7 +105,7 @@
    "codice": 200,
    "tipo": "text/html;charset=UTF-8",
    "byte": 160917,
-   "impronta": "711dc458bae81807",
+   "impronta": "95436ab7311c9cbb",
    "url_finale": "https://www.adm.gov.it/portale/circolari-dogane",
    "id": "adm",
    "nome": "Agenzia delle dogane, circolari",
@@ -115,7 +115,7 @@
    "codice": 200,
    "tipo": "text/html;charset=UTF-8",
    "byte": 154932,
-   "impronta": "3e754e8956b6cf14",
+   "impronta": "4cb5c746968f193a",
    "url_finale": "https://www.agcm.it/Media-e-Comunicazione/comunicati-stampa/index",
    "id": "agcm",
    "nome": "AGCM, comunicati",
