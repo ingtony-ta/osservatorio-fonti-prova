@@ -1,15 +1,14 @@
-# Novità estratte il 05-10-2026 09:34 UTC
+# Novità estratte il 06-10-2026 09:20 UTC
 
-Voci lette: 117. Pertinenti al dominio (parole chiave): 9. Nuove dall'ultima esecuzione: 1.
+Voci lette: 112. Pertinenti al dominio (parole chiave): 8. Nuove dall'ultima esecuzione: 17.
 
-## Commissione, sala stampa (4 pertinenti su 50)
+## Commissione, sala stampa (3 pertinenti su 50)
 
 - 2026-10-01 · [Commission decides to refer Greece and Cyprus to the Court of Justice of the European Union for failing to ensure adequate treatment of wast](https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1871) · Press release
 - 2026-10-01 · [Commission decides to refer Spain to the Court of Justice of the European Union for failing to comply with EU rules on State liability for b](https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1910) · Press release
 - 2026-09-30 · [Consumer protection authorities ramp up action to protect gamers' rights](https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2018) · Press release
-- 2026-09-22 · [Speech by President von der Leyen at the high-level dialogue on ‘Protecting Children's Rights facing Artificial Intelligence'](https://ec.europa.eu/commission/presscorner/detail/it/speech_26_1942) · Speech
 
-## Have Your Say, consultazioni aperte (5 pertinenti su 34)
+## Have Your Say, consultazioni aperte (5 pertinenti su 33)
 
 - 2026-09-29 · [Chemicals regulation - update of EU rules for test methods](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19398_it) · REG Ares(2026)9201435 (scade 2026-10-27)
 - 2026-09-29 · [Minimum values for the electrochemical performance and durability of rechargeable industrial batteries](https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14460_it) · REG_DEL Ares(2024)8788957 (scade 2026-10-27)
@@ -20,5 +19,5 @@ Voci lette: 117. Pertinenti al dominio (parole chiave): 9. Nuove dall'ultima ese
 ## Consiglio UE, comunicati (0 pertinenti su 20)
 
 
-## Gazzetta Ufficiale, serie UE (0 pertinenti su 13)
+## Gazzetta Ufficiale, serie UE (0 pertinenti su 9)
 

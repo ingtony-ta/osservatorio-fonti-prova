@@ -1,8 +1,52 @@
 {
- "eseguito_alle_utc": "2026-10-05T09:34:30+00:00",
+ "eseguito_alle_utc": "2026-10-06T09:20:27+00:00",
  "prima_volta": false,
  "errori": [],
  "voci": [
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:SPEECH/26/2077",
+   "data": "2026-10-06",
+   "titolo": "Speech by President von der Leyen at the European Parliament plenary debate in preparation of the European Council meeting of 15-16 October 2026",
+   "tipo": "Speech",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2077",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:IP/26/2068",
+   "data": "2026-10-05",
+   "titolo": "Commission greenlights Finland's fifth payment request for €229.2 million under NextGenerationEU",
+   "tipo": "Press release",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2068",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:IP/26/2056",
+   "data": "2026-10-05",
+   "titolo": "Commission finds Polish support for MAN Trucks factory expansion incompatible State aid",
+   "tipo": "Press release",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2056",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:IP/26/2054",
+   "data": "2026-10-05",
+   "titolo": "Commission unlocks €157 million to Moldova for reform progress under the Growth Plan",
+   "tipo": "Press release",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2054",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
   {
    "fonte": "Commissione, sala stampa",
    "id": "pc:STATEMENT/26/2063",
@@ -516,52 +560,6 @@
    "nuova": false
   },
   {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1940",
-   "data": "2026-09-23",
-   "titolo": "Joint press release - Launch of a French National Hub for Social, Intermediate and Sustainable Housing",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1940",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1941",
-   "data": "2026-09-23",
-   "titolo": "Commission proposes to unlock €4.2 billion in Cohesion funding for Hungary and restore full access to Erasmus+ and Horizon Europe",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1941",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:SPEECH/26/1942",
-   "data": "2026-09-22",
-   "titolo": "Speech by President von der Leyen at the high-level dialogue on ‘Protecting Children's Rights facing Artificial Intelligence'",
-   "tipo": "Speech",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_1942",
-   "parole": [
-    "artificial intelligence"
-   ],
-   "pertinente": true,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1938",
-   "data": "2026-09-22",
-   "titolo": "Eurobarometer survey shows overwhelming public support for European agriculture and EU support for farmers and rural areas ",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1938",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
    "fonte": "Have Your Say, consultazioni aperte",
    "id": "hys:19418",
    "data": "2026-10-01",
@@ -771,7 +769,7 @@
    "data": "2026-09-15",
    "titolo": "Revision of EU rules on public procurement",
    "tipo": "PROP_REG Ares(2025)9170767",
-   "scadenza": "2026-11-30",
+   "scadenza": "2026-12-01",
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15492_it",
    "parole": [],
    "pertinente": false,
@@ -833,18 +831,6 @@
    "tipo": "PROP_REG Ares(2026)8439680",
    "scadenza": "2026-10-06",
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19222_it",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Have Your Say, consultazioni aperte",
-   "id": "hys:17576",
-   "data": "2026-09-07",
-   "titolo": "Freezing of meat of domestic ungulates",
-   "tipo": "REG_DEL Ares(2026)3253829",
-   "scadenza": "2026-10-05",
-   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/17576_it",
    "parole": [],
    "pertinente": false,
    "nuova": false
@@ -983,6 +969,50 @@
   },
   {
    "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/ethiopia-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-escalating-conflict-in-ethiopia-and-the-implications-for-the-region/",
+   "data": "",
+   "titolo": "Ethiopia: Statement by the High Representative on behalf of the European Union on the escalating conflict in Ethiopia and the implications for the region",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/ethiopia-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-escalating-conflict-in-ethiopia-and-the-implications-for-the-region/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/press-briefing-eurogroup-meeting-of-8-october-2026/",
+   "data": "",
+   "titolo": "Press briefing - Eurogroup meeting of 8 October 2026",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/press-briefing-eurogroup-meeting-of-8-october-2026/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/the-european-union-and-moldova-reiterate-their-strong-partnership-and-announce-the-disbursement-of-157-million-under-growth-plan-funding-at-the-10th-eu-moldova-association-council/",
+   "data": "",
+   "titolo": "The European Union and Moldova reiterate their strong partnership and announce the disbursement of €157 million under Growth Plan funding at the 10th EU-Moldova Association Council",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/the-european-union-and-moldova-reiterate-their-strong-partnership-and-announce-the-disbursement-of-157-million-under-growth-plan-funding-at-the-10th-eu-moldova-association-council/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/press-briefing-economic-and-financial-affairs-council-of-9-october-2026/",
+   "data": "",
+   "titolo": "Press briefing - Economic and Financial Affairs Council of 9 October 2026",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/press-briefing-economic-and-financial-affairs-council-of-9-october-2026/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/speech-by-president-antonio-costa-at-the-opening-ceremony-of-the-academic-year-of-the-college-of-europe-natolin-campus/",
    "data": "",
    "titolo": "Speech by President António Costa at the opening ceremony of the academic year of the College of Europe (Natolin campus)",
@@ -990,7 +1020,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/speech-by-president-antonio-costa-at-the-opening-ceremony-of-the-academic-year-of-the-college-of-europe-natolin-campus/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -999,17 +1029,6 @@
    "titolo": "Forward look: 5 - 18 October 2026",
    "tipo": "feed",
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/forward-look-2026/",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/media-advisory-the-10th-meeting-of-the-eu-republic-of-moldova-association-council-5-october-2026/",
-   "data": "",
-   "titolo": "Media advisory – The 10th meeting of the EU-Republic of Moldova Association Council, 5 October 2026",
-   "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/02/media-advisory-the-10th-meeting-of-the-eu-republic-of-moldova-association-council-5-october-2026/",
    "parole": [],
    "pertinente": false,
    "nuova": false
@@ -1169,180 +1188,103 @@
    "nuova": false
   },
   {
-   "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-peace-facility-council-adopts-assistance-measure-to-support-defence-capacities-of-cabo-verde/",
-   "data": "",
-   "titolo": "European Peace Facility: Council adopts assistance measure to support defence capacities of Cabo Verde",
+   "fonte": "Gazzetta Ufficiale, serie UE",
+   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=3&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "data": "Sun, 04 Oct 2026",
+   "titolo": "DECISIONE 17 novembre 2025, n. 1544",
    "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-peace-facility-council-adopts-assistance-measure-to-support-defence-capacities-of-cabo-verde/",
+   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=3&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-public-prosecutor-s-office-council-appoints-new-prosecutors-for-germany-and-slovenia/",
-   "data": "",
-   "titolo": "European Public Prosecutor's Office: Council appoints new prosecutors for Germany and Slovenia",
-   "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-public-prosecutor-s-office-council-appoints-new-prosecutors-for-germany-and-slovenia/",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/eu-csdp-civilian-missions-council-renews-mandates-of-eubam-rafah-and-eupol-copps-until-30-june-2027/",
-   "data": "",
-   "titolo": "EU CSDP civilian missions: Council renews mandates of EUBAM Rafah and EUPOL COPPS until 30 June 2027",
-   "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/eu-csdp-civilian-missions-council-renews-mandates-of-eubam-rafah-and-eupol-copps-until-30-june-2027/",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
+   "nuova": true
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=3&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "REGOLAMENTO 31 luglio 2026, n. 1913",
+   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=6&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "data": "Sun, 04 Oct 2026",
+   "titolo": "REGOLAMENTO 31 luglio 2026, n. 1920",
    "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=3&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=6&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": false
+   "nuova": true
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=7&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "REGOLAMENTO 31 luglio 2026, n. 1897",
+   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=7&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "data": "Sun, 04 Oct 2026",
+   "titolo": "REGOLAMENTO 4 agosto 2026, n. 1930",
    "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=7&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=7&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": false
+   "nuova": true
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=10&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "REGOLAMENTO 31 luglio 2026, n. 1905",
+   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=14&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "data": "Sun, 04 Oct 2026",
+   "titolo": "DECISIONE 27 luglio 2026, n. 1924",
    "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=10&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=14&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": false
+   "nuova": true
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=12&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "REGOLAMENTO 31 luglio 2026, n. 1906",
+   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=17&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "data": "Sun, 04 Oct 2026",
+   "titolo": "DECISIONE 29 luglio 2026, n. 1907",
    "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=12&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=17&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": false
+   "nuova": true
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=14&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "DECISIONE 12 giugno 2026, n. 1783",
+   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=58&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "data": "Sun, 04 Oct 2026",
+   "titolo": "DECISIONE 12 giugno 2026, n. 1909",
    "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=14&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=58&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": false
+   "nuova": true
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=17&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "DECISIONE 30 luglio 2026, n. 1910",
+   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=83&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "data": "Sun, 04 Oct 2026",
+   "titolo": "DECISIONE 22 luglio 2026, n. 1921",
    "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=17&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=83&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": false
+   "nuova": true
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=22&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "REGOLAMENTO 20 aprile 2026, n. 863",
+   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=85&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "data": "Sun, 04 Oct 2026",
+   "titolo": "DECISIONE 22 luglio 2026, n. 1922",
    "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=22&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=85&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": false
+   "nuova": true
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=23&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "REGOLAMENTO 28 luglio 2026, n. 1899",
+   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=87&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "data": "Sun, 04 Oct 2026",
+   "titolo": "RETTIFICA 30 luglio 2026, n. 1912",
    "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=23&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=87&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=24&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "REGOLAMENTO 28 luglio 2026, n. 1901",
-   "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=24&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=25&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "DECISIONE 13 luglio 2026, n. 1911",
-   "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=25&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=28&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "DECISIONE 30 luglio 2026, n. 1912",
-   "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=28&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=33&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "RETTIFICA 15 ottobre 2019, n. 1747",
-   "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=33&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Gazzetta Ufficiale, serie UE",
-   "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=34&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "data": "Wed, 30 Sep 2026",
-   "titolo": "RETTIFICA 26 agosto 2026, n. 1406",
-   "tipo": "feed",
-   "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=34&dataPubblicazioneGazzetta=20261001&numeroGazzetta=77&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
+   "nuova": true
   }
  ]
 }
