@@ -1,8 +1,30 @@
 {
- "eseguito_alle_utc": "2026-10-06T09:20:27+00:00",
+ "eseguito_alle_utc": "2026-10-07T09:10:49+00:00",
  "prima_volta": false,
  "errori": [],
  "voci": [
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:SPEECH/26/2089",
+   "data": "2026-10-06",
+   "titolo": "Video message by President von der Leyen to mark 25th Anniversary of IFOAM Organics Europe",
+   "tipo": "Speech",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2089",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:STATEMENT/26/2083",
+   "data": "2026-10-06",
+   "titolo": "Joint statement by High Representative/Vice-President Kallas and Commissioner Kos on the general elections in Bosnia and Herzegovina",
+   "tipo": "Statement",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2083",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
   {
    "fonte": "Commissione, sala stampa",
    "id": "pc:SPEECH/26/2077",
@@ -10,6 +32,61 @@
    "titolo": "Speech by President von der Leyen at the European Parliament plenary debate in preparation of the European Council meeting of 15-16 October 2026",
    "tipo": "Speech",
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2077",
+   "parole": [],
+   "pertinente": false,
+   "nuova": false
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:QANDA/26/2076",
+   "data": "2026-10-06",
+   "titolo": "Questions and answers on the pre-enlargement policy reviews",
+   "tipo": "Questions and answers",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_2076",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:IP/26/2075",
+   "data": "2026-10-06",
+   "titolo": "Preparing for a wider Union",
+   "tipo": "Press release",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2075",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:QANDA/26/2071",
+   "data": "2026-10-06",
+   "titolo": "Questions and answers on the new Standardisation Regulation",
+   "tipo": "Questions and answers",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_2071",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:IP/26/2070",
+   "data": "2026-10-06",
+   "titolo": "Commission adopts proposal to accelerate standards development and improve EU competitiveness",
+   "tipo": "Press release",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2070",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:IP/26/2064",
+   "data": "2026-10-06",
+   "titolo": "Commission registers European Citizens' Initiative for sovereign European AI domains",
+   "tipo": "Press release",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2064",
    "parole": [],
    "pertinente": false,
    "nuova": true
@@ -23,7 +100,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2068",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -34,7 +111,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2056",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -45,7 +122,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2054",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -483,81 +560,16 @@
    "nuova": false
   },
   {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:INF/26/1834",
-   "data": "2026-09-25",
-   "titolo": "Commission takes action to ensure complete and timely transposition of EU directives",
-   "tipo": "Infringement decisions",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1834",
+   "fonte": "Have Your Say, consultazioni aperte",
+   "id": "hys:15112",
+   "data": "2026-10-06",
+   "titolo": "EU rules on administrative cooperation - recast",
+   "tipo": "PROP_DIR Ares(2025)8331049",
+   "scadenza": "2026-12-01",
+   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15112_it",
    "parole": [],
    "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1965",
-   "data": "2026-09-24",
-   "titolo": "EU advances Global Health Resilience Initiative with new Global Gateway investments in Africa and Latin America",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1965",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:SPEECH/26/1955",
-   "data": "2026-09-23",
-   "titolo": "Speech by President von der Leyen at the High-Level meeting on Climate Action and Just Transition ",
-   "tipo": "Speech",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_1955",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1954",
-   "data": "2026-09-23",
-   "titolo": "EU and Canada secure almost €220 million in pledges for Global Ocean Observation*  ",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1954",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:SPEECH/26/1953",
-   "data": "2026-09-23",
-   "titolo": "Speech by President von der Leyen at the OceanEye International Alliance Pledging Event",
-   "tipo": "Speech",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_1953",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1950",
-   "data": "2026-09-23",
-   "titolo": "EU launches first €43 million Team Gaza projects to help restore essential services",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1950",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1946",
-   "data": "2026-09-23",
-   "titolo": "EU adopts €505 million package to support Lebanon's stability, recovery and reforms",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1946",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
+   "nuova": true
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -769,7 +781,7 @@
    "data": "2026-09-15",
    "titolo": "Revision of EU rules on public procurement",
    "tipo": "PROP_REG Ares(2025)9170767",
-   "scadenza": "2026-12-01",
+   "scadenza": "2026-12-02",
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15492_it",
    "parole": [],
    "pertinente": false,
@@ -819,18 +831,6 @@
    "tipo": "REPORT Ares(2026)6077724",
    "scadenza": "2026-12-01",
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/18512_it",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Have Your Say, consultazioni aperte",
-   "id": "hys:19222",
-   "data": "2026-09-08",
-   "titolo": "Revision of Schengen short-stay visa procedures (recast)",
-   "tipo": "PROP_REG Ares(2026)8439680",
-   "scadenza": "2026-10-06",
-   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19222_it",
    "parole": [],
    "pertinente": false,
    "nuova": false
@@ -969,6 +969,17 @@
   },
   {
    "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/06/press-briefing-environment-council-of-12-october-2026/",
+   "data": "",
+   "titolo": "Press briefing - Environment Council of 12 October 2026",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/06/press-briefing-environment-council-of-12-october-2026/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/ethiopia-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-escalating-conflict-in-ethiopia-and-the-implications-for-the-region/",
    "data": "",
    "titolo": "Ethiopia: Statement by the High Representative on behalf of the European Union on the escalating conflict in Ethiopia and the implications for the region",
@@ -976,7 +987,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/ethiopia-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-escalating-conflict-in-ethiopia-and-the-implications-for-the-region/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -987,7 +998,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/press-briefing-eurogroup-meeting-of-8-october-2026/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -998,7 +1009,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/the-european-union-and-moldova-reiterate-their-strong-partnership-and-announce-the-disbursement-of-157-million-under-growth-plan-funding-at-the-10th-eu-moldova-association-council/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1009,7 +1020,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/05/press-briefing-economic-and-financial-affairs-council-of-9-october-2026/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1101,17 +1112,6 @@
   },
   {
    "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/media-advisory-justice-and-home-affairs-council-of-1-and-2-october-2026/",
-   "data": "",
-   "titolo": "Media advisory - Justice and Home Affairs Council of  1 and 2 October 2026",
-   "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/media-advisory-justice-and-home-affairs-council-of-1-and-2-october-2026/",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Consiglio UE, comunicati",
    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/court-of-justice-of-the-eu-member-states-representatives-appoint-a-judge-to-the-court-of-justice-and-two-judges-to-the-general-court/",
    "data": "",
    "titolo": "Court of Justice of the EU: Member states’ representatives appoint a judge to the Court of Justice and two judges to the General Court",
@@ -1196,7 +1196,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=3&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1207,7 +1207,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=6&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1218,7 +1218,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=7&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1229,7 +1229,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=14&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1240,7 +1240,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=17&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1251,7 +1251,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=58&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1262,7 +1262,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=83&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1273,7 +1273,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=85&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Gazzetta Ufficiale, serie UE",
@@ -1284,7 +1284,7 @@
    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=87&dataPubblicazioneGazzetta=20261005&numeroGazzetta=78&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   }
  ]
 }

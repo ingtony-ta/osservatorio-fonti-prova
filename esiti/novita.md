@@ -1,6 +1,6 @@
-# Novità estratte il 06-10-2026 09:20 UTC
+# Novità estratte il 07-10-2026 09:10 UTC
 
-Voci lette: 112. Pertinenti al dominio (parole chiave): 8. Nuove dall'ultima esecuzione: 17.
+Voci lette: 112. Pertinenti al dominio (parole chiave): 8. Nuove dall'ultima esecuzione: 9.
 
 ## Commissione, sala stampa (3 pertinenti su 50)
 
