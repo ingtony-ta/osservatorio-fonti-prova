@@ -1,8 +1,8 @@
 name: Controllo delle fonti pubbliche
 
+# Partenza automatica giornaliera tolta l'08-10-2026 (decisione dell'utente): i risultati non servivano a nessuna procedura.
+# Resta l'avvio a mano dal pulsante «Run workflow».
 on:
-  schedule:
-    - cron: "37 2 * * *"
   workflow_dispatch:
 
 permissions:
