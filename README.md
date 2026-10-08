@@ -11,7 +11,7 @@ Contiene solo indirizzi di fonti pubbliche e gli esiti delle richieste. Nessun d
 
 ## Analisi con il modello
 
-Ogni giorno (e a richiesta) il flusso «Analisi delle novità con il modello» esegue `raccogli.py`, che legge le fonti con
+Nei giorni pari del mese (e a richiesta) il flusso «Analisi delle novità con il modello» esegue `raccogli.py`, che legge le fonti con
 dati strutturati (Gazzetta UE via SPARQL, sala stampa e consultazioni della Commissione, feed pubblici italiani e UE), e poi
 `analizza.py`, che passa il materiale a un modello Claude via API con le istruzioni di `istruzioni_analista.md`. Il modello
 esamina la raccolta, fa ricerche complementari sul web, verifica le voci sulla fonte ufficiale e scrive in `esiti/analisi/`
