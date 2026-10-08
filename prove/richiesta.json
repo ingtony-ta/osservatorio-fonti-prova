@@ -1,0 +1,11 @@
+{
+ "richiesta": "08-10-2026, decisione dell'utente: confronto con l'analisi dell'08-10 (Sonnet 5.5, 2,83 $ fatturati) a parità di raccolta, istruzioni e tetto di ricerche; cambia solo il modello",
+ "raccolta": "prove/raccolta 2026-10-01_07.json",
+ "istruzioni": "prove/istruzioni_base_08-10.md",
+ "max_ricerche": 30,
+ "tetto_dollari": 5,
+ "prove": [
+  {"nome": "2026-10-01_07 sonnet con advisor opus", "modello": "claude-sonnet-5-5", "advisor": "claude-opus-5-5", "effort": ""},
+  {"nome": "2026-10-01_07 opus da solo", "modello": "claude-opus-5-5", "advisor": "", "effort": "high"}
+ ]
+}

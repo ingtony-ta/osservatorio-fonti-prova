@@ -27,6 +27,15 @@ MAX_RICERCHE = int(os.environ.get("MAX_RICERCHE", "65"))  # 65 dall'08-10-2026: 
 LIMITE_TESTO = 20000
 UA = "Mozilla/5.0 (compatible; osservatorio-fonti-prova/1.0)"
 CARTELLA = Path("esiti/analisi")
+# Modalità prova (dall'08-10-2026): stessa raccolta e stesse istruzioni di un'esecuzione di riferimento, cambia solo il
+# modello; scrive in prove/esiti, non tocca stato.json, registro delle fonti né costi.csv dell'analista.
+PROVA = os.environ.get("PROVA", "").strip()
+ADVISOR = os.environ.get("ADVISOR", "").strip()
+EFFORT = os.environ.get("EFFORT", "").strip()
+FILE_RACCOLTA = Path(os.environ.get("RACCOLTA", "") or CARTELLA / "raccolta.json")
+FILE_ISTRUZIONI = Path(os.environ.get("ISTRUZIONI", "") or "istruzioni_analista.md")
+USCITA_PROVE = Path("prove/esiti")
+BETA_ADVISOR = "advisor-tool-2026-03-01"
 REGISTRO_FONTI = CARTELLA / "fonti_scoperte.json"
 
 STRUMENTI = [
@@ -41,6 +50,11 @@ STRUMENTI = [
                                                         "da_carattere": {"type": "integer"}},
                       "required": ["celex"]}},
 ]
+
+
+if ADVISOR:
+    STRUMENTI.append({"type": "advisor_20260301", "name": "advisor", "model": ADVISOR, "max_uses": 6,
+                      "caching": {"type": "ephemeral", "ttl": "5m"}})
 
 
 def testo_da_html(dati):
@@ -150,8 +164,10 @@ def esegui_strumento(nome, ingresso):
 def chiama_api(chiave, corpo):
     dati = json.dumps(corpo).encode("utf-8")
     for tentativo in range(5):
-        r = urllib.request.Request("https://api.anthropic.com/v1/messages", data=dati, method="POST", headers={
-            "x-api-key": chiave, "anthropic-version": "2023-06-01", "content-type": "application/json"})
+        intestazioni = {"x-api-key": chiave, "anthropic-version": "2023-06-01", "content-type": "application/json"}
+        if ADVISOR:
+            intestazioni["anthropic-beta"] = BETA_ADVISOR
+        r = urllib.request.Request("https://api.anthropic.com/v1/messages", data=dati, method="POST", headers=intestazioni)
         try:
             with urllib.request.urlopen(r, timeout=600) as x:
                 return json.loads(x.read())
@@ -233,35 +249,77 @@ def segna_cache(messaggi):
     ultimo["content"][-1]["cache_control"] = {"type": "ephemeral"}
 
 
+def chiudi_prova(esito, finale, adesso, giro, letture, uso, adv, costo, costo_adv):
+    USCITA_PROVE.mkdir(parents=True, exist_ok=True)
+    nome = re.sub(r"[^0-9A-Za-z_.-]", "_", PROVA)
+    if esito is None:
+        (USCITA_PROVE / f"{nome} risposta non valida.txt").write_text(finale or "(nessuna risposta finale)", encoding="utf-8")
+    else:
+        esito.update({"prova": PROVA, "generato_alle_utc": adesso.isoformat(timespec="seconds"), "modello": MODELLO,
+                      "advisor": ADVISOR or None, "effort": EFFORT or "predefinito", "raccolta": str(FILE_RACCOLTA),
+                      "istruzioni": str(FILE_ISTRUZIONI), "max_ricerche": MAX_RICERCHE,
+                      "costo_stimato_dollari": round(costo(), 3), "costo_advisor_dollari": round(costo_adv(), 3),
+                      "chiamate_advisor": adv["chiamate"]})
+        (USCITA_PROVE / f"{nome}.json").write_text(json.dumps(esito, ensure_ascii=False, indent=1), encoding="utf-8")
+    nuovo = not (USCITA_PROVE / "costi.csv").exists()
+    with open(USCITA_PROVE / "costi.csv", "a", encoding="utf-8") as s:
+        if nuovo:
+            s.write("data_utc,prova,modello,advisor,effort,giri,letture,ricerche,input,output,cache_scrittura,cache_lettura,"
+                    "advisor_chiamate,advisor_input,advisor_output,advisor_cache_scrittura,advisor_cache_lettura,costo_advisor,costo_totale,esito\n")
+        s.write(f"{adesso:%Y-%m-%d %H:%M},{PROVA},{MODELLO},{ADVISOR},{EFFORT},{giro + 1},{letture},{uso['ricerche']},"
+                f"{uso['input_tokens']},{uso['output_tokens']},{uso['cache_creation_input_tokens']},{uso['cache_read_input_tokens']},"
+                f"{adv['chiamate']},{adv['input_tokens']},{adv['output_tokens']},{adv['cache_creation_input_tokens']},"
+                f"{adv['cache_read_input_tokens']},{costo_adv():.3f},{costo():.3f},{'ok' if esito else 'senza JSON'}\n")
+    print(f"Prova {PROVA}: costo stimato {costo():.2f} $ (advisor {costo_adv():.2f} $, {adv['chiamate']} chiamate)")
+    return 0 if esito else 2
+
+
 def main():
     chiave = os.environ.get("ANTHROPIC_API_KEY")
     if not chiave:
         print("Manca il secret ANTHROPIC_API_KEY")
         return 1
     oggi = datetime.now(timezone.utc).date()
-    raccolta = json.loads((CARTELLA / "raccolta.json").read_text(encoding="utf-8"))
-    istruzioni = Path("istruzioni_analista.md").read_text(encoding="utf-8")
-    gia = voci_gia_riportate(oggi)
+    raccolta = json.loads(FILE_RACCOLTA.read_text(encoding="utf-8"))
+    istruzioni = FILE_ISTRUZIONI.read_text(encoding="utf-8")
+    gia = [] if PROVA else voci_gia_riportate(oggi)
     registro = carica_registro()
-    fonti_note = registro_per_il_modello(registro)
+    fonti_note = [] if PROVA else registro_per_il_modello(registro)
     it = lambda s: date.fromisoformat(s).strftime("%d-%m-%Y")
     richiesta = (f"Finestra: dal {it(raccolta['finestra_da'])} al {it(raccolta['finestra_al'])} (oggi {oggi:%d-%m-%Y}).\n\n"
                  f"Voci già riportate nei giorni precedenti ({len(gia)}):\n" + ("\n".join(gia) or "nessuna") + "\n\n"
                  f"Registro delle fonti già scoperte con la ricerca aperta ({len(fonti_note)}):\n" + ("\n".join(fonti_note) or "nessuna") + "\n\n"
                  "Raccolta delle fonti con dati strutturati (JSON):\n" + json.dumps(raccolta, ensure_ascii=False))
+    if ADVISOR:
+        richiesta += ("\n\nHai lo strumento advisor, un revisore più forte che vede tutta la conversazione. Consultalo dopo aver "
+                      "esaminato la raccolta e prima di fissare il piano delle verifiche, quando un atto è ambiguo nella "
+                      "classificazione o nella rilevanza, e prima di scrivere il risultato finale.")
     messaggi = [{"role": "user", "content": richiesta}]
     sistema = [{"type": "text", "text": istruzioni, "cache_control": {"type": "ephemeral"}}]
     uso = {"input_tokens": 0, "output_tokens": 0, "cache_creation_input_tokens": 0, "cache_read_input_tokens": 0, "ricerche": 0}
+    adv = {"input_tokens": 0, "output_tokens": 0, "cache_creation_input_tokens": 0, "cache_read_input_tokens": 0, "chiamate": 0}
     p = PREZZI.get(MODELLO, PREZZI["claude-sonnet-5-5"])
+    pa = PREZZI.get(ADVISOR, PREZZI["claude-opus-5-5"])
+    costo_adv = lambda: (adv["input_tokens"] * pa[0] + adv["output_tokens"] * pa[1] + adv["cache_creation_input_tokens"] * pa[2]
+                         + adv["cache_read_input_tokens"] * pa[3]) / 1e6
     costo = lambda: (uso["input_tokens"] * p[0] + uso["output_tokens"] * p[1] + uso["cache_creation_input_tokens"] * p[2]
-                     + uso["cache_read_input_tokens"] * p[3]) / 1e6 + uso["ricerche"] * PREZZO_RICERCA
+                     + uso["cache_read_input_tokens"] * p[3]) / 1e6 + uso["ricerche"] * PREZZO_RICERCA + costo_adv()
     finale, avviso_dato, letture = None, False, 0
     for giro in range(MAX_GIRI):
         segna_cache(messaggi)
-        risposta = chiama_api(chiave, {"model": MODELLO, "max_tokens": 32000, "system": sistema, "tools": STRUMENTI, "messages": messaggi})
+        corpo = {"model": MODELLO, "max_tokens": 32000, "system": sistema, "tools": STRUMENTI, "messages": messaggi}
+        if EFFORT:
+            corpo["output_config"] = {"effort": EFFORT}
+        risposta = chiama_api(chiave, corpo)
         u = risposta.get("usage", {})
         for k in ("input_tokens", "output_tokens", "cache_creation_input_tokens", "cache_read_input_tokens"):
             uso[k] += u.get(k) or 0
+        # le chiamate all'advisor non sono nei totali e si pagano alle tariffe del modello advisor
+        for it in u.get("iterations") or []:
+            if it.get("type") == "advisor_message":
+                adv["chiamate"] += 1
+                for k in ("input_tokens", "output_tokens", "cache_creation_input_tokens", "cache_read_input_tokens"):
+                    adv[k] += it.get(k) or 0
         uso["ricerche"] += (u.get("server_tool_use") or {}).get("web_search_requests") or 0
         messaggi.append({"role": "assistant", "content": risposta["content"]})
         motivo = risposta.get("stop_reason")
@@ -292,6 +350,8 @@ def main():
         esito = None
     CARTELLA.mkdir(parents=True, exist_ok=True)
     adesso = datetime.now(timezone.utc)
+    if PROVA:
+        return chiudi_prova(esito, finale, adesso, giro, letture, uso, adv, costo, costo_adv)
     if esito is None:
         (CARTELLA / f"{oggi.isoformat()} risposta non valida.txt").write_text(finale or "(nessuna risposta finale)", encoding="utf-8")
         print("Risposta finale senza JSON valido")
