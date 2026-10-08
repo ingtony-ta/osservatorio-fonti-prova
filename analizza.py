@@ -21,7 +21,7 @@ PREZZI = {"claude-sonnet-5-5": (2.0, 10.0, 2.5, 0.10), "claude-opus-5-5": (5.0, 
 PREZZO_RICERCA = 0.01  # dollari per ricerca web
 TETTO_DOLLARI = float(os.environ.get("TETTO_DOLLARI", "5"))
 MAX_GIRI = int(os.environ.get("MAX_GIRI", "60"))
-MAX_RICERCHE = int(os.environ.get("MAX_RICERCHE", "30"))
+MAX_RICERCHE = int(os.environ.get("MAX_RICERCHE", "40"))
 LIMITE_TESTO = 20000
 UA = "Mozilla/5.0 (compatible; osservatorio-fonti-prova/1.0)"
 CARTELLA = Path("esiti/analisi")
@@ -115,7 +115,19 @@ def leggi_atto_ue(celex, lingua="ita", da_carattere=0):
         _, _, dati = scarica(f"https://publications.europa.eu/resource/celex/{celex}",
                              accept="application/xhtml+xml, text/html;q=0.9", lingua=lingua or "ita")
     except urllib.error.HTTPError as e:
-        return f"Errore HTTP {e.code} per il CELEX {celex} in lingua {lingua}"
+        if e.code != 300:
+            return f"Errore HTTP {e.code} per il CELEX {celex} in lingua {lingua}"
+        # più documenti per lo stesso atto (proposte con allegati): si leggono tutti, in ordine
+        parti = re.findall(r'href="(https?://publications\.europa\.eu/resource/cellar/[^"]+/DOC_\d+)"', e.read().decode("utf-8", errors="replace"))
+        testi = []
+        for u in dict.fromkeys(parti):
+            try:
+                testi.append(testo_da_html(scarica(u, accept="application/xhtml+xml, text/html;q=0.9")[2]))
+            except Exception as x:
+                testi.append(f"[{u}: {type(x).__name__}]")
+        if not testi:
+            return f"Errore HTTP 300 per il CELEX {celex} in lingua {lingua}, nessun documento nell'elenco"
+        return taglia("\n\n[documento successivo]\n\n".join(testi), da_carattere)
     except Exception as e:
         return f"Errore {type(e).__name__} per il CELEX {celex}: {str(e)[:150]}"
     testo = testo_da_html(dati)
