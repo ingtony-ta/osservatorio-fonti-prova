@@ -17,8 +17,9 @@ from pathlib import Path
 
 MODELLO = os.environ.get("MODELLO", "claude-sonnet-5-5")
 # prezzi in dollari per milione di token: ingresso, uscita, scrittura in cache, lettura dalla cache
-# corretti l'08-10-2026 (documentazione Anthropic): lettura dalla cache 0,20 per Sonnet 5.5 e Opus 5.5; Opus 5.5 a 4/20
-PREZZI = {"claude-sonnet-5-5": (2.0, 10.0, 2.5, 0.20), "claude-opus-5-5": (4.0, 20.0, 5.0, 0.20)}
+# listino ufficiale (platform.claude.com/docs/en/about-claude/pricing), riscontrato l'08-10-2026 con la fattura della Console:
+# Sonnet 5.5 2/10, scrittura in cache 5 min 2,50, lettura 0,10; Opus 5.5 4/20, scrittura 5, lettura 0,20
+PREZZI = {"claude-sonnet-5-5": (2.0, 10.0, 2.5, 0.10), "claude-opus-5-5": (4.0, 20.0, 5.0, 0.20)}
 PREZZO_RICERCA = 0.01  # dollari per ricerca web
 TETTO_DOLLARI = float(os.environ.get("TETTO_DOLLARI", "5"))
 MAX_GIRI = int(os.environ.get("MAX_GIRI", "60"))
