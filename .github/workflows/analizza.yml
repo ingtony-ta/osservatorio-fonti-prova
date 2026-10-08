@@ -6,11 +6,14 @@ on:
   workflow_dispatch:
     inputs:
       modello:
-        description: "Modello (claude-sonnet-5-5 oppure claude-opus-5-5)"
-        default: "claude-sonnet-5-5"
+        description: "Modello (claude-opus-5-5 oppure claude-sonnet-5-5)"
+        default: "claude-opus-5-5"
       tetto_dollari:
         description: "Tetto di spesa per l'esecuzione, in dollari"
-        default: "5"
+        default: "15"
+      effort:
+        description: "Livello di ragionamento (low, medium, high, xhigh, max)"
+        default: "high"
 
 permissions:
   contents: write
@@ -35,8 +38,9 @@ jobs:
       - name: Analizza con il modello
         env:
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
-          MODELLO: ${{ inputs.modello || 'claude-sonnet-5-5' }}
-          TETTO_DOLLARI: ${{ inputs.tetto_dollari || '5' }}
+          MODELLO: ${{ inputs.modello || 'claude-opus-5-5' }}
+          TETTO_DOLLARI: ${{ inputs.tetto_dollari || '15' }}
+          EFFORT: ${{ inputs.effort || 'high' }}
         run: python analizza.py
       - name: Salva l'analisi nel repository
         if: always()

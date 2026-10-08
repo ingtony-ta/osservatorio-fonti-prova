@@ -15,13 +15,13 @@ import urllib.request
 from datetime import date, datetime, timedelta, timezone
 from pathlib import Path
 
-MODELLO = os.environ.get("MODELLO", "claude-sonnet-5-5")
+MODELLO = os.environ.get("MODELLO", "claude-opus-5-5")  # Opus 5.5 dall'08-10-2026 (decisione dell'utente, fino al 25-10 poi verifica)
 # prezzi in dollari per milione di token: ingresso, uscita, scrittura in cache, lettura dalla cache
 # listino ufficiale (platform.claude.com/docs/en/about-claude/pricing), riscontrato l'08-10-2026 con la fattura della Console:
 # Sonnet 5.5 2/10, scrittura in cache 5 min 2,50, lettura 0,10; Opus 5.5 4/20, scrittura 5, lettura 0,20
 PREZZI = {"claude-sonnet-5-5": (2.0, 10.0, 2.5, 0.10), "claude-opus-5-5": (4.0, 20.0, 5.0, 0.20)}
 PREZZO_RICERCA = 0.01  # dollari per ricerca web
-TETTO_DOLLARI = float(os.environ.get("TETTO_DOLLARI", "5"))
+TETTO_DOLLARI = float(os.environ.get("TETTO_DOLLARI", "15"))  # 15 $ dall'08-10-2026 (decisione dell'utente)
 MAX_GIRI = int(os.environ.get("MAX_GIRI", "60"))
 MAX_RICERCHE = int(os.environ.get("MAX_RICERCHE", "65"))  # 65 dall'08-10-2026: spazio per la ricerca aperta
 LIMITE_TESTO = 20000
@@ -305,11 +305,15 @@ def main():
     costo = lambda: (uso["input_tokens"] * p[0] + uso["output_tokens"] * p[1] + uso["cache_creation_input_tokens"] * p[2]
                      + uso["cache_read_input_tokens"] * p[3]) / 1e6 + uso["ricerche"] * PREZZO_RICERCA + costo_adv()
     finale, avviso_dato, letture = None, False, 0
+    ultimo = 0.0  # costo dell'ultima chiamata, per fermarsi prima di superare il tetto
     for giro in range(MAX_GIRI):
         segna_cache(messaggi)
+        prima = costo()
         corpo = {"model": MODELLO, "max_tokens": 32000, "system": sistema, "tools": STRUMENTI, "messages": messaggi}
         if EFFORT:
             corpo["output_config"] = {"effort": EFFORT}
+        if avviso_dato:
+            corpo["tool_choice"] = {"type": "none"}  # dopo l'avviso del tetto il modello può solo scrivere il risultato
         risposta = chiama_api(chiave, corpo)
         u = risposta.get("usage", {})
         for k in ("input_tokens", "output_tokens", "cache_creation_input_tokens", "cache_read_input_tokens"):
@@ -323,19 +327,30 @@ def main():
         uso["ricerche"] += (u.get("server_tool_use") or {}).get("web_search_requests") or 0
         messaggi.append({"role": "assistant", "content": risposta["content"]})
         motivo = risposta.get("stop_reason")
-        print(f"giro {giro + 1}: {motivo}, costo finora {costo():.2f} $")
+        ultimo = costo() - prima
+        print(f"giro {giro + 1}: {motivo}, costo finora {costo():.2f} $ (ultima chiamata {ultimo:.2f} $)")
         if motivo == "pause_turn":
             continue
         if motivo == "tool_use":
             risultati = []
+            # dopo l'avviso gli strumenti non si eseguono più
+            blocca = avviso_dato
             for b in risposta["content"]:
                 if b.get("type") == "tool_use":
-                    letture += 1
-                    risultati.append({"type": "tool_result", "tool_use_id": b["id"], "content": esegui_strumento(b["name"], b.get("input", {}))})
-            if costo() > TETTO_DOLLARI and not avviso_dato:
-                risultati.append({"type": "text", "text": "Tetto di spesa raggiunto: non usare altri strumenti e scrivi ora il risultato finale con quanto verificato, indicando in note_fonti i controlli non eseguiti per questo motivo."})
+                    if blocca:
+                        esito_strumento = "Non eseguito: tetto di spesa raggiunto. Scrivi ora il risultato finale."
+                    else:
+                        letture += 1
+                        esito_strumento = esegui_strumento(b["name"], b.get("input", {}))
+                    risultati.append({"type": "tool_result", "tool_use_id": b["id"], "content": esito_strumento})
+            # avviso quando la prossima chiamata, stimata dal costo dell'ultima con margine, porterebbe oltre il tetto
+            if not avviso_dato and costo() + 2 * ultimo > TETTO_DOLLARI:
+                risultati.append({"type": "text", "text": "Tetto di spesa quasi raggiunto: non usare altri strumenti e scrivi ora il risultato finale con quanto verificato, indicando in note_fonti i controlli non eseguiti per questo motivo."})
                 avviso_dato = True
             messaggi.append({"role": "user", "content": risultati})
+            if costo() > TETTO_DOLLARI * 1.1:
+                print("Tetto di spesa superato: esecuzione fermata senza risultato finale")
+                break
             continue
         finale = "".join(b.get("text", "") for b in risposta["content"] if b.get("type") == "text")
         if "===JSON_INIZIO===" not in finale and motivo == "max_tokens":
