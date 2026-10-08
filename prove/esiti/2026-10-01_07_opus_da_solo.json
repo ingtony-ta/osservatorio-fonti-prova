@@ -1,0 +1,509 @@
+{
+ "finestra": {
+  "dal": "01-10-2026",
+  "al": "07-10-2026"
+ },
+ "voci": [
+  {
+   "area": "Tutela dei consumatori, garanzie, riparazione, responsabilità da prodotto, green claims",
+   "titolo": "Diritto alla riparazione: pubblicato il decreto legislativo, in vigore dal 22 ottobre",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Gazzetta Ufficiale, serie generale n. 233",
+   "data": "07-10-2026",
+   "scadenza": "22-10-2026",
+   "confermata": true,
+   "descrizione": "Il D.Lgs. 25-09-2026, n. 176 recepisce la Dir. (UE) 2024/1799 ed entra in vigore il 22-10-2026. Modifica il Codice del consumo (D.Lgs. 206/2005) e aggiunge il Titolo II-bis sulla riparazione. Il fabbricante deve riparare, gratis o a prezzo ragionevole, i beni per cui gli atti UE dell'allegato II-decies fissano requisiti di riparabilità (per esempio lavatrici, lavastoviglie, frigoriferi, asciugatrici, aspirapolvere, display, smartphone e tablet). Se il fabbricante ha sede fuori dall'UE, l'obbligo passa nell'ordine al rappresentante autorizzato, all'importatore e al distributore. Il decreto vieta gli ostacoli contrattuali o tecnici ai riparatori indipendenti e ai ricambi compatibili, e introduce il modulo europeo di informazioni sulla riparazione (facoltativo, vincolante 30 giorni). Garanzia legale: se il difetto viene eliminato con la riparazione, la responsabilità del venditore si estende una sola volta di 12 mesi, per i contratti conclusi dal 31-07-2026 (art. 3). Le sanzioni, applicate dall'AGCM, vanno da 5.000 a 50.000 euro per violazione e possono raddoppiare. Un decreto MIMIT adeguerà l'allegato II-decies. Sulla GU sono stati verificati titolo, data e entrata in vigore; il testo degli articoli non si è caricato, quindi il contenuto è stato ricostruito dalle riproduzioni di Certifico ed Edotto.",
+   "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/07/26G00191/SG",
+   "url_ufficiale": "http://www.gazzettaufficiale.it/eli/id/2026/10/07/26G00191/SG",
+   "documenti": [
+    "https://www.gazzettaufficiale.it/atto/vediMenuHTML?atto.dataPubblicazioneGazzetta=2026-10-07&atto.codiceRedazionale=26G00191&tipoSerie=serie_generale&tipoVigenza=originario"
+   ],
+   "notebook": "Tutela Consumatori",
+   "candidato_wiki": true,
+   "atto": "D.Lgs. 25-09-2026, n. 176",
+   "come_trovata": "raccolta: Gazzetta Ufficiale, serie generale"
+  },
+  {
+   "area": "Imballaggi ed etichettatura ambientale",
+   "titolo": "Imballaggi in plastica monouso: convertito in legge l'obbligo di compostabilità, sanzioni dal 2030",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Gazzetta Ufficiale, serie generale n. 232",
+   "data": "06-10-2026",
+   "scadenza": "01-01-2030",
+   "confermata": true,
+   "descrizione": "La Legge 5-10-2026, n. 173 converte con modificazioni il D.L. 7-08-2026, n. 143. Legge e testo coordinato sono pubblicati sulla GU n. 232 del 06-10-2026. Il decreto inserisce l'art. 226-quinquies nel D.Lgs. 152/2006: alcuni imballaggi in plastica monouso si possono immettere sul mercato nazionale solo se certificati biodegradabili e compostabili da organismi accreditati secondo UNI EN 13432 o norme equivalenti. Le categorie sono quattro: imballaggi per meno di 1,5 kg di ortofrutta fresca preconfezionata; imballaggi per alimenti e bevande consumati nei locali HoReCa; porzioni individuali di condimenti nel settore HoReCa; imballaggi flessibili per cosmetici e prodotti per l'igiene nelle strutture ricettive. La conversione ha aggiunto esenzioni temporanee per un lungo elenco di ortofrutta, in attesa degli orientamenti UE sul PPWR (Reg. (UE) 2025/40). Dal 01-01-2030 si applicano sanzioni da 2.500 a 25.000 euro, che salgono fino al quadruplo se il valore degli imballaggi supera il 10% del fatturato. Non è punito chi dimostra di aver acquistato con documentazione di conformità idonea. Sulla GU è stato verificato il sommario; il contenuto è stato ricostruito dalla sintesi di Studio Brancaleone. Si tratta di una misura distinta dal decreto sanzioni PPWR del monitoraggio M-08.",
+   "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/06/26G00193/SG",
+   "url_ufficiale": "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-10-06&numeroGazzetta=232",
+   "documenti": [
+    "http://www.gazzettaufficiale.it/eli/id/2026/10/06/26A05306/SG"
+   ],
+   "notebook": "PPWR ed Etichettatura Ambientale Imballaggi",
+   "candidato_wiki": true,
+   "atto": "L. 5-10-2026, n. 173 (conversione D.L. 143/2026)",
+   "come_trovata": "ricerca: legge conversione decreto-legge 7 agosto 2026 n. 143 imballaggi compostabili Gazzetta Ufficiale"
+  },
+  {
+   "area": "Attrezzature a pressione",
+   "titolo": "Attrezzature a pressione: aggiornato l'elenco delle norme armonizzate",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "GUUE serie L",
+   "data": "02-10-2026",
+   "scadenza": "02-04-2028",
+   "confermata": true,
+   "descrizione": "La Decisione di esecuzione (UE) 2026/2211 modifica l'allegato I della Dec. (UE) 2025/165 sulle norme armonizzate della Dir. 2014/68/UE (PED) ed è in vigore dal giorno di pubblicazione (02-10-2026). Aggiunge o sostituisce tra le altre: EN 10253-2:2021+A1:2025, EN 12392:2025, EN 12953-2:2025, EN 12953-9:2024, EN ISO 17779:2025, EN ISO 24664:2024 (refrigerazione e pompe di calore, dispositivi di sovrappressione), EN ISO 13585:2024, EN 14129:2024 ed EN 14071:2024 (valvole di sicurezza per GPL), EN 14222:2021+A1:2025, EN 14585:2024, EN 14917:2021+A1:2026, EN ISO 15613:2025, EN ISO 15614-5:2024, EN ISO 15614-11:2025, EN ISO 21009-2:2024, EN ISO 21922:2021/A1:2024 (valvole per refrigerazione) ed EN ISO 14732:2025. La EN 12953-6:2024 è citata con limitazioni: alcuni punti non danno presunzione di conformità ai RES 2.3, 2.10, 2.11.1 e 5. Le norme sostituite, come EN 13136, EN 14129:2014 ed EN ISO 21922:2021, escono dall'elenco dal 02-04-2028.",
+   "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026D2211",
+   "url_ufficiale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026D2211",
+   "documenti": [
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026D2211"
+   ],
+   "notebook": "PED",
+   "candidato_wiki": true,
+   "atto": "32026D2211",
+   "come_trovata": "raccolta: GUUE, atti nuovi (SPARQL)"
+  },
+  {
+   "area": "Sostanze chimiche (REACH, CLP, POPs, biocidi, detergenti)",
+   "titolo": "Perossido di idrogeno nei biocidi: proroga per i PT1-5, l'approvazione per i conservanti in barattolo (PT6) scade il 31-01-2027",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "GUUE serie L",
+   "data": "25-09-2026",
+   "scadenza": "31-01-2027",
+   "confermata": true,
+   "descrizione": "La Decisione di esecuzione (UE) 2026/2131 rinvia al 31-07-2029 la scadenza dell'approvazione del perossido di idrogeno (Reg. di esecuzione (UE) 2015/1730) per i tipi di prodotto 1, 2, 3, 4 e 5: igiene umana, disinfettanti, igiene veterinaria, settore alimenti e mangimi, acqua potabile. Il motivo è il ritardo nella valutazione del rinnovo affidata alla Finlandia. Per il PT6 (conservanti per i prodotti durante lo stoccaggio) nessuno ha chiesto il rinnovo, quindi l'approvazione resta in scadenza al 31-01-2027. Gli importatori di detergenti e miscele che usano il perossido di idrogeno come conservante in barattolo devono verificare formulazioni e autorizzazioni. La decisione entra in vigore il ventesimo giorno dalla pubblicazione (25-09-2026). È stata pubblicata prima della finestra e non è mai stata riportata.",
+   "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026D2131",
+   "url_ufficiale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026D2131",
+   "documenti": [
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026D2131"
+   ],
+   "notebook": "Chemicals",
+   "candidato_wiki": true,
+   "atto": "32026D2131",
+   "come_trovata": "raccolta: GUUE, atti collegati agli atti di riferimento (SPARQL)"
+  },
+  {
+   "area": "Sostanze chimiche (REACH, CLP, POPs, biocidi, detergenti)",
+   "titolo": "Biocidi: prorogate le approvazioni di folpet, IPBC, metilisotiazolinone e rame granulato; scaduto il folpet per il PT7",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "GUUE serie L",
+   "data": "28-09-2026",
+   "scadenza": "",
+   "confermata": true,
+   "descrizione": "Quattro decisioni di esecuzione rinviano la scadenza delle approvazioni di principi attivi del Reg. (UE) 528/2012 perché le valutazioni di rinnovo sono in ritardo: 2026/2151 per il folpet PT9 (preservanti per fibre, cuoio, gomma e polimeri) fino al 31-03-2029; 2026/2124 per l'IPBC PT13 (fluidi di lavorazione) fino al 31-05-2029; 2026/2127 per il 2-metilisotiazol-3(2H)-one PT13 fino al 31-03-2029; 2026/2134 per il rame granulato PT8 (preservanti del legno) fino al 31-07-2029. Per il folpet PT7 (preservanti per pellicole) non è stato chiesto il rinnovo e l'approvazione è scaduta il 30-09-2026. Questo incide su pitture, rivestimenti e articoli trattati che contengono folpet come preservante di pellicola. Le decisioni sono state pubblicate il 25-09 (IPBC) e il 28-09-2026 (le altre) ed entrano in vigore il ventesimo giorno successivo. Non sono mai state riportate.",
+   "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026D2151",
+   "url_ufficiale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026D2151",
+   "documenti": [
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026D2151",
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026D2124",
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026D2127",
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026D2134"
+   ],
+   "notebook": "Chemicals",
+   "candidato_wiki": false,
+   "atto": "32026D2151; 32026D2124; 32026D2127; 32026D2134",
+   "come_trovata": "raccolta: GUUE, atti collegati agli atti di riferimento (SPARQL)"
+  },
+  {
+   "area": "Sostanze chimiche (REACH, CLP, POPs, biocidi, detergenti)",
+   "titolo": "Biocidi con autorizzazione dell'Unione: una revoca e due modifiche",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "GUUE serie L",
+   "data": "05-10-2026",
+   "scadenza": "25-04-2027",
+   "confermata": true,
+   "descrizione": "Tre regolamenti di esecuzione del 02-10-2026, pubblicati il 05-10-2026, entrano in vigore il ventesimo giorno successivo. Il 2026/2199 revoca su richiesta del titolare l'autorizzazione dell'Unione del biocida singolo Nordkalk QL 0-2 (EU-0029370-0000) e abroga il Reg. 2024/1481. Le scorte possono essere messe a disposizione fino al 25-04-2027 e usate fino al 25-10-2027. Il 2026/2203 introduce modifiche minori alla famiglia Contec Calcium Hypochlorite (PT2, disinfezione di superfici in camere bianche, uso professionale): durata di conservazione, claim levuricida e tempo di contatto. Il 2026/2201 trasferisce a Hypred SAS l'autorizzazione della famiglia Lactic acid Family Quatchem (PT3, igiene veterinaria). Si tratta di prodotti professionali specifici, con impatto limitato sui clienti.",
+   "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026R2199",
+   "url_ufficiale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026R2199",
+   "documenti": [
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026R2199",
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026R2203",
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026R2201"
+   ],
+   "notebook": "Chemicals",
+   "candidato_wiki": false,
+   "atto": "32026R2199; 32026R2203; 32026R2201",
+   "come_trovata": "raccolta: GUUE, atti nuovi (SPARQL)"
+  },
+  {
+   "area": "Cosmetici, digitale (CRA, AI Act), altro",
+   "titolo": "Norme armonizzate: la Commissione propone un nuovo regolamento sulla normazione europea",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea",
+   "data": "06-10-2026",
+   "scadenza": "",
+   "confermata": true,
+   "descrizione": "La proposta di regolamento COM(2026) 780 (procedura 2026/0307(COD)) abroga il Reg. (UE) 1025/2012 sulla normazione europea. Prevede termini più chiari per le norme richieste dalla Commissione e le specifiche comuni come soluzione di ripiego. In condizioni definite consente anche specifiche tecniche esterne e documenti provvisori a supporto della conformità, e, per esigenze urgenti o molto specialistiche, il ricorso ad altri enti di normazione oltre a CEN, CENELEC ed ETSI. Codifica le sentenze della Corte di giustizia sull'accesso gratuito alle norme armonizzate tramite archivi dedicati. Istituisce un Expert Centre on European Standardisation e rafforza la partecipazione delle PMI. La Commissione stima che il tempo medio di elaborazione di una norma scenda da sei a quattro anni. Riguarda tutte le normative di prodotto NLF (presunzione di conformità). La proposta passa ora a Parlamento e Consiglio. Il testo della proposta è stato letto in inglese.",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2070",
+   "url_ufficiale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:52026PC0780",
+   "documenti": [
+    "https://eur-lex.europa.eu/legal-content/EN/TXT/PDF/?uri=CELEX:52026PC0780",
+    "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_2071"
+   ],
+   "notebook": "",
+   "candidato_wiki": true,
+   "atto": "52026PC0780",
+   "come_trovata": "raccolta: Commissione, sala stampa; GUUE, atti che citano o interpretano gli atti di riferimento (SPARQL)"
+  },
+  {
+   "area": "Imballaggi ed etichettatura ambientale",
+   "titolo": "Rappresentante autorizzato EPR per batterie e imballaggi: votata la posizione in commissione ENVI, plenaria il 19 ottobre",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Parlamento europeo, Osservatorio legislativo",
+   "data": "05-10-2026",
+   "scadenza": "19-10-2026",
+   "confermata": true,
+   "descrizione": "Per la procedura 2025/0395(COD) (Omnibus VIII, proposta COM(2025) 982), l'Osservatorio legislativo registra il voto in commissione ENVI del 05-10-2026 e indica il 19-10-2026 come data indicativa della plenaria in prima lettura. La proposta sospende fino al 01-01-2035 l'obbligo, per i produttori stabiliti nell'UE, di nominare un rappresentante autorizzato EPR negli altri Stati membri, ai sensi del Reg. (UE) 2023/1542 e del Reg. (UE) 2025/40. Secondo la stampa (Agence Europe, EUWID, EuroCommerce, MLex), la commissione ha limitato la sospensione alle imprese più piccole stabilite nell'UE, con voto 74 favorevoli, 0 contrari e 4 astenuti. Le fonti divergono sulla soglia: microimprese e piccole imprese per EUWID, PMI fino a 250 addetti per Agence Europe. I produttori extra UE restano obbligati alla nomina e la sospensione cesserebbe con il futuro atto sull'economia circolare. Il dossier parallelo su tessili, RAEE e plastica monouso (2025/0396) è passato con 72 voti favorevoli, 0 contrari e 5 astenuti. La relazione votata non è ancora stata letta. Il dossier interessa gli importatori italiani che vendono in altri Stati membri.",
+   "url": "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0395(COD)",
+   "url_ufficiale": "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0395(COD)",
+   "documenti": [
+    "https://environment.ec.europa.eu/document/download/4a96a176-3ac0-4702-b919-68510201d3c7_en?filename=COM_2025_982_1_EN_ACT_part1_v5.pdf"
+   ],
+   "notebook": "PPWR ed Etichettatura Ambientale Imballaggi",
+   "candidato_wiki": false,
+   "atto": "2025/0395(COD), COM(2025) 982",
+   "come_trovata": "ricerca: environmental omnibus batteries regulation authorised representative EPR Parliament Council October 2026"
+  },
+  {
+   "area": "Dogane e CBAM",
+   "titolo": "CBAM esteso allo Spazio economico europeo: fissata la posizione dell'UE",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "GUUE serie L",
+   "data": "06-10-2026",
+   "scadenza": "",
+   "confermata": true,
+   "descrizione": "Con la Decisione (UE) 2026/2240 del 24-09-2026, il Consiglio fissa la posizione dell'Unione sul progetto di decisione del Comitato misto SEE. Il progetto integra nell'allegato XX dell'Accordo SEE il Reg. (UE) 2023/956 (CBAM) e il Reg. (UE) 2025/2083, che lo ha modificato. Gli adattamenti principali sono quattro. Il CBAM si applica anche ai territori doganali di Norvegia, Islanda e Liechtenstein. Le merci già immesse in libera pratica nell'UE o in uno Stato EFTA non sono soggette di nuovo al CBAM, se il dichiarante lo indica e ne conserva la prova. I dichiaranti CBAM stabiliti negli Stati EFTA devono avere un numero EORI per importare nell'UE. Codici NC, TARIC e origine non preferenziale vanno allineati entro 45 giorni. Gli effetti decorrono dall'adozione della decisione del Comitato misto. La Decisione (UE) 2026/2256 riguarda il contributo finanziario CBAM e non è stata approfondita.",
+   "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026D2240",
+   "url_ufficiale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32026D2240",
+   "documenti": [
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32026D2240"
+   ],
+   "notebook": "CBAM",
+   "candidato_wiki": false,
+   "atto": "32026D2240",
+   "come_trovata": "raccolta: GUUE, atti nuovi (SPARQL); GUUE, atti che citano o interpretano gli atti di riferimento (SPARQL)"
+  },
+  {
+   "area": "Dogane e CBAM",
+   "titolo": "Vendite a distanza: guida aggiornata sul dazio di 3 euro e sulla nuova tassa di gestione di 2 euro attesa dal 1° novembre",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, DG TAXUD",
+   "data": "08-10-2026",
+   "scadenza": "01-11-2026",
+   "confermata": true,
+   "descrizione": "La DG TAXUD ha aggiornato la guida non vincolante per Stati membri e operatori (versione del 05-10-2026, pubblicata il 08-10-2026, fuori finestra e mai riportata). Ai sensi del Reg. (UE) 2026/382, dal 01-07-2026 al 01-07-2028 si applica un dazio temporaneo di 3 euro per articolo alle spedizioni di valore intrinseco fino a 150 euro vendute a distanza. Il nuovo codice doganale (Reg. (UE) 2026/2108, in vigore dal 20-09-2026, applicabile in generale dal 21-09-2027) istituisce la Union handling fee: 2 euro per articolo per ogni vendita a distanza, a prescindere dal valore, non rimborsabile e senza scadenza. La fee si applicherà dal decimo giorno dopo l'entrata in vigore dell'atto delegato C(2026)6694, ancora all'esame di Parlamento e Consiglio; la data attesa è il 01-11-2026. La guida tratta anche identificativi di prodotto, garanzie, IVA e codice TARIC Y126. Riguarda i clienti che vendono online a consumatori dall'estero.",
+   "url": "https://taxation-customs.ec.europa.eu/news/updated-guidance-eur3-customs-duty-now-includes-info-union-handling-fee-2026-10-08_en",
+   "url_ufficiale": "https://taxation-customs.ec.europa.eu/news/updated-guidance-eur3-customs-duty-now-includes-info-union-handling-fee-2026-10-08_en",
+   "documenti": [
+    "https://taxation-customs.ec.europa.eu/news/updated-guidance-eur3-customs-duty-now-includes-info-union-handling-fee-2026-10-08_en"
+   ],
+   "notebook": "Dogane",
+   "candidato_wiki": true,
+   "atto": "Reg. (UE) 2026/382; Reg. (UE) 2026/2108; C(2026)6694",
+   "come_trovata": "raccolta: Commissione, notizie"
+  },
+  {
+   "area": "Batterie",
+   "titolo": "Batterie industriali ricaricabili: in consultazione il progetto di atto delegato su prestazioni e durabilità minime",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, Have Your Say",
+   "data": "29-09-2026",
+   "scadenza": "27-10-2026",
+   "confermata": true,
+   "descrizione": "Il progetto di regolamento delegato Ares(2026)9188325 integra e modifica il Reg. (UE) 2023/1542 (iniziativa 14460). Fissa i valori minimi di prestazione elettrochimica e di durabilità delle batterie industriali ricaricabili, i parametri tecnici e di sicurezza e le norme per il passaporto della batteria. Testo e allegati, in inglese, sono pubblicati per i commenti fino al 27-10-2026. L'adozione è prevista nel flusso di adozione dell'iniziativa. Riguarda gli importatori di batterie industriali, anche per l'accumulo stazionario. Non riguarda l'atto di esecuzione sull'etichettatura delle batterie portatili del monitoraggio M-01.",
+   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14460_it",
+   "url_ufficiale": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14460_it",
+   "documenti": [
+    "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14460_it"
+   ],
+   "notebook": "Batteries",
+   "candidato_wiki": false,
+   "atto": "Ares(2026)9188325",
+   "come_trovata": "raccolta: Have Your Say, consultazioni aperte"
+  },
+  {
+   "area": "Giocattoli",
+   "titolo": "Giocattoli: commenti fino al 15 ottobre sul divieto del liliale e sul nuovo limite per il bisfenolo A",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, Have Your Say",
+   "data": "17-09-2026",
+   "scadenza": "15-10-2026",
+   "confermata": true,
+   "descrizione": "Il progetto di direttiva della Commissione Ares(2026)7715229 modifica l'allegato II della Dir. 2009/48/CE per fragranze allergizzanti, bisfenolo A, fenolo e benzisotiazolinone (BIT). Secondo la scheda dell'iniziativa: vieta nei giocattoli il liliale, classificato tossico per la riproduzione; abbassa il valore limite del bisfenolo A per allinearlo ai metodi di prova più recenti; elimina i riferimenti alle norme EN 71-10 ed EN 71-11. Sono adeguamenti tecnici in attesa dell'applicazione del Reg. (UE) 2025/2509 dal 01-08-2030. La consultazione è aperta dal 17-09-2026 (prima della finestra, mai riportata) e chiude il 15-10-2026; l'adozione è prevista nel quarto trimestre 2026. I limiti numerici sono nel progetto in inglese, che non è stato letto.",
+   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16152_it",
+   "url_ufficiale": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16152_it",
+   "documenti": [
+    "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16152_it"
+   ],
+   "notebook": "Toys",
+   "candidato_wiki": true,
+   "atto": "Ares(2026)7715229",
+   "come_trovata": "raccolta: Have Your Say, consultazioni aperte"
+  },
+  {
+   "area": "Sostanze chimiche (REACH, CLP, POPs, biocidi, detergenti)",
+   "titolo": "REACH: in consultazione l'aggiornamento dei metodi di prova del Reg. 440/2008",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, Have Your Say",
+   "data": "29-09-2026",
+   "scadenza": "27-10-2026",
+   "confermata": true,
+   "descrizione": "Il progetto di regolamento della Commissione Ares(2026)9201435 modifica il Reg. (CE) 440/2008, che elenca i metodi di prova approvati per le sostanze chimiche ai fini di REACH, per adeguarlo al progresso tecnico (iniziativa 19398). Secondo la scheda aggiunge metodi nuovi o aggiornati che riducono o perfezionano la sperimentazione animale. Testo e allegato in inglese sono pubblicati per i commenti fino al 27-10-2026. Interessa soprattutto chi registra sostanze o commissiona prove. L'impatto diretto sugli importatori di articoli è limitato.",
+   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19398_it",
+   "url_ufficiale": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19398_it",
+   "documenti": [
+    "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19398_it"
+   ],
+   "notebook": "Chemicals",
+   "candidato_wiki": false,
+   "atto": "Ares(2026)9201435",
+   "come_trovata": "raccolta: Have Your Say, consultazioni aperte"
+  },
+  {
+   "area": "Ecodesign e passaporto digitale di prodotto",
+   "titolo": "Etichetta energetica ed EPREL: commenti fino al 15 ottobre sulla proposta di semplificazione",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, Have Your Say",
+   "data": "20-08-2026",
+   "scadenza": "15-10-2026",
+   "confermata": true,
+   "descrizione": "La raccolta indica aperto dal 20-08-2026 al 15-10-2026 il periodo di commenti sulla proposta di regolamento dell'iniziativa 16872 (Omnibus di semplificazione dei prodotti efficienti dal punto di vista energetico). La proposta modifica il Reg. (UE) 2017/1369 sull'etichettatura energetica e il Reg. (UE) 2020/740 sull'etichetta degli pneumatici. Del Reg. (UE) 2024/1781 (ESPR) modifica solo la proroga del meccanismo transitorio per i prodotti connessi all'energia (art. 79, par. 1, lett. a), punto i). Gli obiettivi dichiarati sono quattro: regole più semplici per fornire ed esporre le etichette, registrazione più semplice in EPREL, vigilanza più efficace ed etichetta pneumatici modificabile con atti delegati. Il periodo è iniziato prima della finestra e la voce non è mai stata riportata. Nella parte della pagina letta il numero COM della proposta non compare.",
+   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16872_it",
+   "url_ufficiale": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16872_it",
+   "documenti": [
+    "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16872_it"
+   ],
+   "notebook": "Ecodesign",
+   "candidato_wiki": false,
+   "atto": "Iniziativa 16872, Ares(2026)1535676",
+   "come_trovata": "raccolta: Have Your Say, consultazioni aperte"
+  },
+  {
+   "area": "Prodotti elettrici ed elettronici (LVD, EMC, RED, RoHS, RAEE)",
+   "titolo": "RAEE: pareri motivati a sette Stati che non hanno recepito la Dir. 2024/884",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, pacchetto infrazioni di ottobre",
+   "data": "01-10-2026",
+   "scadenza": "",
+   "confermata": true,
+   "descrizione": "La Commissione ha inviato pareri motivati a Bulgaria, Cechia, Spagna, Cipro, Lussemburgo, Polonia e Romania per la mancata notifica del recepimento completo della Dir. 2012/19/UE come modificata dalla Dir. (UE) 2024/884 (termine 09-10-2025). La modifica pone a carico dei produttori i costi di gestione dei rifiuti dei pannelli fotovoltaici. Esclude dall'ambito i pannelli immessi sul mercato tra il 13-08-2005 e il 13-08-2012 e le AEE ad ambito aperto immesse tra il 13-08-2005 e il 15-08-2018. Gli Stati hanno due mesi per rispondere, poi può seguire il deferimento alla Corte di giustizia. L'Italia non è tra i destinatari. Serve a chi vende AEE negli Stati indicati.",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760",
+   "url_ufficiale": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760",
+   "documenti": [
+    "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760"
+   ],
+   "notebook": "AEE",
+   "candidato_wiki": false,
+   "atto": "INFR(2025)0301, 0304, 0321, 0303, 0341, 0353, 0360",
+   "come_trovata": "raccolta: Commissione, sala stampa"
+  },
+  {
+   "area": "Ecodesign e passaporto digitale di prodotto",
+   "titolo": "Romania: lettera di messa in mora complementare per la vigilanza su ecodesign ed etichetta energetica",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, pacchetto infrazioni di ottobre",
+   "data": "01-10-2026",
+   "scadenza": "",
+   "confermata": true,
+   "descrizione": "La Commissione ha inviato alla Romania una lettera di messa in mora complementare (INFR(2025)2074): secondo la Commissione il Paese non garantisce una vigilanza efficace sulle regole UE di ecodesign ed etichettatura energetica, come richiede il Reg. (UE) 2019/1020. In pratica la Romania non verifica a sufficienza i requisiti minimi di consumo e la correttezza dell'etichetta energetica, e non ha ancora designato per legge le autorità di vigilanza. La prima lettera risale a luglio 2025; la Romania ha due mesi per rispondere. È un precedente sugli obblighi di vigilanza degli Stati e un segnale per chi distribuisce prodotti con etichetta energetica nel Paese.",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760",
+   "url_ufficiale": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760",
+   "documenti": [
+    "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760"
+   ],
+   "notebook": "Ecodesign",
+   "candidato_wiki": false,
+   "atto": "INFR(2025)2074",
+   "come_trovata": "raccolta: Commissione, sala stampa"
+  },
+  {
+   "area": "Cosmetici, digitale (CRA, AI Act), altro",
+   "titolo": "Francia: procedura d'infrazione perché le norme rese obbligatorie sono gratuite solo per le imprese francesi",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, pacchetto infrazioni di ottobre",
+   "data": "01-10-2026",
+   "scadenza": "",
+   "confermata": true,
+   "descrizione": "La Commissione ha inviato alla Francia una lettera di messa in mora (INFR(2026)4017). Il diritto francese rende consultabili gratis sul sito AFNOR le norme rese obbligatorie, ma l'accesso gratuito vale solo per le imprese stabilite in Francia; le imprese degli altri Stati membri pagano. Per la Commissione questa disparità viola gli artt. 34 e 56 TFUE e l'art. 16 della Dir. 2006/123/CE, perché aumenta i costi di chi deve rispettare requisiti vincolanti per vendere in Francia. La Francia ha due mesi per rispondere. Il caso interessa gli importatori italiani che vendono in Francia ed è coerente con la proposta di regolamento sulla normazione del 06-10-2026, che prevede l'accesso gratuito alle norme armonizzate.",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760",
+   "url_ufficiale": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760",
+   "documenti": [
+    "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760"
+   ],
+   "notebook": "",
+   "candidato_wiki": false,
+   "atto": "INFR(2026)4017",
+   "come_trovata": "raccolta: Commissione, sala stampa"
+  },
+  {
+   "area": "Dogane e CBAM",
+   "titolo": "Sistemi doganali elettronici: infrazioni a otto Stati e deferimento della Slovacchia",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, pacchetto infrazioni di ottobre",
+   "data": "01-10-2026",
+   "scadenza": "",
+   "confermata": true,
+   "descrizione": "La Commissione ha inviato lettere di messa in mora a Belgio, Grecia, Francia, Ungheria, Paesi Bassi, Polonia e Portogallo perché non hanno attivato tutte le funzioni dello sdoganamento centralizzato all'importazione (CCI), previste dal CDU (Reg. (UE) 952/2013) e dalla Dec. di esecuzione (UE) 2023/2879 con scadenze al 01-07-2024 e al 02-06-2025. Ha inviato pareri motivati alla Grecia (sistema nazionale di importazione NIS) e alla Francia (sistema di esportazione AES), e una lettera di messa in mora al Portogallo (AES). Ha deferito alla Corte di giustizia la Slovacchia per il sistema di custodia temporanea nel trasporto aereo. L'Italia non è coinvolta. Gli effetti per gli importatori italiani riguardano la possibilità di sdoganare centralmente merci che arrivano da quei Paesi.",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760",
+   "url_ufficiale": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1866",
+   "documenti": [
+    "https://ec.europa.eu/commission/presscorner/detail/it/inf_26_1760"
+   ],
+   "notebook": "Dogane",
+   "candidato_wiki": false,
+   "atto": "INFR(2026)2161-2168; INFR(2025)2019; INFR(2025)2060; INFR(2026)2134; INFR(2025)2021",
+   "come_trovata": "raccolta: Commissione, sala stampa"
+  }
+ ],
+ "monitoraggi": [
+  {
+   "id": "M-01",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Le liste SPARQL della GUUE non contengono atti di esecuzione sull'etichettatura delle batterie (Reg. (UE) 2023/1542, art. 13, par. 10). Le fonti di settore recenti descrivono l'atto come ancora in attesa: gli obblighi dell'art. 13, par. 1-3 decorrono dal 18-08-2026 o 18 mesi dopo l'entrata in vigore dell'atto, se più tardi. Per lo stesso regolamento è collegata la consultazione 14460 sul progetto di atto delegato per le batterie industriali (riportata tra le voci). Ricerca: implementing regulation labelling portable batteries Article 13 2023/1542 adopted October 2026.",
+   "fonti": [
+    "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14456_it",
+    "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14460_it"
+   ]
+  },
+  {
+   "id": "M-02",
+   "esito": "fatto nuovo",
+   "nota": "Il D.Lgs. 25-09-2026, n. 176 è pubblicato sulla GU Serie generale n. 233 del 07-10-2026 ed entra in vigore il 22-10-2026 (vedi voce). Sempre il 07-10-2026 è uscita la rettifica della Dir. (UE) 2024/1799 (GU L 2026/90848) in tutte le lingue, italiano compreso. Corregge solo la numerazione del punto aggiunto all'allegato del Reg. (UE) 2017/2394 dall'art. 18 (da 29 a 30), senza effetti sostanziali.",
+   "fonti": [
+    "http://www.gazzettaufficiale.it/eli/id/2026/10/07/26G00191/SG",
+    "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX:32024L1799R(03)"
+   ]
+  },
+  {
+   "id": "M-03",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Nella finestra non risultano né l'approvazione definitiva né la pubblicazione del recepimento della Dir. (UE) 2024/2853. La pagina della Camera indica per l'AG 434 lo stato parere espresso, senza data. La rettifica della direttiva del 29-09-2026 (GU L 2026/90830) riguarda solo la versione neerlandese. Il termine di recepimento resta il 09-12-2026. Ricerca: recepimento direttiva 2024/2853 responsabilità prodotti difettosi schema decreto legislativo ottobre 2026.",
+   "fonti": [
+    "https://www.camera.it/leg19/142",
+    "https://eur-lex.europa.eu/legal-content/IT/ALL/?uri=CELEX:32024L2853R(02)"
+   ]
+  },
+  {
+   "id": "M-04",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Nelle liste SPARQL e nelle ricerche non compaiono nuovi atti delegati o di esecuzione del Reg. (UE) 2025/40 né nuove FAQ o linee guida della Commissione in finestra. Le fonti di settore danno ancora in attesa l'atto di esecuzione sull'etichettatura armonizzata. A livello nazionale è collegata la L. 173/2026 sulla compostabilità di alcuni imballaggi monouso (vedi voce); sul rappresentante autorizzato EPR vedi M-05. Il tracker EUROPEN non è stato aperto: compare solo il collegamento nella home page, con news al 01-10-2026 sul Circular Economy Act. Ricerche: PPWR implementing act delegated act Commission October 2026 packaging; PPWR FAQ Commission update packaging guidance labelling implementing act draft 2026 EUROPEN.",
+   "fonti": [
+    "https://www.europen-packaging.eu/"
+   ]
+  },
+  {
+   "id": "M-05",
+   "esito": "fatto nuovo",
+   "nota": "Il 05-10-2026 la commissione ENVI ha votato in prima lettura la procedura 2025/0395(COD), che riguarda il rappresentante autorizzato EPR per batterie e imballaggi. La plenaria è indicata per il 19-10-2026. La stampa riporta che la sospensione è stata limitata alle imprese più piccole stabilite nell'UE, ma la soglia non coincide tra le fonti (vedi voce). La procedura parallela 2025/0396 è stata votata lo stesso giorno. Secondo National Law Review gli Stati membri hanno approvato il 30-09 un mandato negoziale sull'Omnibus ambientale; il comunicato del Consiglio del 30-09 parla di valutazioni ambientali, ma la pagina non si è aperta (HTTP 403) e il dato resta da confermare. Sulla procedura 2025/0397 non sono emersi fatti nuovi.",
+   "fonti": [
+    "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0395(COD)",
+    "https://www.eurocommerce.eu/2026/10/first-step-in-the-right-direction-retailers-and-wholesalers-call-for-wider-reform-of-epr-requirements-under-ppwr-and-more",
+    "https://agenceurope.eu/en/bulletin/article/13953/16/meps-ease-rules-on-extended-producer-responsibility-epr"
+   ]
+  },
+  {
+   "id": "M-07",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Nella pagina circolari dell'ADM l'ultima circolare è la n. 19/2026 del 21-07-2026. Non risultano rimissione o nuova versione della circolare 18/2026, sospesa con nota prot. 438174 del 13-07-2026. Ricerche: Agenzia dogane circolare imballaggi PPWR ottobre 2026; ADM circolare 18/2026 dogane sospesa imballaggi.",
+   "fonti": [
+    "https://www.adm.gov.it/portale/en/circolari-dogane"
+   ]
+  },
+  {
+   "id": "M-08",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Non è stato trovato alcuno schema di decreto legislativo che attui la delega dell'art. 14 della L. 36/2026 (sanzioni PPWR e autorità di vigilanza). La L. 173/2026 introduce sanzioni dal 2030 per il solo obbligo di compostabilità del nuovo art. 226-quinquies del D.Lgs. 152/2006: è una misura distinta e non designa l'autorità di vigilanza PPWR. Ricerca: decreto sanzioni regolamento imballaggi 2025/40 autorità vigilanza schema decreto legislativo.",
+   "fonti": [
+    "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio/home?dataPubblicazioneGazzetta=2026-10-06&numeroGazzetta=232"
+   ]
+  }
+ ],
+ "fonti_proposte": [
+  {
+   "nome": "Parlamento europeo, Osservatorio legislativo (schede procedura)",
+   "url": "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0395(COD)",
+   "motivo": "Riporta voti in commissione e date di plenaria per i monitoraggi M-05 e simili, ed è raggiungibile anche quando le pagine del Consiglio rispondono 403."
+  },
+  {
+   "nome": "ADM, elenco circolari dogane",
+   "url": "https://www.adm.gov.it/portale/en/circolari-dogane",
+   "motivo": "Elenco aggiornato delle circolari, utile per il monitoraggio M-07."
+  },
+  {
+   "nome": "Camera dei deputati, atti del Governo sottoposti a parere",
+   "url": "https://www.camera.it/leg19/142",
+   "motivo": "Mostra lo stato degli schemi di decreto legislativo per i monitoraggi M-03 e M-08."
+  }
+ ],
+ "ricerche": [
+  "decreto legislativo 176/2026 riparazione dei beni Gazzetta Ufficiale",
+  "implementing regulation labelling portable batteries Article 13 2023/1542 adopted October 2026",
+  "recepimento direttiva 2024/2853 responsabilità prodotti difettosi schema decreto legislativo ottobre 2026",
+  "PPWR implementing act delegated act Commission October 2026 packaging",
+  "environmental omnibus batteries regulation authorised representative EPR Parliament Council October 2026",
+  "Agenzia dogane circolare imballaggi PPWR ottobre 2026",
+  "decreto sanzioni regolamento imballaggi 2025/40 autorità vigilanza schema decreto legislativo",
+  "legge conversione decreto-legge 7 agosto 2026 n. 143 imballaggi compostabili Gazzetta Ufficiale",
+  "GPSR market surveillance news October 2026 product safety",
+  "RoHS RED LVD EMC harmonised standards Official Journal October 2026",
+  "REACH restriction adopted October 2026 Commission regulation Annex XVII",
+  "Toy Safety Regulation 2025/2509 delegated act guidance October 2026",
+  "Machinery Regulation 2023/1230 harmonised standards guidance October 2026",
+  "PPE Regulation 2016/425 news October 2026 harmonised standards personal protective equipment",
+  "Gas Appliances Regulation 2016/426 hydrogen revision 2026 news",
+  "Pressure Equipment Directive 2014/68 revision news 2026",
+  "ecodesign ESPR delegated act digital product passport October 2026",
+  "food contact materials regulation Commission October 2026 plastics FCM amendment",
+  "AGCM pratiche commerciali scorrette green claims ottobre 2026 sanzione",
+  "CBAM October 2026 Commission implementing regulation importers news",
+  "Construction Products Regulation 2024/3110 harmonised technical specifications October 2026",
+  "EUDR deforestation regulation October 2026 news simplification application",
+  "materiali a contatto acqua potabile direttiva 2020/2184 atti esecuzione rubinetteria 2026 novità",
+  "textile labelling regulation revision EPR textiles October 2026",
+  "MDR medical devices regulation revision proposal October 2026 Council Parliament",
+  "Cyber Resilience Act guidance reporting obligations September 2026 Commission cosmetics regulation omnibus",
+  "EEPLIANT OR JACOP OR ADCO joint action market surveillance results October 2026",
+  "European Parliament ENVI vote authorised representative extended producer responsibility 5 October 2026 press release",
+  "ADM circolare 18/2026 dogane sospesa imballaggi",
+  "PPWR FAQ Commission update packaging guidance labelling implementing act draft 2026 EUROPEN"
+ ],
+ "note_fonti": [
+  "Ministero della salute, comunicati: la raccolta segnala errore ParseError (syntax error: line 1, column 0); la fonte non è stata letta.",
+  "Consiglio UE: HTTP 403 su https://www.consilium.europa.eu/en/press/press-releases/2026/10/06/press-briefing-environment-council-of-12-october-2026/ e su https://www.consilium.europa.eu/en/press/press-releases/2026/09/30/simplification-council-agrees-negotiating-stance-to-fast-track-environmental-assessments/.",
+  "Gazzetta Ufficiale, D.Lgs. 176/2026: la pagina articolo caricaArticolo restituisce Gazzetta in fase di caricamento e caricaDettaglioAtto mostra solo l'intestazione. Il contenuto degli articoli è stato riscontrato su riproduzioni di terzi (Certifico, Edotto).",
+  "leggi_atto_ue ha dato HTTP 404 in italiano e in inglese per 32024L1799R(03), 32024L2853R(02) e 32019R1021R(04), e in italiano per 52026PC0780 e 52026PC1010. Le rettifiche sono state lette sulla pagina EUR-Lex ALL: quelle di PLD (solo NL), POP (solo SV) e Data Act 32023R2854R(06) (solo SL) non riguardano la versione italiana. Le proposte sono state lette in inglese.",
+  "Il regolamento di esecuzione 32026R2214 (gas fluorurati) rettifica solo le versioni polacca, lituana e ungherese e non riguarda la versione italiana: escluso.",
+  "La sezione della raccolta Gazzetta Ufficiale, serie generale copriva solo il 07-10-2026. I sommari dal 01-10 al 06-10-2026 (n. 228, 229, 230, 231, 232) sono stati letti direttamente.",
+  "Tracker EUROPEN sull'attuazione del PPWR: l'indirizzo https://www.europen-packaging.eu/ppwr-tracker/ ha dato HTTP 404. Il tracker non è stato aperto per raggiungimento del tetto di spesa degli strumenti.",
+  "Per raggiungimento del tetto di spesa degli strumenti non sono stati eseguiti: lettura della relazione ENVI votata il 05-10-2026 per chiarire la soglia di imprese esentate; numero COM e testo della proposta Omnibus etichetta energetica (iniziativa 16872); testo del progetto di direttiva giocattoli (iniziativa 16152) con i nuovi limiti; testo completo della L. 173/2026 sulla GU.",
+  "Nessun contenuto con istruzioni rilevato nelle pagine lette."
+ ],
+ "autoverifica": "Sezioni della raccolta esaminate: 11 su 11 (feed Ministero della salute in errore nella raccolta). Monitoraggi: 7 su 7. Aree con almeno una ricerca: 20 su 20. Controlli non eseguiti: feed del Ministero della salute (ParseError); due pagine del Consiglio UE (HTTP 403); testo degli articoli del D.Lgs. 176/2026 su GU (pagina vuota); tracker EUROPEN, relazione ENVI, testi delle iniziative 16152 e 16872 e testo integrale della L. 173/2026 non letti per raggiungimento del tetto di spesa. Non riportati dopo esame dei titoli perché fuori dal perimetro dei clienti: deroghe per biocidi a ossido di etilene e fluoruro di solforile per la tutela del patrimonio culturale; proroghe di misure nazionali su singoli biocidi (Recrute, Biobor JF, Pyblast); elenco VLOP del DSA (C/2026/5181); proposta EUCCS (52026PC1010); azione CPC sui videogiochi; Eurobarometro Ecolabel.",
+ "prova": "2026-10-01_07 opus da solo",
+ "generato_alle_utc": "2026-10-08T17:38:32+00:00",
+ "modello": "claude-opus-5-5",
+ "advisor": null,
+ "effort": "high",
+ "raccolta": "prove/raccolta 2026-10-01_07.json",
+ "istruzioni": "prove/istruzioni_base_08-10.md",
+ "max_ricerche": 30,
+ "costo_stimato_dollari": 5.615,
+ "costo_advisor_dollari": 0.0,
+ "chiamate_advisor": 0
+}

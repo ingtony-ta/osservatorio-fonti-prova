@@ -1,0 +1,3 @@
+data_utc,prova,modello,advisor,effort,giri,letture,ricerche,input,output,cache_scrittura,cache_lettura,advisor_chiamate,advisor_input,advisor_output,advisor_cache_scrittura,advisor_cache_lettura,costo_advisor,costo_totale,esito
+2026-10-08 17:29,2026-10-01_07 sonnet con advisor opus,claude-sonnet-5-5,claude-opus-5-5,,12,64,30,40,46897,584951,5163443,2,308,34897,648544,0,3.942,6.690,ok
+2026-10-08 17:38,2026-10-01_07 opus da solo,claude-opus-5-5,,high,24,55,30,64,51327,524853,8318173,0,0,0,0,0,0.000,5.615,ok
