@@ -21,10 +21,11 @@ PREZZI = {"claude-sonnet-5-5": (2.0, 10.0, 2.5, 0.10), "claude-opus-5-5": (5.0, 
 PREZZO_RICERCA = 0.01  # dollari per ricerca web
 TETTO_DOLLARI = float(os.environ.get("TETTO_DOLLARI", "5"))
 MAX_GIRI = int(os.environ.get("MAX_GIRI", "60"))
-MAX_RICERCHE = int(os.environ.get("MAX_RICERCHE", "40"))
+MAX_RICERCHE = int(os.environ.get("MAX_RICERCHE", "65"))  # 65 dall'08-10-2026: spazio per la ricerca aperta
 LIMITE_TESTO = 20000
 UA = "Mozilla/5.0 (compatible; osservatorio-fonti-prova/1.0)"
 CARTELLA = Path("esiti/analisi")
+REGISTRO_FONTI = CARTELLA / "fonti_scoperte.json"
 
 STRUMENTI = [
     {"type": "web_search_20250305", "name": "web_search", "max_uses": MAX_RICERCHE},
@@ -174,6 +175,49 @@ def voci_gia_riportate(oggi):
     return out
 
 
+def carica_registro():
+    try:
+        return json.loads(REGISTRO_FONTI.read_text(encoding="utf-8"))
+    except Exception:
+        return {"descrizione": "Fonti trovate dall'analista con la ricerca aperta, accumulate fra le esecuzioni. "
+                               "Le valuta il Regulatory Affairs Manager per la promozione a fonte fissa.", "fonti": {}}
+
+
+def dominio(url):
+    m = re.match(r"^https?://([^/]+)", url or "")
+    return (m.group(1).lower().removeprefix("www.") if m else (url or "").strip().lower())
+
+
+def registro_per_il_modello(reg):
+    righe = []
+    for k, f in sorted(reg["fonti"].items(), key=lambda x: -x[1].get("esecuzioni", 0)):
+        righe.append(f"{f.get('nome', '')} · {f.get('url', k)} · {f.get('tipo', '')} · vista in {f.get('esecuzioni', 0)} esecuzioni, "
+                     f"spunti ancorati {f.get('spunti_ancorati', 0)} su {f.get('spunti', 0)} · ultimo giudizio: {f.get('ultimo_giudizio', '')}")
+    return righe
+
+
+def aggiorna_registro(reg, esito, oggi):
+    for f in esito.get("fonti_scoperte", []) or []:
+        if not isinstance(f, dict):
+            continue
+        k = dominio(f.get("url", "")) or f.get("nome", "")
+        r = reg["fonti"].setdefault(k, {"nome": f.get("nome", ""), "url": f.get("url", ""), "editore": f.get("editore", ""),
+                                        "tipo": f.get("tipo", ""), "prima_vista": oggi.isoformat(), "esecuzioni": 0,
+                                        "spunti": 0, "spunti_ancorati": 0, "esempi": []})
+        if r.get("ultima_vista") != oggi.isoformat():
+            r["esecuzioni"] = r.get("esecuzioni", 0) + 1
+        r["ultima_vista"] = oggi.isoformat()
+        voci = f.get("voci_collegate") or []
+        r["spunti"] = r.get("spunti", 0) + len(voci)
+        if f.get("spunto_ancorato_a_fonte_primaria"):
+            r["spunti_ancorati"] = r.get("spunti_ancorati", 0) + len(voci)
+        r["ultimo_giudizio"] = f.get("giudizio", "")
+        r["ultimo_motivo"] = f.get("motivo", "")
+        r["esempi"] = ([f"{oggi:%d-%m-%Y}: {str(f.get('cosa_ha_portato', ''))[:200]}"] + r.get("esempi", []))[:5]
+    reg["aggiornato"] = oggi.isoformat()
+    REGISTRO_FONTI.write_text(json.dumps(reg, ensure_ascii=False, indent=1), encoding="utf-8")
+
+
 def segna_cache(messaggi):
     """Un solo punto di cache, sull'ultimo blocco dell'ultimo messaggio: il resto della conversazione si rilegge dalla cache."""
     for m in messaggi:
@@ -196,9 +240,12 @@ def main():
     raccolta = json.loads((CARTELLA / "raccolta.json").read_text(encoding="utf-8"))
     istruzioni = Path("istruzioni_analista.md").read_text(encoding="utf-8")
     gia = voci_gia_riportate(oggi)
+    registro = carica_registro()
+    fonti_note = registro_per_il_modello(registro)
     it = lambda s: date.fromisoformat(s).strftime("%d-%m-%Y")
     richiesta = (f"Finestra: dal {it(raccolta['finestra_da'])} al {it(raccolta['finestra_al'])} (oggi {oggi:%d-%m-%Y}).\n\n"
                  f"Voci già riportate nei giorni precedenti ({len(gia)}):\n" + ("\n".join(gia) or "nessuna") + "\n\n"
+                 f"Registro delle fonti già scoperte con la ricerca aperta ({len(fonti_note)}):\n" + ("\n".join(fonti_note) or "nessuna") + "\n\n"
                  "Raccolta delle fonti con dati strutturati (JSON):\n" + json.dumps(raccolta, ensure_ascii=False))
     messaggi = [{"role": "user", "content": richiesta}]
     sistema = [{"type": "text", "text": istruzioni, "cache_control": {"type": "ephemeral"}}]
@@ -258,8 +305,12 @@ def main():
                    f"{v.get('data', '')} · {v.get('fonte', '')} · [{v.get('url', '')}]({v.get('url', '')})", "", v.get("descrizione", ""), ""]
         md += ["## Monitoraggi", ""] + [f"- {x.get('id')}: {x.get('esito')}. {x.get('nota', '')}" for x in esito.get("monitoraggi", [])]
         md += ["", "## Fonti proposte", ""] + [f"- {x.get('nome')}: {x.get('url')} ({x.get('motivo', '')})" for x in esito.get("fonti_proposte", [])]
+        md += ["", "## Fonti scoperte con la ricerca aperta", ""] + [
+            f"- {x.get('nome')} ({x.get('tipo', '')}, {x.get('giudizio', '')}): {x.get('url')}. {x.get('cosa_ha_portato', '')}"
+            for x in esito.get("fonti_scoperte", []) if isinstance(x, dict)]
         md += ["", "## Note sulle fonti", ""] + [f"- {x}" for x in esito.get("note_fonti", [])]
         (CARTELLA / f"{oggi.isoformat()}.md").write_text("\n".join(md) + "\n", encoding="utf-8")
+        aggiorna_registro(registro, esito, oggi)
         (CARTELLA / "stato.json").write_text(json.dumps({"ultima_finestra_al": raccolta["finestra_al"], "ultima_analisi": oggi.isoformat()}, indent=1), encoding="utf-8")
         print(f"Voci: {len(esito.get('voci', []))}")
     with open(CARTELLA / "costi.csv", "a", encoding="utf-8") as s:
