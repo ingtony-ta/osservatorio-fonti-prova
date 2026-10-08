@@ -1,8 +1,43 @@
 {
- "eseguito_alle_utc": "2026-10-07T09:10:49+00:00",
+ "eseguito_alle_utc": "2026-10-08T09:25:01+00:00",
  "prima_volta": false,
  "errori": [],
  "voci": [
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:IP/26/2065",
+   "data": "2026-10-08",
+   "titolo": "The EU budget continues delivering for Europe in 2025",
+   "tipo": "Press release",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2065",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:IP/26/2094",
+   "data": "2026-10-07",
+   "titolo": "Commission disburses €1.24 billion to Ukraine for drones and missiles",
+   "tipo": "Press release",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2094",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
+   "id": "pc:IP/26/2092",
+   "data": "2026-10-07",
+   "titolo": "NextGenerationEU shows strong delivery record as implementation reaches finish line",
+   "tipo": "Press release",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2092",
+   "parole": [
+    "reach"
+   ],
+   "pertinente": true,
+   "nuova": true
+  },
   {
    "fonte": "Commissione, sala stampa",
    "id": "pc:SPEECH/26/2089",
@@ -12,7 +47,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2089",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -23,7 +58,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2083",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -38,6 +73,17 @@
   },
   {
    "fonte": "Commissione, sala stampa",
+   "id": "pc:SPEECH/26/2102",
+   "data": "2026-10-06",
+   "titolo": "Remarks by Commissioner Kos on the pre-enlargement policy reviews",
+   "tipo": "Speech",
+   "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2102",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Commissione, sala stampa",
    "id": "pc:QANDA/26/2076",
    "data": "2026-10-06",
    "titolo": "Questions and answers on the pre-enlargement policy reviews",
@@ -45,7 +91,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_2076",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -56,7 +102,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2075",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -67,7 +113,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_2071",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -78,7 +124,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2070",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -89,7 +135,7 @@
    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2064",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Commissione, sala stampa",
@@ -516,50 +562,6 @@
    "nuova": false
   },
   {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:QANDA/26/1860",
-   "data": "2026-09-28",
-   "titolo": "Questions and answers on the proposed Recommendation on cardiovascular health checks",
-   "tipo": "Questions and answers",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_1860",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1859",
-   "data": "2026-09-28",
-   "titolo": "Commission launches EU Screening Week with new recommendations on cardiovascular health checks ",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1859",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1983",
-   "data": "2026-09-28",
-   "titolo": "EU trade agreements continue to benefit European businesses *",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1983",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Commissione, sala stampa",
-   "id": "pc:IP/26/1981",
-   "data": "2026-09-25",
-   "titolo": "Commission greenlights Luxembourg's third payment request for €92.2 million under NextGenerationEU  ",
-   "tipo": "Press release",
-   "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1981",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
    "fonte": "Have Your Say, consultazioni aperte",
    "id": "hys:15112",
    "data": "2026-10-06",
@@ -569,7 +571,7 @@
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15112_it",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Have Your Say, consultazioni aperte",
@@ -781,7 +783,7 @@
    "data": "2026-09-15",
    "titolo": "Revision of EU rules on public procurement",
    "tipo": "PROP_REG Ares(2025)9170767",
-   "scadenza": "2026-12-02",
+   "scadenza": "2026-12-03",
    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15492_it",
    "parole": [],
    "pertinente": false,
@@ -969,6 +971,50 @@
   },
   {
    "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/07/media-advisory-eurogroup-meeting-of-8-october-and-economic-and-financial-affairs-council-of-9-october-2026/",
+   "data": "",
+   "titolo": "Media advisory - Eurogroup meeting of 8 October and Economic and Financial Affairs Council of 9 October 2026",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/07/media-advisory-eurogroup-meeting-of-8-october-and-economic-and-financial-affairs-council-of-9-october-2026/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/07/speech-by-the-eurogroup-president-kyriakos-pierrakakis-at-the-european-banking-federation-and-businesseurope-forum-on-eu-banking-sector-competitiveness-brussels/",
+   "data": "",
+   "titolo": "Speech by the Eurogroup President, Kyriakos Pierrakakis, at the European Banking Federation and BusinessEurope forum on EU banking sector competitiveness, Brussels",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/07/speech-by-the-eurogroup-president-kyriakos-pierrakakis-at-the-european-banking-federation-and-businesseurope-forum-on-eu-banking-sector-competitiveness-brussels/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/07/press-briefing-general-affairs-council-of-13-october-2026/",
+   "data": "",
+   "titolo": "Press briefing - General Affairs Council of 13 October 2026",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/07/press-briefing-general-affairs-council-of-13-october-2026/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
+   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/07/press-briefing-foreign-affairs-council-of-12-october-2026/",
+   "data": "",
+   "titolo": "Press briefing - Foreign Affairs Council of 12 October 2026",
+   "tipo": "feed",
+   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/07/press-briefing-foreign-affairs-council-of-12-october-2026/",
+   "parole": [],
+   "pertinente": false,
+   "nuova": true
+  },
+  {
+   "fonte": "Consiglio UE, comunicati",
    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/06/press-briefing-environment-council-of-12-october-2026/",
    "data": "",
    "titolo": "Press briefing - Environment Council of 12 October 2026",
@@ -976,7 +1022,7 @@
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/06/press-briefing-environment-council-of-12-october-2026/",
    "parole": [],
    "pertinente": false,
-   "nuova": true
+   "nuova": false
   },
   {
    "fonte": "Consiglio UE, comunicati",
@@ -1139,50 +1185,6 @@
    "titolo": "MFF 2028-2034: Council agrees negotiating position on future EU support for the fisheries sector",
    "tipo": "feed",
    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/29/mff-2028-2034-council-agrees-negotiating-position-on-future-eu-support-for-the-fisheries-sector/",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/council-strengthens-eu-space-threat-response-architecture/",
-   "data": "",
-   "titolo": "Council strengthens EU space threat response architecture",
-   "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/council-strengthens-eu-space-threat-response-architecture/",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/human-rights-violations-in-russia-council-lists-ten-individuals-over-the-barring-of-yabloko-from-the-state-duma-elections/",
-   "data": "",
-   "titolo": "Human rights violations in Russia: Council lists ten individuals over the barring of Yabloko from the State Duma elections",
-   "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/human-rights-violations-in-russia-council-lists-ten-individuals-over-the-barring-of-yabloko-from-the-state-duma-elections/",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/eu-sanctions-10-individuals-and-17-entities-over-unlawful-deportation-of-ukrainian-children-to-russia/",
-   "data": "",
-   "titolo": "EU sanctions 10 individuals and 17 entities over unlawful deportation of Ukrainian children to Russia",
-   "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/eu-sanctions-10-individuals-and-17-entities-over-unlawful-deportation-of-ukrainian-children-to-russia/",
-   "parole": [],
-   "pertinente": false,
-   "nuova": false
-  },
-  {
-   "fonte": "Consiglio UE, comunicati",
-   "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-defence-industry-council-identifies-the-first-five-projects-of-common-interest/",
-   "data": "",
-   "titolo": "European defence industry: Council identifies the first five projects of common interest",
-   "tipo": "feed",
-   "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/09/28/european-defence-industry-council-identifies-the-first-five-projects-of-common-interest/",
    "parole": [],
    "pertinente": false,
    "nuova": false

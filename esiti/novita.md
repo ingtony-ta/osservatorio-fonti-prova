@@ -1,9 +1,10 @@
-# Novità estratte il 07-10-2026 09:10 UTC
+# Novità estratte il 08-10-2026 09:25 UTC
 
-Voci lette: 112. Pertinenti al dominio (parole chiave): 8. Nuove dall'ultima esecuzione: 9.
+Voci lette: 112. Pertinenti al dominio (parole chiave): 9. Nuove dall'ultima esecuzione: 8.
 
-## Commissione, sala stampa (3 pertinenti su 50)
+## Commissione, sala stampa (4 pertinenti su 50)
 
+- 2026-10-07 · [NextGenerationEU shows strong delivery record as implementation reaches finish line](https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2092) · Press release · **nuova**
 - 2026-10-01 · [Commission decides to refer Greece and Cyprus to the Court of Justice of the European Union for failing to ensure adequate treatment of wast](https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1871) · Press release
 - 2026-10-01 · [Commission decides to refer Spain to the Court of Justice of the European Union for failing to comply with EU rules on State liability for b](https://ec.europa.eu/commission/presscorner/detail/it/ip_26_1910) · Press release
 - 2026-09-30 · [Consumer protection authorities ramp up action to protect gamers' rights](https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2018) · Press release
