@@ -1,0 +1,49 @@
+name: Analisi delle novità con il modello
+
+on:
+  schedule:
+    - cron: "0 13 * * *"
+  workflow_dispatch:
+    inputs:
+      modello:
+        description: "Modello (claude-sonnet-5-5 oppure claude-opus-5-5)"
+        default: "claude-sonnet-5-5"
+      tetto_dollari:
+        description: "Tetto di spesa per l'esecuzione, in dollari"
+        default: "5"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: scrittura-esiti
+  cancel-in-progress: false
+
+jobs:
+  analizza:
+    runs-on: ubuntu-latest
+    timeout-minutes: 60
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - name: Installa il lettore di PDF
+        run: pip install --quiet pypdf
+      - name: Raccoglie il materiale dalle fonti
+        run: python raccogli.py
+      - name: Analizza con il modello
+        env:
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          MODELLO: ${{ inputs.modello || 'claude-sonnet-5-5' }}
+          TETTO_DOLLARI: ${{ inputs.tetto_dollari || '5' }}
+        run: python analizza.py
+      - name: Salva l'analisi nel repository
+        if: always()
+        run: |
+          git config user.name "robot osservatorio"
+          git config user.email "robot@users.noreply.github.com"
+          git add esiti/analisi
+          git diff --cached --quiet || git commit -m "Analisi $(date -u +'%Y-%m-%d %H:%M') UTC"
+          git pull --rebase --quiet
+          git push

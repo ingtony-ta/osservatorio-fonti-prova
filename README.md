@@ -8,3 +8,12 @@ inoltre da sala stampa della Commissione, consultazioni Have Your Say e due feed
 (`esiti/novita.md`), segnando le nuove.
 
 Contiene solo indirizzi di fonti pubbliche e gli esiti delle richieste. Nessun dato di clienti.
+
+## Analisi con il modello
+
+Ogni giorno (e a richiesta) il flusso «Analisi delle novità con il modello» esegue `raccogli.py`, che legge le fonti con
+dati strutturati (Gazzetta UE via SPARQL, sala stampa e consultazioni della Commissione, feed pubblici italiani e UE), e poi
+`analizza.py`, che passa il materiale a un modello Claude via API con le istruzioni di `istruzioni_analista.md`. Il modello
+esamina la raccolta, fa ricerche complementari sul web, verifica le voci sulla fonte ufficiale e scrive in `esiti/analisi/`
+il file del giorno (`.json` e `.md`). Token e costo stimato di ogni esecuzione sono in `esiti/analisi/costi.csv`.
+La chiave API sta nei secret del repository e non compare in nessun file. Solo fonti pubbliche, nessun dato di clienti.
