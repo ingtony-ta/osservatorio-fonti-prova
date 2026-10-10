@@ -1,0 +1,198 @@
+{
+ "descrizione": "Fonti trovate dall'analista con la ricerca aperta, accumulate fra le esecuzioni. Le valuta il Regulatory Affairs Manager per la promozione a fonte fissa.",
+ "fonti": {
+  "economie.gouv.fr": {
+   "nome": "DGCCRF, Résultats d'enquêtes",
+   "url": "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/les-enquetes-et-les-controles",
+   "editore": "Direction générale de la concurrence, de la consommation et de la répression des fraudes (Francia)",
+   "tipo": "autorità consumatori",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 1,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Risultati dell'indagine 2025 su etichetta energetica e indici di riparabilità e durabilità (pubblicazione del 06-10-2026, nota dall'estratto della ricerca)."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "affidabile",
+   "ultimo_motivo": "Autorità di vigilanza ufficiale, ma la pagina risponde con HTTP 403 a leggi_pagina: il testo non è leggibile con gli strumenti attuali."
+  },
+  "actu-environnement.com": {
+   "nome": "Actu-Environnement",
+   "url": "https://www.actu-environnement.com/ae/news/non-conformite-affichage-indices-reparabilite-durabilite-controle-dgccrf-48642.php4",
+   "editore": "Cogiterra",
+   "tipo": "stampa specializzata",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 1,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Articolo del 09-10-2026 sull'indagine DGCCRF: 431 imprese controllate, circa un quarto in infrazione."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Testata specializzata seria, ma a pagamento; è leggibile solo il sommario."
+  },
+  "certifico.com": {
+   "nome": "Certifico, ultime news",
+   "url": "https://www.certifico.com/articoli-ultimi",
+   "editore": "Certifico srl",
+   "tipo": "stampa specializzata",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 2,
+   "spunti_ancorati": 2,
+   "esempi": [
+    "10-10-2026: Elenco quotidiano degli atti della GU del 09-10-2026: ha confermato D.L. 177/2026 e D.Lgs. 179/2026 e ha escluso altri atti del dominio nello stesso giorno."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "affidabile",
+   "ultimo_motivo": "Riporta gli estremi GU in modo puntuale; va usato come segnalatore, ancorando sempre a GU o Normattiva."
+  },
+  "mayerbrown.com": {
+   "nome": "Mayer Brown, Insights su CBAM",
+   "url": "https://www.mayerbrown.com/en/insights/publications/2026/10/eus-cbam-downstream-extension-and-anti-circumvention-amendments-the-road-to-trilogue",
+   "editore": "Mayer Brown",
+   "tipo": "studio legale",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Confronto del 07-10-2026 tra le posizioni di Commissione, Consiglio e Parlamento sull'estensione del CBAM a circa 180, 200 o 457 prodotti a valle (viti, bulloni, mobili metallici); primo trilogo polit"
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Commento qualificato, ma fuori finestra e senza fatti nuovi nella finestra: i mandati di Consiglio e Parlamento sono del 12-06 e del 15-09-2026. Utile per il trilogo del 20-10."
+  },
+  "eprs.europarl.europa.eu": {
+   "nome": "EPRS, briefing sul European product act",
+   "url": "https://eprs.europarl.europa.eu/contents/publications/EPRS/2026/06/EPRS_BRI(2026)789349.html",
+   "editore": "Servizio di ricerca del Parlamento europeo",
+   "tipo": "altro",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 1,
+   "spunti_ancorati": 1,
+   "esempi": [
+    "10-10-2026: Contesto sul pacchetto atteso (revisione di NLF, regolamento vigilanza del mercato e regolamento normazione); conferma che la proposta sulla normazione fa parte del pacchetto."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "affidabile",
+   "ultimo_motivo": "Fonte istituzionale. Nella finestra non risulta adottata la proposta su NLF e vigilanza del mercato."
+  },
+  "netz-trends.de": {
+   "nome": "Netz-trends.de",
+   "url": "https://www.netz-trends.de/tuev-verband-eu-produktsicherheitsagentur-bundesnetzagentur-7-7-millionen-geraete-2025-safety-gate-4671-meldungen-5-oktober-2026/",
+   "editore": "Netz-trends",
+   "tipo": "stampa specializzata",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Proposta del TÜV-Verband del 05-10-2026 per un'agenzia UE di conformità dei prodotti; dati Bundesnetzagentur 2025 (7,7 milioni di apparecchi contestati)."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "da scartare",
+   "ultimo_motivo": "Riprende un comunicato associativo senza il testo originale; fuori finestra e senza valore normativo. Meglio rivolgersi a TÜV-Verband e Bundesnetzagentur."
+  },
+  "bundesnetzagentur.de": {
+   "nome": "Bundesnetzagentur, comunicati sulla vigilanza del mercato",
+   "url": "https://www.bundesnetzagentur.de/DE/Vportal/TK/Produkte/marktueberwachung/start.html",
+   "editore": "Bundesnetzagentur (Germania)",
+   "tipo": "autorità di vigilanza",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Nessun fatto nella finestra; bilanci annuali di vigilanza su apparecchi radio ed EMC."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Autorità di vigilanza ufficiale per RED ed EMC; pubblica bilanci periodici utili."
+  },
+  "nvwa.nl": {
+   "nome": "NVWA, productveiligheid",
+   "url": "https://www.nvwa.nl/over-de-nvwa/publicaties/jaarbeeld-2025/productveiligheid",
+   "editore": "Nederlandse Voedsel- en Warenautoriteit (Paesi Bassi)",
+   "tipo": "autorità di vigilanza",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Nessun fatto nella finestra; bilancio 2025 (3.622 ispezioni, misure verso 533 imprese)."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Autorità ufficiale con campagne su piattaforme online e giocattoli."
+  },
+  "tukes.fi": {
+   "nome": "Tukes, What's new",
+   "url": "https://tukes.fi/en/about-us/what-s-new",
+   "editore": "Finnish Safety and Chemicals Agency (Finlandia)",
+   "tipo": "autorità di vigilanza",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Nessun fatto nella finestra; l'ultima notizia rilevante è del 10-09-2026 sul PPWR."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Autorità ufficiale per prodotti chimici e sicurezza dei prodotti di consumo."
+  },
+  "unioncamerepuglia.it": {
+   "nome": "Unioncamere Puglia e Portale Etichettatura e Sicurezza Prodotti",
+   "url": "https://www.unioncamerepuglia.it/eventi-ed-iniziative/een/sicurezza-prodotti-il-4-novembre-webinar-nazionale-sulle-attivita-di-vigilanza/",
+   "editore": "Unioncamere Puglia, Laboratorio Chimico Camera di commercio di Torino",
+   "tipo": "associazione",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Annuncio del webinar del 04-11-2026, in cui saranno presentati i risultati delle campagne di vigilanza 2025 del sistema camerale con il MIMIT."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Possibile fonte dei risultati delle campagne italiane di vigilanza dopo il 04-11-2026."
+  },
+  "ildoganalista.it": {
+   "nome": "Il Doganalista",
+   "url": "https://www.ildoganalista.it/",
+   "editore": "Consiglio nazionale degli spedizionieri doganali",
+   "tipo": "stampa specializzata",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Nessun contenuto nella finestra."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Rivista di settore su dogane e circolare 18/D; uscita bimestrale, poco tempestiva."
+  },
+  "data.consilium.europa.eu": {
+   "nome": "Registro del Consiglio UE, documento ST 13561/26",
+   "url": "https://data.consilium.europa.eu/doc/document/ST-13561-2026-INIT/en/pdf",
+   "editore": "Consiglio dell'Unione europea",
+   "tipo": "altro",
+   "prima_vista": "2026-10-10",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "10-10-2026: Rettifica del Reg. (UE) 2024/2847 del 02-10-2026; dall'estratto sembra riguardare la versione slovena. Potrebbe corrispondere a 32024R2847R(08), non leggibile."
+   ],
+   "ultima_vista": "2026-10-10",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Fonte ufficiale, ma il documento non è stato aperto e il collegamento con la rettifica in GUUE non è verificato."
+  }
+ },
+ "aggiornato": "2026-10-10"
+}

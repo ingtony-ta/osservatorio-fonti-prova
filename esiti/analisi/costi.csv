@@ -1,2 +1,3 @@
 data_utc,modello,giri,letture,ricerche,input,output,cache_scrittura,cache_lettura,costo_dollari,esito
 2026-10-08 16:31,claude-sonnet-5-5,14,57,30,40,62091,528453,5974332,2.840,ok
+2026-10-10 17:48,claude-opus-5-5,31,52,45,100,59350,596855,13995268,7.421,ok
