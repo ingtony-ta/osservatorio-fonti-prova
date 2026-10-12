@@ -1,0 +1,376 @@
+{
+ "finestra": {
+  "dal": "10-10-2026",
+  "al": "11-10-2026"
+ },
+ "voci": [
+  {
+   "area": "Sostanze chimiche (REACH, CLP, POPs, biocidi, detergenti)",
+   "titolo": "Dal 10-10-2026 si applica il divieto di PFHxA in abbigliamento, calzature, carta e cartone per alimenti, miscele per il pubblico e cosmetici",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "EUR-Lex, Regolamento (UE) 2024/2462 della Commissione",
+   "data": "10-10-2026",
+   "scadenza": "10-10-2027",
+   "confermata": true,
+   "descrizione": "Non si tratta di un atto nuovo: il 10-10-2026 è entrata in applicazione la prima fase della restrizione del PFHxA (acido perfluoroesanoico), dei suoi sali e delle sostanze correlate. La restrizione è stata introdotta dal Reg. (UE) 2024/2462 come voce 79 dell'allegato XVII del REACH. Da quella data è vietato immettere sul mercato o usare materiali che contengono queste sostanze a 25 ppb o più (somma di PFHxA e sali) oppure a 1 000 ppb o più (somma delle sostanze correlate), misurati sui materiali omogenei. Il divieto riguarda: tessili, cuoio, pellicce e pelli per abbigliamento e accessori destinati al pubblico; calzature per il pubblico; carta e cartone a contatto con alimenti soggetti al Reg. (CE) 1935/2004; miscele per il pubblico; cosmetici. Sono esclusi i DPI di categoria III per i rischi elencati, i dispositivi che rientrano nei regolamenti 2017/745 e 2017/746 e i tessili per l'edilizia. La restrizione non vale per articoli e miscele immessi sul mercato prima del 10-10-2026, quindi le partite che l'importatore immette sul mercato da quella data devono rispettare i limiti. Dal 10-10-2027 la restrizione si estende agli altri tessili, cuoio, pellicce e pelli destinati al pubblico, per esempio tappeti, tende, tappezzeria e biancheria.",
+   "url": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R2462",
+   "url_ufficiale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:32024R2462",
+   "documenti": [
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:32024R2462"
+   ],
+   "notebook": "Chemicals",
+   "candidato_wiki": true,
+   "atto": "32024R2462",
+   "come_trovata": "ricerca: ECHA REACH restriction CLP news 10 October 2026"
+  },
+  {
+   "area": "Macchine",
+   "titolo": "Regolamento macchine: lo schema di decreto italiano è alla Camera come AG 445, parere entro il 18-11-2026",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Camera dei deputati, Atti del Governo sottoposti a parere",
+   "data": "09-10-2026",
+   "scadenza": "18-11-2026",
+   "confermata": true,
+   "descrizione": "Il Consiglio dei ministri aveva approvato il 02-10-2026, in esame preliminare, lo schema di decreto legislativo che adegua la normativa nazionale al Reg. (UE) 2023/1230 sulle macchine (voce già riportata, con il contenuto). Lo schema è ora alla Camera come Atto del Governo n. 445: il fatto nuovo è proprio questa trasmissione. Il 09-10-2026 lo schema è stato assegnato alla X Commissione (Attività produttive), che deve dare il parere entro il 18-11-2026. La V Commissione (Bilancio) deve deliberare gli eventuali rilievi entro il 29-10-2026. La XIV Commissione (Politiche dell'Unione europea) deve valutare la compatibilità con il diritto UE entro il 18-11-2026. Dopo i pareri servono l'approvazione definitiva del Consiglio dei ministri e la pubblicazione in Gazzetta Ufficiale. Il regolamento macchine si applica dal 20-01-2027 e abroga la Dir. 2006/42/CE, quindi il decreto deve arrivare prima di quella data. La data riportata è fuori finestra di un giorno, ma la trasmissione non era mai stata segnalata.",
+   "url": "https://www.camera.it/leg19/1107?tipologia=atto&shadow_organo_parlamentare=3502&id_tipografico=02",
+   "url_ufficiale": "https://www.camera.it/leg19/1107?tipologia=atto&shadow_organo_parlamentare=3502&id_tipografico=02",
+   "documenti": [],
+   "notebook": "Macchine",
+   "candidato_wiki": false,
+   "atto": "AG 445 (XIX legislatura), schema di D.Lgs. di adeguamento al Reg. (UE) 2023/1230",
+   "come_trovata": "ricerca: schema decreto legislativo responsabilità prodotti difettosi direttiva 2024/2853 ottobre 2026 (pagina della Camera sugli Atti del Governo aperta per il monitoraggio M-03)"
+  },
+  {
+   "area": "Cosmetici, digitale (CRA, AI Act), altro",
+   "titolo": "Cyber Resilience Act: lo schema di decreto italiano è alla Camera come AG 447, parere entro il 18-11-2026",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Camera dei deputati, Atti del Governo sottoposti a parere",
+   "data": "09-10-2026",
+   "scadenza": "18-11-2026",
+   "confermata": true,
+   "descrizione": "Il Consiglio dei ministri aveva approvato il 02-10-2026, in esame preliminare, lo schema di decreto legislativo che adegua la normativa nazionale al Reg. (UE) 2024/2847 sulla ciberresilienza dei prodotti con elementi digitali (voce già riportata, con il contenuto). Lo schema è ora alla Camera come Atto del Governo n. 447: il fatto nuovo è proprio questa trasmissione. Il 09-10-2026 lo schema è stato assegnato alle Commissioni riunite I (Affari costituzionali) e IX (Trasporti), che devono dare il parere entro il 18-11-2026. La V Commissione (Bilancio) deve deliberare gli eventuali rilievi entro il 29-10-2026. La XIV Commissione deve valutare la compatibilità con il diritto UE entro il 18-11-2026. Seguono l'approvazione definitiva e la pubblicazione in Gazzetta Ufficiale. Il regolamento si applica per intero dall'11-12-2027, mentre gli obblighi di segnalazione dei fabbricanti valgono già dall'11-09-2026. Il decreto riguarda gli importatori di prodotti connessi (elettronica, giocattoli connessi, dispositivi IoT). La data riportata è fuori finestra di un giorno, ma la trasmissione non era mai stata segnalata.",
+   "url": "https://www.camera.it/leg19/1107?tipologia=atto&shadow_organo_parlamentare=3502&id_tipografico=02",
+   "url_ufficiale": "https://www.camera.it/leg19/1107?tipologia=atto&shadow_organo_parlamentare=3502&id_tipografico=02",
+   "documenti": [],
+   "notebook": "",
+   "candidato_wiki": false,
+   "atto": "AG 447 (XIX legislatura), schema di D.Lgs. di adeguamento al Reg. (UE) 2024/2847",
+   "come_trovata": "ricerca: schema decreto legislativo responsabilità prodotti difettosi direttiva 2024/2853 ottobre 2026 (pagina della Camera sugli Atti del Governo aperta per il monitoraggio M-03)"
+  },
+  {
+   "area": "Cosmetici, digitale (CRA, AI Act), altro",
+   "titolo": "Tutela dei minori online: feedback aperto fino al 03-12-2026 sulla proposta EU KIDS Act (COM(2026) 681)",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, Have Your Say, iniziativa 19418; EUR-Lex 52026PC0681",
+   "data": "01-10-2026",
+   "scadenza": "03-12-2026",
+   "confermata": true,
+   "descrizione": "Il 17-09-2026 la Commissione ha adottato la proposta di regolamento COM(2026) 681, chiamata EU KIDS Act. Dal 01-10-2026 raccoglie commenti sul portale Have Your Say fino al 03-12-2026; al 12-10-2026 i contributi erano 2 318. Secondo la relazione della proposta pubblicata su EUR-Lex, i social network e le piattaforme di condivisione video con determinate funzionalità non potranno far aprire un account autonomo ai minori di 15 anni. Dai 13 anni i genitori potranno creare account con funzioni limitate. Sono previste regole di sicurezza fin dalla progettazione anche per app store, alcuni giochi online e chatbot e compagni basati su IA. La proposta riguarda i clienti solo se gestiscono app, giochi online o servizi digitali collegati ai loro prodotti; non cambia i requisiti dei prodotti fisici. Si tratta di una proposta, che deve ancora essere negoziata e adottata da Parlamento e Consiglio. La voce è fuori finestra, ma non compare fra quelle già riportate.",
+   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19418_it",
+   "url_ufficiale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:52026PC0681",
+   "documenti": [
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52026PC0681"
+   ],
+   "notebook": "",
+   "candidato_wiki": false,
+   "atto": "COM(2026) 681 (52026PC0681)",
+   "come_trovata": "raccolta: Have Your Say, consultazioni aperte"
+  }
+ ],
+ "monitoraggi": [
+  {
+   "id": "M-01",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "La pagina dell'iniziativa 14456 risulta ancora in fase di consultazione interservizi. La bozza (Ares(2025)11169592) è stata pubblicata il 15-12-2025 e il feedback si è chiuso il 26-01-2026 con 91 contributi. Non risultano adozione né pubblicazione in Gazzetta UE. Le etichette dell'art. 13, par. 1-3, scattano dal 18-08-2026 o 18 mesi dopo l'entrata in vigore dell'atto di esecuzione, se questa data è successiva. Ricerca fatta: battery labelling implementing regulation 2023/1542 Article 13 adopted October 2026.",
+   "fonti": [
+    "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14456_it"
+   ]
+  },
+  {
+   "id": "M-02",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Il D.Lgs. 25-09-2026, n. 176 è stato pubblicato nella GU n. 233 del 07-10-2026 (voce già riportata) ed entra in vigore il 22-10-2026. Nella finestra non risultano circolari, FAQ o rettifiche. Ricerca fatta: decreto legislativo 176/2026 diritto alla riparazione.",
+   "fonti": [
+    "http://www.gazzettaufficiale.it/eli/id/2026/10/07/26G00191/SG"
+   ]
+  },
+  {
+   "id": "M-03",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Sulla pagina della Camera l'AG 434 risulta con parere espresso: II Commissione favorevole con osservazioni il 23-09-2026, V e XIV favorevoli il 16-09-2026. Nella finestra non ci sono state sedute del Consiglio dei ministri e la Gazzetta non contiene il decreto. Il termine di recepimento è il 09-12-2026. Ricerca fatta: schema decreto legislativo responsabilità prodotti difettosi direttiva 2024/2853 ottobre 2026.",
+   "fonti": [
+    "https://www.camera.it/leg19/1107?tipologia=atto&shadow_organo_parlamentare=3502&id_tipografico=02"
+   ]
+  },
+  {
+   "id": "M-04",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "L'iniziativa 19243 (decisione di esecuzione sulle etichette armonizzate di imballaggi e contenitori per rifiuti, art. 12, par. 6, e art. 13, par. 2, del PPWR) è ancora in pianificazione: la bozza non è pubblicata e l'adozione è prevista nel quarto trimestre 2026. Nel tracker EUROPEN gli atti sulle etichette risultano in ritardo; per l'atto sul registro dei produttori (art. 44, par. 14) la consultazione è stata aperta il 06-08-2026. In Gazzetta UE non ci sono atti delegati o di esecuzione nella finestra. Ricerche fatte: PPWR delegated act implementing act packaging October 2026; PPWR harmonised labelling implementing act draft Commission October 2026.",
+   "fonti": [
+    "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19243_it",
+    "https://www.ppwrtracker-europen.eu/secondary-legislation-tracker/"
+   ]
+  },
+  {
+   "id": "M-05",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Il voto ENVI del 05-10-2026 è già stato riportato. Il voto in plenaria per il mandato negoziale è atteso nella sessione di ottobre (secondo una fonte di commento, il 19-10-2026). Nella finestra non risultano voti, accordi o atti del Consiglio. Ricerca fatta: Omnibus environmental simplification authorised representative EPR batteries plenary vote October 2026.",
+   "fonti": [
+    "https://www.eurocommerce.eu/app/uploads/2026/10/20261002-envi-pr-omnibus-ar-epr-after-ep-envi-vote.pdf",
+    "https://data.consilium.europa.eu/doc/document/ST-10777-2026-INIT/en/pdf"
+   ]
+  },
+  {
+   "id": "M-07",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Le ultime novità della sezione Dogane del sito ADM sono del 07-10-2026 (migrazione della piattaforma e contingenti tariffari ALS) e non riguardano il PPWR. Non risulta rimessa la circolare 18/2026. Ricerca fatta: Agenzia dogane circolare imballaggi PPWR ottobre 2026.",
+   "fonti": [
+    "https://www.adm.gov.it/portale/dogane"
+   ]
+  },
+  {
+   "id": "M-08",
+   "esito": "nessun fatto nuovo trovato",
+   "nota": "Non risultano schemi di decreto sulle sanzioni PPWR trasmessi alle Camere: l'elenco degli Atti del Governo arriva all'AG 447 e nessuno riguarda il Reg. (UE) 2025/40. Nella finestra non ci sono sedute del Consiglio dei ministri. Il termine della delega (art. 14 della L. 36/2026) è il 09-12-2026. Ricerca fatta: decreto sanzioni regolamento imballaggi 2025/40 autorità vigilanza schema decreto legislativo.",
+   "fonti": [
+    "https://www.camera.it/leg19/1107?tipologia=atto&shadow_organo_parlamentare=3502&id_tipografico=02"
+   ]
+  }
+ ],
+ "fonti_proposte": [
+  {
+   "nome": "Camera dei deputati, elenco degli Atti del Governo sottoposti a parere",
+   "url": "https://www.camera.it/leg19/1107?tipologia=atto&shadow_organo_parlamentare=3502&id_tipografico=02",
+   "motivo": "Riporta numero AG, date di assegnazione e termini dei pareri per tutti gli schemi di decreto legislativo (AG 434, 445, 447): serve a seguire M-03, M-08 e gli adeguamenti ai regolamenti UE di prodotto prima del passaggio definitivo in Consiglio dei ministri."
+  },
+  {
+   "nome": "Have Your Say, iniziativa 19243 sulle etichette armonizzate PPWR",
+   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19243_it",
+   "motivo": "Pagina su cui comparirà la bozza della decisione di esecuzione sulle etichette armonizzate (art. 12, par. 6, PPWR), con adozione prevista nel quarto trimestre 2026; utile per M-04."
+  }
+ ],
+ "fonti_scoperte": [
+  {
+   "nome": "Certifico, ultime news",
+   "url": "https://www.certifico.com/articoli-ultimi",
+   "editore": "Certifico srl",
+   "tipo": "stampa specializzata",
+   "cosa_ha_portato": "Esaminata la lista del 08/12-10-2026: nella finestra solo documenti ambientali regionali, circolari sui trasporti e una scheda Safety Gate (esclusa). Nessuno spunto nel dominio.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "affidabile",
+   "motivo": "Indica sempre la Gazzetta di origine; nella finestra non sono uscite novità di dominio. Il campo sull'ancoraggio è false solo perché non c'erano spunti."
+  },
+  {
+   "nome": "GrNet e stampa locale sui sequestri della Guardia di Finanza",
+   "url": "https://www.grnet.it/reggio-emilia-sequestrati-oltre-mille-articoli-halloween-non-sicuri/",
+   "editore": "GrNet (testata online) e quotidiani locali",
+   "tipo": "stampa specializzata",
+   "cosa_ha_portato": "Sequestri di articoli per Halloween privi di marcatura CE e di informazioni in italiano a Reggio Emilia (08-10-2026) e Poggibonsi (08/09-10-2026).",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da scartare",
+   "motivo": "Cronaca locale di controlli di routine, fuori finestra e senza un provvedimento pubblico a cui ancorarla."
+  },
+  {
+   "nome": "Bundesnetzagentur, Deutsches Marktüberwachungsforum",
+   "url": "https://www.bundesnetzagentur.de/855174",
+   "editore": "Bundesnetzagentur",
+   "tipo": "autorità di vigilanza",
+   "cosa_ha_portato": "Annuncio della conferenza tedesca sulla vigilanza del mercato di ottobre 2026 (revisione del NLF e del regolamento 2019/1020, rete EUPCN, e-commerce). Nella finestra nessuna decisione né campagna.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da seguire",
+   "motivo": "Fonte ufficiale; gli esiti della conferenza possono dare indicazioni sulla revisione della vigilanza del mercato."
+  },
+  {
+   "nome": "PROSAFE, Joint Actions",
+   "url": "https://prosafe.org/index.php/en/46-joint-actions",
+   "editore": "PROSAFE",
+   "tipo": "associazione",
+   "cosa_ha_portato": "Nessun risultato di azioni congiunte pubblicato nella finestra; nelle pagine trovate i comunicati sono datati.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da seguire",
+   "motivo": "Coordina le azioni congiunte JAHARP ed EEPLIANT, i cui risultati vanno sempre riportati; il sito si aggiorna di rado."
+  },
+  {
+   "nome": "CEN-CENELEC, News",
+   "url": "https://www.cencenelec.eu/news-events/news/",
+   "editore": "CEN e CENELEC",
+   "tipo": "ente di normazione",
+   "cosa_ha_portato": "Comunicato del 06-10-2026 critico sulla proposta di nuovo regolamento sulla normazione, una specifica tecnica CEN del 05-10-2026 sui dati antropometrici dei bambini e una bozza di CWA dell'08-10-2026. Nulla nella finestra.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "affidabile",
+   "motivo": "Editore originale delle norme EN e delle posizioni degli enti di normazione europei; serve per le norme tecniche in preparazione."
+  },
+  {
+   "nome": "Tukes, What's new",
+   "url": "https://tukes.fi/en/about-us/what-s-new",
+   "editore": "Tukes (Finnish Safety and Chemicals Agency)",
+   "tipo": "autorità di vigilanza",
+   "cosa_ha_portato": "La pagina risponde HTTP 403. Dai risultati di ricerca l'ultima notizia indicizzata è del 29-06-2026 (azione congiunta sull'etichettatura delle fibre tessili). Nulla nella finestra.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da seguire",
+   "motivo": "Autorità ufficiale con campagne su prodotti di consumo e sostanze chimiche, ma non leggibile dallo strumento."
+  },
+  {
+   "nome": "DGCCRF, Communiqués de presse",
+   "url": "https://www.economie.gouv.fr/dgccrf/presse",
+   "editore": "DGCCRF, Ministero dell'economia francese",
+   "tipo": "autorità consumatori",
+   "cosa_ha_portato": "Comunicati del 05-10-2026 (sigarette elettroniche usa e getta, fuori dominio) e del 01-10-2026 (alimentazione sostenibile, fuori dominio). La pagina delle indagini risponde HTTP 403.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "affidabile",
+   "motivo": "Editore ufficiale delle indagini su prodotti di consumo; nella finestra nessun comunicato di dominio."
+  },
+  {
+   "nome": "Polygon One, stato del PPWR",
+   "url": "https://polygon-one.com/en/ppwr-current-status",
+   "editore": "Polygon One (società di consulenza)",
+   "tipo": "altro",
+   "cosa_ha_portato": "Ha indicato l'iniziativa 19243 sulle etichette armonizzate PPWR con adozione prevista nel quarto trimestre 2026, poi verificata sulla pagina Have Your Say.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": true,
+   "giudizio": "da seguire",
+   "motivo": "Lo spunto è risultato corretto sulla fonte primaria; si tratta però di un sito commerciale, da usare solo come pista."
+  },
+  {
+   "nome": "cyberresilienceact.eu, State of play",
+   "url": "https://www.cyberresilienceact.eu/state-of-play.html",
+   "editore": "editore non indicato (guida indipendente)",
+   "tipo": "altro",
+   "cosa_ha_portato": "Calendario del CRA (norme verticali attese per il 31-10-2026, segnalazioni dall'11-09-2026); nessuna informazione sulla rettifica 32024R2847R(08).",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da scartare",
+   "motivo": "Editore non identificato; informazioni da verificare caso per caso sulle fonti ufficiali."
+  },
+  {
+   "nome": "BEUC, Safety",
+   "url": "https://www.beuc.eu/priorities/safety",
+   "editore": "BEUC",
+   "tipo": "associazione",
+   "cosa_ha_portato": "Ultime prese di posizione sul European Product Act (lettera del 07-07-2026) e sui cosmetici; nessun test o comunicato nella finestra.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da seguire",
+   "motivo": "Associazione europea dei consumatori; i test delle associazioni nazionali spesso anticipano campagne di vigilanza."
+  },
+  {
+   "nome": "Sikkerhedsstyrelsen, produktsikkerhed",
+   "url": "https://www.sik.dk/privat/goer-det-sikkert/produktsikkerhed/saadan-kontrollerer-vi-sikkerhed-produkter",
+   "editore": "Sikkerhedsstyrelsen (dal 2026 parte di Erhvervsstyrelsen)",
+   "tipo": "autorità di vigilanza",
+   "cosa_ha_portato": "Pagine istituzionali su controlli e sanzioni; nessuna campagna nella finestra.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da seguire",
+   "motivo": "Autorità danese competente per apparecchi elettrici, gas, giocattoli, prodotti da costruzione ed ecodesign."
+  },
+  {
+   "nome": "CCPC Ireland, Consumers",
+   "url": "https://www.ccpc.ie/consumers/",
+   "editore": "Competition and Consumer Protection Commission",
+   "tipo": "autorità consumatori",
+   "cosa_ha_portato": "Campagna Halloween del 2025 sui costumi trattati come giocattoli (marcatura CE, parti piccole, cordoncini); per il 2026 nessuna pubblicazione nella finestra.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da seguire",
+   "motivo": "Pubblica ogni ottobre i dati di ritiro dei giocattoli per Halloween; probabile pubblicazione nelle prossime settimane."
+  },
+  {
+   "nome": "Il Doganalista",
+   "url": "https://www.ildoganalista.it/",
+   "editore": "Il Doganalista (rivista)",
+   "tipo": "stampa specializzata",
+   "cosa_ha_portato": "Ultimo numero di agosto 2026 (prodotti ricondizionati in kit, circolare ADM 16/D del 19-06-2026); nulla nella finestra.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da seguire",
+   "motivo": "Rivista bimestrale con commenti doganali autorevoli, non adatta a seguire le novità giornaliere."
+  },
+  {
+   "nome": "NVWA, Actuele onderwerpen",
+   "url": "https://www.nvwa.nl/nieuws-en-media/actuele-onderwerpen",
+   "editore": "NVWA",
+   "tipo": "autorità di vigilanza",
+   "cosa_ha_portato": "Ultimo tema sui prodotti: indagine sui giocattoli squishy del 15-07-2026; nulla nella finestra.",
+   "voci_collegate": [],
+   "spunto_ancorato_a_fonte_primaria": false,
+   "giudizio": "da seguire",
+   "motivo": "Autorità olandese per la sicurezza dei prodotti di consumo; pubblicazioni poco frequenti."
+  }
+ ],
+ "ricerche": [
+  "battery labelling implementing regulation 2023/1542 Article 13 adopted October 2026",
+  "schema decreto legislativo responsabilità prodotti difettosi direttiva 2024/2853 ottobre 2026",
+  "PPWR delegated act implementing act packaging October 2026",
+  "Omnibus environmental simplification authorised representative EPR batteries plenary vote October 2026",
+  "decreto legislativo 176/2026 diritto alla riparazione",
+  "Agenzia dogane circolare imballaggi PPWR ottobre 2026",
+  "decreto sanzioni regolamento imballaggi 2025/40 autorità vigilanza schema decreto legislativo",
+  "GPSR general product safety regulation news October 2026",
+  "RoHS WEEE radio equipment directive news October 2026",
+  "ECHA REACH restriction CLP news 10 October 2026",
+  "toy safety regulation 2025/2509 implementation news October 2026",
+  "machinery regulation 2023/1230 harmonised standards guidance news October 2026",
+  "PPE regulation 2016/425 harmonised standards OJ October 2026",
+  "gas appliances regulation 2016/426 hydrogen revision news 2026",
+  "ecodesign ESPR delegated act digital product passport October 2026",
+  "pressure equipment directive 2014/68 news October 2026",
+  "food contact materials regulation Commission October 2026 plastic BPA",
+  "AGCM sanzione pratiche commerciali scorrette green claims ottobre 2026",
+  "CBAM news 9 October 2026 downstream extension Council",
+  "construction products regulation 2024/3110 implementing act harmonised technical specifications October 2026",
+  "drinking water directive materials in contact European positive lists 2026 news",
+  "EUDR deforestation regulation news October 2026",
+  "textile labelling regulation revision EPR textiles news October 2026",
+  "MDR medical devices regulation targeted revision Council Parliament October 2026",
+  "EU KIDS Act COM(2026) 681 proposal online platforms minors obligations",
+  "cosmetics regulation CMR omnibus amendment annex October 2026",
+  "sequestro prodotti non sicuri Guardia di Finanza giocattoli 10 ottobre 2026",
+  "decreto legislativo sanzioni regolamento (UE) 2023/988 sicurezza generale prodotti Gazzetta Ufficiale",
+  "Bundesnetzagentur Marktüberwachung Produkte Oktober 2026",
+  "PROSAFE joint action product safety results October 2026",
+  "CEN CENELEC news October 2026 standards",
+  "Temu DSA Commission decision fine illegal products 2026",
+  "Tukes market surveillance products October 2026 dangerous",
+  "DGCCRF enquête résultats octobre 2026 produits non conformes",
+  "PPWR harmonised labelling implementing act draft Commission October 2026",
+  "corrigendum Cyber Resilience Act 2024/2847 October 2026 Official Journal",
+  "BEUC product safety test October 2026",
+  "Sikkerhedsstyrelsen kontrol produkter oktober 2026",
+  "CONAI etichettatura ambientale imballaggi novità ottobre 2026",
+  "RAEE decreto MASE ottobre 2026 produttori AEE",
+  "CCPC Ireland Halloween costumes product safety 2026"
+ ],
+ "note_fonti": [
+  "Ministero della salute, comunicati: nella raccolta errore 'ParseError: syntax error: line 1, column 0'. La lettura diretta di https://www.salute.gov.it/new/it/news-e-media/comunicati-stampa/ restituisce la pagina di validazione del browser Gcore (sfida anti-bot): comunicati non letti.",
+  "32019R1021R(04), rettifica del regolamento POPs (2019/1021) del 06-10-2026, nella sezione 'GUUE, atti collegati': leggi_atto_ue dà HTTP 404 in italiano e in inglese; EUR-Lex (pagine ALL e TXT) dà HTTP 202 con pagina vuota (sfida anti-bot). Non è stato possibile verificare se tocca la versione italiana: da ricontrollare.",
+  "32024R2847R(08), rettifica del Cyber Resilience Act del 09-10-2026, nella sezione 'GUUE, atti collegati': leggi_atto_ue dà HTTP 404 in italiano e in inglese; EUR-Lex (pagine ALL e TXT) dà HTTP 202 con pagina vuota (sfida anti-bot). Non verificata: da ricontrollare.",
+  "32026R2214, rettifica del Reg. di esecuzione (UE) 2024/2215 sui certificati F-gas: letta, l'art. 1 indica che non riguarda la versione italiana (rettifica delle versioni polacca, lituana e ungherese); esclusa.",
+  "GUUE, atti nuovi (SPARQL): tutte le altre righe sono PESC, concentrazioni, agricoltura, antidumping, nomine, statistiche IVA (32026R2210) e liberalizzazione degli scambi con l'Armenia (32026R2269); escluse in quanto fuori dominio.",
+  "GUUE, atti che citano gli atti di riferimento: 52026XC05244 e 52026XC05183 (riesami antidumping) esclusi; 52026PC0780 già riportato il 09-10-2026.",
+  "Gazzetta Ufficiale, serie UE n. 80 del 12-10-2026: sommario letto, nessun atto nel dominio (regolamenti veterinari, PESC, antidumping sui tessuti in fibra di vetro, aiuto di Stato).",
+  "Gazzetta Ufficiale, serie generale: letto il sommario della GU n. 236 del 10-10-2026, nessun atto nel dominio (il decreto MAECI sul controllo delle esportazioni di motori per l'aviazione è fuori dominio). L'11-10-2026 è domenica, senza Gazzetta. Gli atti della GU del 12-10-2026 nella raccolta sono fuori finestra e nessuno è nel dominio.",
+  "Elementi della raccolta datati 12-10-2026 lasciati alla prossima finestra perché successivi a quella in esame: Have Your Say 19292 (atto di esecuzione degli artt. 75c-75d dell'AI Act, feedback fino al 09-11-2026) e 14593; sala stampa e notizie della Commissione del 12-10-2026 (fuori dominio).",
+  "Commissione, sala stampa e notizie; Consiglio UE; Governo; MIMIT: nessun elemento del 10/11-10-2026 nel dominio. IP/26/2091 (Eurobarometro sull'Ecolabel UE, 08-10-2026) non inserito: è un sondaggio, non un fatto normativo.",
+  "https://tukes.fi/en/about-us/what-s-new: HTTP 403.",
+  "https://www.economie.gouv.fr/dgccrf/laction-de-la-dgccrf/les-enquetes-et-les-controles: HTTP 403.",
+  "https://www.adm.gov.it/portale/dogane/operatore/circolari: HTTP 404; letta al suo posto https://www.adm.gov.it/portale/dogane.",
+  "https://www.camera.it/leg19/682?atto=445&tipoAtto=Atto&idLegislatura=19&tab=1: la pagina contiene solo i menu, senza la scheda dell'atto; i dati dell'AG 445 e dell'AG 447 sono presi dall'elenco degli Atti del Governo.",
+  "Nessun contenuto con istruzioni trovato nelle fonti lette."
+ ],
+ "autoverifica": "Sezioni della raccolta esaminate: 11 su 11 (più la riga di errore del Ministero della salute, verificata e non leggibile). Monitoraggi: 7 su 7. Aree con almeno una ricerca: 20 su 20. Ricerca aperta: 13 ricerche, 14 fonti esaminate, 0 voci (nessuno spunto nel dominio nella finestra, che cadeva in un fine settimana). Ricerche totali: 41 su un tetto di 65. Controlli non eseguiti: rettifiche 32019R1021R(04) e 32024R2847R(08) (HTTP 404 sul Cellar, HTTP 202 con pagina vuota su EUR-Lex); comunicati del Ministero della salute (sfida anti-bot Gcore); pagine di Tukes e DGCCRF (HTTP 403); scheda dell'AG 445 alla Camera (pagina senza contenuto).",
+ "generato_alle_utc": "2026-10-12T21:38:59+00:00",
+ "modello": "claude-opus-5-5",
+ "costo_stimato_dollari": 4.855
+}

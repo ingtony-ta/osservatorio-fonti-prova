@@ -7,15 +7,16 @@
    "editore": "Direction générale de la concurrence, de la consommation et de la répression des fraudes (Francia)",
    "tipo": "autorità consumatori",
    "prima_vista": "2026-10-10",
-   "esecuzioni": 1,
+   "esecuzioni": 2,
    "spunti": 1,
    "spunti_ancorati": 0,
    "esempi": [
+    "12-10-2026: Comunicati del 05-10-2026 (sigarette elettroniche usa e getta, fuori dominio) e del 01-10-2026 (alimentazione sostenibile, fuori dominio). La pagina delle indagini risponde HTTP 403.",
     "10-10-2026: Risultati dell'indagine 2025 su etichetta energetica e indici di riparabilità e durabilità (pubblicazione del 06-10-2026, nota dall'estratto della ricerca)."
    ],
-   "ultima_vista": "2026-10-10",
+   "ultima_vista": "2026-10-12",
    "ultimo_giudizio": "affidabile",
-   "ultimo_motivo": "Autorità di vigilanza ufficiale, ma la pagina risponde con HTTP 403 a leggi_pagina: il testo non è leggibile con gli strumenti attuali."
+   "ultimo_motivo": "Editore ufficiale delle indagini su prodotti di consumo; nella finestra nessun comunicato di dominio."
   },
   "actu-environnement.com": {
    "nome": "Actu-Environnement",
@@ -39,15 +40,16 @@
    "editore": "Certifico srl",
    "tipo": "stampa specializzata",
    "prima_vista": "2026-10-10",
-   "esecuzioni": 1,
+   "esecuzioni": 2,
    "spunti": 2,
    "spunti_ancorati": 2,
    "esempi": [
+    "12-10-2026: Esaminata la lista del 08/12-10-2026: nella finestra solo documenti ambientali regionali, circolari sui trasporti e una scheda Safety Gate (esclusa). Nessuno spunto nel dominio.",
     "10-10-2026: Elenco quotidiano degli atti della GU del 09-10-2026: ha confermato D.L. 177/2026 e D.Lgs. 179/2026 e ha escluso altri atti del dominio nello stesso giorno."
    ],
-   "ultima_vista": "2026-10-10",
+   "ultima_vista": "2026-10-12",
    "ultimo_giudizio": "affidabile",
-   "ultimo_motivo": "Riporta gli estremi GU in modo puntuale; va usato come segnalatore, ancorando sempre a GU o Normattiva."
+   "ultimo_motivo": "Indica sempre la Gazzetta di origine; nella finestra non sono uscite novità di dominio. Il campo sull'ancoraggio è false solo perché non c'erano spunti."
   },
   "mayerbrown.com": {
    "nome": "Mayer Brown, Insights su CBAM",
@@ -103,15 +105,16 @@
    "editore": "Bundesnetzagentur (Germania)",
    "tipo": "autorità di vigilanza",
    "prima_vista": "2026-10-10",
-   "esecuzioni": 1,
+   "esecuzioni": 2,
    "spunti": 0,
    "spunti_ancorati": 0,
    "esempi": [
+    "12-10-2026: Annuncio della conferenza tedesca sulla vigilanza del mercato di ottobre 2026 (revisione del NLF e del regolamento 2019/1020, rete EUPCN, e-commerce). Nella finestra nessuna decisione né campagna.",
     "10-10-2026: Nessun fatto nella finestra; bilanci annuali di vigilanza su apparecchi radio ed EMC."
    ],
-   "ultima_vista": "2026-10-10",
+   "ultima_vista": "2026-10-12",
    "ultimo_giudizio": "da seguire",
-   "ultimo_motivo": "Autorità di vigilanza ufficiale per RED ed EMC; pubblica bilanci periodici utili."
+   "ultimo_motivo": "Fonte ufficiale; gli esiti della conferenza possono dare indicazioni sulla revisione della vigilanza del mercato."
   },
   "nvwa.nl": {
    "nome": "NVWA, productveiligheid",
@@ -119,15 +122,16 @@
    "editore": "Nederlandse Voedsel- en Warenautoriteit (Paesi Bassi)",
    "tipo": "autorità di vigilanza",
    "prima_vista": "2026-10-10",
-   "esecuzioni": 1,
+   "esecuzioni": 2,
    "spunti": 0,
    "spunti_ancorati": 0,
    "esempi": [
+    "12-10-2026: Ultimo tema sui prodotti: indagine sui giocattoli squishy del 15-07-2026; nulla nella finestra.",
     "10-10-2026: Nessun fatto nella finestra; bilancio 2025 (3.622 ispezioni, misure verso 533 imprese)."
    ],
-   "ultima_vista": "2026-10-10",
+   "ultima_vista": "2026-10-12",
    "ultimo_giudizio": "da seguire",
-   "ultimo_motivo": "Autorità ufficiale con campagne su piattaforme online e giocattoli."
+   "ultimo_motivo": "Autorità olandese per la sicurezza dei prodotti di consumo; pubblicazioni poco frequenti."
   },
   "tukes.fi": {
    "nome": "Tukes, What's new",
@@ -135,15 +139,16 @@
    "editore": "Finnish Safety and Chemicals Agency (Finlandia)",
    "tipo": "autorità di vigilanza",
    "prima_vista": "2026-10-10",
-   "esecuzioni": 1,
+   "esecuzioni": 2,
    "spunti": 0,
    "spunti_ancorati": 0,
    "esempi": [
+    "12-10-2026: La pagina risponde HTTP 403. Dai risultati di ricerca l'ultima notizia indicizzata è del 29-06-2026 (azione congiunta sull'etichettatura delle fibre tessili). Nulla nella finestra.",
     "10-10-2026: Nessun fatto nella finestra; l'ultima notizia rilevante è del 10-09-2026 sul PPWR."
    ],
-   "ultima_vista": "2026-10-10",
+   "ultima_vista": "2026-10-12",
    "ultimo_giudizio": "da seguire",
-   "ultimo_motivo": "Autorità ufficiale per prodotti chimici e sicurezza dei prodotti di consumo."
+   "ultimo_motivo": "Autorità ufficiale con campagne su prodotti di consumo e sostanze chimiche, ma non leggibile dallo strumento."
   },
   "unioncamerepuglia.it": {
    "nome": "Unioncamere Puglia e Portale Etichettatura e Sicurezza Prodotti",
@@ -167,15 +172,16 @@
    "editore": "Consiglio nazionale degli spedizionieri doganali",
    "tipo": "stampa specializzata",
    "prima_vista": "2026-10-10",
-   "esecuzioni": 1,
+   "esecuzioni": 2,
    "spunti": 0,
    "spunti_ancorati": 0,
    "esempi": [
+    "12-10-2026: Ultimo numero di agosto 2026 (prodotti ricondizionati in kit, circolare ADM 16/D del 19-06-2026); nulla nella finestra.",
     "10-10-2026: Nessun contenuto nella finestra."
    ],
-   "ultima_vista": "2026-10-10",
+   "ultima_vista": "2026-10-12",
    "ultimo_giudizio": "da seguire",
-   "ultimo_motivo": "Rivista di settore su dogane e circolare 18/D; uscita bimestrale, poco tempestiva."
+   "ultimo_motivo": "Rivista bimestrale con commenti doganali autorevoli, non adatta a seguire le novità giornaliere."
   },
   "data.consilium.europa.eu": {
    "nome": "Registro del Consiglio UE, documento ST 13561/26",
@@ -192,7 +198,135 @@
    "ultima_vista": "2026-10-10",
    "ultimo_giudizio": "da seguire",
    "ultimo_motivo": "Fonte ufficiale, ma il documento non è stato aperto e il collegamento con la rettifica in GUUE non è verificato."
+  },
+  "grnet.it": {
+   "nome": "GrNet e stampa locale sui sequestri della Guardia di Finanza",
+   "url": "https://www.grnet.it/reggio-emilia-sequestrati-oltre-mille-articoli-halloween-non-sicuri/",
+   "editore": "GrNet (testata online) e quotidiani locali",
+   "tipo": "stampa specializzata",
+   "prima_vista": "2026-10-12",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "12-10-2026: Sequestri di articoli per Halloween privi di marcatura CE e di informazioni in italiano a Reggio Emilia (08-10-2026) e Poggibonsi (08/09-10-2026)."
+   ],
+   "ultima_vista": "2026-10-12",
+   "ultimo_giudizio": "da scartare",
+   "ultimo_motivo": "Cronaca locale di controlli di routine, fuori finestra e senza un provvedimento pubblico a cui ancorarla."
+  },
+  "prosafe.org": {
+   "nome": "PROSAFE, Joint Actions",
+   "url": "https://prosafe.org/index.php/en/46-joint-actions",
+   "editore": "PROSAFE",
+   "tipo": "associazione",
+   "prima_vista": "2026-10-12",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "12-10-2026: Nessun risultato di azioni congiunte pubblicato nella finestra; nelle pagine trovate i comunicati sono datati."
+   ],
+   "ultima_vista": "2026-10-12",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Coordina le azioni congiunte JAHARP ed EEPLIANT, i cui risultati vanno sempre riportati; il sito si aggiorna di rado."
+  },
+  "cencenelec.eu": {
+   "nome": "CEN-CENELEC, News",
+   "url": "https://www.cencenelec.eu/news-events/news/",
+   "editore": "CEN e CENELEC",
+   "tipo": "ente di normazione",
+   "prima_vista": "2026-10-12",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "12-10-2026: Comunicato del 06-10-2026 critico sulla proposta di nuovo regolamento sulla normazione, una specifica tecnica CEN del 05-10-2026 sui dati antropometrici dei bambini e una bozza di CWA dell'08-10-2026."
+   ],
+   "ultima_vista": "2026-10-12",
+   "ultimo_giudizio": "affidabile",
+   "ultimo_motivo": "Editore originale delle norme EN e delle posizioni degli enti di normazione europei; serve per le norme tecniche in preparazione."
+  },
+  "polygon-one.com": {
+   "nome": "Polygon One, stato del PPWR",
+   "url": "https://polygon-one.com/en/ppwr-current-status",
+   "editore": "Polygon One (società di consulenza)",
+   "tipo": "altro",
+   "prima_vista": "2026-10-12",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "12-10-2026: Ha indicato l'iniziativa 19243 sulle etichette armonizzate PPWR con adozione prevista nel quarto trimestre 2026, poi verificata sulla pagina Have Your Say."
+   ],
+   "ultima_vista": "2026-10-12",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Lo spunto è risultato corretto sulla fonte primaria; si tratta però di un sito commerciale, da usare solo come pista."
+  },
+  "cyberresilienceact.eu": {
+   "nome": "cyberresilienceact.eu, State of play",
+   "url": "https://www.cyberresilienceact.eu/state-of-play.html",
+   "editore": "editore non indicato (guida indipendente)",
+   "tipo": "altro",
+   "prima_vista": "2026-10-12",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "12-10-2026: Calendario del CRA (norme verticali attese per il 31-10-2026, segnalazioni dall'11-09-2026); nessuna informazione sulla rettifica 32024R2847R(08)."
+   ],
+   "ultima_vista": "2026-10-12",
+   "ultimo_giudizio": "da scartare",
+   "ultimo_motivo": "Editore non identificato; informazioni da verificare caso per caso sulle fonti ufficiali."
+  },
+  "beuc.eu": {
+   "nome": "BEUC, Safety",
+   "url": "https://www.beuc.eu/priorities/safety",
+   "editore": "BEUC",
+   "tipo": "associazione",
+   "prima_vista": "2026-10-12",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "12-10-2026: Ultime prese di posizione sul European Product Act (lettera del 07-07-2026) e sui cosmetici; nessun test o comunicato nella finestra."
+   ],
+   "ultima_vista": "2026-10-12",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Associazione europea dei consumatori; i test delle associazioni nazionali spesso anticipano campagne di vigilanza."
+  },
+  "sik.dk": {
+   "nome": "Sikkerhedsstyrelsen, produktsikkerhed",
+   "url": "https://www.sik.dk/privat/goer-det-sikkert/produktsikkerhed/saadan-kontrollerer-vi-sikkerhed-produkter",
+   "editore": "Sikkerhedsstyrelsen (dal 2026 parte di Erhvervsstyrelsen)",
+   "tipo": "autorità di vigilanza",
+   "prima_vista": "2026-10-12",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "12-10-2026: Pagine istituzionali su controlli e sanzioni; nessuna campagna nella finestra."
+   ],
+   "ultima_vista": "2026-10-12",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Autorità danese competente per apparecchi elettrici, gas, giocattoli, prodotti da costruzione ed ecodesign."
+  },
+  "ccpc.ie": {
+   "nome": "CCPC Ireland, Consumers",
+   "url": "https://www.ccpc.ie/consumers/",
+   "editore": "Competition and Consumer Protection Commission",
+   "tipo": "autorità consumatori",
+   "prima_vista": "2026-10-12",
+   "esecuzioni": 1,
+   "spunti": 0,
+   "spunti_ancorati": 0,
+   "esempi": [
+    "12-10-2026: Campagna Halloween del 2025 sui costumi trattati come giocattoli (marcatura CE, parti piccole, cordoncini); per il 2026 nessuna pubblicazione nella finestra."
+   ],
+   "ultima_vista": "2026-10-12",
+   "ultimo_giudizio": "da seguire",
+   "ultimo_motivo": "Pubblica ogni ottobre i dati di ritiro dei giocattoli per Halloween; probabile pubblicazione nelle prossime settimane."
   }
  },
- "aggiornato": "2026-10-10"
+ "aggiornato": "2026-10-12"
 }
