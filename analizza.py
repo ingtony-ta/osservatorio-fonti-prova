@@ -23,7 +23,7 @@ PREZZI = {"claude-sonnet-5-5": (2.0, 10.0, 2.5, 0.10), "claude-opus-5-5": (4.0, 
 PREZZO_RICERCA = 0.01  # dollari per ricerca web
 TETTO_DOLLARI = float(os.environ.get("TETTO_DOLLARI", "15"))  # 15 $ dall'08-10-2026 (decisione dell'utente)
 MAX_GIRI = int(os.environ.get("MAX_GIRI", "60"))
-MAX_RICERCHE = int(os.environ.get("MAX_RICERCHE", "65"))  # 65 dall'08-10-2026: spazio per la ricerca aperta
+MAX_RICERCHE = int(os.environ.get("MAX_RICERCHE", "20"))  # 20 dal 14-10-2026: la ricerca libera passa all'agente notturno
 LIMITE_TESTO = 20000
 UA = "Mozilla/5.0 (compatible; osservatorio-fonti-prova/1.0)"
 CARTELLA = Path("esiti/analisi")
@@ -34,6 +34,9 @@ ADVISOR = os.environ.get("ADVISOR", "").strip()
 EFFORT = os.environ.get("EFFORT", "").strip()
 FILE_RACCOLTA = Path(os.environ.get("RACCOLTA", "") or CARTELLA / "raccolta.json")
 FILE_ISTRUZIONI = Path(os.environ.get("ISTRUZIONI", "") or "istruzioni_analista.md")
+# copie dei file del Drive, aggiornate dalla chat locale a ogni giro (dal 14-10-2026)
+FILE_FONTI_FISSE = Path("fonti_fisse.md")
+FILE_MONITORAGGI = Path("monitoraggi_attivi.md")
 USCITA_PROVE = Path("prove/esiti")
 BETA_ADVISOR = "advisor-tool-2026-03-01"
 REGISTRO_FONTI = CARTELLA / "fonti_scoperte.json"
@@ -288,7 +291,8 @@ def main():
     it = lambda s: date.fromisoformat(s).strftime("%d-%m-%Y")
     richiesta = (f"Finestra: dal {it(raccolta['finestra_da'])} al {it(raccolta['finestra_al'])} (oggi {oggi:%d-%m-%Y}).\n\n"
                  f"Voci già riportate nei giorni precedenti ({len(gia)}):\n" + ("\n".join(gia) or "nessuna") + "\n\n"
-                 f"Registro delle fonti già scoperte con la ricerca aperta ({len(fonti_note)}):\n" + ("\n".join(fonti_note) or "nessuna") + "\n\n"
+                 "File delle fonti fisse (fonti_fisse.md):\n" + FILE_FONTI_FISSE.read_text(encoding="utf-8") + "\n\n"
+                 "File dei monitoraggi attivi (monitoraggi_attivi.md):\n" + FILE_MONITORAGGI.read_text(encoding="utf-8") + "\n\n"
                  "Raccolta delle fonti con dati strutturati (JSON):\n" + json.dumps(raccolta, ensure_ascii=False))
     if ADVISOR:
         richiesta += ("\n\nHai lo strumento advisor, un revisore più forte che vede tutta la conversazione. Consultalo dopo aver "
@@ -381,6 +385,7 @@ def main():
             md += [f"### {v.get('titolo', '')} ({v.get('rilevanza', '')}, {v.get('area', '')})", "",
                    f"{v.get('data', '')} · {v.get('fonte', '')} · [{v.get('url', '')}]({v.get('url', '')})", "", v.get("descrizione", ""), ""]
         md += ["## Monitoraggi", ""] + [f"- {x.get('id')}: {x.get('esito')}. {x.get('nota', '')}" for x in esito.get("monitoraggi", [])]
+        md += ["", "## Fonti fisse", ""] + [f"- {x.get('nome')}: {x.get('esito')}. {x.get('nota', '')}" for x in esito.get("fonti", []) if isinstance(x, dict)]
         md += ["", "## Fonti proposte", ""] + [f"- {x.get('nome')}: {x.get('url')} ({x.get('motivo', '')})" for x in esito.get("fonti_proposte", [])]
         md += ["", "## Fonti scoperte con la ricerca aperta", ""] + [
             f"- {x.get('nome')} ({x.get('tipo', '')}, {x.get('giudizio', '')}): {x.get('url')}. {x.get('cosa_ha_portato', '')}"
