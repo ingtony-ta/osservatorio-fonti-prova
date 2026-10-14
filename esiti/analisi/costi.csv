@@ -2,3 +2,4 @@ data_utc,modello,giri,letture,ricerche,input,output,cache_scrittura,cache_lettur
 2026-10-08 16:31,claude-sonnet-5-5,14,57,30,40,62091,528453,5974332,2.840,ok
 2026-10-10 17:48,claude-opus-5-5,31,52,45,100,59350,596855,13995268,7.421,ok
 2026-10-12 21:38,claude-opus-5-5,16,28,41,56,37051,492276,6212264,4.855,ok
+2026-10-14 17:54,claude-opus-5-5,20,75,3,42,44994,351272,3830505,3.453,ok
