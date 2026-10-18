@@ -1,9 +1,10 @@
 {
- "finestra_da": "2026-10-14",
- "finestra_al": "2026-10-15",
- "sparql_da": "2026-10-07",
- "eseguita_alle_utc": "2026-10-16T17:09:01+00:00",
+ "finestra_da": "2026-10-16",
+ "finestra_al": "2026-10-17",
+ "sparql_da": "2026-10-09",
+ "eseguita_alle_utc": "2026-10-18T16:19:28+00:00",
  "errori": [
+  "MIMIT, notizie: URLError: <urlopen error timed out>",
   "Ministero della salute, comunicati: ParseError: syntax error: line 1, column 0"
  ],
  "sezioni": {
@@ -92,6 +93,16 @@
     "celex": "32026D2320",
     "date": "2026-10-13",
     "title": "Decisione (PESC) 2026/2320 del comitato politico e di sicurezza, del 13 ottobre 2026, relativa alla nomina del capo della cellula di comando e sostegno civile dell’iniziativa dell’Unione europea in materia di sicurezza e di difesa a sostegno dei paesi dell’Africa occidentale del Golfo di Guinea (EUSDI Golfo di Guinea) (EUSDI/2/2026)"
+   },
+   {
+    "celex": "32026D2315",
+    "date": "2026-10-12",
+    "title": "Decisione (UE) 2026/2315 del Consiglio, del 12 ottobre 2026, relativa alla posizione da adottare a nome dell’Unione europea in sede di comitato per il commercio e lo sviluppo istituito dall’accordo di partenariato economico tra l’Unione europea e i suoi Stati membri, da una parte, e gli Stati della SADC aderenti all’APE, dall’altra, in merito alla sostituzione dell’elenco degli arbitri"
+   },
+   {
+    "celex": "32026D05398",
+    "date": "2026-10-12",
+    "title": "Decisione del Consiglio, del 12 ottobre 2026, relativa alla nomina di un rappresentante di uno Stato membro quale membro del consiglio di amministrazione dell'Autorità europea per la sicurezza alimentare"
    },
    {
     "celex": "32026D2291",
@@ -184,16 +195,6 @@
     "title": "Decisione di esecuzione (UE) 2026/2253 della Commissione, del 12 ottobre 2026, recante modalità di applicazione della direttiva (UE) 2016/797 del Parlamento europeo e del Consiglio per quanto riguarda una domanda della Polonia di non applicazione del requisito relativo all'installazione del sistema GSM-R nelle gallerie di cui al regolamento (UE) n. 1303/2014 della Commissione [notificata con il numero C(2026) 7077]"
    },
    {
-    "celex": "32026D2315",
-    "date": "2026-10-12",
-    "title": "Decisione (UE) 2026/2315 del Consiglio, del 12 ottobre 2026, relativa alla posizione da adottare a nome dell’Unione europea in sede di comitato per il commercio e lo sviluppo istituito dall’accordo di partenariato economico tra l’Unione europea e i suoi Stati membri, da una parte, e gli Stati della SADC aderenti all’APE, dall’altra, in merito alla sostituzione dell’elenco degli arbitri"
-   },
-   {
-    "celex": "32026D05398",
-    "date": "2026-10-12",
-    "title": "Decisione del Consiglio, del 12 ottobre 2026, relativa alla nomina di un rappresentante di uno Stato membro quale membro del consiglio di amministrazione dell'Autorità europea per la sicurezza alimentare"
-   },
-   {
     "celex": "32026M12551",
     "date": "2026-10-12",
     "title": "Decisione della Commissione, del 12/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12551 - LONE STAR FUNDS / CONTITECH) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
@@ -269,11 +270,6 @@
     "title": "Decisione del Consiglio, del 9 ottobre 2026, relativa alla sostituzione di un supplente del comitato consultivo per la sicurezza e la salute sul luogo di lavoro per Malta"
    },
    {
-    "celex": "32026M12633",
-    "date": "2026-10-09",
-    "title": "Decisione della Commissione, del 09/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12633 - DIGITALBRIDGE / TDAM / L&G / BTP / VODAFONE ANTENNELOCATIES / JV) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
-   },
-   {
     "celex": "32026R2262",
     "date": "2026-10-09",
     "title": "Regolamento di esecuzione (UE) 2026/2262 del Consiglio, del 9 ottobre 2026, che attua il regolamento (UE) 2023/2147 concernente misure restrittive in considerazione delle attività che compromettono la stabilità e la transizione politica del Sudan"
@@ -284,6 +280,11 @@
     "title": "Decisione (PESC) 2026/2261 del Consiglio, del 9 ottobre 2026, che modifica la decisione (PESC) 2023/2135 concernente misure restrittive in considerazione delle attività che compromettono la stabilità e la transizione politica del Sudan"
    },
    {
+    "celex": "32026M12633",
+    "date": "2026-10-09",
+    "title": "Decisione della Commissione, del 09/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12633 - DIGITALBRIDGE / TDAM / L&G / BTP / VODAFONE ANTENNELOCATIES / JV) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
+   },
+   {
     "celex": "32026H05421",
     "date": "2026-10-09",
     "title": "Raccomandazione del Consiglio, del 9 ottobre 2026, che approva il piano nazionale strutturale di bilancio di medio termine della Cechia per il periodo 2027-2030 e precisa la flessibilità consentita dalla clausola di salvaguardia nazionale nel 2027 e nel 2028"
@@ -292,101 +293,6 @@
     "celex": "32026H05419",
     "date": "2026-10-09",
     "title": "Raccomandazione del Consiglio, del 9 ottobre 2026, che consente alla Grecia di deviare rispetto ai tassi massimi di crescita della spesa netta stabiliti dal Consiglio a norma del regolamento (UE) 2024/1263 (Attivazione della clausola di salvaguardia nazionale)"
-   },
-   {
-    "celex": "32026M12550",
-    "date": "2026-10-08",
-    "title": "Decisione della Commissione, del 08/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12550 - DANA / EATON (MOBILITY BUSINESS)) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
-   },
-   {
-    "celex": "32026R2301",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2301 della Commissione, dell’8 ottobre 2026, recante iscrizione dell’indicazione geografica Café Antigua (IGP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2302",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2302 della Commissione, dell’8 ottobre 2026, recante iscrizione dell’indicazione geografica Miel des Landes (IGP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2293",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2293 della Commissione, dell'8 ottobre 2026, recante iscrizione dell’indicazione geografica Capocollo di Martina Franca (IGP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2307",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2307 della Commissione, dell'8 ottobre 2026, recante iscrizione dell'indicazione geografica Čepinski kupus (DOP) nel registro dell'Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2290",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2290 della Commissione, dell'8 ottobre 2026, recante iscrizione dell’indicazione geografica Banski kestenov med (DOP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026M12537",
-    "date": "2026-10-08",
-    "title": "Decisione della Commissione, del 08/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12537 - POSCO FLOW / LX PANTOS / JV) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
-   },
-   {
-    "celex": "32026R2245",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2245 della Commissione, dell’8 ottobre 2026, che dispone la registrazione delle importazioni di determinati alcoli polivinilici originari della Repubblica popolare cinese al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione"
-   },
-   {
-    "celex": "32026R2241",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2241 della Commissione, dell’8 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2024/2746 recante modalità di applicazione del regolamento (CE) n. 1217/2009 del Consiglio relativo all’istituzione della rete d’informazione sulla sostenibilità agricola, e che abroga il regolamento di esecuzione (UE) 2015/220 della Commissione"
-   },
-   {
-    "celex": "32026R2287",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2287 della Commissione, del 8 ottobre 2026, recante 362esima modifica del regolamento (CE) n. 881/2002 del Consiglio che impone specifiche misure restrittive nei confronti di determinate persone ed entità associate alle organizzazioni dell'ISIL (Da'esh) e di Al-Qaeda"
-   },
-   {
-    "celex": "32026D2264",
-    "date": "2026-10-08",
-    "title": "Decisione (PESC) 2026/2264 del Consiglio, dell’8 ottobre 2026, che modifica la decisione 2014/145/PESC, concernente misure restrittive relative ad azioni che compromettono o minacciano l’integrità territoriale, la sovranità e l’indipendenza dell’Ucraina"
-   },
-   {
-    "celex": "32026R2263",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2263 del Consiglio, dell’8 ottobre 2026, che attua il regolamento (UE) n. 269/2014, concernente misure restrittive relative ad azioni che compromettono o minacciano l’integrità territoriale, la sovranità e l’indipendenza dell’Ucraina"
-   },
-   {
-    "celex": "32026R2257",
-    "date": "2026-10-08",
-    "title": "Regolamento di esecuzione (UE) 2026/2257 del Consiglio, dell’8 ottobre 2026, che attua il regolamento (UE) 2024/2642 concernente misure restrittive in considerazione delle attività destabilizzanti della Russia"
-   },
-   {
-    "celex": "32026D2258",
-    "date": "2026-10-08",
-    "title": "Decisione (PESC) 2026/2258 del Consiglio, dell’8 ottobre 2026, che modifica la decisione (PESC) 2024/2643 concernente misure restrittive in considerazione delle attività destabilizzanti della Russia"
-   },
-   {
-    "celex": "32026D2260",
-    "date": "2026-10-08",
-    "title": "Decisione di esecuzione (UE) 2026/2260 della Commissione, dell’8 ottobre 2026, recante modalità di applicazione della direttiva 2010/75/UE del Parlamento europeo e del Consiglio per quanto riguarda condizioni uniformi per le norme operative per l’allevamento di pollame e suini [notificata con il numero C(2026) 6899]"
-   },
-   {
-    "celex": "32026R2268",
-    "date": "2026-10-07",
-    "title": "Regolamento di esecuzione (UE) 2026/2268 della Commissione, del 7 ottobre 2026, che modifica gli allegati V e XIV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Canada, al Regno Unito e agli Stati Uniti negli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l'ingresso nell'Unione di partite di pollame e materiale germinale di pollame e di carni fresche di pollame e selvaggina da penna"
-   },
-   {
-    "celex": "32026R2280",
-    "date": "2026-10-07",
-    "title": "Regolamento (UE) 2026/2280 del Parlamento europeo e del Consiglio, del 7 ottobre 2026, che istituisce un sistema comune per il rimpatrio dei cittadini di paesi terzi il cui soggiorno nell’Unione è irregolare e che abroga la direttiva 2008/115/CE del Parlamento europeo e del Consiglio, la direttiva 2001/40/CE del Consiglio e la decisione 2004/191/CE del Consiglio"
-   },
-   {
-    "celex": "32026R2269",
-    "date": "2026-10-07",
-    "title": "Regolamento (UE) 2026/2269 del Parlamento europeo e del Consiglio, del 7 ottobre 2026, relativo a misure temporanee di liberalizzazione degli scambi applicabili ad alcuni prodotti originari della Repubblica d'Armenia"
-   },
-   {
-    "celex": "32026M12602",
-    "date": "2026-10-07",
-    "title": "Decisione della Commissione, del 07/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12602 - AP / GERRESHEIMER (PRIMARY PACKAGING PLASTICS BUSINESS)) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
    }
   ],
   "GUUE, atti collegati agli atti di riferimento (SPARQL)": [
@@ -413,24 +319,6 @@
     "date": "2026-10-12",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
     "target": "32012R0528"
-   },
-   {
-    "celex": "52026SC0307",
-    "date": "2026-10-07",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32019R0515"
-   },
-   {
-    "celex": "52026SC0308",
-    "date": "2026-10-07",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32019R0515"
-   },
-   {
-    "celex": "32024L1799R(03)",
-    "date": "2026-10-07",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
-    "target": "32024L1799"
    },
    {
     "celex": "32024R2847R(08)",
@@ -481,15 +369,25 @@
     "date": "2026-10-09",
     "atti": "32013R0952",
     "titolo": "Avviso di apertura di un riesame in previsione della scadenza delle misure antidumping applicabili alle importazioni di prodotti laminati piatti di alluminio originari della Repubblica popolare cinese"
-   },
-   {
-    "celex": "32026R2269",
-    "date": "2026-10-07",
-    "atti": "32013R0952",
-    "titolo": "Regolamento (UE) 2026/2269 del Parlamento europeo e del Consiglio, del 7 ottobre 2026, relativo a misure temporanee di liberalizzazione degli scambi applicabili ad alcuni prodotti originari della Repubblica d'Armenia"
    }
   ],
   "Commissione, sala stampa": [
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:STATEMENT/26/2194",
+    "data": "2026-10-18",
+    "titolo": "Commission statement on the protests in Albania",
+    "tipo": "Statement",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2194"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:STATEMENT/26/2190",
+    "data": "2026-10-16",
+    "titolo": "Statement by President von der Leyen at the joint press conference with President Costa following the meeting of the European Council of October 2026",
+    "tipo": "Statement",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2190"
+   },
    {
     "fonte": "Commissione, sala stampa",
     "id": "pc:STATEMENT/26/2188",
@@ -873,25 +771,18 @@
     "titolo": "Commission adopts proposal to accelerate standards development and improve EU competitiveness",
     "tipo": "Press release",
     "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2070"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2064",
-    "data": "2026-10-06",
-    "titolo": "Commission registers European Citizens' Initiative for sovereign European AI domains",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2064"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2068",
-    "data": "2026-10-05",
-    "titolo": "Commission greenlights Finland's fifth payment request for €229.2 million under NextGenerationEU",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2068"
    }
   ],
   "Have Your Say, consultazioni aperte": [
+   {
+    "fonte": "Have Your Say, consultazioni aperte",
+    "id": "hys:19032",
+    "data": "2026-10-16",
+    "titolo": "Strengthening and modernising the European Training Foundation",
+    "tipo": "PROP_REG Ares(2026)7687804",
+    "scadenza": "2026-11-13",
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19032_it"
+   },
    {
     "fonte": "Have Your Say, consultazioni aperte",
     "id": "hys:19475",
@@ -916,7 +807,7 @@
     "data": "2026-10-15",
     "titolo": "European Critical Communication System",
     "tipo": "PROP_REG Ares(2025)1162810",
-    "scadenza": "2026-12-11",
+    "scadenza": "2026-12-13",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14532_it"
    },
    {
@@ -925,7 +816,7 @@
     "data": "2026-10-15",
     "titolo": "Creation of a European critical communication system",
     "tipo": "PROP_REG COM(2026)1020",
-    "scadenza": "2026-12-11",
+    "scadenza": "2026-12-13",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19517_it"
    },
    {
@@ -1015,7 +906,7 @@
     "data": "2026-10-09",
     "titolo": "Revision of the Standardisation Regulation",
     "tipo": "PROP_REG Ares(2025)576265",
-    "scadenza": "2026-12-11",
+    "scadenza": "2026-12-13",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14511_it"
    },
    {
@@ -1164,29 +1055,11 @@
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:18659",
-    "data": "2026-09-18",
-    "titolo": "Alignment of the renewals of seven low-risk active substances to the renewals of substances with similar properties",
-    "tipo": "DEC_IMPL Ares(2026)6560484",
-    "scadenza": "2026-10-16",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/18659_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:14861",
-    "data": "2026-09-18",
-    "titolo": "List of non-OECD countries that are authorized to import certain non-hazardous waste from the EU",
-    "tipo": "REG_DEL Ares(2025)7729795",
-    "scadenza": "2026-10-16",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14861_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
     "id": "hys:15492",
     "data": "2026-09-15",
     "titolo": "Revision of EU rules on public procurement",
     "tipo": "PROP_REG Ares(2025)9170767",
-    "scadenza": "2026-12-11",
+    "scadenza": "2026-12-13",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15492_it"
    },
    {
@@ -1272,15 +1145,6 @@
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:16413",
-    "data": "2026-07-10",
-    "titolo": "European partnerships implemented as joint undertakings under Horizon Europe (2028-2034)",
-    "tipo": "PROP_REG Ares(2026)430890",
-    "scadenza": "2026-10-16",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/16413_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
     "id": "hys:14628",
     "data": "2026-07-02",
     "titolo": "Cloud and AI Development Act",
@@ -1299,6 +1163,38 @@
    }
   ],
   "Consiglio UE, comunicati": [
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/17/forward-look-2026/",
+    "data": "",
+    "titolo": "Forward look: 19 October - 1 November 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/17/forward-look-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/weekly-schedule-of-president-antonio-costa/",
+    "data": "",
+    "titolo": "Weekly schedule of President António Costa",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/weekly-schedule-of-president-antonio-costa/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-press-conference-following-the-european-council-meeting-of-15-16-october-2026/",
+    "data": "",
+    "titolo": "Remarks by President António Costa at the press conference following the European Council meeting of 15-16 October 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/remarks-by-president-antonio-costa-at-the-press-conference-following-the-european-council-meeting-of-15-16-october-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/european-council-conclusions-15-and-16-october-2026/",
+    "data": "",
+    "titolo": "European Council conclusions, 15 and 16 October 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/european-council-conclusions-15-and-16-october-2026/"
+   },
    {
     "fonte": "Consiglio UE, comunicati",
     "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/16/media-advisory-employment-social-policy-health-and-consumer-affairs-employment-and-social-policy-council-of-19-october-2026/",
@@ -1426,38 +1322,6 @@
     "titolo": "Eurogroup President Pierrakakis attends the Annual Meetings of the IMF and World Bank Group in Bangkok, Thailand",
     "tipo": "feed",
     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/eurogroup-president-pierrakakis-attends-the-annual-meetings-of-the-imf-and-world-bank-group-in-bangkok-thailand/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/council-approves-conclusions-on-inclusive-democratic-participation-and-societal-and-community-resilience/",
-    "data": "",
-    "titolo": "Council approves conclusions on inclusive democratic participation, and societal and community resilience",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/13/council-approves-conclusions-on-inclusive-democratic-participation-and-societal-and-community-resilience/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/enlargement-eu-and-montenegro-close-accession-negotiations-in-the-areas-of-economic-and-monetary-policy-statistics-and-social-policy-and-employment/",
-    "data": "",
-    "titolo": "Enlargement: EU and Montenegro close accession negotiations in the areas of economic and monetary policy, statistics, and social policy and employment",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/enlargement-eu-and-montenegro-close-accession-negotiations-in-the-areas-of-economic-and-monetary-policy-statistics-and-social-policy-and-employment/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/eu-uk-summit-to-take-place-in-brussels-on-20-november/",
-    "data": "",
-    "titolo": "EU-UK summit to take place in Brussels on 20 November",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/eu-uk-summit-to-take-place-in-brussels-on-20-november/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/",
-    "data": "",
-    "titolo": "Multilateralism: Council sets EU position ahead of climate change and biodiversity summits",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/12/multilateralism-council-sets-eu-position-ahead-of-climate-change-and-biodiversity-summits/"
    }
   ],
   "Gazzetta Ufficiale, serie UE": [
@@ -1601,155 +1465,163 @@
   "Gazzetta Ufficiale, serie generale": [
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26G00202/SG",
-    "data": "2026-10-15",
-    "titolo": "DECRETO LEGISLATIVO 25 settembre 2026, n.184",
-    "descrizione": "Recepimento della direttiva (UE) 2023/2864 del Parlamento europeo e del Consiglio, del 13 dicembre 2023, e adeguamento dell'ordinamento nazionale alle disposizioni dei regolamenti (UE) 2023/2859 e (UE) 2023/2869 del Parlamento europeo e del Consiglio, del 13 dicembre 2023, per quanto concerne l'istituzione e il funzionamento del punto di accesso unico europeo. (26G00202)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26G00202/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05443/SG",
+    "data": "2026-10-17",
+    "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 24 settembre 2026",
+    "descrizione": "Ulteriore stanziamento per la realizzazione degli interventi in conseguenza degli eccezionali eventi meteorologici verificatisi nei giorni dal 10 al 13 settembre 2025 nel territorio della Provincia Como e dal 22 al 27 settembre 2025 nel territorio della Provincia Como e del Comune di Barlassina, di Bovisio Masciago, di Cesano Maderno, di Giussano, di Lentate sul Seveso, di Limbiate, di Meda, di Se",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05443/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05400/SG",
-    "data": "2026-10-15",
-    "titolo": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 1 ottobre 2026",
-    "descrizione": "Accertamento della sospensione del sig. Riccardo Antonio Gallo Afflitto dalla carica di deputato dell'Assemblea regionale siciliana. (26A05400)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05400/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05444/SG",
+    "data": "2026-10-17",
+    "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 24 settembre 2026",
+    "descrizione": "Ulteriore stanziamento per la realizzazione degli interventi in conseguenza degli eccezionali eventi meteorologici verificatisi nei giorni 17 e 18 aprile 2025 nel territorio dei Comuni di Arzignano, di Brogliano, di Cornedo Vicentino, di Recoaro Terme, di Trissino e di Valdagno della Provincia di Vicenza. (26A05444)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05444/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05407/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 7 ottobre 2026",
-    "descrizione": "Dichiarazione dell'esistenza del carattere di eccezionalita' degli eventi calamitosi verificatisi nei territori della Regione Piemonte nel mese di agosto 2026. (26A05407)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05407/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05418/SG",
+    "data": "2026-10-17",
+    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 15 settembre 2026",
+    "descrizione": "Attuazione dei sostegni finanziari per gli agricoltori colpiti da problemi specifici, derivanti dalla crisi in Medio Oriente, previsti dal regolamento (UE) 2026/1768 del Parlamento europeo e del Consiglio, del 14 luglio 2026, e dal regolamento di esecuzione (UE) 2026/1894 della Commissione, del 27 luglio 2026, nonche' degli aiuti di Stato concessi nell'ambito del Quadro temporaneo per gli aiuti di",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05418/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05401/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 17 settembre 2026",
-    "descrizione": "Termini e modalita' per la determinazione del contributo dei comuni italiani di frontiera. (26A05401)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05401/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05416/SG",
+    "data": "2026-10-17",
+    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - IL COMMISSARIO STRAORDINARIO ALLA RICOSTRUZIONE NEL TERRITORIO DELLE REGIONI EMILIA-ROMAGNA, TOSCANA E MARCHE - ORDINANZA 31 agosto 2026",
+    "descrizione": "Approvazione del Piano speciale di ricostruzione (versione 3). (Ordinanza n. 64/2026). (26A05416)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05416/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05358/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 29 settembre 2026",
-    "descrizione": "Liquidazione coatta amministrativa della «Cooperativa ediliza Le Alpi - Societa' cooperativa in liquidazione», in Torino e nomina del commissario liquidatore. (26A05358)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05358/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05359/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 settembre 2026",
-    "descrizione": "Liquidazione coatta amministrativa della «Terra Viva cooperativa sociale», in Mesagne e nomina del commissario liquidatore. (26A05359)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05359/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05360/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 settembre 2026",
-    "descrizione": "Liquidazione coatta amministrativa della «Thermopolar societa' cooperativa in liquidazione», in Foggia e nomina del commissario liquidatore. (26A05360)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05360/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05361/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 30 settembre 2026",
-    "descrizione": "Liquidazione coatta amministrativa della «X-Service societa' cooperativa», in Milano e nomina del commissario liquidatore. (26A05361)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05361/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05341/SG",
-    "data": "2026-10-15",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05366/SG",
+    "data": "2026-10-17",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 1 ottobre 2026",
-    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di teriparatide, «Sondelbay». (Determina n. 1355/2026). (26A05341)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05341/SG"
+    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di onasemnogene abeparvovec, «Itvisma». (Determina n. 1363/2026). (26A05366)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05366/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05342/SG",
-    "data": "2026-10-15",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05367/SG",
+    "data": "2026-10-17",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 1 ottobre 2026",
-    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di semaglutide, «Wegovy». (Determina n. 1356/2026). (26A05342)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05342/SG"
+    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di nerandomilast, «Jascayd». (Determina n. 1364/2026). (26A05367)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05367/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05343/SG",
-    "data": "2026-10-15",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05368/SG",
+    "data": "2026-10-17",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 1 ottobre 2026",
-    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di denosumab, «Wyost». (Determina n. 1357/2026). (26A05343)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05343/SG"
+    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di liraglutide, «Liraglutide Stada». (Determina n. 1365/2026). (26A05368)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05368/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05344/SG",
-    "data": "2026-10-15",
-    "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 1 ottobre 2026",
-    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di liraglutide, «Ablymico». (Determina n. 1358/2026). (26A05344)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05344/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05398/SG",
+    "data": "2026-10-17",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Decadenza, per mancato rinnovo, dell'autorizzazione all'immissione in commercio del medicinale di importazione parallela «Nurofen Febbre e Dolore». (26A05398)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05398/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05415/SG",
-    "data": "2026-10-15",
-    "titolo": "COMMISSIONE DI GARANZIA DEGLI STATUTI E PER LA TRASPARENZA E IL CONTROLLO DEI RENDICONTI DEI PARTITI POLITICI - COMUNICATO",
-    "descrizione": "Statuto del partito politico «Union Valdôtaine» (26A05415)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05415/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05399/SG",
+    "data": "2026-10-17",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Decadenza, per mancato rinnovo, dell'autorizzazione all'immissione in commercio del medicinale di importazione parallela «Elocon». (26A05399)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05399/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05404/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO",
-    "descrizione": "Feampa 2021/2027 - Approvazione della sub graduatoria delle imprese di pesca che effettuano l'arresto definitivo in attuazione del decreto 17 luglio 2024 nella GSA 9 con il sistema di pesca strascico. (26A05404)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05404/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05419/SG",
+    "data": "2026-10-17",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di apixaban, «Apixaban Cipla». (26A05419)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05419/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05389/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Modifica delle circoscrizioni territoriali diocesane della Diocesi di Fabriano-Matelica e dell'Arcidiocesi di Camerino-San Severino Marche. (26A05389)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05389/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05420/SG",
+    "data": "2026-10-17",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di atovarstatina, «Mullusiem». (26A05420)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05420/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05390/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Mutamento del modo di esistenza della Congregazione delle Suore Oblate Benedettine di Santa Scolastica, in Ostuni (26A05390)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05390/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05421/SG",
+    "data": "2026-10-17",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di amoxicillina, «Amoxicillina Aurobindo Italia». (26A05421)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05421/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05391/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Fusione per incorporazione della Parrocchia di S. Croce di Selva Malvezzi, in Molinella, frazione Malvezzi, nella Parrocchia di S. Matteo di Molinella, in Molinella. (26A05391)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05391/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05422/SG",
+    "data": "2026-10-17",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di omeprazolo, «Omeprazolo Liconsa». (26A05422)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05422/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05392/SG",
-    "data": "2026-10-15",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Soppressione della Parrocchia di S. Maria Maggiore, in Bologna (26A05392)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05392/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05432/SG",
+    "data": "2026-10-17",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di ciclopirox, «Roxolac». (26A05432)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05432/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05292/SG",
-    "data": "2026-10-15",
-    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - CONFERENZA PERMANENTE PER I RAPPORTI TRA LO STATO, LE REGIONI E LE PROVINCE AUTONOME DI TRENTO E BOLZANO - ACCORDO 10 settembre 2026",
-    "descrizione": "Accordo, ai sensi dell'articolo 4, comma 1, del decreto legislativo 28 agosto 1997, n. 281, tra il Governo, le regioni e le Province autonome di Trento e di Bolzano, sul documento recante «Linee guida per il funzionamento ed il miglioramento delle attivita' ufficiali da parte delle autorita' sanitarie competenti in materia di sicurezza degli alimenti e sanita' pubblica veterinaria». (Repertorio at",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/15/26A05292/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05433/SG",
+    "data": "2026-10-17",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di tigeciclina, «Tigeciclina Amarox». (26A05433)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05433/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05434/SG",
+    "data": "2026-10-17",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di somatropina, «Saizen». (26A05434)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05434/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05445/SG",
+    "data": "2026-10-17",
+    "titolo": "AUTORITA' DI BACINO DISTRETTUALE DELLE ALPI ORIENTALI - COMUNICATO",
+    "descrizione": "Aggiornamento del Piano di gestione, del rischio di alluvioni - PGRA. nei Comuni di Dolo, Pianiga e Mirano. (26A05445)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05445/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05456/SG",
+    "data": "2026-10-17",
+    "titolo": "MINISTERO DELLA SALUTE - COMUNICATO",
+    "descrizione": "Avviso pubblico per l'assegnazione delle risorse, per l'anno 2026, ai policlinici universitari non costituiti in azienda, che operano nel perseguimento di attivita' istituzionali non in regime di impresa. (26A05456)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05456/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05430/SG",
+    "data": "2026-10-17",
+    "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO",
+    "descrizione": "Comunicato relativo al decreto 16 giugno 2026 - Rifinanziamento della misura agevolativa «Nuove imprese a tasso zero». (26A05430)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05430/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05431/SG",
+    "data": "2026-10-17",
+    "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - COMUNICATO",
+    "descrizione": "Comunicato relativo al decreto 8 ottobre 2026 - Accordi per l'innovazione nella filiera del settore automotive. Modifica al decreto direttoriale 17 settembre 2026 (26A05431)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/17/26A05431/SG"
    }
   ],
   "Governo": [
@@ -1790,7 +1662,7 @@
     "id": "gov:https://www.governo.it/it/articolo/consiglio-europeo-del-15-e-16-ottobre/32851",
     "data": "2026-10-16",
     "titolo": "Consiglio europeo del 15 e 16 ottobre",
-    "descrizione": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Bruxelles al Consiglio europeo. Al termine ha tenuto un punto stampa.",
+    "descrizione": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato a Bruxelles al Consiglio europeo. Al termine dei lavori ha tenuto un punto stampa.",
     "url": "https://www.governo.it/it/articolo/consiglio-europeo-del-15-e-16-ottobre/32851"
    },
    {
@@ -1832,88 +1704,6 @@
     "titolo": "Convocazione del Consiglio dei Ministri n. 192",
     "descrizione": "Il Consiglio dei ministri è convocato oggi, martedì 13 ottobre 2026, alle ore 19:00 a Palazzo Chigi, per l’esame del seguente ordine del giorno:",
     "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-192/32831"
-   }
-  ],
-  "MIMIT, notizie": [
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/benefit-competition-a-padova-la-quarta-tappa-dedicata-alle-imprese-che-coniugano-impatto-sociale-competitivita-e-responsabilita",
-    "data": "2026-10-15",
-    "titolo": "Benefit Competition, a Padova la quarta tappa dedicata alle imprese che coniugano impatto sociale, competitività e responsabilità",
-    "descrizione": "Premiate: Optimens, MAARMO, REGO. Menzione speciale a Fedabo",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/benefit-competition-a-padova-la-quarta-tappa-dedicata-alle-imprese-che-coniugano-impatto-sociale-competitivita-e-responsabilita"
-   },
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/mimit-valentini-incontra-il-dg-wipo-daren-tang-focus-su-ruolo-della-proprieta-intellettuale-igp-non-agri-e-attrazione-investimenti",
-    "data": "2026-10-15",
-    "titolo": "Mimit: Valentini incontra il DG WIPO Daren Tang. Focus su ruolo della proprietà intellettuale, IGP non-agri e attrazione investimenti",
-    "descrizione": "Approfondite anche nuove forme di collaborazione a sostegno di startup e PMI e il contributo dell’Italia nelle sfide poste dall’IA",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/mimit-valentini-incontra-il-dg-wipo-daren-tang-focus-su-ruolo-della-proprieta-intellettuale-igp-non-agri-e-attrazione-investimenti"
-   },
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/transizione-5-0-al-via-da-oggi-le-comunicazioni-di-completamento-degli-investimenti",
-    "data": "2026-10-14",
-    "titolo": "Transizione 5.0: al via da oggi le comunicazioni di completamento degli investimenti",
-    "descrizione": "Le imprese potranno trasmettere le comunicazioni attraverso la piattaforma informatica del GSE",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/transizione-5-0-al-via-da-oggi-le-comunicazioni-di-completamento-degli-investimenti"
-   },
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/mimit-inaugurata-a-palazzo-piacentini-la-mostra-the-lens-of-time-urso-locchialeria-e-simbolo-del-made-in-italy",
-    "data": "2026-10-13",
-    "titolo": "Inaugurata a Palazzo Piacentini la mostra “The Lens of Time”, Urso: “L’occhialeria è simbolo del Made in Italy”",
-    "descrizione": "L’esposizione ripercorre la storia dell’occhiale e il suo intreccio con il cinema",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/mimit-inaugurata-a-palazzo-piacentini-la-mostra-the-lens-of-time-urso-locchialeria-e-simbolo-del-made-in-italy"
-   },
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/iveco-urso-asset-strategico-per-litalia-impegni-di-tata-si-traducano-in-un-concreto-rilancio-industriale",
-    "data": "2026-10-13",
-    "titolo": "Iveco: Urso, “asset strategico per l’Italia. Impegni di Tata si traducano in un concreto rilancio industriale”",
-    "descrizione": "Confermati al tavolo oltre 76 milioni di investimenti negli stabilimenti italiani",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/iveco-urso-asset-strategico-per-litalia-impegni-di-tata-si-traducano-in-un-concreto-rilancio-industriale"
-   },
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/mimit-al-via-dal-19-ottobre-la-settimana-anticontraffazione-2026",
-    "data": "2026-10-12",
-    "titolo": "Mimit: al via dal 19 ottobre la Settimana Anticontraffazione 2026",
-    "descrizione": "Undicesima edizione per l’appuntamento dedicato alla difesa delle imprese e dei consumatori dal mercato del falso",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/mimit-al-via-dal-19-ottobre-la-settimana-anticontraffazione-2026"
-   },
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/italia-lituania-urso-incontra-il-ministro-griksas-insieme-per-uneuropa-piu-forte",
-    "data": "2026-10-12",
-    "titolo": "Italia-Lituania: Urso incontra il ministro Grikšas, \"Insieme per un'Europa più forte\"",
-    "descrizione": "Focus su autonomia strategica, spazio, difesa, innovazione e robotica avanzata",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/italia-lituania-urso-incontra-il-ministro-griksas-insieme-per-uneuropa-piu-forte"
-   },
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/mimit-rifinanziata-la-misura-on-oltre-nuove-imprese-a-tasso-zero",
-    "data": "2026-10-12",
-    "titolo": "MIMIT, rifinanziata la misura “ON – Oltre Nuove Imprese a Tasso Zero”",
-    "descrizione": "59 milioni per l’imprenditoria giovanile e femminile",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/mimit-rifinanziata-la-misura-on-oltre-nuove-imprese-a-tasso-zero"
-   },
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/startech-urso-incontra-i-sindacati-lavoriamo-per-rilancio-sito-trieste-e-tutela-occupazione-ma-tempo-e-scaduto-azienda-sia-responsabile",
-    "data": "2026-10-10",
-    "titolo": "StarTech: Urso incontra i sindacati. “Lavoriamo per rilancio sito Trieste e tutela occupazione, ma tempo è scaduto: azienda sia responsabile”",
-    "descrizione": "Massimo impegno a individuare prospettiva industriale per sito",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/startech-urso-incontra-i-sindacati-lavoriamo-per-rilancio-sito-trieste-e-tutela-occupazione-ma-tempo-e-scaduto-azienda-sia-responsabile"
-   },
-   {
-    "fonte": "MIMIT, notizie",
-    "id": "mimit:https://www.mimit.gov.it/it/notizie-stampa/investimenti-sostenibili-4-0-agevolazioni-richieste-per-1-15-miliardi-di-euro",
-    "data": "2026-10-08",
-    "titolo": "Investimenti sostenibili 4.0: richieste agevolazioni per 1,15 miliardi di euro",
-    "descrizione": "Chiude lo sportello, 592 le domande presentate",
-    "url": "https://www.mimit.gov.it/it/notizie-stampa/investimenti-sostenibili-4-0-agevolazioni-richieste-per-1-15-miliardi-di-euro"
    }
   ],
   "Commissione, notizie": [
