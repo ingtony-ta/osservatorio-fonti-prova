@@ -1,15 +1,39 @@
 {
- "finestra_da": "2026-10-20",
- "finestra_al": "2026-10-21",
- "sparql_da": "2026-10-13",
- "eseguita_alle_utc": "2026-10-22T17:50:11+00:00",
+ "finestra_da": "2026-10-22",
+ "finestra_al": "2026-10-23",
+ "sparql_da": "2026-10-15",
+ "eseguita_alle_utc": "2026-10-24T16:25:19+00:00",
  "errori": [
-  "Gazzetta Ufficiale, serie generale: ParseError: mismatched tag: line 46, column 2",
   "MIMIT, notizie: URLError: <urlopen error timed out>",
   "Ministero della salute, comunicati: ParseError: syntax error: line 1, column 0"
  ],
  "sezioni": {
   "GUUE, atti nuovi (SPARQL)": [
+   {
+    "celex": "32026R2342",
+    "date": "2026-10-22",
+    "title": "Regolamento di esecuzione (UE) 2026/2342 della Commissione, del 22 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2022/2105 per quanto riguarda i controlli di conformità di alcuni oli extra vergini di oliva monovarietali"
+   },
+   {
+    "celex": "32026R2338",
+    "date": "2026-10-22",
+    "title": "Regolamento di esecuzione (UE) 2026/2338 della Commissione, del 22 ottobre 2026, recante rettifica della versione in lingua svedese del regolamento di esecuzione (UE) 2015/1998 che stabilisce disposizioni particolareggiate per l’attuazione delle norme fondamentali comuni sulla sicurezza aerea"
+   },
+   {
+    "celex": "32026R2340",
+    "date": "2026-10-22",
+    "title": "Regolamento di esecuzione (UE) 2026/2340 della Commissione, del 22 ottobre 2026, relativo alla non approvazione dell’estensione dell’uso della sostanza di base Urtica spp. conformemente al regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio relativo all’immissione sul mercato dei prodotti fitosanitari"
+   },
+   {
+    "celex": "32026R2371",
+    "date": "2026-10-22",
+    "title": "Regolamento di esecuzione (UE) 2026/2371 della Commissione, del 22 ottobre 2026, recante modifica dell'allegato I del regolamento di esecuzione (UE) 2023/594 che stabilisce misure speciali di controllo delle malattie per la peste suina africana"
+   },
+   {
+    "celex": "32026D2373",
+    "date": "2026-10-22",
+    "title": "Decisione (UE) 2026/2373 del Consiglio, del 22 ottobre 2026, relativa ai contributi finanziari che le parti del Fondo europeo di sviluppo devono versare a titolo della terza quota per il 2026"
+   },
    {
     "celex": "32026R2327",
     "date": "2026-10-21",
@@ -24,6 +48,16 @@
     "celex": "32026R2384",
     "date": "2026-10-21",
     "title": "Regolamento di esecuzione (UE) 2026/2384 della Commissione, del 21 ottobre 2026, recante 363esima modifica del regolamento (CE) n. 881/2002 del Consiglio che impone specifiche misure restrittive nei confronti di determinate persone ed entità associate alle organizzazioni dell'ISIL (Da'esh) e di Al-Qaeda"
+   },
+   {
+    "celex": "32026R2388",
+    "date": "2026-10-21",
+    "title": "Regolamento di esecuzione (UE) 2026/2388 della Commissione, del 21 ottobre 2026, che modifica il regolamento (CE) n. 1210/2003 del Consiglio relativo a talune specifiche restrizioni alle relazioni economiche e finanziarie con l'Iraq"
+   },
+   {
+    "celex": "32026H2329",
+    "date": "2026-10-21",
+    "title": "Raccomandazione (UE) 2026/2329 della Commissione, del 21 ottobre 2026, relativa al monitoraggio della presenza di N-nitrosammine negli alimenti"
    },
    {
     "celex": "32026M12618",
@@ -149,177 +183,95 @@
     "celex": "32026R2270",
     "date": "2026-10-15",
     "title": "Regolamento di esecuzione (UE) 2026/2270 della Commissione, del 15 ottobre 2026, recante modifica del regolamento di esecuzione (UE) 2025/2351 che istituisce una misura di salvaguardia definitiva nei confronti delle importazioni di determinati elementi di lega ferrosa"
-   },
-   {
-    "celex": "32026R2339",
-    "date": "2026-10-14",
-    "title": "Regolamento di esecuzione (UE) 2026/2339 della Commissione, del 14 ottobre 2026, recante iscrizione dell’indicazione geografica Kopi Arabika Flores Manggarai (IGP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2336",
-    "date": "2026-10-14",
-    "title": "Regolamento di esecuzione (UE) 2026/2336 della Commissione, del 14 ottobre 2026, recante iscrizione dell’indicazione geografica Flores Bajawa (IGP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2341",
-    "date": "2026-10-14",
-    "title": "Regolamento di esecuzione (UE) 2026/2341 della Commissione, del 14 ottobre 2026, recante iscrizione dell’indicazione geografica Oliva Alta Daunia (DOP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026M12480",
-    "date": "2026-10-14",
-    "title": "Decisione della Commissione, del 14/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12480 - WATERLAND / BODE / VENTURA) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
-   },
-   {
-    "celex": "32026R2228",
-    "date": "2026-10-14",
-    "title": "Regolamento di esecuzione (UE) 2026/2228 della Commissione, del 14 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2021/405 per quanto riguarda gli elenchi dei paesi terzi o loro regioni da cui è autorizzato l’ingresso nell’Unione di partite di determinati animali e merci destinati al consumo umano in conformità al regolamento (UE) 2017/625 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026M12583",
-    "date": "2026-10-14",
-    "title": "Decisione della Commissione, del 14/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12583 - GROUPE CREDIT AGRICOLE / GROUPE PRIMEO ENERGIE / GROUPE PRIMEO ENERGIE FRANCE) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua francese è il solo facente fede)"
-   },
-   {
-    "celex": "32026R2337",
-    "date": "2026-10-14",
-    "title": "Regolamento di esecuzione (UE) 2026/2337 della Commissione, del 14 ottobre 2026, relativo all’approvazione di una modifica dell’Unione del disciplinare dell’indicazione geografica protetta Coteaux des Baronnies a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2328",
-    "date": "2026-10-14",
-    "title": "Regolamento di esecuzione (UE) 2026/2328 della Commissione, del 14 ottobre 2026, che modifica gli allegati V e XIV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Canada e agli Stati Uniti negli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di partite di pollame e materiale germinale di pollame e di carni fresche di pollame e selvaggina da penna"
-   },
-   {
-    "celex": "32026D2321",
-    "date": "2026-10-14",
-    "title": "Decisione di esecuzione (UE) 2026/2321 della Commissione, del 14 ottobre 2026, che modifica la decisione di esecuzione (UE) 2026/1108 relativa ad alcune misure di emergenza contro il vaiolo degli ovini e dei caprini in Romania [notificata con il numero C(2026) 7327]"
-   },
-   {
-    "celex": "32026D2355",
-    "date": "2026-10-13",
-    "title": "Decisione (UE) 2026/2355 del Consiglio, del 13 ottobre 2026, relativa alla firma, del protocollo addizionale della convenzione del Consiglio d’Europa sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato e sul finanziamento del terrorismo per quanto riguarda la cooperazione giudiziaria in materia penale e la cooperazione di polizia"
-   },
-   {
-    "celex": "32026D2357",
-    "date": "2026-10-13",
-    "title": "Decisione (UE) 2026/2357 del Consiglio, del 13 ottobre 2026, relativa alla posizione da adottare a nome dell’Unione europea in sede di Comitato europeo per l’elaborazione di norme per la navigazione interna e di Commissione centrale per la navigazione sul Reno in merito all’adozione della norma europea che stabilisce i requisiti tecnici per le navi adibite alla navigazione interna, della norma europea per i servizi d’informazione fluviale e di un progetto di modifica dei regolamenti di ispezione delle navi sul Reno"
-   },
-   {
-    "celex": "32026D2356",
-    "date": "2026-10-13",
-    "title": "Decisione (UE) 2026/2356 del Consiglio, del 13 ottobre 2026, relativa alla firma del protocollo addizionale della convenzione del Consiglio d’Europa sul riciclaggio, la ricerca, il sequestro e la confisca dei proventi di reato e sul finanziamento del terrorismo per quanto riguarda la lotta al riciclaggio"
-   },
-   {
-    "celex": "32026D2324",
-    "date": "2026-10-13",
-    "title": "Decisione di esecuzione (UE) 2026/2324 del Consiglio, del 13 ottobre 2026, che revoca le misure di protezione del bilancio dell’Unione da violazioni dei principi dello Stato di diritto in Ungheria e che abroga la decisione di esecuzione (UE) 2022/2506"
-   },
-   {
-    "celex": "32026M12401",
-    "date": "2026-10-13",
-    "title": "Decisione della Commissione, del 13/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12401 - SUN TRINITY / MHCCE / BRUC JAPAN / BRUC JAPAN 2) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
-   },
-   {
-    "celex": "32026R2266",
-    "date": "2026-10-13",
-    "title": "Regolamento di esecuzione (UE) 2026/2266 della Commissione, del 13 ottobre 2026, recante modalità di applicazione della direttiva (UE) 2025/2205 del Parlamento europeo e del Consiglio per quanto riguarda le patenti di guida mobili"
-   },
-   {
-    "celex": "32026R2313",
-    "date": "2026-10-13",
-    "title": "Regolamento di esecuzione (UE) 2026/2313 del Consiglio, del 13 ottobre 2026, che attua il regolamento (CE) n. 765/2006, concernente misure restrittive in considerazione della situazione in Bielorussia e del coinvolgimento della Bielorussia nell’aggressione russa contro l’Ucraina"
-   },
-   {
-    "celex": "32026D2312",
-    "date": "2026-10-13",
-    "title": "Decisione di esecuzione (PESC) 2026/2312 del Consiglio, del 13 ottobre 2026, che attua la decisione 2012/642/PESC, relativa a misure restrittive in considerazione della situazione in Bielorussia e del coinvolgimento della Bielorussia nell’aggressione russa nei confronti dell’Ucraina"
-   },
-   {
-    "celex": "32026R2318",
-    "date": "2026-10-13",
-    "title": "Regolamento di esecuzione (UE) 2026/2318 del Consiglio, del 13 ottobre 2026, che attua il regolamento (UE) n. 1284/2009, concernente misure restrittive in considerazione della situazione in Guinea"
-   },
-   {
-    "celex": "32026D2317",
-    "date": "2026-10-13",
-    "title": "Decisione (PESC) 2026/2317 del Consiglio, del 13 ottobre 2026, che modifica la decisione 2010/638/PESC, concernente misure restrittive in considerazione della situazione in Guinea"
-   },
-   {
-    "celex": "32026D2344",
-    "date": "2026-10-13",
-    "title": "Decisione (UE) 2026/2344 del Consiglio, del 13 ottobre 2026, che stabilisce la posizione da adottare a nome dell’Unione europea in merito ad alcune risoluzioni da votare in occasione della 24a assemblea generale dell’Organizzazione internazionale della vigna e del vino"
-   },
-   {
-    "celex": "32026D05457",
-    "date": "2026-10-13",
-    "title": "Decisione del Consiglio, del 13 ottobre 2026, relativa alla sostituzione di un membro del consiglio di amministrazione dell'Agenzia europea per la sicurezza e la salute sul lavoro per il Portogallo"
-   },
-   {
-    "celex": "32026D2326",
-    "date": "2026-10-13",
-    "title": "Decisione di esecuzione (UE) 2026/2326 della Commissione, del 13 ottobre 2026, che modifica la decisione di esecuzione (UE) 2018/1135 per quanto riguarda la semplificazione e l’aggiornamento degli obblighi di comunicazione [notificata con il numero C(2026) 7611]"
-   },
-   {
-    "celex": "32026D05446",
-    "date": "2026-10-13",
-    "title": "Decisione del Consiglio, del 13 ottobre 2026, relativa alla sostituzione di un membro del comitato consultivo per la sicurezza e la salute sul luogo di lavoro per la Croazia"
-   },
-   {
-    "celex": "32026D05445",
-    "date": "2026-10-13",
-    "title": "Decisione del Consiglio, del 13 ottobre 2026, relativa alla sostituzione di un membro del consiglio di amministrazione del Centro europeo per lo sviluppo della formazione professionale (Cedefop) per la Francia"
-   },
-   {
-    "celex": "32026D05523",
-    "date": "2026-10-13",
-    "title": "Decisione del Consiglio, del 13 ottobre 2026, relativa alla sostituzione di un supplente del comitato consultivo per la sicurezza e la salute sul luogo di lavoro per la Croazia"
-   },
-   {
-    "celex": "32026D2267",
-    "date": "2026-10-13",
-    "title": "Decisione di esecuzione (UE) 2026/2267 della Commissione, del 13 ottobre 2026, che stabilisce il formato e la frequenza dei dati e l'elenco delle materie prime pertinenti che gli Stati membri devono trasmettere ai fini della comunicazione dei dati ambientali delle installazioni industriali a norma del regolamento (UE) 2024/1244 del Parlamento europeo e del Consiglio e che abroga la decisione di esecuzione (UE) 2019/1741 della Commissione [notificata con il numero C(2026) 7610]"
-   },
-   {
-    "celex": "32026D2331",
-    "date": "2026-10-13",
-    "title": "Decisione (PESC) 2026/2331 del comitato politico e di sicurezza, del 13 ottobre 2026, relativa alla nomina del capo del pilastro civile della missione di sostegno dell’Unione europea in Libano (EUSM Libano) (EUSM Libano/1/2026)"
-   },
-   {
-    "celex": "32026D2320",
-    "date": "2026-10-13",
-    "title": "Decisione (PESC) 2026/2320 del comitato politico e di sicurezza, del 13 ottobre 2026, relativa alla nomina del capo della cellula di comando e sostegno civile dell’iniziativa dell’Unione europea in materia di sicurezza e di difesa a sostegno dei paesi dell’Africa occidentale del Golfo di Guinea (EUSDI Golfo di Guinea) (EUSDI/2/2026)"
    }
   ],
   "GUUE, atti collegati agli atti di riferimento (SPARQL)": [
-   {
-    "celex": "32023R1230R(04)",
-    "date": "2026-10-14",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
-    "target": "32023R1230"
-   },
    {
     "celex": "32023R1542R(15)",
     "date": "2026-10-19",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
     "target": "32023R1542"
+   },
+   {
+    "celex": "32022R2065R(11)",
+    "date": "2026-10-23",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+    "target": "32022R2065"
+   },
+   {
+    "celex": "32019R1009R(16)",
+    "date": "2026-10-23",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+    "target": "32019R1009"
+   },
+   {
+    "celex": "52026XC05531",
+    "date": "2026-10-22",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
+    "target": "32023R1542"
    }
   ],
   "GUUE, atti che citano o interpretano gli atti di riferimento (SPARQL)": [
    {
-    "celex": "52026XC05408",
-    "date": "2026-10-16",
-    "atti": "32013R0952",
-    "titolo": "Avviso di apertura di un procedimento antidumping relativo alle importazioni di alcool furfurilico originario della Repubblica popolare cinese"
+    "celex": "52026XC05531",
+    "date": "2026-10-22",
+    "atti": "32009L0125 32012L0019 32017R0745 32024R3110 32025R2509",
+    "titolo": "Comunicazione della Commissione — Orientamenti della Commissione per facilitare l’applicazione armonizzata delle disposizioni in materia di rimovibilità e sostituibilità delle batterie portatili e delle batterie per mezzi di trasporto leggeri di cui al regolamento (UE) 2023/1542"
    },
    {
     "celex": "52026DC0557",
     "date": "2026-10-16",
     "atti": "32022R2065",
     "titolo": ""
+   },
+   {
+    "celex": "52026XC05408",
+    "date": "2026-10-16",
+    "atti": "32013R0952",
+    "titolo": "Avviso di apertura di un procedimento antidumping relativo alle importazioni di alcool furfurilico originario della Repubblica popolare cinese"
    }
   ],
   "Commissione, sala stampa": [
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:SPEECH/26/2251",
+    "data": "2026-10-23",
+    "titolo": "Speech by President von der Leyen to the Hungarian National Assembly on the occasion of the 70th anniversary of the Hungarian Revolution of 1956",
+    "tipo": "Speech",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2251"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2250",
+    "data": "2026-10-23",
+    "titolo": "Commission proposes stronger recognition of European heritage sites*",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2250"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2248",
+    "data": "2026-10-23",
+    "titolo": "EU Civil Protection Mechanism turns 25",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2248"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2247",
+    "data": "2026-10-23",
+    "titolo": "EU announces an additional €22.5 million to reinforce humanitarian assistance in Yemen",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2247"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2232",
+    "data": "2026-10-23",
+    "titolo": "Commission opens investigation into possible anticompetitive conduct by Omya in the supply of calcium carbonates to the paper industry",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2232"
+   },
    {
     "fonte": "Commissione, sala stampa",
     "id": "pc:IP/26/2238",
@@ -412,7 +364,7 @@
     "fonte": "Commissione, sala stampa",
     "id": "pc:IP/26/2200",
     "data": "2026-10-20",
-    "titolo": "Commission presents its Vision 2040 for a thriving fisheries and aquaculture sector",
+    "titolo": "Commission presents its Vision 2040 for a thriving fisheries and aquaculture sector*",
     "tipo": "Press release",
     "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2200"
    },
@@ -679,46 +631,6 @@
     "titolo": "Press remarks by Executive Vice-President Fitto on the opening of the European Week of Regions and Cities ",
     "tipo": "Speech",
     "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2139"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2133",
-    "data": "2026-10-12",
-    "titolo": "EU Week of Regions and Cities convenes 5,000 participants to discuss the future of cohesion policy",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2133"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2132",
-    "data": "2026-10-12",
-    "titolo": "Commission welcomes adoption of €115 million ‘AGILE' programme for rapid defence innovation",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2132"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2126",
-    "data": "2026-10-12",
-    "titolo": "Commission opens in-depth investigation into XXXLutz's proposed acquisition of Porta",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2126"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:READ/26/2131",
-    "data": "2026-10-11",
-    "titolo": "Read-out by President von der Leyen following her call with President Zelenskyy",
-    "tipo": "Read-out",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/read_26_2131"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:STATEMENT/26/2127",
-    "data": "2026-10-09",
-    "titolo": "Statement on the International Criminal Court following announcement of US sanctions",
-    "tipo": "Statement",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2127"
    }
   ],
   "Have Your Say, consultazioni aperte": [
@@ -800,7 +712,7 @@
     "data": "2026-10-15",
     "titolo": "European Critical Communication System",
     "tipo": "PROP_REG Ares(2025)1162810",
-    "scadenza": "2026-12-17",
+    "scadenza": "2026-12-19",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14532_it"
    },
    {
@@ -809,7 +721,7 @@
     "data": "2026-10-15",
     "titolo": "Creation of a European critical communication system",
     "tipo": "PROP_REG COM(2026)1020",
-    "scadenza": "2026-12-17",
+    "scadenza": "2026-12-19",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19517_it"
    },
    {
@@ -899,7 +811,7 @@
     "data": "2026-10-09",
     "titolo": "Revision of the Standardisation Regulation",
     "tipo": "PROP_REG Ares(2025)576265",
-    "scadenza": "2026-12-17",
+    "scadenza": "2026-12-19",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14511_it"
    },
    {
@@ -1003,15 +915,6 @@
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:14569",
-    "data": "2026-09-24",
-    "titolo": "Amendment of protective measures against pests of plants",
-    "tipo": "REG_IMPL Ares(2025)1825802",
-    "scadenza": "2026-10-22",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14569_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
     "id": "hys:19293",
     "data": "2026-09-21",
     "titolo": "Minimum performance standards for data centres in Europe",
@@ -1025,7 +928,7 @@
     "data": "2026-09-15",
     "titolo": "Revision of EU rules on public procurement",
     "tipo": "PROP_REG Ares(2025)9170767",
-    "scadenza": "2026-12-17",
+    "scadenza": "2026-12-19",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15492_it"
    },
    {
@@ -1131,6 +1034,70 @@
   "Consiglio UE, comunicati": [
    {
     "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/forward-look-2026/",
+    "data": "",
+    "titolo": "Forward look: 26 October - 8 November 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/forward-look-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/",
+    "data": "",
+    "titolo": "Weekly schedule of President António Costa",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/weekly-schedule-of-president-antonio-costa/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-agriculture-and-fisheries-council-of-26-27-october-2026/",
+    "data": "",
+    "titolo": "Media advisory - Agriculture and Fisheries Council of 26-27 October 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-agriculture-and-fisheries-council-of-26-27-october-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/press-briefing-eu-canada-summit-of-29-30-october-2026/",
+    "data": "",
+    "titolo": "Press briefing - EU-Canada summit of 29-30 October 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/press-briefing-eu-canada-summit-of-29-30-october-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/",
+    "data": "",
+    "titolo": "Speech by President António Costa to the Hungarian National Assembly on the 70th anniversary of the Hungarian revolution of 1956",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/speech-by-president-antonio-costa-to-the-hungarian-national-assembly-on-the-70th-anniversary-of-the-hungarian-revolution-of-1956/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/",
+    "data": "",
+    "titolo": "EU Inc: Council adopts position on a new EU corporate law for innovative companies",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-inc-council-adopts-position-on-a-new-eu-corporate-law-for-innovative-companies/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/",
+    "data": "",
+    "titolo": "UPDATED Media advisory - Accreditation for the Special European Council, 26-27 November 2026 and the EU-Western Balkans summit, 25 November 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/media-advisory-accreditation-for-the-special-european-council-26-27-november-2026-and-the-eu-western-balkans-summit-25-november-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/",
+    "data": "",
+    "titolo": "EU-Western Balkans summit to take place in Brussels on 25 November",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/23/eu-western-balkans-summit-to-take-place-in-brussels-on-25-november/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
     "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/22/joint-press-release-following-general-secretary-of-the-central-committee-of-the-communist-party-of-viet-nam-and-president-of-the-socialist-republic-of-viet-nam-to-lam-s-visit-to-the-european-council-and-the-european-commission/",
     "data": "",
     "titolo": "Joint press release following General Secretary of the Central Committee of the Communist Party of Viet Nam and President of the Socialist Republic of Viet Nam Tô Lâm’s visit to the European Council and the European Commission",
@@ -1219,75 +1186,11 @@
    },
    {
     "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/media-advisory-accreditation-for-the-special-european-council-26-and-27-november-2026/",
-    "data": "",
-    "titolo": "Media advisory - Accreditation for the Special European Council, 26 and 27 November 2026",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/media-advisory-accreditation-for-the-special-european-council-26-and-27-november-2026/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
     "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/one-year-badge-2026-accreditation-is-open-3/",
     "data": "",
     "titolo": "One-year badge 2026 - accreditation is open",
     "tipo": "feed",
     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/one-year-badge-2026-accreditation-is-open-3/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/eu-integrated-resolve-2026-exercise-enhancing-eu-crisis-response-coordination/",
-    "data": "",
-    "titolo": "EU Integrated Resolve 2026 Exercise: Enhancing EU Crisis Response Coordination",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/eu-integrated-resolve-2026-exercise-enhancing-eu-crisis-response-coordination/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/european-peace-facility-council-adopts-assistance-measure-to-support-defence-capacities-of-nigeria/",
-    "data": "",
-    "titolo": "European Peace Facility: Council adopts assistance measure to support defence capacities of Nigeria",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/european-peace-facility-council-adopts-assistance-measure-to-support-defence-capacities-of-nigeria/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/human-rights-eu-appoints-a-new-special-representative/",
-    "data": "",
-    "titolo": "Human rights: EU appoints a new Special Representative",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/human-rights-eu-appoints-a-new-special-representative/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/a-place-to-call-home-council-adopts-recommendation-on-tackling-housing-exclusion-and-homelessness/",
-    "data": "",
-    "titolo": "A place to call home: Council adopts recommendation on addressing housing exclusion and homelessness",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/a-place-to-call-home-council-adopts-recommendation-on-tackling-housing-exclusion-and-homelessness/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/mff-2028-2034-council-agrees-position-on-the-common-market-organisation-for-agricultural-products/",
-    "data": "",
-    "titolo": "MFF 2028-2034: Council agrees position on the common market organisation for agricultural products",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/mff-2028-2034-council-agrees-position-on-the-common-market-organisation-for-agricultural-products/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/council-calls-for-greater-equality-to-boost-eu-competitiveness/",
-    "data": "",
-    "titolo": "Council calls for greater equality to boost EU competitiveness",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/council-calls-for-greater-equality-to-boost-eu-competitiveness/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/council-greenlights-measures-to-protect-workers-from-exposure-to-hazardous-substances/",
-    "data": "",
-    "titolo": "Council greenlights measures to protect workers from exposure to hazardous substances",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/10/19/council-greenlights-measures-to-protect-workers-from-exposure-to-hazardous-substances/"
    }
   ],
   "Gazzetta Ufficiale, serie UE": [
@@ -1356,7 +1259,161 @@
     "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=152&dataPubblicazioneGazzetta=20261022&numeroGazzetta=83&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    }
   ],
+  "Gazzetta Ufficiale, serie generale": [
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26G00210/SG",
+    "data": "2026-10-24",
+    "titolo": "DECRETO LEGISLATIVO 8 ottobre 2026, n.194",
+    "descrizione": "Attuazione della direttiva (UE) 2024/1069 del Parlamento europeo e del Consiglio, dell'11 aprile 2024, sulla protezione delle persone attive nella partecipazione pubblica da domande manifestamente infondate o procedimenti giudiziari abusivi («azioni legali strategiche tese a bloccare la partecipazione pubblica»). (26G00210)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26G00210/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05602/SG",
+    "data": "2026-10-24",
+    "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 13 ottobre 2026",
+    "descrizione": "Proroga dello stato di emergenza in conseguenza degli eccezionali eventi meteorologici verificatisi nei giorni dal 10 al 13 settembre 2025 nel territorio della Provincia di Como e dal 22 al 27 settembre 2025 nel territorio della Provincia di Como e del Comune di Barlassina, di Bovisio Masciago, di Cesano Maderno, di Giussano, di Lentate sul Seveso, di Limbiate, di Meda, di Seveso e di Varedo della",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05602/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05576/SG",
+    "data": "2026-10-24",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 16 ottobre 2026",
+    "descrizione": "Emissione dei buoni del Tesoro poliennali «Insieme» («BTP Valore Insieme») con godimento 27 ottobre 2026 e scadenza 27 ottobre 2031, nona emissione BTP Valore. (26A05576)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05576/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05577/SG",
+    "data": "2026-10-24",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 16 ottobre 2026",
+    "descrizione": "Ottava emissione dei buoni del Tesoro poliennali «Valore» con godimento 27 ottobre 2026 e scadenza 27 ottobre 2031. (26A05577)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05577/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05578/SG",
+    "data": "2026-10-24",
+    "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 15 ottobre 2026",
+    "descrizione": "Assoggettamento alla liquidazione coatta amministrativa della «C.R.F. S.r.l. in liquidazione», in Torino e nomina del commissario liquidatore. (26A05578)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05578/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05579/SG",
+    "data": "2026-10-24",
+    "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 15 ottobre 2026",
+    "descrizione": "Sostituzione del commissario straordinario della Fondazione Santa Lucia IRCCS, in amministrazione straordinaria. (26A05579)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05579/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05580/SG",
+    "data": "2026-10-24",
+    "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026",
+    "descrizione": "Parere sullo schema di decreto del Ministro delle infrastrutture e dei trasporti, di concerto con il Ministro dell'economia e delle finanze, di programmazione e ripartizione delle risorse del «Fondo per le infrastrutture portuali», di cui all'articolo 4, comma 6, del decreto-legge n. 40 del 2010. (Delibera n. 28/2026). (26A05580)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05580/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05554/SG",
+    "data": "2026-10-24",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'importazione parallela di taluni medicinali per uso umano (26A05554)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05554/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05555/SG",
+    "data": "2026-10-24",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di liraglutide, «Liraglutide Medical Valley». (26A05555)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05555/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05556/SG",
+    "data": "2026-10-24",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di liraglutide, «Glanux» (26A05556)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05556/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05557/SG",
+    "data": "2026-10-24",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di glicopirronio bromuro, indacaterolo maleato, «Dilabro». (26A05557)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05557/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05558/SG",
+    "data": "2026-10-24",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di vancomicina, «Vancomicina Noridem». (26A05558)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05558/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05559/SG",
+    "data": "2026-10-24",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di terbinafina, «Terbinafina Mylan Generics». (26A05559)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05559/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05560/SG",
+    "data": "2026-10-24",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di sertralina, «Sertralina KRKA». (26A05560)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05560/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05581/SG",
+    "data": "2026-10-24",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Decadenza, per mancato rinnovo, dell'autorizzazione all'importazione parallela del medicinale per uso umano «Prazene». (26A05581)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05581/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05582/SG",
+    "data": "2026-10-24",
+    "titolo": "ISTITUTO NAZIONALE DI STATISTICA - COMUNICATO",
+    "descrizione": "Indici dei prezzi al consumo per le famiglie di operai e impiegati, relativi al mese di settembre 2026, che si pubblicano ai sensi dell'articolo 81 della legge 27 luglio 1978, n. 392 (Disciplina delle locazioni di immobili urbani), ed ai sensi dell'articolo 54 della legge del 27 dicembre 1997, n. 449 (Misure per la stabilizzazione della finanza pubblica). (26A05582)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/10/24/26A05582/SG"
+   }
+  ],
   "Governo": [
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/ecad-incontro-internazionale-sulla-prevenzione-e-il-recupero-dalle-dipendenze-le",
+    "data": "2026-10-23",
+    "titolo": "ECAD, Incontro internazionale sulla prevenzione e il recupero dalle dipendenze, le conclusioni del Sottosegretario Mantovano",
+    "descrizione": "L'intervento conclusivo del Sottogretario alla Presidenza del Consiglio, Alfredo Mantovano, all'Incontro internazionale di alto livello sulla prevenzione e il recupero dalle dipendenze, tenutosi a San Patrignano.",
+    "url": "https://www.governo.it/it/articolo/ecad-incontro-internazionale-sulla-prevenzione-e-il-recupero-dalle-dipendenze-le"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/progressioni-verticali-2025-esiti-della-valutazione-dei-titoli-e-calendario-della-prova",
+    "data": "2026-10-23",
+    "titolo": "Progressioni verticali 2025, esiti della valutazione dei titoli e calendario della prova orale",
+    "descrizione": "Avviso ai candidati relativi alla procedura di selezione indetta con decreto del Segretario Generale del 10 dicembre 2025 per il passaggio dalla Categoria “B” al parametro retributivo iniziale della Categoria “A” per 27 unità riservato al personale appartenente al ruolo non dirigenziale della Presidenza del Consiglio dei Ministri.",
+    "url": "https://www.governo.it/it/articolo/progressioni-verticali-2025-esiti-della-valutazione-dei-titoli-e-calendario-della-prova"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/incontro-bilaterale-con-lemiro-del-kuwait/32927",
+    "data": "2026-10-23",
+    "titolo": "Incontro bilaterale con l&#039;Emiro del Kuwait",
+    "descrizione": "Il Presidente del Consiglio, Giorgia Meloni, ha incontrato in Kuwait l’Emiro Sheikh Misha’al Al-Ahmed Al-Jaber Al-Sabah, alla presenza del Principe Ereditario e del Primo Ministro, per approfondire la cooperazione bilaterale, con particolare riferimento agli investimenti, all’energia, alle infrastrutture e alla difesa. Nel corso dell’incontro è stato adottato un Piano d’Azione che individua le pri",
+    "url": "https://www.governo.it/it/articolo/incontro-bilaterale-con-lemiro-del-kuwait/32927"
+   },
    {
     "fonte": "Governo",
     "id": "gov:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-194/32912",
@@ -1376,9 +1433,9 @@
    {
     "fonte": "Governo",
     "id": "gov:https://www.governo.it/it/articolo/ecad-incontro-internazionale-di-alto-livello-sulla-prevenzione-e-il-recupero-dalle",
-    "data": "2026-10-22",
-    "titolo": "ECAD, Incontro internazionale di alto livello sulla prevenzione e il recupero dalle dipendenze",
-    "descrizione": "Si terrà venerdì 23 ottobre l'incontro internazionale di alto livello sulla prevenzione e il recupero dalle dipendenze, promosso da Italia e Francia, co-fondatori della Coalizione Europea contro le Droghe (ECAD), presso la Comunità di San Patrignano, a Coriano (Rimini). I lavori si apriranno alle ore 10:30 con l'intervento del Presidente del Consiglio, Giorgia Meloni. Nel pomeriggio, alle ore 17:0",
+    "data": "2026-10-23",
+    "titolo": "Incontro della Coalizione Europea contro le Droghe a San Patrignano",
+    "descrizione": "Si è svolto, presso la Comunità di San Patrignano, l'Incontro internazionale di alto livello sulla prevenzione e il recupero dalle dipendenze, promosso da Italia e Francia, co-fondatori della Coalizione Europea contro le Droghe (ECAD). Questa mattina i lavori si sono aperti con l'intervento del Presidente Meloni. L'evento si è concluso con l'intervento del Sottosegretario Mantovano e l’adozione de",
     "url": "https://www.governo.it/it/articolo/ecad-incontro-internazionale-di-alto-livello-sulla-prevenzione-e-il-recupero-dalle"
    },
    {
@@ -1412,33 +1469,105 @@
     "titolo": "Quattro anni di Governo Meloni, quattro anni di risultati e traguardi per l’Italia",
     "descrizione": "Il 22 ottobre 2026 il Governo Meloni è diventato il primo Esecutivo nella storia repubblicana a tagliare il traguardo dei quattro anni di durata. Il documento elenca in modo sintetico i numeri più importanti e i provvedimenti più significativi approvati e avviati dall’insediamento ad oggi. Tra i quali: il taglio di 140 miliardi di tasse a famiglie e imprese; la riduzione del 70% degli sbarchi ille",
     "url": "https://www.governo.it/it/articolo/quattro-anni-di-governo-meloni-quattro-anni-di-risultati-e-traguardi-l-italia/32891"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884",
-    "data": "2026-10-20",
-    "titolo": "Comunicato stampa del Consiglio dei Ministri n. 193",
-    "descrizione": "Il Consiglio dei Ministri si è riunito martedì 20 ottobre 2026, alle ore 18.21 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
-    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-193/32884"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/consiglio-dei-ministri-n-193/32877",
-    "data": "2026-10-20",
-    "titolo": "Consiglio dei Ministri n. 193",
-    "descrizione": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Al termine, il Ministro della Giustizia, Carlo Nordio e il Ministro dell’Interno, Matteo Piantedosi, hanno illustrato in conferenza stampa i provvedimenti approvati.",
-    "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-193/32877"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-193/32876",
-    "data": "2026-10-20",
-    "titolo": "Convocazione del Consiglio dei Ministri n. 193",
-    "descrizione": "Il Consiglio dei ministri è convocato a Palazzo Chigi in data 20 ottobre 2026 alle ore 17.30, per l'esame del seguente ordine del giorno:",
-    "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-193/32876"
    }
   ],
   "Commissione, notizie": [
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://translation.ec.europa.eu/news-and-events/news/new-episode-dgt-podcast-languages-and-technology-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "New episode – DGT podcast: Languages and Technology",
+    "descrizione": "Listen to episode 14 of the DGT podcast: Languages and Technology!",
+    "url": "https://translation.ec.europa.eu/news-and-events/news/new-episode-dgt-podcast-languages-and-technology-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "Building bridges through science diplomacy",
+    "descrizione": "The European Commission, UNESCO and the Union for the Mediterranean set the stage for discussing science diplomacy at the SESAME synchrotron in Jordan.",
+    "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/building-bridges-through-science-diplomacy-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/ai-and-skills-europe-closing-adoption-gap-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "AI and skills in Europe – Closing the adoption gap",
+    "descrizione": "In a recent brief, the Commission's Joint Research Centre notes that AI tools are now part of everyday work for around 30% of workers in the EU. Many jobs that could use AI do not do so, especially in smaller companies and among mid‑career staff.",
+    "url": "https://employment-social-affairs.ec.europa.eu/news/ai-and-skills-europe-closing-adoption-gap-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/investing-skills-competitiveness-small-and-medium-companies-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "Investing in skills for the competitiveness of small and medium companies",
+    "descrizione": "As Ireland leads the Presidency of the Council of the European Union, business leaders and policymakers met in Dublin to focus on a pressing question: how can Europe equip its small and medium-sized companies (SME) with the talent and skills they need to grow, innovate and compete?&nbsp;",
+    "url": "https://employment-social-affairs.ec.europa.eu/news/investing-skills-competitiveness-small-and-medium-companies-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-additional-eur225-million-reinforce-humanitarian-assistance-yemen-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "EU announces an additional €22.5 million to reinforce humanitarian assistance in Yemen",
+    "descrizione": "The European Commission is releasing €22.5 million in humanitarian aid to Yemen, in addition to the €87.5 million previously allocated for 2026, to address the consequences of the renewed conflict escalation and the critical needs of millions of people affected by the protracted crisis.",
+    "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-announces-additional-eur225-million-reinforce-humanitarian-assistance-yemen-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://competition-policy.ec.europa.eu/about/news/commission-opens-investigation-possible-anticompetitive-conduct-omya-supply-calcium-carbonates-paper-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "Commission opens investigation into possible anticompetitive conduct by Omya in the supply of calcium carbonates to the paper industry",
+    "descrizione": "The European Commission has opened a formal antitrust investigation to assess whether Omya has breached EU competition rules by requiring customers in the paper industry to purchase all or most of their calcium carbonates from Omya.",
+    "url": "https://competition-policy.ec.europa.eu/about/news/commission-opens-investigation-possible-anticompetitive-conduct-omya-supply-calcium-carbonates-paper-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "EU civil protection mechanism turns 25",
+    "descrizione": "Since its creation, it has been activated more than 900 times by 160 countries and 8 international organisations, coordinating assistance in response to wildfires, floods, earthquakes, health emergencies and other disasters across Europe and around the world.",
+    "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-civil-protection-mechanism-turns-25-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://single-market-economy.ec.europa.eu/news/enterprise-europe-network-annual-conference-2026-agile-network-changing-world-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "Enterprise Europe Network Annual Conference 2026: An Agile Network in a Changing World",
+    "descrizione": "The Enterprise Europe Network Annual Conference 2026 takes place 11-13 November at the Croke Park Conference Centre in Dublin, Ireland, with Network partners and stakeholders. Under the theme 'An Agile Network in a Changing World', 700 participants join onsite and online for 3 days of exchange.",
+    "url": "https://single-market-economy.ec.europa.eu/news/enterprise-europe-network-annual-conference-2026-agile-network-changing-world-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "Commissioner Lahbib visits Ottawa for discussions on preparedness for health emergencies",
+    "descrizione": "Commissioner for Equality, Preparedness and Crisis Management, Hadja Lahbib will visit Ottawa to meet with Canadian authorities to discuss health emergencies preparedness and response. The trip includes a visit to an aircraft factory where a total of 24 firefighting aircraft are being produced.",
+    "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-visits-ottawa-discussions-preparedness-health-emergencies-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-ministerial-statement-risk-famine-sudan-2026-10-23_en",
+    "data": "2026-10-23",
+    "titolo": "Joint ministerial statement on the risk of famine in Sudan",
+    "descrizione": "Sudan is experiencing an alarming deterioration in its food security. The risk of famine in the coming months, as warned by the Integrated Food Security Phase Classification, needs urgent action. There is no time to lose to save lives and prevent famine.",
+    "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/joint-ministerial-statement-risk-famine-sudan-2026-10-23_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://agriculture.ec.europa.eu/media/news/eu-and-us-young-agricultural-leaders-set-week-exploring-eu-farming-policy-and-practice-2026-10-22_en",
+    "data": "2026-10-22",
+    "titolo": "EU and US Young Agricultural Leaders Set for a Week Exploring EU Farming in Policy and Practice",
+    "descrizione": "Entering its second year, the EU-US Fellowship for Young Leaders in Agriculture continues to strengthen transatlantic collaboration. The programme deepens understanding of farmers’ challenges and promotes solutions to improve the long-term resilience and profitability of agriculture on both sides.",
+    "url": "https://agriculture.ec.europa.eu/media/news/eu-and-us-young-agricultural-leaders-set-week-exploring-eu-farming-policy-and-practice-2026-10-22_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://environment.ec.europa.eu/news/eu-plastic-packaging-waste-hits-359-kg-capita-2026-10-22_en",
+    "data": "2026-10-22",
+    "titolo": "EU plastic packaging waste hits 35.9 kg per capita",
+    "descrizione": "Packaging waste per capita increased by 3.2 kg compared with 2023, and by 19.6 kg compared with 2014.",
+    "url": "https://environment.ec.europa.eu/news/eu-plastic-packaging-waste-hits-359-kg-capita-2026-10-22_en"
+   },
    {
     "fonte": "Commissione, notizie",
     "id": "ecn:https://taxation-customs.ec.europa.eu/news/eu-detains-record-196-million-counterfeit-items-worth-eur-63-billion-2025-2026-10-22_en",
@@ -1521,27 +1650,11 @@
    },
    {
     "fonte": "Commissione, notizie",
-    "id": "ecn:https://agriculture.ec.europa.eu/media/news/eu-and-us-young-agricultural-leaders-set-week-exploring-eu-farming-policy-and-practice-2026-10-22_en",
-    "data": "2026-10-22",
-    "titolo": "EU and US Young Agricultural Leaders Set for a Week Exploring EU Farming in Policy and Practice",
-    "descrizione": "Entering its second year, the EU-US Fellowship for Young Leaders in Agriculture continues to strengthen transatlantic collaboration. The programme deepens understanding of farmers’ challenges and promotes solutions to improve the long-term resilience and profitability of agriculture on both sides.",
-    "url": "https://agriculture.ec.europa.eu/media/news/eu-and-us-young-agricultural-leaders-set-week-exploring-eu-farming-policy-and-practice-2026-10-22_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://environment.ec.europa.eu/news/eu-plastic-packaging-waste-hits-359-kg-capita-2026-10-22_en",
-    "data": "2026-10-22",
-    "titolo": "EU plastic packaging waste hits 35.9 kg per capita",
-    "descrizione": "Packaging waste per capita increased by 3.2 kg compared with 2023, and by 19.6 kg compared with 2014.",
-    "url": "https://environment.ec.europa.eu/news/eu-plastic-packaging-waste-hits-359-kg-capita-2026-10-22_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en",
-    "data": "2026-10-21",
-    "titolo": "Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing",
-    "descrizione": "Tomorrow, Commissioner for Energy and Housing Dan Jørgensen&nbsp;will be in&nbsp;Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders",
-    "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en"
+    "id": "ecn:https://regions-and-cities.ec.europa.eu/whats-new/newsroom/european-capital-innovation-awards-icapital-6-finalists-cities-announced-2026-10-22_en",
+    "data": "2026-10-23",
+    "titolo": "European Capital of Innovation Awards (iCapital): 6 finalists cities announced",
+    "descrizione": "On 22 October 2027, the European Commission announced the finalists of the 2027 European Capital of Innovation Awards (iCapital), celebrating the European cities that are leading the way in urban innovation and shaping more sustainable, inclusive and resilient communities.&nbsp;",
+    "url": "https://regions-and-cities.ec.europa.eu/whats-new/newsroom/european-capital-innovation-awards-icapital-6-finalists-cities-announced-2026-10-22_en"
    },
    {
     "fonte": "Commissione, notizie",
@@ -1577,6 +1690,14 @@
    },
    {
     "fonte": "Commissione, notizie",
+    "id": "ecn:https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en",
+    "data": "2026-10-23",
+    "titolo": "Commissioner Jørgensen in Hungary to address high energy prices, energy security and housing",
+    "descrizione": "Tomorrow, Commissioner for Energy and Housing Dan Jørgensen&nbsp;will be in&nbsp;Budapest, Hungary, to meet with national authorities, energy operators and other stakeholders",
+    "url": "https://energy.ec.europa.eu/news/commissioner-jorgensen-hungary-address-high-energy-prices-energy-security-and-housing-2026-10-21_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
     "id": "ecn:https://home-affairs.ec.europa.eu/news/gems-eu-funded-project-tackling-radicalisation-online-gaming-spaces-2026-10-20_en",
     "data": "2026-10-20",
     "titolo": "GEMS: An EU-funded project tackling radicalisation in online gaming spaces",
@@ -1590,96 +1711,8 @@
     "titolo": "Commission data shows continued growth in sustainable investments across the EU",
     "descrizione": "Today’s figures highlight the important role the&nbsp;EU’s sustainable finance framework plays in supporting the transition to a more sustainable, resilient, and competitive EU economy",
     "url": "https://finance.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://housing.ec.europa.eu/whats-new/news/access-affordable-and-adapted-housing-prioritised-pledge-intergenerational-fairness-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "Access to affordable and adapted housing is prioritised in the Pledge on the Intergenerational Fairness",
-    "descrizione": "Commissioner for Intergenerational Fairness, Youth, Culture and Sport, Glenn Micallef, has launched a pledge on intergenerational fairness. Local and regional elected representatives are invited to sign the Pledge, which has ensuring affordable and adapted housing as one if its 16 commitments.",
-    "url": "https://housing.ec.europa.eu/whats-new/news/access-affordable-and-adapted-housing-prioritised-pledge-intergenerational-fairness-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://transport.ec.europa.eu/news-events/news/joint-press-release-19th-implementation-meeting-eu-china-maritime-transport-agreement-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "Joint press release on the 19th implementation meeting of the EU–China Maritime Transport Agreement",
-    "descrizione": "The 19th implementation meeting of the EU–China Maritime Transport Agreement in Shanghai",
-    "url": "https://transport.ec.europa.eu/news-events/news/joint-press-release-19th-implementation-meeting-eu-china-maritime-transport-agreement-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://housing.ec.europa.eu/whats-new/news/commission-gathers-experts-help-unlock-investment-affordable-and-sustainable-housing-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "Commission gathers experts to help unlock investment in affordable and sustainable housing",
-    "descrizione": "More than 100 experts are part of a Joint Working Group, tasked with securing more private and public investments for affordable, energy-efficient and sustainable housing.",
-    "url": "https://housing.ec.europa.eu/whats-new/news/commission-gathers-experts-help-unlock-investment-affordable-and-sustainable-housing-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://international-partnerships.ec.europa.eu/news-and-events/news/eu-sets-out-new-strategy-arctic-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "EU sets out a new Strategy for the Arctic",
-    "descrizione": "Today, the Commission and the High Representative of the Union for Foreign Affairs and Security Policy presented a new Strategy for the Arctic. The Strategy presents a new framework of political cooperation for like-minded partners that places people, security, climate and prosperity at its core.",
-    "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-sets-out-new-strategy-arctic-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://home-affairs.ec.europa.eu/news/ceris-event-innovation-uptake-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "CERIS event on Innovation Uptake",
-    "descrizione": "The CERIS event on innovation uptake gathered more than 120 participants. It provided a space for public authorities, security practitioners, policy makers, innovators and researchers to connect and discuss practical ways to support the transition from research results to deployable solutions.",
-    "url": "https://home-affairs.ec.europa.eu/news/ceris-event-innovation-uptake-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://blue-economy-observatory.ec.europa.eu/news/how-ports-can-become-catalysts-blue-economy-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "How ports can become catalysts for the blue economy",
-    "descrizione": "Highlighted in the World Economic Forum’s Global Risks Report 2026, long-term risks to Earth systems, society and the economy are dominated by the impact of climate change, with extreme weather events, biodiversity loss and ecosystem collapse, and critical change to Earth systems ranked among the",
-    "url": "https://blue-economy-observatory.ec.europa.eu/news/how-ports-can-become-catalysts-blue-economy-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://enlargement.ec.europa.eu/news/commissioner-kos-montenegro-attend-berlin-process-summit-and-discuss-countrys-accession-process-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "Commissioner Kos in Montenegro to attend the Berlin Process Summit and discuss the country’s accession process",
-    "descrizione": "Tomorrow and on Thursday, Commissioner for Enlargement Marta Kos will be in Montenegro to participate at the Berlin Process Summit and to discuss Montenegro’s progress on its accession path.",
-    "url": "https://enlargement.ec.europa.eu/news/commissioner-kos-montenegro-attend-berlin-process-summit-and-discuss-countrys-accession-process-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://energy.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "Commission data shows continued growth in sustainable investments across the EU",
-    "descrizione": "Over €1.2 trillion has been invested in sustainable activities in the EU since 2021, according to data published by the Commission today.",
-    "url": "https://energy.ec.europa.eu/news/commission-data-shows-continued-growth-sustainable-investments-across-eu-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:/news-and-media/news/click-wisely-promoting-online-safety-during-european-cybersecurity-month-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "Click wisely: promoting online safety during European Cybersecurity Month",
-    "descrizione": "Learn about the EU campaign to promote cybersecurity in the Europe and about what the EU is doing to better prepare us for and respond to cybersecurity threats",
-    "url": "/news-and-media/news/click-wisely-promoting-online-safety-during-european-cybersecurity-month-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://eures.europa.eu/working-through-app-or-website-see-whats-changing-your-rights-2026-10-20_en",
-    "data": "2026-10-20",
-    "titolo": "Working through an app or website? See what’s changing for your rights",
-    "descrizione": "Delivering food, driving people from A to B or freelancing online? New EU rules could change your status, unlock employee benefits and stop unfair algorithmic decisions.",
-    "url": "https://eures.europa.eu/working-through-app-or-website-see-whats-changing-your-rights-2026-10-20_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://energy.ec.europa.eu/news/eu-and-new-caledonia-sign-strategic-partnership-sustainable-raw-materials-2026-10-20_en",
-    "data": "2026-10-21",
-    "titolo": "EU and New Caledonia sign strategic partnership on sustainable raw materials",
-    "descrizione": "Today, the European Commission and the government of New Caledonia signed a Memorandum of Understanding (MoU) establishing a strategic partnership on sustainable raw materials value chains.",
-    "url": "https://energy.ec.europa.eu/news/eu-and-new-caledonia-sign-strategic-partnership-sustainable-raw-materials-2026-10-20_en"
    }
   ]
  },
- "prova_feed_eurlex": "HTTP 200, 71304 byte, feed RSS"
+ "prova_feed_eurlex": "HTTP 200, 70267 byte, feed RSS"
 }
