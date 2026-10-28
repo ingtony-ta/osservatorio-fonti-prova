@@ -1,0 +1,466 @@
+{
+ "finestra": {
+  "dal": "26-10-2026",
+  "al": "27-10-2026"
+ },
+ "voci": [
+  {
+   "area": "Sostanze chimiche (REACH, CLP, POPs, biocidi, detergenti)",
+   "titolo": "CLP: in consultazione fino al 24-11-2026 le bozze che classificano come interferenti endocrini, PBT o vPvB ftalati, bisfenoli, PFAS, silossani e altre sostanze già identificate",
+   "rilevanza": "media",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Commissione europea, Have Your Say (iniziative 15632 e 17632)",
+   "data": "27-10-2026",
+   "scadenza": "24-11-2026",
+   "confermata": true,
+   "descrizione": "Bozza di regolamento delegato Ares(2026)10072784 (HYS 15632) che modifica l'allegato VI, parte 3, tabella 3, del Reg. (CE) 1272/2008 in base all'art. 37, par. 7, lett. b): inserisce nuove voci armonizzate e sostituisce voci esistenti per sostanze già identificate come interferenti endocrini (ED HH 1, EUH380; ED ENV 1, EUH430), PBT (EUH440) o vPvB (EUH441) con decisioni REACH (elenco delle candidate), fitosanitari o biocidi. Fra le sostanze di interesse per i prodotti di consumo: DEHP, DBP, BBP, DIBP, DCHP, bisfenoli A, S e B, PFOA, APFO, PFHxS, PFNA, PFDA, PFHpA, silossani D4, D5, D6, L3, L4, M3T, decaBDE, DBDPE, HBCDD, paraffine clorurate a catena corta e media, benzotriazoli UV (UV-328, UV-320, UV-327, UV-329, UV-350, UV-326), nonilfenoli e octilfenolo etossilati, 4-tert-octilfenolo, butil e isobutil parabene, trifenilfosfato, TBTO e rodenticidi anticoagulanti. Entrata in vigore il ventesimo giorno dalla pubblicazione; applicazione dal «first day of the month of entry into force plus 19 months» (la relazione parla di transitorio di 18 mesi), con applicazione anticipata volontaria. La seconda bozza Ares(2026)10072732 (HYS 17632, art. 53, par. 1) aggiunge all'allegato VI, parte 1, la nota Y (D4 sotto 0,1 % p/p: autoclassificazione PBT), la nota Z (voci di gruppo: il fornitore indica la sostanza specifica) e le note da 14 a 21 (somma delle concentrazioni delle sostanze della stessa voce per classificare le miscele come ED, PBT o vPvB; per PBT e vPvB soglia 0,1 %). Riguarda fabbricanti, importatori, utilizzatori a valle e distributori di sostanze e miscele (etichette e schede di dati di sicurezza); le classi ED, PBT e vPvB sono quelle introdotte nel CLP dal Reg. delegato (UE) 2023/707. Testi letti per intero in inglese (atto e allegati).",
+   "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/15632_it",
+   "url_ufficiale": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/17632_it",
+   "documenti": [
+    "https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e535db5b7b",
+    "https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e535db5b7c",
+    "https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e535db6ca7",
+    "https://ec.europa.eu/info/law/better-regulation/brpapi/download/090166e535db6ca8"
+   ],
+   "notebook": "Chemicals",
+   "candidato_wiki": true,
+   "atto": "Ares(2026)10072784 (HYS 15632) e Ares(2026)10072732 (HYS 17632), bozze di regolamenti delegati che modificano il Reg. (CE) 1272/2008",
+   "come_trovata": "raccolta: Have Your Say, consultazioni aperte"
+  },
+  {
+   "area": "Tutela dei consumatori, garanzie, riparazione, responsabilità da prodotto, green claims",
+   "titolo": "Responsabilità per prodotti difettosi: il decreto di recepimento della Dir. (UE) 2024/2853 è all'esame definitivo del Consiglio dei ministri del 28-10-2026",
+   "rilevanza": "alta",
+   "tipo_fonte": "ufficiale",
+   "fonte": "Governo, convocazione del Consiglio dei ministri n. 195",
+   "data": "28-10-2026",
+   "scadenza": "09-12-2026",
+   "confermata": true,
+   "descrizione": "La convocazione del Consiglio dei ministri n. 195 del 28-10-2026, ore 15:00, mette all'ordine del giorno lo schema di decreto legislativo di adeguamento alla Dir. (UE) 2024/2853 sulla responsabilità per danno da prodotti difettosi, che abroga la Dir. 85/374/CEE, in esame definitivo (proponenti Affari europei, PNRR e politiche di coesione e Giustizia). È l'atto del Governo n. 434, su cui alla Camera la II Commissione ha dato parere favorevole con osservazioni il 23-09-2026 e la V e la XIV parere favorevole il 16-09-2026. Al momento della lettura (sera del 28-10-2026) il sito del Governo riportava solo la notizia della riunione, presentata in conferenza stampa per la legge di bilancio 2027; il comunicato con l'esito dei singoli punti non era pubblicato, quindi l'approvazione definitiva non risulta ancora dalla fonte ufficiale. Il termine di recepimento è il 09-12-2026; la direttiva si applica ai prodotti immessi sul mercato dopo tale data e chiama a rispondere, oltre al fabbricante, l'importatore, il rappresentante autorizzato, il fornitore di servizi di logistica e, a determinate condizioni, distributori e piattaforme online. Il testo del decreto definitivo non è ancora disponibile.",
+   "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-195/32963",
+   "url_ufficiale": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-195/32963",
+   "documenti": [
+    "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-195/32963",
+    "https://www.camera.it/leg19/142"
+   ],
+   "notebook": "Tutela Consumatori",
+   "candidato_wiki": false,
+   "atto": "Schema di D.Lgs. di attuazione della Dir. (UE) 2024/2853 (AG 434), CdM n. 195 del 28-10-2026, esame definitivo",
+   "come_trovata": "raccolta: Governo (Consiglio dei Ministri n. 195), poi convocazione letta sul sito del Governo"
+  },
+  {
+   "area": "Sostanze chimiche (REACH, CLP, POPs, biocidi, detergenti)",
+   "titolo": "Banca dati SCIP: le associazioni del commercio chiedono di confermare l'abrogazione proposta nell'Omnibus VIII; l'obbligo dell'art. 33 REACH resta",
+   "rilevanza": "media",
+   "tipo_fonte": "commento",
+   "fonte": "EuroCommerce, dichiarazione congiunta di associazioni di imprese",
+   "data": "26-10-2026",
+   "scadenza": "",
+   "confermata": true,
+   "descrizione": "Dichiarazione congiunta del 26-10-2026 che chiede ai colegislatori di confermare senza modifiche l'abrogazione della banca dati SCIP prevista dall'art. 1, punto 2, della proposta di direttiva COM(2025) 986 (procedura 2025/0394(COD), Omnibus VIII, modifica della Dir. 2008/98/CE). Sulla fonte ufficiale: la relazione della proposta motiva l'abrogazione con lo scarso uso dei dati da parte dei gestori di rifiuti e con la duplicazione rispetto all'art. 33, par. 1, del Reg. (CE) 1907/2006; l'Osservatorio legislativo registra il progetto di relazione ENVI PE787.998 del 16-06-2026 (relatrice Solís Pérez), stadio «Awaiting committee decision» e plenaria indicativa il 14-12-2026. Criterio operativo per importatori e distributori di articoli: anche con l'abrogazione resta l'obbligo di informare i clienti sulle sostanze dell'elenco delle candidate presenti sopra lo 0,1 % p/p (art. 33, par. 1, REACH); finché la proposta non è adottata l'obbligo di notifica SCIP resta applicabile. La procedura 2025/0394 non è fra i monitoraggi attivi (questi coprono 2025/0395, 0396 e 0397).",
+   "url": "https://www.eurocommerce.eu/2026/10/joint-statement-for-the-repeal-of-the-scip-database-environmental-omnibus/",
+   "url_ufficiale": "https://eur-lex.europa.eu/legal-content/IT/TXT/?uri=CELEX:52025PC0986",
+   "documenti": [
+    "https://eur-lex.europa.eu/legal-content/IT/TXT/PDF/?uri=CELEX:52025PC0986",
+    "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0394(COD)"
+   ],
+   "notebook": "Chemicals",
+   "candidato_wiki": false,
+   "atto": "COM(2025) 986, 2025/0394(COD)",
+   "come_trovata": "raccolta: fonte fissa EuroCommerce (sezione 5), verifica su OEIL e Cellar 52025PC0986"
+  }
+ ],
+ "monitoraggi": [
+  {
+   "id": "M-01",
+   "oggetto": "Regolamento di esecuzione sull'etichettatura delle batterie portatili (Reg. (UE) 2023/1542, art. 13, par. 10)",
+   "esito": "invariato",
+   "nota": "Scheda HYS 14456 riletta il 28-10-2026: REG_IMPL, fase ISC_WORKFLOW, ultima modifica del gruppo il 27-01-2026; bozza sempre Ares(2025)11169592, feedback chiuso il 26-01-2026 (91 contributi), nessun atto adottato. SPARQL (raccolta): atti collegati a 32023R1542 solo 32023R1542R(15) del 19-10-2026 (non tocca la versione italiana) e 52026XC05531 del 22-10-2026, già nel registro.",
+   "fonti": [
+    "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/14456",
+    "raccolta: GUUE, atti collegati agli atti di riferimento (SPARQL)"
+   ]
+  },
+  {
+   "id": "M-02",
+   "oggetto": "Recepimento italiano della Dir. (UE) 2024/1799 e della Dir. delegata (UE) 2026/74 (voce chiusa)",
+   "esito": "invariato",
+   "nota": "Normattiva: D.Lgs. 25-09-2026, n. 176 (GU n. 233 del 07-10-2026) vigente dal 22-10-2026, versione originaria. Sommari delle GU n. 249 (26-10-2026) e n. 250 (27-10-2026): niente su riparazione o Codice del consumo. SPARQL diretto: nessuna misura nazionale con CELEX che inizia per 72024L1799ITA; raccolta: nessun atto collegato a 32024L1799. Governo: archivio fermo al CdM n. 194; l'ordine del giorno del CdM n. 195 del 28-10-2026 non ha atti sulla riparazione. Notizie MIMIT non lette (timeout); per quella fonte vale lo stato del 17-10-2026.",
+   "fonti": [
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-09-25;176",
+    "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2026-10-26&numeroGazzetta=249",
+    "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2026-10-27&numeroGazzetta=250",
+    "https://publications.europa.eu/webapi/rdf/sparql",
+    "https://www.governo.it/it/archivio-riunioni",
+    "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-195/32963"
+   ]
+  },
+  {
+   "id": "M-03",
+   "oggetto": "Recepimento italiano della Dir. (UE) 2024/2853 sulla responsabilità per danno da prodotti difettosi",
+   "esito": "cambiato",
+   "nota": "Fatto nuovo del 28-10-2026: la convocazione del Consiglio dei ministri n. 195 (28-10-2026, ore 15:00) mette all'ordine del giorno lo schema di decreto legislativo di adeguamento alla Dir. (UE) 2024/2853 in ESAME DEFINITIVO. Il comunicato con l'esito non era pubblicato alla lettura: l'archivio dei comunicati arriva al n. 194 e la pagina del CdM n. 195 parla solo della legge di bilancio. Camera: AG 434 sempre in fase «parere espresso» (II favorevole con osservazioni il 23-09-2026, V e XIV favorevoli il 16-09-2026); elenco atti del Governo fino all'AG 451. Decreto non presente nelle GU n. 249 e n. 250. Termine di recepimento 09-12-2026. Al prossimo giro va letto il comunicato del CdM n. 195 per l'esito.",
+   "fonti": [
+    "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-195/32963",
+    "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-195/32964",
+    "https://www.governo.it/it/archivio-riunioni",
+    "https://www.camera.it/leg19/142",
+    "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2026-10-27&numeroGazzetta=250"
+   ]
+  },
+  {
+   "id": "M-04",
+   "oggetto": "Atti secondari del PPWR (Reg. (UE) 2025/40)",
+   "esito": "invariato",
+   "nota": "Nessun atto nuovo. Tracker EUROPEN: contatori aggiornati a 30 attesi, 1 consegnato, 19 in preparazione, 10 senza lavori avviati (al 26-10-2026 erano 18 e 11); la pagina delle consultazioni ora elenca l'art. 8.1 (plastica a base biologica, consultazione dal 21-10-2026 al 13-01-2027, già nel registro) e l'art. 41.1 (early warning report) chiusa il 26-10-2026; ultima news sempre del 01-10-2026. Scheda HYS 19243 invariata (ultima modifica 19-10-2026, adozione nel secondo trimestre 2027, bozza «upcoming»). HYS 17712 chiusa il 26-10-2026; resta aperta la 19498. Pagina di attuazione (Green Forum): stesse risorse e stessa timeline, Italia non fra le autorità notificate. SPARQL (raccolta): nessun atto collegato a 32025R0040.",
+   "fonti": [
+    "https://www.ppwrtracker-europen.eu/",
+    "https://www.ppwrtracker-europen.eu/public-consultations/",
+    "https://green-forum.ec.europa.eu/packaging-and-packaging-waste-regulation-implementation_en",
+    "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/19243",
+    "https://ec.europa.eu/info/law/better-regulation/brpapi/groupInitiatives/17712",
+    "raccolta: GUUE, atti collegati agli atti di riferimento (SPARQL)"
+   ]
+  },
+  {
+   "id": "M-05",
+   "oggetto": "Omnibus VIII (Reg. (UE) 2023/1542 e sospensione delle regole sul rappresentante autorizzato EPR)",
+   "esito": "invariato",
+   "nota": "OEIL 2025/0395 e 2025/0396: ultimo evento il 20-10-2026 (voto parziale T10-0345/2026 e T10-0344/2026, rinvio in commissione per i negoziati), stadio «Awaiting Parliament's position in 1st reading». OEIL 2025/0397: «Awaiting committee decision», plenaria indicativa il 14-12-2026. Feed RSS del Consiglio letto fino al 28-10-2026: nessun comunicato sul tema; forward look HTTP 403. Sala stampa e SPARQL (raccolta): nulla. Nessun atto adottato.",
+   "fonti": [
+    "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0395(COD)",
+    "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0396(COD)",
+    "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0397(COD)",
+    "https://www.consilium.europa.eu/en/rss/pressreleases.ashx",
+    "raccolta: Commissione, sala stampa"
+   ]
+  },
+  {
+   "id": "M-07",
+   "oggetto": "Dogana italiana e PPWR",
+   "esito": "invariato",
+   "nota": "Elenco circolari: ultima la n. 19/2026 del 21-07-2026; la circolare 18/2026 resta sospesa (nota prot. 438174 del 13-07-2026) e non è stata riemessa. Comunicati di ottobre 2026 letti fino al 28-10-2026: nel 26-27 ottobre Aprilia (camini elettrici, già nel registro), giochi telematici, Port Tracking a Genova Prà, Licata gas off-shore, workshop Pescara; nessun atto su imballaggi o PPWR.",
+   "fonti": [
+    "https://www.adm.gov.it/portale/circolari-dogane",
+    "https://www.adm.gov.it/portale/ottobre-2026"
+   ]
+  },
+  {
+   "id": "M-08",
+   "oggetto": "Decreto sanzioni italiano sul PPWR e autorità di vigilanza",
+   "esito": "invariato",
+   "nota": "GU n. 249 e n. 250: nessun decreto sanzionatorio PPWR. Governo: archivio fermo al CdM n. 194; ordine del giorno del CdM n. 195 del 28-10-2026 senza atti sul PPWR. Camera: atti del Governo fino all'AG 451 (nuovi AG 450 ordinamento forense e AG 451 delega fiscale), nessuno sul PPWR. Senato, dati aperti (SPARQL 28-10-2026): ddl 60480 «appr. definit. Legge» (01-10-2026), 60421 «approvato» (23-09-2026), 59789 «assegnato (no esame)» (30-03-2026). MASE: notizie fino al 20-10-2026 e comunicati fino al 28-10-2026, nessuna designazione. Green Forum: Italia non notificata. MIMIT non letto (timeout); vale lo stato del 17-10-2026. Termine della delega art. 14 L. 36/2026: 09-12-2026.",
+   "fonti": [
+    "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2026-10-26&numeroGazzetta=249",
+    "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2026-10-27&numeroGazzetta=250",
+    "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-195/32963",
+    "https://www.camera.it/leg19/142",
+    "https://dati.senato.it/sparql",
+    "https://www.mase.gov.it/portale/web/guest/notizie",
+    "https://www.mase.gov.it/portale/comunicati-stampa",
+    "https://green-forum.ec.europa.eu/packaging-and-packaging-waste-regulation-implementation_en"
+   ]
+  },
+  {
+   "id": "M-09",
+   "oggetto": "Conversione del DL 07-08-2026, n. 143 (voce chiusa)",
+   "esito": "invariato",
+   "nota": "Camera C. 3118: legge n. 173 del 05-10-2026 (GU n. 232 del 06-10-2026), scheda aggiornata il 28-10-2026 senza fatti nuovi. Senato, dati aperti: ddl 60480 «appr. definit. Legge». GU n. 249 e n. 250: nessun testo coordinato né errata corrige della L. 173/2026 (la n. 249 contiene la L. 195/2026 sulla Giornata nazionale del riciclo della carta e il testo coordinato del DL 154/2026, estranei).",
+   "fonti": [
+    "https://www.camera.it/leg19/126?leg=19&idDocumento=3118",
+    "https://dati.senato.it/sparql",
+    "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2026-10-26&numeroGazzetta=249",
+    "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2026-10-27&numeroGazzetta=250"
+   ]
+  },
+  {
+   "id": "M-10",
+   "oggetto": "Decreto MIMIT di adeguamento dell'allegato II-decies del Codice del consumo",
+   "esito": "invariato",
+   "nota": "Nessun decreto MIMIT nelle GU n. 249 e n. 250. Normattiva: D.Lgs. 176/2026 vigente dal 22-10-2026, artt. 127-bis, comma 2, e 127-quinquies limitano l'obbligo ai beni con specifiche di riparabilità negli atti UE dell'allegato II-decies. Notizie e FAQ MIMIT non lette: timeout su notizie-stampa, domande-frequenti, pagina FAQ D.Lgs. 30/2026 e feed RSS; vale lo stato del 17-10-2026 (ultima FAQ del 01-10-2026).",
+   "fonti": [
+    "https://www.gazzettaufficiale.it/gazzetta/serie_generale/caricaDettaglio?dataPubblicazioneGazzetta=2026-10-27&numeroGazzetta=250",
+    "https://www.normattiva.it/uri-res/N2Ls?urn:nir:stato:decreto.legislativo:2026-09-25;176",
+    "https://www.mimit.gov.it/it/notizie-stampa (timeout)",
+    "https://www.mimit.gov.it/it/assistenza/domande-frequenti (timeout)"
+   ]
+  },
+  {
+   "id": "M-11",
+   "oggetto": "Omnibus IV: soglia di fatturato per il dovere di diligenza sulle batterie (art. 47 Reg. (UE) 2023/1542)",
+   "esito": "invariato",
+   "nota": "OEIL 2025/0130(COD): «Awaiting Parliament's position in 1st reading», testo concordato PE790.249 approvato in commissione il 02-07-2026, plenaria indicativa il 23-11-2026 (non rinviata). Feed del Consiglio fino al 28-10-2026: nessuna adozione. SPARQL (raccolta): nessun atto che modifica 32023R1542 né titoli con «small mid-cap». Vale ancora la soglia di 40 milioni €.",
+   "fonti": [
+    "https://oeil.secure.europarl.europa.eu/oeil/en/procedure-file?reference=2025/0130(COD)",
+    "https://www.consilium.europa.eu/en/rss/pressreleases.ashx",
+    "raccolta: GUUE, atti nuovi e atti collegati (SPARQL)"
+   ]
+  }
+ ],
+ "fonti": [
+  {
+   "nome": "GUUE, atti nuovi (SPARQL)",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Valutati dalla raccolta tutti i titoli dal 19-10 al 27-10-2026: PESC e Strumento europeo per la pace, misure restrittive, pesca, agricoltura e fitosanitari (2026/2348, 2026/2340), peste suina e influenza aviaria, antidumping senza requisiti tecnici (silicio, PVC, agrumi, carta termica, piastrelle, vetro solare), raccomandazioni su paraffine clorurate e N-nitrosammine negli alimenti, ETS, IG, concentrazioni, dichiarazioni della Commissione su lavoratori stagionali. Nessun atto nel dominio."
+  },
+  {
+   "nome": "GUUE, atti collegati agli atti di riferimento (SPARQL)",
+   "esito": "letta",
+   "nota": "32023R1542R(15) già valutata (non tocca la versione italiana); 52026XC05531 già nel registro; 32022R2065R(11) (DSA) e 32019R1009R(16) (fertilizzanti) del 23-10-2026 con testo non leggibile da Cellar (HTTP 404 in italiano): in note_fonti come in attesa di testo."
+  },
+  {
+   "nome": "GUUE, atti che citano o interpretano gli atti dell'elenco 1.1 (SPARQL)",
+   "esito": "letta, nulla di nuovo",
+   "nota": "52026XC05554 (avviso antidumping su fluoruro di polivinilidene, cita 32013R0952) escluso; 52026XC05531 già nel registro."
+  },
+  {
+   "nome": "Sala stampa (presscorner)",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Valutata dalla raccolta: 26-27 ottobre Frontex, quadro per la resilienza climatica, piattaforma T-MED, revisione della funzione pubblica, Eurobarometro su nuovi alimenti, dichiarazione sulla Serbia. Nessun comunicato nel dominio."
+  },
+  {
+   "nome": "DG GROW, notizie",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Ultima notizia del 23-10-2026 (conferenza EEN); JACOP isolanti (19-10) e calzature di sicurezza (13-10) già nel registro."
+  },
+  {
+   "nome": "DG GROW, pubblicazioni",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Ultima pubblicazione del 06-10-2026 (proposta sulla normazione, già nel registro)."
+  },
+  {
+   "nome": "DG ENV, notizie",
+   "esito": "letta, nulla di nuovo",
+   "nota": "27-28 ottobre: crediti per la natura, UNEP, studi scientifici (PFAS nei bacini d'acqua dolce, zone umide, farmaci), nessun atto o consultazione nel dominio; consultazione plastica biobased del 21-10 già nel registro."
+  },
+  {
+   "nome": "Have Your Say, consultazioni",
+   "esito": "letta",
+   "nota": "Novità nel dominio: HYS 15632 e 17632 (bozze di regolamenti delegati CLP, feedback fino al 24-11-2026), voce. Altre nuove del 26-27 ottobre fuori dominio (trasporto su strada, tachigrafi, eFTI, idrogeno, CO2 veicoli pesanti). HYS 17712 chiusa il 26-10-2026."
+  },
+  {
+   "nome": "PPWR, pagina di attuazione",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Stesse risorse (linee guida marzo 2026, FAQ agosto 2026, guide PMI), stessa timeline, Italia non fra le autorità notificate."
+  },
+  {
+   "nome": "EU Law Tracker",
+   "esito": "non letta",
+   "nota": "https://law-tracker.europa.eu/ HTTP 200 con pagina JavaScript senza contenuto (27538 byte); seconda via https://law-tracker.europa.eu/results?searchType=simple&lang=en stesso esito; nessuna API pubblica individuata."
+  },
+  {
+   "nome": "Parlamento europeo, notizie",
+   "esito": "letta",
+   "nota": "https://www.europarl.europa.eu/news/en e feed RSS dei comunicati rispondono HTTP 202 con pagina vuota; lette via OEIL le procedure 2025/0394, 2025/0395, 2025/0396, 2025/0397 e 2025/0130: nessun evento nuovo."
+  },
+  {
+   "nome": "Consiglio UE, comunicati",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Feed RSS letto fino al 28-10-2026: PAC, pesca nel Baltico, Strumento europeo per la pace, sanzioni ISIL, consigli Energia, vertici; nessun comunicato nel dominio. Forward look del 23-10-2026 HTTP 403."
+  },
+  {
+   "nome": "ECHA",
+   "esito": "non letta",
+   "nota": "https://echa.europa.eu/news HTTP 403; seconda via feed RSS https://echa.europa.eu/news-and-events/news-alerts/all-news/-/asset_publisher/yhAseXkvBI2u/rss HTTP 403."
+  },
+  {
+   "nome": "Gazzetta Ufficiale, Serie generale",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Sommari GU n. 249 (26-10-2026) e n. 250 (27-10-2026): L. 195/2026 Giornata nazionale del riciclo della carta (nessun obbligo per i prodotti), L. 196/2026 di conversione del DL 154/2026, decreti MASAF su centri di saggio fitosanitari, accise, AIFA, CIPESS. Nessun atto nel dominio."
+  },
+  {
+   "nome": "Gazzetta Ufficiale, serie UE",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Feed della raccolta: GU 2ª serie speciale n. 84 del 26-10-2026 con atti UE già pubblicati (regolamenti e decisioni di giugno e agosto 2026, rettifica n. 1898); nessun riscontro nuovo nel dominio."
+  },
+  {
+   "nome": "Agenzia delle dogane (ADM)",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Circolari: ultima n. 19/2026; 18/2026 sospesa e non riemessa. Comunicati fino al 28-10-2026: Aprilia (26-10, già nel registro), nessun altro su sicurezza prodotti o imballaggi."
+  },
+  {
+   "nome": "Ministero dell'ambiente (MASE)",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Notizie fino al 20-10-2026, comunicati fino al 28-10-2026 (manovra, COP31): nulla su PPWR, autorità competente o decreti."
+  },
+  {
+   "nome": "MIMIT",
+   "esito": "non letta",
+   "nota": "Timeout (URLError) su https://www.mimit.gov.it/it/notizie-stampa, https://www.mimit.gov.it/it/assistenza/domande-frequenti, sulla pagina FAQ del D.Lgs. 30/2026 e sul feed https://www.mimit.gov.it/index.php/it/notizie-stampa?format=feed&type=rss; anche la raccolta segnala timeout."
+  },
+  {
+   "nome": "Governo, Consiglio dei ministri",
+   "esito": "letta",
+   "nota": "Archivio comunicati fermo al n. 194 del 22-10-2026. Convocazione del CdM n. 195 del 28-10-2026: esame definitivo dello schema di D.Lgs. sulla Dir. (UE) 2024/2853 (voce e M-03); comunicato con l'esito non ancora pubblicato."
+  },
+  {
+   "nome": "Camera, atti del Governo",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Elenco fino all'AG 451 (nuovi AG 450 e 451, fuori dominio); AG 434 in «parere espresso»; AG 445 e AG 447 in esame con termine 18-11-2026."
+  },
+  {
+   "nome": "Camera, notizie di prima pagina",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Notizie del 27-28 ottobre: rapporto sulla legislazione 2026, audizioni, delega professioni sanitarie, convegno del 30-10 sulle politiche doganali; nessun iter di recepimento nel dominio."
+  },
+  {
+   "nome": "Senato",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Pagina in-copertina con sfida anti-bot nota; dati aperti SPARQL letti il 28-10-2026: ddl 60480, 60421 e 59789 con stato invariato."
+  },
+  {
+   "nome": "Normattiva",
+   "esito": "letta, nulla di nuovo",
+   "nota": "D.Lgs. 176/2026 vigente dal 22-10-2026, testo originario."
+  },
+  {
+   "nome": "Ministero della salute",
+   "esito": "non letta",
+   "nota": "https://www.salute.gov.it/new/it/sezione/notizie/ sfida anti-bot Gcore (Browser Validation Page); seconda via https://www.salute.gov.it/portale/news/p3_2_1.jsp?lingua=italiano&menu=notizie stesso esito; la raccolta segnala ParseError."
+  },
+  {
+   "nome": "REACH Italia",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Ultime novità del 15-10-2026 (webinar ECHA del 05-11-2026 sulle tariffe ridotte PMI, pagina PMI ECHA), già note."
+  },
+  {
+   "nome": "AGCM, comunicati",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Ultimo comunicato del 19-10-2026 (linee guida sulle recensioni online, fuori dominio); nulla nella finestra."
+  },
+  {
+   "nome": "CONAI",
+   "esito": "non letta",
+   "nota": "HTTP 403 su https://www.conai.org, seconda via https://www.conai.org/notizie/ HTTP 403, terza via https://www.conai.org/feed/ HTTP 403."
+  },
+  {
+   "nome": "Unioncamere",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Comunicati recenti su export, imprese, lavoro e premi; nulla su sicurezza prodotti o normativa."
+  },
+  {
+   "nome": "Tracker EUROPEN degli atti PPWR",
+   "esito": "letta",
+   "nota": "Contatori aggiornati (19 atti in preparazione, 10 senza lavori avviati); pagina consultazioni con art. 8.1 (già nel registro) e art. 41.1 chiusa il 26-10-2026; vedi M-04."
+  },
+  {
+   "nome": "EuroCommerce",
+   "esito": "letta",
+   "nota": "26-10-2026: dichiarazione congiunta per l'abrogazione della banca dati SCIP (voce, commento); 28-10-2026: posizione sulla fiscalità, fuori dominio."
+  },
+  {
+   "nome": "Cooley Product Counselor",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Ultimo articolo del 22-09-2026 (European Product Act)."
+  },
+  {
+   "nome": "HKTDC, alert normativi UE",
+   "esito": "non letta",
+   "nota": "API https://api-research.hktdc.com/v1/regulatory-alerts/eu HTTP 400; seconda via https://api-research.hktdc.com/v1/regulatory-alerts?market=eu&lang=en HTTP 400."
+  },
+  {
+   "nome": "Aggiornamento Normativo",
+   "esito": "letta, nulla di nuovo",
+   "nota": "28-10-2026: schede INAIL su reprotossici e silice, circolare su piattaforme nei frutteti (sicurezza sul lavoro); nulla nella finestra sul dominio prodotti."
+  },
+  {
+   "nome": "Camera di commercio di Milano",
+   "esito": "letta, nulla di nuovo",
+   "nota": "Ufficio stampa aggiornato al 19-10-2026; nessuna notizia su vigilanza o normativa prodotti."
+  },
+  {
+   "nome": "Laboratorio chimico della Camera di commercio di Torino (LAB-TO), home",
+   "esito": "letta",
+   "nota": "Novità del 27-10-2026: calendario dei focus del Portale Etichettatura 2026; webinar annunciati riportati nel campo webinar."
+  },
+  {
+   "nome": "LAB-TO, eventi",
+   "esito": "letta",
+   "nota": "Annunciati Focus Nazionale PPWR (10-11-2026) e Il passaporto digitale (02-12-2026); altri eventi fuori tema (alimenti, IG, fiscalità)."
+  },
+  {
+   "nome": "Portale etichettatura, eventi della rete camerale",
+   "esito": "letta",
+   "nota": "Annunciati vigilanza prodotti (04-11), PPWR (10-11), passaporto digitale (02-12); svolti il seminario MOCA di Aosta (26-10) e il webinar sorgenti luminose ed ecodesign (23-10). Le pagine evento non sono raggiungibili dall'elenco (indirizzi non ricavabili, prove a vuoto): slide non verificate."
+  },
+  {
+   "nome": "Camera di commercio di Cuneo, calendario",
+   "esito": "letta",
+   "nota": "Pagina dei focus 2026 (aggiornata il 16-10-2026): programma del 04-11 (vigilanza, risultati campagne 2025) e del 10-11 (PPWR con CONAI, tool Packaging 4EU); slide pubblicate per eventi precedenti già noti."
+  },
+  {
+   "nome": "UNICAdesk, normazione tecnica",
+   "esito": "letta",
+   "nota": "Annunciato il webinar del 12-11-2026 sulla trasformazione digitale (UNI-Unioncamere); svolto il 19-10-2026 il webinar sorgenti luminose."
+  }
+ ],
+ "webinar": [
+  {
+   "titolo": "Focus nazionale. Sicurezza prodotti: le attività di vigilanza",
+   "ente": "LAB-TO e rete camerale, con Unioncamere",
+   "data": "04-11-2026",
+   "nota": "slide pubblicate: no (evento futuro); presentati organizzazione della vigilanza camerale e risultati delle campagne 2025",
+   "url": "https://www.cn.camcom.it/assistenza-alle-imprese/sportello-etichettatura-sicurezza-prodotti/eventi-2026"
+  },
+  {
+   "titolo": "Focus Nazionale. Packaging waste regulation",
+   "ente": "LAB-TO e CONAI, rete camerale",
+   "data": "10-11-2026",
+   "nota": "slide pubblicate: no (evento futuro); etichettatura imballaggi, green claims, tool Packaging 4EU",
+   "url": "https://portale-etichettatura.lab-to.camcom.it/eventi/"
+  },
+  {
+   "titolo": "Governare la trasformazione digitale: norme e strumenti per un'innovazione affidabile, sicura e sostenibile",
+   "ente": "UNI, Unioncamere, CCIAA Torino, DINTEC",
+   "data": "12-11-2026",
+   "nota": "slide pubblicate: no (evento futuro)",
+   "url": "https://unicadesk.camcom.it/eventi"
+  },
+  {
+   "titolo": "Focus Nazionale. Il passaporto digitale",
+   "ente": "LAB-TO e rete camerale",
+   "data": "02-12-2026",
+   "nota": "slide pubblicate: no (evento futuro, programma in definizione)",
+   "url": "https://www.lab-to.camcom.it/eventi/"
+  },
+  {
+   "titolo": "Seminario in presenza Aosta. Materiali a contatto con gli alimenti (MOCA): stato dell'arte e aggiornamenti legislativi",
+   "ente": "Portale Etichettatura, rete camerale",
+   "data": "26-10-2026",
+   "nota": "slide pubblicate: non verificato (pagina evento non individuabile dall'elenco)",
+   "url": "https://portale-etichettatura.lab-to.camcom.it/eventi/"
+  },
+  {
+   "titolo": "Sorgenti luminose: requisiti di etichettatura ed ecodesign, le azioni di sorveglianza del mercato",
+   "ente": "Sportello etichettatura del sistema camerale lombardo, Portale Etichettatura",
+   "data": "19-10-2026 (UNICAdesk) / 23-10-2026 (Portale Etichettatura)",
+   "nota": "slide pubblicate: non verificato (pagina evento non individuabile dall'elenco)",
+   "url": "https://unicadesk.camcom.it/eventi"
+  },
+  {
+   "titolo": "Applying for reduced fees: what SMEs need to do",
+   "ente": "ECHA (segnalato da REACH Italia)",
+   "data": "05-11-2026",
+   "nota": "slide pubblicate: no (evento futuro); non camerale",
+   "url": "https://www.reach.gov.it/"
+  }
+ ],
+ "fonti_proposte": [],
+ "ricerche": [
+  "comunicato stampa Consiglio dei Ministri n. 195"
+ ],
+ "note_fonti": [
+  "in attesa di testo: 32022R2065R(11), rettifica del Reg. (UE) 2022/2065 (DSA) del 23-10-2026, Cellar HTTP 404 per la versione italiana",
+  "in attesa di testo: 32019R1009R(16), rettifica del Reg. (UE) 2019/1009 (prodotti fertilizzanti) del 23-10-2026, Cellar HTTP 404 per la versione italiana",
+  "MIMIT: timeout su notizie-stampa, domande-frequenti, pagina FAQ D.Lgs. 30/2026 e feed RSS (anche nella raccolta: URLError timed out); da leggere dalla chat locale",
+  "Ministero della salute: sfida anti-bot Gcore su /new/it/sezione/notizie/ e /portale/news/p3_2_1.jsp (raccolta: ParseError); da leggere dalla chat locale",
+  "ECHA: HTTP 403 su /news e sul feed RSS; CONAI: HTTP 403 su home, /notizie/ e /feed/; HKTDC: API HTTP 400 con due forme di richiesta; EU Law Tracker: pagina JavaScript senza contenuto; Parlamento europeo, notizie e RSS: HTTP 202 vuoto (sostituiti da OEIL); Consiglio, forward look: HTTP 403",
+  "CdM n. 195 del 28-10-2026: il comunicato con l'esito non era pubblicato alla lettura; serve il riscontro dell'esame definitivo del D.Lgs. sulla Dir. (UE) 2024/2853 (M-03) al prossimo giro",
+  "Portale Etichettatura: le pagine dei singoli eventi non sono ricavabili dall'elenco (due indirizzi provati restituiscono una pagina vuota); slide del seminario MOCA di Aosta (26-10-2026) e del webinar sorgenti luminose (19/23-10-2026) da verificare dalla chat locale",
+  "Proposta di nuovo monitoraggio per il bollettino: procedura 2025/0394(COD), COM(2025) 986 (Omnibus VIII rifiuti: abrogazione della banca dati SCIP), plenaria indicativa il 14-12-2026"
+ ],
+ "autoverifica": "Sezioni della raccolta esaminate: 10 su 10. Fonti fisse con esito: 39 su 39 (33 lette, 6 non lette: EU Law Tracker, ECHA, MIMIT, Ministero della salute, CONAI, HKTDC, tutte per impedimento tecnico con seconda via provata). Monitoraggi: 10 su 10 (M-03 cambiato, gli altri invariati). Voci: 3, con atto o documento ufficiale letto. Controlli non eseguiti: nessuno; per MIMIT (M-02, M-08, M-10) vale lo stato del 17-10-2026 per timeout.",
+ "generato_alle_utc": "2026-10-28T18:51:56+00:00",
+ "modello": "claude-opus-5-5",
+ "costo_stimato_dollari": 3.994
+}
