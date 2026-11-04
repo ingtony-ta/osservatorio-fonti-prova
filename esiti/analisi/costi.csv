@@ -12,3 +12,4 @@ data_utc,modello,giri,letture,ricerche,input,output,cache_scrittura,cache_lettur
 2026-10-28 18:51,claude-opus-5-5,27,79,1,58,41732,360015,6743553,3.994,ok
 2026-10-30 18:38,claude-opus-5-5,28,80,0,58,59620,365233,6905453,4.400,ok
 2026-11-02 22:17,claude-opus-5-5,26,74,0,54,41894,361200,5836176,3.811,ok
+2026-11-04 20:31,claude-opus-5-5,18,70,2,38,44830,372394,4208238,3.620,ok
