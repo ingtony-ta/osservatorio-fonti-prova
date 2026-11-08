@@ -1,11 +1,11 @@
 {
- "finestra_da": "2026-11-04",
- "finestra_al": "2026-11-05",
- "sparql_da": "2026-10-28",
- "eseguita_alle_utc": "2026-11-06T19:49:10+00:00",
+ "finestra_da": "2026-11-06",
+ "finestra_al": "2026-11-07",
+ "sparql_da": "2026-10-30",
+ "eseguita_alle_utc": "2026-11-08T18:12:07+00:00",
  "errori": [
   "MIMIT, notizie: URLError: <urlopen error timed out>",
-  "Ministero della salute, comunicati: ParseError: mismatched tag: line 1, column 2101"
+  "Ministero della salute, comunicati: ParseError: syntax error: line 1, column 0"
  ],
  "sezioni": {
   "GUUE, atti nuovi (SPARQL)": [
@@ -45,16 +45,6 @@
     "title": "Decisione di esecuzione (UE) 2026/2413 della Commissione, del 3 novembre 2026, che costituisce il consorzio per un’infrastruttura digitale europea per l’istruzione (EDU-EDIC)"
    },
    {
-    "celex": "32026R2406",
-    "date": "2026-10-30",
-    "title": "Regolamento di esecuzione (UE) 2026/2406 della Commissione, del 30 ottobre 2026, che rilascia un'autorizzazione dell'Unione per la famiglia di biocidi PAA based disinfectants — BPF2 conformemente al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026D2405",
-    "date": "2026-10-30",
-    "title": "Decisione di esecuzione (UE) 2026/2405 della Commissione, del 30 ottobre 2026, che non modifica il regolamento di esecuzione (UE) 2022/2127 per quanto riguarda modifiche minori e amministrative dell’autorizzazione dell’Unione per la famiglia di biocidi Ecolab UA BPF 1-Propanol [notificata con il numero C(2026) 7659]"
-   },
-   {
     "celex": "32026B05266",
     "date": "2026-10-30",
     "title": "Stato delle entrate e delle spese per l’esercizio 2026 — Agenzia esecutiva europea per il clima, l’infrastruttura e l’ambiente (CINEA) — Bilancio rettificativo n. 1"
@@ -80,149 +70,22 @@
     "title": "Decisione di esecuzione (UE) 2026/2483 della Commissione, del 30 ottobre 2026, che modifica l’allegato della decisione di esecuzione (UE) 2023/2447 relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri [notificata con il numero C(2026) 7900]"
    },
    {
-    "celex": "32026H05593",
-    "date": "2026-10-29",
-    "title": "Raccomandazione della Commissione, del 29 ottobre 2026, sugli orientamenti in materia di continuità operativa e prove di stress per i punti di contatto nazionali nell’ambito del meccanismo unionale di protezione civile"
+    "celex": "32026R2406",
+    "date": "2026-10-30",
+    "title": "Regolamento di esecuzione (UE) 2026/2406 della Commissione, del 30 ottobre 2026, che rilascia un'autorizzazione dell'Unione per la famiglia di biocidi PAA based disinfectants — BPF2 conformemente al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio"
    },
    {
-    "celex": "32026H2394",
-    "date": "2026-10-29",
-    "title": "Raccomandazione (UE) 2026/2394 della Commissione, del 29 ottobre 2026, sulle clausole contrattuali tipo non vincolanti relative all'accesso ai dati e al relativo utilizzo e sulle clausole contrattuali standard non vincolanti per i contratti di cloud computing"
-   },
-   {
-    "celex": "32026D2404",
-    "date": "2026-10-29",
-    "title": "Decisione (UE) 2026/2404 della Commissione, del 29 ottobre 2026, che modifica la decisione (UE) 2021/2147 per quanto riguarda la sospensione dell’approvazione di un’attrezzatura di sicurezza dell’aviazione civile con marchio UE"
-   },
-   {
-    "celex": "32026D2482",
-    "date": "2026-10-29",
-    "title": "Decisione di esecuzione (UE) 2026/2482 del Consiglio, del 29 ottobre 2026, recante modifica della decisione di esecuzione (UE) 2018/485 relativamente alla proroga dell’autorizzazione concessa alla Danimarca ad applicare una misura speciale di deroga all’articolo 75 della direttiva 2006/112/CE, relativa al sistema comune d’imposta sul valore aggiunto"
-   },
-   {
-    "celex": "32026D2484",
-    "date": "2026-10-29",
-    "title": "Decisione (UE) 2026/2484 del Consiglio, del 29 ottobre 2026, che autorizza l’avvio di negoziati per accordi tra l’Unione europea e la Bolivia, il Canada, il Cile, la Costa Rica, l’Ecuador, gli Emirati arabi uniti, il Panama e il Perù sulla cooperazione tra l’Agenzia dell’Unione europea per la cooperazione giudiziaria penale (Eurojust) e le autorità competenti per la cooperazione giudiziaria in materia penale di tali Stati terzi"
-   },
-   {
-    "celex": "32026R2393",
-    "date": "2026-10-29",
-    "title": "Regolamento di esecuzione (UE) 2026/2393 della Commissione, del 29 ottobre 2026, che istituisce un dazio antidumping definitivo e riscuote definitivamente il dazio provvisorio sulle importazioni di stoffe non tessute di polietilene tereftalato (PET) ottenute mediante filatura diretta (Spunbond) originarie della Repubblica popolare cinese"
-   },
-   {
-    "celex": "32026D2449",
-    "date": "2026-10-29",
-    "title": "Decisione (PESC) 2026/2449 del Consiglio, del 29 ottobre 2026, relativa a una misura di assistenza a titolo dello strumento europeo per la pace a sostegno delle forze armate della Mauritania"
-   },
-   {
-    "celex": "32026D2458",
-    "date": "2026-10-29",
-    "title": "Decisione (UE) 2026/2458 del Consiglio, del 29 ottobre 2026, relativa ai contributi finanziari che le parti del Fondo europeo di sviluppo devono versare per finanziare tale fondo, che specifica il massimale per il 2028, l'importo annuo per il 2027, l'importo della prima quota per il 2027 e una previsione indicativa non vincolante degli importi annui dei contributi previsti per gli anni 2029 e 2030"
-   },
-   {
-    "celex": "32026R2391",
-    "date": "2026-10-29",
-    "title": "Regolamento di esecuzione (UE) 2026/2391 della Commissione, del 29 ottobre 2026, che dispone la registrazione delle importazioni di determinati eteri di cellulosa originari della Repubblica popolare cinese e della Repubblica di Corea al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione"
-   },
-   {
-    "celex": "32026R2396",
-    "date": "2026-10-29",
-    "title": "Regolamento di esecuzione (UE) 2026/2396 della Commissione, del 29 ottobre 2026, che dispone la registrazione delle importazioni di alcuni tipi di cavi di acciaio originari della Repubblica dell’India, del Regno di Thailandia e della Repubblica di Turchia al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione"
-   },
-   {
-    "celex": "32026D2407",
-    "date": "2026-10-29",
-    "title": "Decisione di esecuzione (UE) 2026/2407 della Commissione, del 29 ottobre 2026, che nomina il presidente, i membri, i supplenti e gli osservatori del consiglio di gestione della rete e i membri e i supplenti della cellula europea di coordinamento dell’aviazione in caso di crisi per il 2027 e il 2028"
-   },
-   {
-    "celex": "32026D2410",
-    "date": "2026-10-29",
-    "title": "Decisione (UE) 2026/2410 della Commissione, del 29 ottobre 2026, relativa al rinnovo del mandato del coordinatore europeo per l’interconnessione energetica nell’Europa centrale e sudorientale designato dalla decisione (UE) 2025/2204"
-   },
-   {
-    "celex": "32026D2495",
-    "date": "2026-10-29",
-    "title": "Decisione di esecuzione (UE) 2026/2495 del Consiglio, del 29 ottobre 2026, che modifica la decisione di esecuzione (UE) 2024/1641 relativa a una proroga concessa alla Romania per applicare misure speciali di deroga all’articolo 26, paragrafo 1, lettera a), e all’articolo 168 della direttiva 2006/112/CE relativa al sistema comune d’imposta sul valore aggiunto"
-   },
-   {
-    "celex": "32026R2401",
-    "date": "2026-10-29",
-    "title": "Regolamento di esecuzione (UE) 2026/2401 della Commissione, del 29 ottobre 2026, che stabilisce l'elenco e la descrizione delle variabili e le relative specifiche tecniche, le classificazioni statistiche, le disaggregazioni e gli obiettivi di precisione per la tematica struttura del costo del lavoro a norma del regolamento (UE) 2025/941 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026D2370",
-    "date": "2026-10-28",
-    "title": "Decisione di esecuzione (UE) 2026/2370 della Commissione, del 28 ottobre 2026, relativa alle norme armonizzate per le asciugabiancheria per uso domestico elaborate a sostegno del regolamento (UE) 2023/2533 e del regolamento delegato (UE) 2023/2534"
-   },
-   {
-    "celex": "32026R2470",
-    "date": "2026-10-28",
-    "title": "Regolamento di esecuzione (UE) 2026/2470 della Commissione, del 28 ottobre 2026, che modifica la data di applicazione dell’articolo 11, paragrafo 1, del regolamento di esecuzione (UE) 2022/996"
-   },
-   {
-    "celex": "32026R2412",
-    "date": "2026-10-28",
-    "title": "Regolamento (UE) 2026/2412 della Commissione, del 28 ottobre 2026, che modifica l’allegato I del regolamento (UE) n. 10/2011 riguardante i materiali e gli oggetti di materia plastica destinati a venire a contatto con i prodotti alimentari"
-   },
-   {
-    "celex": "32026R2390",
-    "date": "2026-10-28",
-    "title": "Regolamento di esecuzione (UE) 2026/2390 della Commissione, del 28 ottobre 2026, che dispone la registrazione delle importazioni di acido acetilsalicilico originario della Repubblica popolare cinese al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione"
-   },
-   {
-    "celex": "32026R2466",
-    "date": "2026-10-28",
-    "title": "Regolamento di esecuzione (UE) 2026/2466 della Commissione, del 28 ottobre 2026, che modifica gli allegati V e XIV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Canada, al Regno Unito e agli Stati Uniti negli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l'ingresso nell'Unione di partite di pollame e materiale germinale di pollame e di carni fresche di pollame e selvaggina da penna"
-   },
-   {
-    "celex": "32026R2376",
-    "date": "2026-10-28",
-    "title": "Regolamento (UE) 2026/2376 della Commissione, del 28 ottobre 2026, che modifica il regolamento (UE) 2022/1616 per quanto riguarda la gestione del registro dell’Unione, la documentazione di conformità, i metodi di prova e i documenti da presentare all’atto dell’immissione in libera pratica"
-   },
-   {
-    "celex": "32026R2389",
-    "date": "2026-10-28",
-    "title": "Regolamento di esecuzione (UE) 2026/2389 della Commissione, del 28 ottobre 2026, che modifica i regolamenti di esecuzione (UE) 2016/1239, (UE) 2020/761, (UE) 2020/1988 e (UE) 2025/1272 per consentire alle autorità emittenti dei paesi terzi di utilizzare ELAN su base volontaria durante il periodo transitorio"
-   },
-   {
-    "celex": "32026R2403",
-    "date": "2026-10-28",
-    "title": "Regolamento di esecuzione (UE) 2026/2403 della Commissione, del 28 ottobre 2026, che modifica il regolamento di esecuzione (UE) 2015/2447 per quanto riguarda la riduzione delle garanzie globali per gli operatori economici autorizzati in relazione alle vendite a distanza e l’adeguamento di alcuni dati per la tassa di gestione dell’Unione"
-   },
-   {
-    "celex": "32026D2377",
-    "date": "2026-10-28",
-    "title": "Decisione di esecuzione (UE) 2026/2377 della Commissione, del 28 ottobre 2026, relativa alla concessione di deroghe ad alcuni Stati membri per quanto riguarda la trasmissione dei dati a norma del regolamento (UE) n. 691/2011 del Parlamento europeo e del Consiglio relativo ai conti economici ambientali europei [notificata con il numero C(2026) 7464]"
-   },
-   {
-    "celex": "32026M12562",
-    "date": "2026-10-28",
-    "title": "Decisione della Commissione, del 28/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12562 - HYPERION / CFA / BOOST AIR) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
-   },
-   {
-    "celex": "32026M12641",
-    "date": "2026-10-28",
-    "title": "Decisione della Commissione, del 28/10/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12641 - L CATTERTON / ALTAS / FULLSCRIPT) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
+    "celex": "32026D2405",
+    "date": "2026-10-30",
+    "title": "Decisione di esecuzione (UE) 2026/2405 della Commissione, del 30 ottobre 2026, che non modifica il regolamento di esecuzione (UE) 2022/2127 per quanto riguarda modifiche minori e amministrative dell’autorizzazione dell’Unione per la famiglia di biocidi Ecolab UA BPF 1-Propanol [notificata con il numero C(2026) 7659]"
    }
   ],
   "GUUE, atti collegati agli atti di riferimento (SPARQL)": [
    {
-    "celex": "32026R2412",
-    "date": "2026-10-28",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_amends_resource_legal",
-    "target": "32011R0010"
-   },
-   {
-    "celex": "32026R2412",
-    "date": "2026-10-28",
+    "celex": "52026XC05855",
+    "date": "2026-11-05",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32004R1935"
-   },
-   {
-    "celex": "32026R2376",
-    "date": "2026-10-28",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32004R1935"
+    "target": "32016R0426"
    },
    {
     "celex": "32026R2406",
@@ -237,40 +100,22 @@
     "target": "32012R0528"
    },
    {
-    "celex": "52026XC05855",
-    "date": "2026-11-05",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32016R0426"
-   },
-   {
     "celex": "52026DC0589",
     "date": "2026-10-30",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
     "target": "32012R0528"
    },
    {
-    "celex": "32026H2394",
-    "date": "2026-10-29",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32023R2854"
-   },
-   {
-    "celex": "32026R2403",
-    "date": "2026-10-28",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32013R0952"
+    "celex": "32011R1007R(08)",
+    "date": "2026-11-05",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+    "target": "32011R1007"
    },
    {
     "celex": "32023R2854R(07)",
     "date": "2026-10-30",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
     "target": "32023R2854"
-   },
-   {
-    "celex": "32011R1007R(08)",
-    "date": "2026-11-05",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
-    "target": "32011R1007"
    }
   ],
   "GUUE, atti che citano o interpretano gli atti di riferimento (SPARQL)": [
@@ -281,10 +126,10 @@
     "titolo": "Regolamento di esecuzione (UE) 2026/2409 della Commissione, del 5 novembre 2026, che dispone la registrazione delle importazioni di determinati polioli di polietere originari della Repubblica popolare cinese al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione"
    },
    {
-    "celex": "52026DC0777",
+    "celex": "52026DC0715",
     "date": "2026-11-04",
-    "atti": "32008L0098 32022R2065",
-    "titolo": ""
+    "atti": "32008L0098 32020L2184 32022R2065 32023R2854 32024R1689 32024R2847 32025R0040",
+    "titolo": "RELAZIONE DELLA COMMISSIONE AL PARLAMENTO EUROPEO, AL CONSIGLIO, AL COMITATO ECONOMICO E SOCIALE EUROPEO E AL COMITATO DELLE REGIONI su semplificazione, attuazione e effettiva applicazione"
    },
    {
     "celex": "52026DC0690",
@@ -293,16 +138,10 @@
     "titolo": ""
    },
    {
-    "celex": "52026DC0715",
+    "celex": "52026DC0777",
     "date": "2026-11-04",
-    "atti": "32008L0098 32020L2184 32022R2065 32023R2854 32024R1689 32024R2847 32025R0040",
-    "titolo": "RELAZIONE DELLA COMMISSIONE AL PARLAMENTO EUROPEO, AL CONSIGLIO, AL COMITATO ECONOMICO E SOCIALE EUROPEO E AL COMITATO DELLE REGIONI su semplificazione, attuazione e effettiva applicazione"
-   },
-   {
-    "celex": "52026DC0589",
-    "date": "2026-10-30",
-    "atti": "32006R1907",
-    "titolo": "RELAZIONE DELLA COMMISSIONE AL PARLAMENTO EUROPEO E AL CONSIGLIO sull'esercizio della delega conferita alla Commissione ai sensi del regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, del 22 maggio 2012, relativo alla messa a disposizione sul mercato e all'uso dei biocidi, in conformità all'articolo 83, paragrafo 2, di tale regolamento"
+    "atti": "32008L0098 32022R2065",
+    "titolo": ""
    },
    {
     "celex": "52026PC0593",
@@ -311,28 +150,10 @@
     "titolo": ""
    },
    {
-    "celex": "32026R2376",
-    "date": "2026-10-28",
-    "atti": "32011R0010 32013R0952",
-    "titolo": "Regolamento (UE) 2026/2376 della Commissione, del 28 ottobre 2026, che modifica il regolamento (UE) 2022/1616 per quanto riguarda la gestione del registro dell’Unione, la documentazione di conformità, i metodi di prova e i documenti da presentare all’atto dell’immissione in libera pratica"
-   },
-   {
-    "celex": "32026D2370",
-    "date": "2026-10-28",
-    "atti": "32009L0125",
-    "titolo": "Decisione di esecuzione (UE) 2026/2370 della Commissione, del 28 ottobre 2026, relativa alle norme armonizzate per le asciugabiancheria per uso domestico elaborate a sostegno del regolamento (UE) 2023/2533 e del regolamento delegato (UE) 2023/2534"
-   },
-   {
-    "celex": "32026R2389",
-    "date": "2026-10-28",
-    "atti": "32013R0952",
-    "titolo": "Regolamento di esecuzione (UE) 2026/2389 della Commissione, del 28 ottobre 2026, che modifica i regolamenti di esecuzione (UE) 2016/1239, (UE) 2020/761, (UE) 2020/1988 e (UE) 2025/1272 per consentire alle autorità emittenti dei paesi terzi di utilizzare ELAN su base volontaria durante il periodo transitorio"
-   },
-   {
-    "celex": "52026XC05554",
-    "date": "2026-10-28",
-    "atti": "32013R0952",
-    "titolo": "Avviso di apertura di un procedimento antidumping relativo alle importazioni di fluoruro di polivinilidene originario della Repubblica popolare cinese, dell’India e del Giappone"
+    "celex": "52026DC0589",
+    "date": "2026-10-30",
+    "atti": "32006R1907",
+    "titolo": "RELAZIONE DELLA COMMISSIONE AL PARLAMENTO EUROPEO E AL CONSIGLIO sull'esercizio della delega conferita alla Commissione ai sensi del regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, del 22 maggio 2012, relativo alla messa a disposizione sul mercato e all'uso dei biocidi, in conformità all'articolo 83, paragrafo 2, di tale regolamento"
    }
   ],
   "Commissione, sala stampa": [
@@ -753,7 +574,7 @@
     "data": "2026-11-04",
     "titolo": "European climate resilience and risk management law",
     "tipo": "PROP_REG Ares(2025)5580019",
-    "scadenza": "2027-01-01",
+    "scadenza": "2027-01-03",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14770_it"
    },
    {
@@ -839,15 +660,6 @@
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:19494",
-    "data": "2026-10-27",
-    "titolo": "Introduction of new identifiers in the electronic freight transport information (eFTI) registry of identifiers",
-    "tipo": "REG_IMPL Ares(2026)9619242",
-    "scadenza": "2026-11-24",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19494_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
     "id": "hys:19220",
     "data": "2026-10-27",
     "titolo": "Road transport smart enforcement and simplification",
@@ -857,12 +669,12 @@
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:19497",
+    "id": "hys:19494",
     "data": "2026-10-27",
-    "titolo": "Alignment of download periods from the vehicle unit and driver card with current tachograph technical capabilities",
-    "tipo": "REG_IMPL Ares(2026)9619420",
+    "titolo": "Introduction of new identifiers in the electronic freight transport information (eFTI) registry of identifiers",
+    "tipo": "REG_IMPL Ares(2026)9619242",
     "scadenza": "2026-11-24",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19497_it"
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19494_it"
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
@@ -899,6 +711,15 @@
     "tipo": "PROP_REG Ares(2026)9999197",
     "scadenza": "2026-11-24",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19613_it"
+   },
+   {
+    "fonte": "Have Your Say, consultazioni aperte",
+    "id": "hys:19497",
+    "data": "2026-10-27",
+    "titolo": "Alignment of download periods from the vehicle unit and driver card with current tachograph technical capabilities",
+    "tipo": "REG_IMPL Ares(2026)9619420",
+    "scadenza": "2026-11-24",
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19497_it"
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
@@ -1014,7 +835,7 @@
     "data": "2026-10-15",
     "titolo": "European Critical Communication System",
     "tipo": "PROP_REG Ares(2025)1162810",
-    "scadenza": "2027-01-01",
+    "scadenza": "2027-01-03",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14532_it"
    },
    {
@@ -1023,7 +844,7 @@
     "data": "2026-10-15",
     "titolo": "Creation of a European critical communication system",
     "tipo": "PROP_REG COM(2026)1020",
-    "scadenza": "2027-01-01",
+    "scadenza": "2027-01-03",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19517_it"
    },
    {
@@ -1100,39 +921,12 @@
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:14450",
-    "data": "2026-10-09",
-    "titolo": "Implementing act on templates for reporting methane emissions",
-    "tipo": "REG_IMPL Ares(2024)8249446",
-    "scadenza": "2026-11-06",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14450_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
     "id": "hys:14511",
     "data": "2026-10-09",
     "titolo": "Revision of the Standardisation Regulation",
     "tipo": "PROP_REG Ares(2025)576265",
-    "scadenza": "2027-01-01",
+    "scadenza": "2027-01-03",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14511_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:18732",
-    "data": "2026-10-09",
-    "titolo": "Vehicle safety - annual update of references to regulatory acts in the annexes to the General Safety Regulation",
-    "tipo": "REG_DEL Ares(2026)6797142",
-    "scadenza": "2026-11-06",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/18732_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:19474",
-    "data": "2026-10-09",
-    "titolo": "Technical details for air quality projections and implementation reports",
-    "tipo": "DEC_IMPL Ares(2026)9527776",
-    "scadenza": "2026-11-06",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19474_it"
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
@@ -1205,15 +999,6 @@
     "tipo": "SWD Ares(2025)5842314",
     "scadenza": "2026-11-19",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14778_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:14638",
-    "data": "2026-07-15",
-    "titolo": "Proposal for a new Regulation on the European Union Agency for Law Enforcement Cooperation (Europol)",
-    "tipo": "PROP_REG Ares(2025)2980065",
-    "scadenza": "2026-11-06",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14638_it"
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
@@ -2417,230 +2202,206 @@
   "Gazzetta Ufficiale, serie generale": [
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26G00223/SG",
-    "data": "2026-11-06",
-    "titolo": "DECRETO-LEGGE 6 novembre 2026, n.200",
-    "descrizione": "Misure urgenti per assicurare la continuita' delle funzioni dell'Autorita' nazionale anticorruzione (ANAC). (26G00223)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26G00223/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05807/SG",
+    "data": "2026-11-07",
+    "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 28 ottobre 2026",
+    "descrizione": "Proroga dello stato di emergenza per intervento all'estero in conseguenza del perdurare degli accadimenti in atto nel territorio dell'Ucraina. (26A05807)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05807/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05874/SG",
-    "data": "2026-11-06",
-    "titolo": "CAMERA DEI DEPUTATI - CONVOCAZIONE",
-    "descrizione": "Convocazione del Parlamento in seduta comune. (26A05874)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05874/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05806/SG",
+    "data": "2026-11-07",
+    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 2 novembre 2026",
+    "descrizione": "Conferma dell'incarico al Consorzio di tutela IGP Patata del Fucino a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'art. 14, comma 15, della legge 21 dicembre 1999, n. 526, per la IGP «Patata del Fucino». (26A05806)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05806/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05790/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 18 settembre 2026",
-    "descrizione": "Disposizioni nazionali di attuazione dell'articolo 58, paragrafo 1, lettera i) del regolamento (UE) 2021/2115 del Parlamento europeo e del Consiglio e successive modificazioni ed integrazioni, per quanto riguarda l'applicazione dell'intervento settoriale vitivinicolo inerente ad azioni volte ad accrescere la reputazione dei vigneti italiani promuovendo il turismo enologico nelle regioni di produzi",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05790/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05808/SG",
+    "data": "2026-11-07",
+    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 2 novembre 2026",
+    "descrizione": "Conferma dell'incarico al Consorzio di tutela DOC Tavoliere a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, sulla DOC «Tavoliere delle Puglie» o «Tavoliere». (26A05808)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05808/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05788/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - ORDINANZA 1 ottobre 2026",
-    "descrizione": "Adozione di misure fitosanitarie d'emergenza per la gestione, il contrasto e l'eradicazione di Xylella fastidiosa (Well et al.) in Basilicata. (Ordinanza n. 18). (26A05788)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05788/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05809/SG",
+    "data": "2026-11-07",
+    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 2 novembre 2026",
+    "descrizione": "Conferma dell'incarico al Consorzio italiano tutela Mortadella Bologna a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'art. 14, comma 15, della legge 21 dicembre 1999, n. 526, per la IGP «Mortadella Bologna». (26A05809)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05809/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05768/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 28 ottobre 2026",
-    "descrizione": "Conferma dell'incarico al Consorzio di tutela Cerasuolo di Vittoria DOCG e Vittoria DOC a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, comma 1 e 4, della legge 12 dicembre 2016, n. 238, relativi alla DOCG «Cerasuolo di Vittoria» ed alla DOC «Vittoria». (26A05768)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05768/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05818/SG",
+    "data": "2026-11-07",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 30 ottobre 2026",
+    "descrizione": "Medicinali la cui autorizzazione all'immissione in commercio risulta decaduta per mancata commercializzazione, ai sensi dell'art. 38 del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni ed integrazioni. (Determina n. 616/2026). (26A05818)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05818/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05789/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELLA SALUTE - DECRETO 16 settembre 2026",
-    "descrizione": "Modalita' tecniche per l'organizzazione delle attivita' di controllo dei posti di controllo frontalieri. (26A05789)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05789/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05805/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELLE IMPRESE E DEL MADE IN ITALY - DECRETO 7 ottobre 2026",
-    "descrizione": "Modifica del decreto 1° dicembre 1980, recante: «Disciplina dei contenitori a pressione di gas con membrature miste di materiale isolante e di materiale metallico, contenenti parti attive di apparecchiature elettriche». (26A05805)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05805/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05626/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05785/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di pirfenidone, «Pirfenidone Vivanta». (26A05626)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05626/SG"
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di biotina, «Beotebal» (26A05785)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05785/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05627/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05786/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di cabazitaxel, «Cabazitaxel Aurobindo». (26A05627)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05627/SG"
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di dimetilfumarato, «Dimetilfumarato Cipla». (26A05786)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05786/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05628/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05793/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di paclitaxel, «Paxfydos». (26A05628)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05628/SG"
+    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Celecoxib Maxmind». (26A05793)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05793/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05629/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05794/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di flurbiprofene, «Tantum Verdeact gola». (26A05629)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05629/SG"
+    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Ketoprofene sale di lisina Zentiva Italia». (26A05794)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05794/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05776/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05795/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di secnidazolo, «Kokran» (26A05776)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05776/SG"
+    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Ondansetron Accord». (26A05795)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05795/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05777/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05796/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di vortioxetina, «Vortioxetina Zentiva». (26A05777)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05777/SG"
+    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Recotuss Sedativo». (26A05796)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05796/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05778/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05797/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di empagliflozin, «Hynica» (26A05778)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05778/SG"
+    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Kleder» (26A05797)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05797/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05787/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05798/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Comunicato relativo all'avviso di pubblicazione di provvedimenti di classificazione e rimborsabilita', ed atti correlati, di specialita' medicinali sul portale «TrovaNormeFarmaco». (26A05787)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05787/SG"
+    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Naloxone Accord». (26A05798)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05798/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05791/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05799/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Docetaxel Ratiopharm Italia». (26A05791)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05791/SG"
+    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Antispasmina Colica». (26A05799)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05799/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05792/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05800/SG",
+    "data": "2026-11-07",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Candesartan Mylan Pharma». (26A05792)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05792/SG"
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio di taluni medicinali per uso umano, a base di buprenorfina (26A05800)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05800/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05784/SG",
-    "data": "2026-11-06",
-    "titolo": "CAMERA DI COMMERCIO, INDUSTRIA, ARTIGIANATO E AGRICOLTURA DI BOLOGNA - COMUNICATO",
-    "descrizione": "Provvedimenti concernenti i marchi di identificazione dei metalli preziosi. (26A05784)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05784/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05898/SG",
-    "data": "2026-11-06",
-    "titolo": "CASSA DEPOSITI E PRESTITI S.P.A. - COMUNICATO",
-    "descrizione": "Avviso relativo ai buoni fruttiferi postali (26A05898)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05898/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05873/SG",
-    "data": "2026-11-06",
-    "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO",
-    "descrizione": "Annuncio di una proposta di legge di iniziativa popolare (26A05873)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05873/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05816/SG",
-    "data": "2026-11-06",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05815/SG",
+    "data": "2026-11-07",
     "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO",
-    "descrizione": "Passaggio dal demanio al patrimonio dello Stato dell'ex casello idraulico sito in via Borghetto, 31, nel Comune di Villa Bartolomea. (26A05816)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05816/SG"
+    "descrizione": "Definizione delle quote di mercato dei produttori di apparecchiature elettriche ed elettroniche (AEE) relative all'anno 2025. (26A05815)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05815/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05769/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Soppressione della Compagnia di S. Angela Merici, in Mantova (26A05769)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05769/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05810/SG",
+    "data": "2026-11-07",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 12 ottobre 2026 (26A05810)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05810/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05770/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Trasferimento della sede della Compagnia di S. Orsola da Catania a San Giovanni La Punta (26A05770)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05770/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05811/SG",
+    "data": "2026-11-07",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 13 ottobre 2026 (26A05811)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05811/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05771/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Trasferimento della sede della Casa religiosa «Madre Mazzarello» da Palermo a Catania (26A05771)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05771/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05812/SG",
+    "data": "2026-11-07",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 14 ottobre 2026 (26A05812)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05812/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05772/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Trasferimento della sede della Casa religiosa denominata «Istituto Maria Ausiliatrice» delle Figlie di Maria Ausiliatrice, da Palermo a Catania. (26A05772)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05772/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05813/SG",
+    "data": "2026-11-07",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 15 ottobre 2026 (26A05813)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05813/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05773/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Riconoscimento della personalita' giuridica dell'Istituto superiore di scienze religiose «Ecclesia Mater», in Roma (26A05773)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05773/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05814/SG",
+    "data": "2026-11-07",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 16 ottobre 2026 (26A05814)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05814/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05774/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Fusione per incorporazione della Provincia religiosa denominata «Ispettoria Salesiana Adriatica», in Ancona, nella Circoscrizione Salesiana «Sacro Cuore» Italia centrale, in Roma. (26A05774)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05774/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05817/SG",
+    "data": "2026-11-07",
+    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LE POLITICHE IN FAVORE DELLE PERSONE CON DISABILITA' - COMUNICATO",
+    "descrizione": "Interventi finalizzati al riconoscimento del valore sociale ed economico dell'attivita' di cura non professionale del caregiver familiare per l'anno 2026 - Fondo unico per l'inclusione delle persone con disabilita'. (26A05817)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05817/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05775/SG",
-    "data": "2026-11-06",
-    "titolo": "MINISTERO DELL'INTERNO - COMUNICATO",
-    "descrizione": "Mutamento della denominazione assunta dalla Parrocchia di S. Michele Arcangelo in Carmignano, in Carmignano. (26A05775)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/06/26A05775/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05872/SG",
+    "data": "2026-11-07",
+    "titolo": "",
+    "descrizione": "Comunicato relativo ai lavori preparatori della legge 28 luglio 2026, n. 137, riguardante: «Delega al Governo per la riforma dell'ordinamento forense». (Legge pubblicata nella Gazzetta Ufficiale - Serie generale - n. 177 del 1° agosto 2026). (26A05872)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05872/SG"
    }
   ],
   "Governo": [
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/le-condoglianze-del-presidente-meloni-alla-polonia/33052",
+    "data": "2026-11-07",
+    "titolo": "Le condoglianze del Presidente Meloni alla Polonia",
+    "descrizione": "Esprimo profondo dolore e le mie più sentite condoglianze alla Polonia per il vile e inaccettabile atto di violenza che ha colpito la città di Cracovia. Il mio pensiero, e quello del Governo italiano, va alle famiglie delle vittime innocenti, ai feriti, ai quali auguro una pronta e totale guarigione, e all’intero popolo polacco. Difenderemo sempre la nostra sicurezza e la nostra libertà contro ogn",
+    "url": "https://www.governo.it/it/articolo/le-condoglianze-del-presidente-meloni-alla-polonia/33052"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-meloni/33050",
+    "data": "2026-11-07",
+    "titolo": "Dichiarazione del Presidente del Consiglio Meloni",
+    "descrizione": "Esprimo la mia piena solidarietà al Vice Presidente del Consiglio Antonio Tajani per quanto emerso sull’attività di hacker filorussi e sulla diffusione sul dark web di dati personali che lo riguardano. La messa in vendita di informazioni riservate su esponenti delle istituzioni desta grande preoccupazione e va affrontata con la massima determinazione. Altrettanto preoccupante è la circolazione di ",
+    "url": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-meloni/33050"
+   },
    {
     "fonte": "Governo",
     "id": "gov:https://www.governo.it/it/articolo/visita-del-presidente-meloni-alla-128-edizione-di-fieracavalli/33049",
@@ -2704,22 +2465,6 @@
     "titolo": "Giornata dell’Unità Nazionale e delle Forze armate, Palazzo Chigi si illumina con il Tricolore",
     "descrizione": "In occasione della “Giornata dell’Unità Nazionale e delle Forze armate”, dall’imbrunire della giornata odierna fino all’alba del 5 novembre 2026, la facciata principale di Palazzo Chigi sarà illuminata con il Tricolore italiano: verde, bianco e rosso, a bande verticali.",
     "url": "https://www.governo.it/it/articolo/giornata-dell-unit-nazionale-e-delle-forze-armate-palazzo-chigi-si-illumina-con-il"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/intesa-raggiunta-su-electrolux-dichiarazione-del-presidente-meloni/33031",
-    "data": "2026-11-04",
-    "titolo": "Intesa raggiunta su Electrolux, dichiarazione del Presidente Meloni",
-    "descrizione": "L'intesa raggiunta su Electrolux rappresenta un passo importante nell'impegno per la tutela dell'industria italiana e dei livelli occupazionali. Oltre 100 milioni di investimenti, continuità produttiva per gli stabilimenti e uscite esclusivamente volontarie e incentivate. Un risultato significativo per i lavoratori coinvolti e per il futuro industriale dell’Italia. Il Governo continuerà a vigilare",
-    "url": "https://www.governo.it/it/articolo/intesa-raggiunta-su-electrolux-dichiarazione-del-presidente-meloni/33031"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/giornata-dell-unit-nazionale-e-delle-forze-armate/33025",
-    "data": "2026-11-04",
-    "titolo": "Giornata dell’Unità Nazionale e delle Forze armate",
-    "descrizione": "Il Presidente del Consiglio, Giorgia Meloni, ha partecipato alla Cerimonia di deposizione di una corona d'alloro, da parte del Capo dello Stato, sulla Tomba del Milite Ignoto all'Altare della Patria, in occasione della Giornata dell’Unità Nazionale e delle Forze Armate.",
-    "url": "https://www.governo.it/it/articolo/giornata-dell-unit-nazionale-e-delle-forze-armate/33025"
    }
   ],
   "Commissione, notizie": [
@@ -2965,5 +2710,5 @@
    }
   ]
  },
- "prova_feed_eurlex": "HTTP 200, 70598 byte, feed RSS"
+ "prova_feed_eurlex": "HTTP 200, 70630 byte, feed RSS"
 }
