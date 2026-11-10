@@ -1,14 +1,45 @@
 {
- "finestra_da": "2026-11-06",
- "finestra_al": "2026-11-07",
- "sparql_da": "2026-10-30",
- "eseguita_alle_utc": "2026-11-08T18:12:07+00:00",
+ "finestra_da": "2026-11-08",
+ "finestra_al": "2026-11-09",
+ "sparql_da": "2026-11-01",
+ "eseguita_alle_utc": "2026-11-10T20:10:45+00:00",
  "errori": [
   "MIMIT, notizie: URLError: <urlopen error timed out>",
-  "Ministero della salute, comunicati: ParseError: syntax error: line 1, column 0"
+  "Ministero della salute, comunicati: ParseError: mismatched tag: line 1, column 2101",
+  "Commissione, notizie: TimeoutError: The read operation timed out"
  ],
  "sezioni": {
   "GUUE, atti nuovi (SPARQL)": [
+   {
+    "celex": "32026R2523",
+    "date": "2026-11-09",
+    "title": "Regolamento di esecuzione (UE) 2026/2523 della Commissione, del 9 novembre 2026, che modifica gli allegati IV, V e XIV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Sud Africa, al Canada, al Regno Unito e agli Stati Uniti negli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di partite di determinati animali e prodotti di origine animale"
+   },
+   {
+    "celex": "32026D2480",
+    "date": "2026-11-09",
+    "title": "Decisione di esecuzione (UE) 2026/2480 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2022/1668 per quanto riguarda la norma armonizzata relativa alle apparecchiature con modo di protezione n"
+   },
+   {
+    "celex": "32026D2479",
+    "date": "2026-11-09",
+    "title": "Decisione di esecuzione (UE) 2026/2479 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1182 per quanto riguarda le norme armonizzate per la sterilizzazione dei prodotti sanitari, l'indagine clinica dei dispositivi medici per soggetti umani, i profilattici in lattice di gomma naturale, la valutazione biologica dei dispositivi medici, gli apparecchi di lavaggio e disinfezione, gli apparecchi elettromedicali e i connettori di piccole dimensioni per liquidi e gas in applicazioni sanitarie"
+   },
+   {
+    "celex": "32026D2481",
+    "date": "2026-11-09",
+    "title": "Decisione di esecuzione (UE) 2026/2481 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1195 per quanto riguarda la norma armonizzata per la sterilizzazione dei prodotti sanitari"
+   },
+   {
+    "celex": "32026R2476",
+    "date": "2026-11-06",
+    "title": "Regolamento di esecuzione (UE) 2026/2476 della Commissione, del 6 novembre 2026, che cancella la registrazione della denominazione di origine protetta Graves supérieures (DOP)"
+   },
+   {
+    "celex": "32026R2474",
+    "date": "2026-11-06",
+    "title": "Regolamento di esecuzione (UE) 2026/2474 della Commissione, del 6 novembre 2026, che rilascia un’autorizzazione dell’Unione per il biocida Product 3 conformemente al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio"
+   },
    {
     "celex": "32026D2468",
     "date": "2026-11-05",
@@ -30,11 +61,6 @@
     "title": "Regolamento di esecuzione (UE) 2026/2409 della Commissione, del 5 novembre 2026, che dispone la registrazione delle importazioni di determinati polioli di polietere originari della Repubblica popolare cinese al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione"
    },
    {
-    "celex": "32026C05559",
-    "date": "2026-11-03",
-    "title": "Dichiarazione comune del Parlamento europeo e del Consiglio sulla semplificazione dei trasferimenti intra-UE di prodotti per la difesa e sulla semplificazione degli appalti nel settore della sicurezza e della difesa"
-   },
-   {
     "celex": "32026R2490",
     "date": "2026-11-03",
     "title": "Regolamento di esecuzione (UE) 2026/2490 della Commissione, del 3 novembre 2026, recante 364esima modifica del regolamento (CE) n. 881/2002 del Consiglio che impone specifiche misure restrittive nei confronti di determinate persone ed entità associate alle organizzazioni dell’ISIL (Da’esh) e di Al-Qaeda"
@@ -45,65 +71,28 @@
     "title": "Decisione di esecuzione (UE) 2026/2413 della Commissione, del 3 novembre 2026, che costituisce il consorzio per un’infrastruttura digitale europea per l’istruzione (EDU-EDIC)"
    },
    {
-    "celex": "32026B05266",
-    "date": "2026-10-30",
-    "title": "Stato delle entrate e delle spese per l’esercizio 2026 — Agenzia esecutiva europea per il clima, l’infrastruttura e l’ambiente (CINEA) — Bilancio rettificativo n. 1"
+    "celex": "32026C05559",
+    "date": "2026-11-03",
+    "title": "Dichiarazione comune del Parlamento europeo e del Consiglio sulla semplificazione dei trasferimenti intra-UE di prodotti per la difesa e sulla semplificazione degli appalti nel settore della sicurezza e della difesa"
    },
    {
-    "celex": "32026B05249",
-    "date": "2026-10-30",
-    "title": "Stato delle entrate e delle spese per l’esercizio 2026 — Agenzia europea per i medicinali (EMA) — Bilancio rettificativo n. 1"
-   },
-   {
-    "celex": "32026B05041",
-    "date": "2026-10-30",
-    "title": "Stato delle entrate e delle spese per l’esercizio 2026 — Istituto europeo di innovazione e tecnologia (EIT) — Bilancio rettificativo n. 3"
-   },
-   {
-    "celex": "32026B05172",
-    "date": "2026-10-30",
-    "title": "Stato delle entrate e delle spese per l’esercizio 2026 — Agenzia dell’Unione europea per la formazione delle autorità di contrasto (CEPOL) — Bilancio rettificativo n. 1"
-   },
-   {
-    "celex": "32026D2483",
-    "date": "2026-10-30",
-    "title": "Decisione di esecuzione (UE) 2026/2483 della Commissione, del 30 ottobre 2026, che modifica l’allegato della decisione di esecuzione (UE) 2023/2447 relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri [notificata con il numero C(2026) 7900]"
-   },
-   {
-    "celex": "32026R2406",
-    "date": "2026-10-30",
-    "title": "Regolamento di esecuzione (UE) 2026/2406 della Commissione, del 30 ottobre 2026, che rilascia un'autorizzazione dell'Unione per la famiglia di biocidi PAA based disinfectants — BPF2 conformemente al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026D2405",
-    "date": "2026-10-30",
-    "title": "Decisione di esecuzione (UE) 2026/2405 della Commissione, del 30 ottobre 2026, che non modifica il regolamento di esecuzione (UE) 2022/2127 per quanto riguarda modifiche minori e amministrative dell’autorizzazione dell’Unione per la famiglia di biocidi Ecolab UA BPF 1-Propanol [notificata con il numero C(2026) 7659]"
+    "celex": "32026M12661",
+    "date": "2026-11-03",
+    "title": "Decisione della Commissione, del 03/11/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12661 - VERITAS / BODYCOTE) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
    }
   ],
   "GUUE, atti collegati agli atti di riferimento (SPARQL)": [
+   {
+    "celex": "32026R2474",
+    "date": "2026-11-06",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
+    "target": "32012R0528"
+   },
    {
     "celex": "52026XC05855",
     "date": "2026-11-05",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
     "target": "32016R0426"
-   },
-   {
-    "celex": "32026R2406",
-    "date": "2026-10-30",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32012R0528"
-   },
-   {
-    "celex": "32026D2405",
-    "date": "2026-10-30",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32012R0528"
-   },
-   {
-    "celex": "52026DC0589",
-    "date": "2026-10-30",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32012R0528"
    },
    {
     "celex": "32011R1007R(08)",
@@ -112,13 +101,49 @@
     "target": "32011R1007"
    },
    {
-    "celex": "32023R2854R(07)",
-    "date": "2026-10-30",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
-    "target": "32023R2854"
+    "celex": "52026XC05948",
+    "date": "2026-11-06",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
+    "target": "32013R0952"
    }
   ],
   "GUUE, atti che citano o interpretano gli atti di riferimento (SPARQL)": [
+   {
+    "celex": "52026PC0612",
+    "date": "2026-11-10",
+    "atti": "32013R0952",
+    "titolo": "Proposta di REGOLAMENTO DEL CONSIGLIO che modifica il regolamento (UE) 2021/2278 recante sospensione dei dazi della tariffa doganale comune di cui all'articolo 56, paragrafo 2, lettera c), del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio per taluni prodotti agricoli e industriali"
+   },
+   {
+    "celex": "52026DC0596",
+    "date": "2026-11-09",
+    "atti": "32023R0956",
+    "titolo": ""
+   },
+   {
+    "celex": "32026D2479",
+    "date": "2026-11-09",
+    "atti": "32017R0745",
+    "titolo": "Decisione di esecuzione (UE) 2026/2479 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1182 per quanto riguarda le norme armonizzate per la sterilizzazione dei prodotti sanitari, l'indagine clinica dei dispositivi medici per soggetti umani, i profilattici in lattice di gomma naturale, la valutazione biologica dei dispositivi medici, gli apparecchi di lavaggio e disinfezione, gli apparecchi elettromedicali e i connettori di piccole dimensioni per liquidi e gas in applicazioni sanitarie"
+   },
+   {
+    "celex": "52026DC0601",
+    "date": "2026-11-09",
+    "atti": "32024R0573",
+    "titolo": ""
+   },
+   {
+    "celex": "52026XC05783",
+    "date": "2026-11-06",
+    "atti": "32013R0952",
+    "titolo": "Avviso di apertura di un procedimento antidumping relativo alle importazioni di poliammide-6 originaria della Repubblica popolare cinese"
+   },
+   {
+    "celex": "52026XC05774",
+    "date": "2026-11-06",
+    "atti": "32013R0952",
+    "titolo": "Avviso di apertura di un riesame in previsione della scadenza delle misure antidumping applicabili alle importazioni di legno compensato di betulla originario della Russia"
+   },
    {
     "celex": "32026R2409",
     "date": "2026-11-05",
@@ -142,21 +167,113 @@
     "date": "2026-11-04",
     "atti": "32008L0098 32022R2065",
     "titolo": ""
-   },
-   {
-    "celex": "52026PC0593",
-    "date": "2026-10-30",
-    "atti": "32017R1369",
-    "titolo": ""
-   },
-   {
-    "celex": "52026DC0589",
-    "date": "2026-10-30",
-    "atti": "32006R1907",
-    "titolo": "RELAZIONE DELLA COMMISSIONE AL PARLAMENTO EUROPEO E AL CONSIGLIO sull'esercizio della delega conferita alla Commissione ai sensi del regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio, del 22 maggio 2012, relativo alla messa a disposizione sul mercato e all'uso dei biocidi, in conformità all'articolo 83, paragrafo 2, di tale regolamento"
    }
   ],
   "Commissione, sala stampa": [
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:STATEMENT/26/2392",
+    "data": "2026-11-10",
+    "titolo": "Statement by President von der Leyen with Bulgarian Prime Minister Radev",
+    "tipo": "Statement",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2392"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2391",
+    "data": "2026-11-10",
+    "titolo": "Updated Action Plan brings a total of 30 actions in one year under the Pact for the Mediterranean",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2391"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:STATEMENT/26/2390",
+    "data": "2026-11-10",
+    "titolo": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+    "tipo": "Statement",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2390"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2388",
+    "data": "2026-11-10",
+    "titolo": "Commission greenlights Luxembourg's final payment request for €59 million under NextGenerationEU  ",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2388"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2387",
+    "data": "2026-11-10",
+    "titolo": "Commission greenlights Estonia's final payment request for €190.6 million under NextGenerationEU",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2387"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2384",
+    "data": "2026-11-10",
+    "titolo": "Commission issues €8 billion in its 10th syndicated transaction of 2026",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2384"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2373",
+    "data": "2026-11-10",
+    "titolo": "Commission approves €2 billion Belgian State aid to support offshore wind energy",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2373"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:STATEMENT/26/2382",
+    "data": "2026-11-09",
+    "titolo": "Remarks by Commissioner Dombrovskis at the ECOFIN press conference",
+    "tipo": "Statement",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2382"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:STATEMENT/26/2381",
+    "data": "2026-11-09",
+    "titolo": "Statement by President von der Leyen with Romanian President Dan",
+    "tipo": "Statement",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2381"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:STATEMENT/26/2375",
+    "data": "2026-11-09",
+    "titolo": "Remarks by Commissioner Dombrovskis at Eurogroup press conference",
+    "tipo": "Statement",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2375"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:STATEMENT/26/2374",
+    "data": "2026-11-09",
+    "titolo": "Statement by President von der Leyen following her call with President Zelenskyy and ahead of her visit to the Black Sea Region, in Romania and Bulgaria",
+    "tipo": "Statement",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2374"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2371",
+    "data": "2026-11-09",
+    "titolo": "High-Level Platform meets in Moldova to strengthen digital connectivity between the EU, the Black Sea region, South-Caucasus and Central Asia*",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2371"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2343",
+    "data": "2026-11-09",
+    "titolo": "EU emissions continue to fall as clean energy gains ground",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2343"
+   },
    {
     "fonte": "Commissione, sala stampa",
     "id": "pc:SPEECH/26/2368",
@@ -452,110 +569,6 @@
     "titolo": "EU and Canada intensify cooperation in the area of medical countermeasures for preparedness and response to combat health emergencies",
     "tipo": "Joint press release",
     "url": "https://ec.europa.eu/commission/presscorner/detail/it/jp_26_2309"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2303",
-    "data": "2026-10-30",
-    "titolo": "Commission disburses almost €6.5 billion to France, Austria and Luxembourg under NextGenerationEU",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2303"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2301",
-    "data": "2026-10-30",
-    "titolo": "Commission takes a key step forward on 2027 financial support for Ukraine",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2301"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2285",
-    "data": "2026-10-30",
-    "titolo": "Europeans overwhelmingly support stronger EU civil protection cooperation based on solidarity, new Eurobarometer shows",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2285"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2287",
-    "data": "2026-10-30",
-    "titolo": "EU announces establishment and composition of PreparEU Advisory Group on European Disaster Preparedness",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2287"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2294",
-    "data": "2026-10-29",
-    "titolo": "Commission greenlights Czechia's seventh and final payment request for €951 million under NextGenerationEU",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2294"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:SPEECH/26/2288",
-    "data": "2026-10-29",
-    "titolo": "Keynote speech by President von der Leyen on EU-Canada relations at the C.D. Howe Institute",
-    "tipo": "Speech",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2288"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2274",
-    "data": "2026-10-28",
-    "titolo": "New Eurobarometer survey shows young people's growing engagement and views on participatory democracy, youth issues, and EU's added value in their lives ",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2274"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:STATEMENT/26/2275",
-    "data": "2026-10-27",
-    "titolo": "Joint statement by High Representative/Vice-President Kallas and Commissioner Kos on the early parliamentary elections in Serbia",
-    "tipo": "Statement",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2275"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:SPEECH/26/2272",
-    "data": "2026-10-27",
-    "titolo": "Remarks by Executive Vice-President Virkkunen and Commissioner Brunner on strengthening Frontex and the digitalisation of the return process",
-    "tipo": "Speech",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2272"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2260",
-    "data": "2026-10-27",
-    "titolo": "Commission proposes to reinforce Frontex:  stronger border protection, a greater role on returns and more effective crisis response",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2260"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:SPEECH/26/2264",
-    "data": "2026-10-27",
-    "titolo": "Remarks by Executive Vice-President Ribera and Commissioner Hoekstra at the press conference  on the EU framework for climate resilience",
-    "tipo": "Speech",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2264"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:QANDA/26/2261",
-    "data": "2026-10-27",
-    "titolo": "Questions and answers on the Commission proposal to reinforce Frontex: stronger border protection, a greater role on returns and more effective crisis response",
-    "tipo": "Questions and answers",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_2261"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:QANDA/26/2245",
-    "data": "2026-10-27",
-    "titolo": "Questions and answers on the EU Climate Resilience Framework",
-    "tipo": "Questions and answers",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_2245"
    }
   ],
   "Have Your Say, consultazioni aperte": [
@@ -574,7 +587,7 @@
     "data": "2026-11-04",
     "titolo": "European climate resilience and risk management law",
     "tipo": "PROP_REG Ares(2025)5580019",
-    "scadenza": "2027-01-03",
+    "scadenza": "2027-01-05",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14770_it"
    },
    {
@@ -669,30 +682,12 @@
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:19494",
-    "data": "2026-10-27",
-    "titolo": "Introduction of new identifiers in the electronic freight transport information (eFTI) registry of identifiers",
-    "tipo": "REG_IMPL Ares(2026)9619242",
-    "scadenza": "2026-11-24",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19494_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
     "id": "hys:19496",
     "data": "2026-10-27",
     "titolo": "Simplification of reporting requirements under Regulation (EC) No 1370/2007 on public transport by rail and by road",
     "tipo": "PROP_REG Ares(2026)9619342",
     "scadenza": "2026-11-24",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19496_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:19612",
-    "data": "2026-10-27",
-    "titolo": "Smart enforcement and simplification in road transport - omnibus (Directive)",
-    "tipo": "PROP_DIR Ares(2026)9999188",
-    "scadenza": "2026-11-24",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19612_it"
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
@@ -705,12 +700,21 @@
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:19613",
+    "id": "hys:19612",
     "data": "2026-10-27",
-    "titolo": "Smart enforcement and simplification in road transport - omnibus (Regulation)",
-    "tipo": "PROP_REG Ares(2026)9999197",
+    "titolo": "Smart enforcement and simplification in road transport - omnibus (Directive)",
+    "tipo": "PROP_DIR Ares(2026)9999188",
     "scadenza": "2026-11-24",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19613_it"
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19612_it"
+   },
+   {
+    "fonte": "Have Your Say, consultazioni aperte",
+    "id": "hys:19494",
+    "data": "2026-10-27",
+    "titolo": "Introduction of new identifiers in the electronic freight transport information (eFTI) registry of identifiers",
+    "tipo": "REG_IMPL Ares(2026)9619242",
+    "scadenza": "2026-11-24",
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19494_it"
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
@@ -720,6 +724,15 @@
     "tipo": "REG_IMPL Ares(2026)9619420",
     "scadenza": "2026-11-24",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19497_it"
+   },
+   {
+    "fonte": "Have Your Say, consultazioni aperte",
+    "id": "hys:19613",
+    "data": "2026-10-27",
+    "titolo": "Smart enforcement and simplification in road transport - omnibus (Regulation)",
+    "tipo": "PROP_REG Ares(2026)9999197",
+    "scadenza": "2026-11-24",
+    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19613_it"
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
@@ -835,7 +848,7 @@
     "data": "2026-10-15",
     "titolo": "European Critical Communication System",
     "tipo": "PROP_REG Ares(2025)1162810",
-    "scadenza": "2027-01-03",
+    "scadenza": "2027-01-05",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14532_it"
    },
    {
@@ -844,7 +857,7 @@
     "data": "2026-10-15",
     "titolo": "Creation of a European critical communication system",
     "tipo": "PROP_REG COM(2026)1020",
-    "scadenza": "2027-01-03",
+    "scadenza": "2027-01-05",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19517_it"
    },
    {
@@ -903,15 +916,6 @@
    },
    {
     "fonte": "Have Your Say, consultazioni aperte",
-    "id": "hys:19292",
-    "data": "2026-10-12",
-    "titolo": "Articles 75c – 75d AI Act Implementing Act ",
-    "tipo": "REG_IMPL Ares(2026)8716045",
-    "scadenza": "2026-11-09",
-    "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19292_it"
-   },
-   {
-    "fonte": "Have Your Say, consultazioni aperte",
     "id": "hys:14593",
     "data": "2026-10-12",
     "titolo": "European Innovation Act ",
@@ -925,7 +929,7 @@
     "data": "2026-10-09",
     "titolo": "Revision of the Standardisation Regulation",
     "tipo": "PROP_REG Ares(2025)576265",
-    "scadenza": "2027-01-03",
+    "scadenza": "2027-01-05",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14511_it"
    },
    {
@@ -1022,6 +1026,102 @@
   "Consiglio UE, comunicati": [
    {
     "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/",
+    "data": "",
+    "titolo": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the proliferation and use of chemical weapons",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-democratic-people-s-republic-of-korea/",
+    "data": "",
+    "titolo": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the Democratic People’s Republic of Korea",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-democratic-people-s-republic-of-korea/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-leadership-of-the-transnistrian-region-of-the-republic-of-moldova/",
+    "data": "",
+    "titolo": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the leadership of the Transnistrian region of the Republic of Moldova",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-leadership-of-the-transnistrian-region-of-the-republic-of-moldova/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-isil-da-esh-and-al-qaeda-and-persons-groups-undertakings-and-entities-associated-with-them/",
+    "data": "",
+    "titolo": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-isil-da-esh-and-al-qaeda-and-persons-groups-undertakings-and-entities-associated-with-them/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-on-today-s-meeting-in-abu-dhabi-between-the-eu-france-germany-italy-united-kingdom-ukraine-united-states-and-nato/",
+    "data": "",
+    "titolo": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-on-today-s-meeting-in-abu-dhabi-between-the-eu-france-germany-italy-united-kingdom-ukraine-united-states-and-nato/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/media-advisory-economic-and-financial-affairs-council-budget-of-10-november-2026/",
+    "data": "",
+    "titolo": "Media advisory - Economic and Financial Affairs Council (Budget) of 10 November 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/media-advisory-economic-and-financial-affairs-council-budget-of-10-november-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/",
+    "data": "",
+    "titolo": "Ukraine: Council extends EU Military Assistance Mission mandate for two years",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/humanitarian-aid-council-approves-conclusions-on-strengthening-eu-action-amid-global-challenges/",
+    "data": "",
+    "titolo": "Humanitarian aid: Council approves conclusions on strengthening EU action amid global challenges",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/humanitarian-aid-council-approves-conclusions-on-strengthening-eu-action-amid-global-challenges/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/remarks-by-kyriakos-pierrakakis-following-the-eurogroup-meeting-of-9-november-2026/",
+    "data": "",
+    "titolo": "Remarks by Kyriakos Pierrakakis following the Eurogroup meeting of 9 November 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/remarks-by-kyriakos-pierrakakis-following-the-eurogroup-meeting-of-9-november-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/taxation-council-approves-further-vat-simplification-rules-for-online-sales/",
+    "data": "",
+    "titolo": "Taxation: Council approves further VAT simplification rules for online sales",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/taxation-council-approves-further-vat-simplification-rules-for-online-sales/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/press-briefing-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
+    "data": "",
+    "titolo": "Press briefing - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/press-briefing-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/cop31-eu-and-oacps-reaffirm-commitment-to-climate-action-focusing-on-turning-priorities-into-concrete-deliverables/",
+    "data": "",
+    "titolo": "COP31: EU and OACPS reaffirm commitment to climate action focusing on turning priorities into concrete deliverables",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/cop31-eu-and-oacps-reaffirm-commitment-to-climate-action-focusing-on-turning-priorities-into-concrete-deliverables/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
     "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/statement-by-the-eurogroup-president-on-the-nominations-for-the-post-of-ecb-president/",
     "data": "",
     "titolo": "Statement by the Eurogroup President on the nominations for the post of ECB President",
@@ -1083,1309 +1183,525 @@
     "titolo": "Simplification: Council agrees position to simplify energy and tyre labelling",
     "tipo": "feed",
     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/simplification-council-agrees-position-to-simplify-energy-and-tyre-labelling/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/methane-regulation-council-agrees-to-postpone-monitoring-rules-for-one-year/",
-    "data": "",
-    "titolo": "Methane regulation: Council agrees to postpone monitoring rules for one year",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/06/methane-regulation-council-agrees-to-postpone-monitoring-rules-for-one-year/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/05/joint-press-release-eu-western-balkans-ministerial-forum-on-justice-and-home-affairs-budva-montenegro-5-6-november-2026/",
-    "data": "",
-    "titolo": "Joint press release: EU – Western Balkans Ministerial Forum on Justice and Home Affairs (Budva, Montenegro, 5-6 November 2026)",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/05/joint-press-release-eu-western-balkans-ministerial-forum-on-justice-and-home-affairs-budva-montenegro-5-6-november-2026/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/fight-against-illicit-drugs-council-backs-new-rules-for-chemicals-used-to-make-illegal-drugs/",
-    "data": "",
-    "titolo": "Fight against illicit drugs: Council backs new rules for chemicals used to make illegal drugs",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/fight-against-illicit-drugs-council-backs-new-rules-for-chemicals-used-to-make-illegal-drugs/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/speech-by-president-antonio-costa-at-the-plenary-session-of-the-30th-ibero-american-summit/",
-    "data": "",
-    "titolo": "Speech by President António Costa at the plenary session of the XXX Ibero-American Summit",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/speech-by-president-antonio-costa-at-the-plenary-session-of-the-30th-ibero-american-summit/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/press-briefing-economic-and-financial-affairs-and-budget-council-meetings/",
-    "data": "",
-    "titolo": "Press briefing - Economic and Financial Affairs and Budget Council meetings",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/04/press-briefing-economic-and-financial-affairs-and-budget-council-meetings/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-president-costa-in-the-context-of-the-euronews-eu-enlargement-summit-2026/",
-    "data": "",
-    "titolo": "Statement by President António Costa in the context of the Euronews EU Enlargement Summit 2026",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-president-costa-in-the-context-of-the-euronews-eu-enlargement-summit-2026/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/informal-meeting-of-heads-of-state-or-government-of-13-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/",
-    "data": "",
-    "titolo": "Informal meeting of Heads of State or Government of 13 November 2026 - Invitation letter by President António Costa to the members of the European Council",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/informal-meeting-of-heads-of-state-or-government-of-13-november-2026-invitation-letter-by-president-antonio-costa-to-the-members-of-the-european-council/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262258-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/",
-    "data": "",
-    "titolo": "Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2258 concerning restrictive measures in view of Russia’s destabilising activities",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262258-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-on-alignment-with-decision-20262264-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/",
-    "data": "",
-    "titolo": "HR statement on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2264 concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-on-alignment-with-decision-20262264-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-with-council-decision-cfsp-20262192-concerning-restrictive-measures-in-view-of-the-situation-in-russia/",
-    "data": "",
-    "titolo": "Statement by the HR on behalf of the EU on the alignment of certain third countries with Council Decision (CFSP) 2026/2192 concerning restrictive measures in view of the situation in Russia",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-third-countries-with-council-decision-cfsp-20262192-concerning-restrictive-measures-in-view-of-the-situation-in-russia/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262164-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/",
-    "data": "",
-    "titolo": "Statement by the HR on behalf of the EU on the alignment of certain countries with Council Decision (CFSP) 2026/2164 concerning restrictive measures in view of Russia’s destabilising activities",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/statement-by-the-hr-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-with-council-decision-cfsp-20262164-concerning-restrictive-measures-in-view-of-russia-s-destabilising-activities/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/",
-    "data": "",
-    "titolo": "HR statement on behalf of the EU on the alignment of certain countries concerning restrictive measures in respect of actions undermining or threatening the territorial integrity, sovereignty and independence of Ukraine",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/03/hr-statement-on-behalf-of-eu-alignment-of-certain-countries-concerning-restrictive-measures-in-respect-of-actions-undermining-or-threatening-the-territorial-integrity-sovereignty-and-independence-of-ukraine/"
    }
   ],
   "Gazzetta Ufficiale, serie UE": [
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=9&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "REGOLAMENTO 30 giugno 2026, n. 1423",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=5&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 4 giugno 2026, n. 1221",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=9&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=5&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=12&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1567",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=15&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 2 luglio 2026, n. 1470",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=12&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=15&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=14&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1568",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=18&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 10 settembre 2026, n. 2022",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=14&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=18&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=16&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1569",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=20&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 10 settembre 2026, n. 2023",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=16&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=20&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=18&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1570",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=22&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 10 settembre 2026, n. 2024",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=18&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=22&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=20&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1571",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=147&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 10 settembre 2026, n. 2025",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=20&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=147&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=22&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1572",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=153&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 10 settembre 2026, n. 2026",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=22&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=153&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=24&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1573",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=217&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 10 settembre 2026, n. 2027",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=24&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=217&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=26&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1574",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=221&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 10 settembre 2026, n. 2028",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=26&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=221&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=28&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1575",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=233&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE PESC 10 settembre 2026, n. 2062",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=28&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=233&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=30&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1576",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=235&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 10 settembre 2026, n. 2030",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=30&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=235&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=32&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1577",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=245&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 8 settembre 2026, n. 2043",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=32&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=245&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=87&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1578",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=248&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 21 agosto 2026, n. 2036",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=87&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=248&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=89&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1579",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=254&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 21 agosto 2026, n. 2037",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=89&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=254&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=112&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1580",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=257&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 21 agosto 2026, n. 2038",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=112&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=257&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=113&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1581",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=261&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 1 settembre 2026, n. 2039",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=113&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=261&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=125&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1582",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=263&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 1 settembre 2026, n. 2040",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=125&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=263&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=126&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1583",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=265&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 11 settembre 2026, n. 2031",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=126&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=265&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=136&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1584",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=268&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 11 settembre 2026, n. 2041",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=136&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=268&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=137&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1585",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=329&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 11 settembre 2026, n. 2042",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=137&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=329&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=149&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1586",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=340&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 11 settembre 2026, n. 2044",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=149&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=340&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=151&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1587",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=356&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 11 settembre 2026, n. 2050",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=151&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=356&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=170&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1588",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=400&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 11 settembre 2026, n. 2051",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=170&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=400&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=171&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1589",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=409&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 10 settembre 2026, n. 2053",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=171&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=409&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=183&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1590",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=436&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "REGOLAMENTO 11 settembre 2026, n. 2054",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=183&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=436&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=184&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1591",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=468&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 10 settembre 2026, n. 2021",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=184&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=468&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=197&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1592",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=471&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 11 settembre 2026, n. 2032",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=197&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=471&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=198&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1593",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=474&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 11 settembre 2026, n. 2067",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=198&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=474&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=209&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1594",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=477&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 11 settembre 2026, n. 2071",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=209&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=477&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=211&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1595",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=479&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 11 settembre 2026, n. 2073",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=211&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=479&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=221&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1596",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=481&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 10 settembre 2026, n. 2075",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=221&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=481&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=223&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1597",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=490&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 11 settembre 2026, n. 2081",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=223&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=490&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=225&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1598",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=492&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 08 Nov 2026",
+    "titolo": "DECISIONE 11 settembre 2026, n. 2082",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=225&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=248&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1599",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=248&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=250&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1600",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=250&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=252&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1601",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=252&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=254&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1602",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=254&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=256&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1603",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=256&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=258&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1604",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=258&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=260&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1605",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=260&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=262&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1606",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=262&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=264&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1607",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=264&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=266&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1608",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=266&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=268&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1609",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=268&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=270&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1610",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=270&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=272&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1611",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=272&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=274&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1612",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=274&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=276&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1613",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=276&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=278&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1614",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=278&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=280&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1615",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=280&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=282&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1616",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=282&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=284&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1617",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=284&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=286&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1618",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=286&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=288&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1619",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=288&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=290&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1620",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=290&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=292&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1621",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=292&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=294&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1622",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=294&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=296&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1623",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=296&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=298&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1624",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=298&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=300&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1625",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=300&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=302&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1626",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=302&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=304&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1627",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=304&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=306&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1628",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=306&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=308&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1629",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=308&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=310&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1630",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=310&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=312&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1631",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=312&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=314&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1632",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=314&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=316&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1633",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=316&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=318&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1634",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=318&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=320&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1635",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=320&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=322&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1636",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=322&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=324&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1637",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=324&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=326&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1638",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=326&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=328&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1639",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=328&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=330&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1640",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=330&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=332&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1641",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=332&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=334&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1642",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=334&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=335&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1643",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=335&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=337&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1644",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=337&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=339&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1645",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=339&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=341&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1646",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=341&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=343&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1647",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=343&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=345&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1648",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=345&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=347&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1649",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=347&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=349&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1650",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=349&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=351&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1651",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=351&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=353&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1652",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=353&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=355&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1653",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=355&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=357&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1654",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=357&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=359&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1655",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=359&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=361&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1656",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=361&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=363&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1657",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=363&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=365&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1658",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=365&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=367&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1659",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=367&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=369&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1660",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=369&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=371&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1661",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=371&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=373&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1662",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=373&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=374&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1663",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=374&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=376&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1664",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=376&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=377&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "RISOLUZIONE 29 aprile 2026, n. 1665",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=377&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=408&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1666",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=408&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=410&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1667",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=410&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=411&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1668",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=411&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=412&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1669",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=412&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=413&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1670",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=413&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=414&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1671",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=414&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=415&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1672",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=415&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=417&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1673",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=417&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=418&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1674",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=418&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=419&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1675",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=419&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=420&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1676",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=420&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=421&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1677",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=421&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=422&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1678",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=422&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=424&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1679",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=424&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=426&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 10 settembre 2026, n. 1680",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=426&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=427&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1681",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=427&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=428&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1682",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=428&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=429&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1683",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=429&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=430&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1684",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=430&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=432&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1685",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=432&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=433&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1686",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=433&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=435&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1687",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=435&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=436&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1688",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=436&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=437&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1689",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=437&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=438&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 29 aprile 2026, n. 1690",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=438&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=452&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 8 settembre 2026, n. 2052",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=452&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=461&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 04 Nov 2026",
-    "titolo": "DECISIONE 8 settembre 2026, n. 2056",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=461&dataPubblicazioneGazzetta=20261105&numeroGazzetta=87&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=492&dataPubblicazioneGazzetta=20261109&numeroGazzetta=88&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    }
   ],
   "Gazzetta Ufficiale, serie generale": [
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05807/SG",
-    "data": "2026-11-07",
-    "titolo": "DELIBERA DEL CONSIGLIO DEI MINISTRI 28 ottobre 2026",
-    "descrizione": "Proroga dello stato di emergenza per intervento all'estero in conseguenza del perdurare degli accadimenti in atto nel territorio dell'Ucraina. (26A05807)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05807/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26G00219/SG",
+    "data": "2026-11-10",
+    "titolo": "LEGGE 29 ottobre 2026, n.203",
+    "descrizione": "Modifiche al decreto del Presidente della Repubblica 30 settembre 1963, n. 1409, e all'articolo 41 del codice dei beni culturali e del paesaggio, di cui al decreto legislativo 22 gennaio 2004, n. 42, in materia di cambio della denominazione dell'archivio centrale dello Stato in quella di Archivio nazionale. (26G00219)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26G00219/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05806/SG",
-    "data": "2026-11-07",
-    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 2 novembre 2026",
-    "descrizione": "Conferma dell'incarico al Consorzio di tutela IGP Patata del Fucino a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'art. 14, comma 15, della legge 21 dicembre 1999, n. 526, per la IGP «Patata del Fucino». (26A05806)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05806/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05850/SG",
+    "data": "2026-11-10",
+    "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 2026",
+    "descrizione": "Scioglimento del consiglio comunale di Carolei e nomina del commissario straordinario. (26A05850)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05850/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05808/SG",
-    "data": "2026-11-07",
-    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 2 novembre 2026",
-    "descrizione": "Conferma dell'incarico al Consorzio di tutela DOC Tavoliere a svolgere le funzioni di promozione, valorizzazione, vigilanza, tutela, informazione del consumatore e cura generale degli interessi, di cui all'articolo 41, commi 1 e 4, della legge 12 dicembre 2016, n. 238, sulla DOC «Tavoliere delle Puglie» o «Tavoliere». (26A05808)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05808/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05851/SG",
+    "data": "2026-11-10",
+    "titolo": "DECRETO DEL PRESIDENTE DELLA REPUBBLICA 22 ottobre 2026",
+    "descrizione": "Scioglimento del consiglio comunale di Lusernetta. (26A05851)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05851/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05809/SG",
-    "data": "2026-11-07",
-    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 2 novembre 2026",
-    "descrizione": "Conferma dell'incarico al Consorzio italiano tutela Mortadella Bologna a svolgere le funzioni di cui all'articolo 53 della legge 24 aprile 1998, n. 128, come modificato dall'art. 14, comma 15, della legge 21 dicembre 1999, n. 526, per la IGP «Mortadella Bologna». (26A05809)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05809/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05968/SG",
+    "data": "2026-11-10",
+    "titolo": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 3 novembre 2026",
+    "descrizione": "Istituzione della commissione centrale per l'elaborazione delle linee guida in materia di accertamento dei presupposti per accedere alla detenzione domiciliare di cui all'articolo 94-ter del testo unico delle leggi in materia di disciplina degli stupefacenti e sostanze psicotrope, prevenzione, cura e riabilitazione dei relativi stati di tossicodipendenza, di cui al decreto del Presidente della Rep",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05968/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05818/SG",
-    "data": "2026-11-07",
-    "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 30 ottobre 2026",
-    "descrizione": "Medicinali la cui autorizzazione all'immissione in commercio risulta decaduta per mancata commercializzazione, ai sensi dell'art. 38 del decreto legislativo 24 aprile 2006, n. 219 e successive modificazioni ed integrazioni. (Determina n. 616/2026). (26A05818)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05818/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05854/SG",
+    "data": "2026-11-10",
+    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 8 ottobre 2026",
+    "descrizione": "Adozione delle linee guida per la valorizzazione dei pascoli e dei boschi montani ai sensi dell'articolo 12 della legge 12 settembre 2025, n. 131. (26A05854)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05854/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05785/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05883/SG",
+    "data": "2026-11-10",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 5 novembre 2026",
+    "descrizione": "Operazione di riacquisto di titoli di Stato mediante asta competitiva. (26A05883)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05883/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05853/SG",
+    "data": "2026-11-10",
+    "titolo": "MINISTERO DELLA SALUTE - DECRETO 13 ottobre 2026",
+    "descrizione": "Modifica del decreto 14 gennaio 2025, con il quale e' stato istituito il Tavolo settoriale nell'ambito sanitario al fine di assicurare l'attuazione della direttiva (UE) 2022/2025. (26A05853)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05853/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05852/SG",
+    "data": "2026-11-10",
+    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO DI GOVERNO PER IL GIUBILEO DELLA CHIESA CATTOLICA 2025 - ORDINANZA 2 novembre 2026",
+    "descrizione": "Giubileo 2025 - Intervento ID 134 - «Ponte dei Congressi» - Indirizzi per l'attuazione dell'intervento. (Ordinanza n. 36/2026). (26A05852)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05852/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05855/SG",
+    "data": "2026-11-10",
+    "titolo": "COMITATO INTERMINISTERIALE PER LA PROGRAMMAZIONE ECONOMICA E LO SVILUPPO SOSTENIBILE - DELIBERA 4 agosto 2026",
+    "descrizione": "Regione autonoma della Sardegna - Modifica del Programma operativo complementare (POC) 2014-2020 e contestuale riduzione del Piano sviluppo e coesione (PSC) 2014-2020. Fondo di rotazione 2021-2027 - Modifica dell'allegato 1 della delibera n. 44 del 2025. (Delibera n. 33/2026). (26A05855)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05855/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05856/SG",
+    "data": "2026-11-10",
+    "titolo": "REGIONE AUTONOMA DELLA SARDEGNA - DECRETO 3 novembre 2026",
+    "descrizione": "Scioglimento del consiglio comunale di Quartucciu e nomina del commissario straordinario. (26A05856)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05856/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05827/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di biotina, «Beotebal» (26A05785)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05785/SG"
+    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Depakin» (26A05827)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05827/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05786/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05828/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di dimetilfumarato, «Dimetilfumarato Cipla». (26A05786)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05786/SG"
+    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Nasonex» (26A05828)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05828/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05793/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05829/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Celecoxib Maxmind». (26A05793)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05793/SG"
+    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Congescor» (26A05829)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05829/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05794/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05830/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Ketoprofene sale di lisina Zentiva Italia». (26A05794)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05794/SG"
+    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Congescor» (26A05830)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05830/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05795/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05831/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Ondansetron Accord». (26A05795)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05795/SG"
+    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Diprosalic» (26A05831)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05831/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05796/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05832/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Recotuss Sedativo». (26A05796)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05796/SG"
+    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Fucidin» (26A05832)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05832/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05797/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05833/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Kleder» (26A05797)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05797/SG"
+    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Coversyl» (26A05833)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05833/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05798/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05834/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Naloxone Accord». (26A05798)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05798/SG"
+    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Femara» (26A05834)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05834/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05799/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05835/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Revoca, su rinuncia, dell'autorizzazione all'immissione in commercio del medicinale per uso umano «Antispasmina Colica». (26A05799)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05799/SG"
+    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Ornibel» (26A05835)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05835/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05800/SG",
-    "data": "2026-11-07",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05838/SG",
+    "data": "2026-11-10",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio di taluni medicinali per uso umano, a base di buprenorfina (26A05800)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05800/SG"
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di abiraterone acetato, «Abiraterone Abdi Farma». (26A05838)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05838/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05815/SG",
-    "data": "2026-11-07",
-    "titolo": "MINISTERO DELL'AMBIENTE E DELLA SICUREZZA ENERGETICA - COMUNICATO",
-    "descrizione": "Definizione delle quote di mercato dei produttori di apparecchiature elettriche ed elettroniche (AEE) relative all'anno 2025. (26A05815)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05815/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05839/SG",
+    "data": "2026-11-10",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di sitagliptin/metformina, «Sitagliptin e Metformina Pharmacare». (26A05839)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05839/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05810/SG",
-    "data": "2026-11-07",
-    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 12 ottobre 2026 (26A05810)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05810/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05928/SG",
+    "data": "2026-11-10",
+    "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO",
+    "descrizione": "Annuncio di una richiesta di referendum abrogativo (26A05928)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05928/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05811/SG",
-    "data": "2026-11-07",
-    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 13 ottobre 2026 (26A05811)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05811/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05812/SG",
-    "data": "2026-11-07",
-    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 14 ottobre 2026 (26A05812)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05812/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05813/SG",
-    "data": "2026-11-07",
-    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 15 ottobre 2026 (26A05813)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05813/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05814/SG",
-    "data": "2026-11-07",
-    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
-    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 16 ottobre 2026 (26A05814)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05814/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05817/SG",
-    "data": "2026-11-07",
-    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LE POLITICHE IN FAVORE DELLE PERSONE CON DISABILITA' - COMUNICATO",
-    "descrizione": "Interventi finalizzati al riconoscimento del valore sociale ed economico dell'attivita' di cura non professionale del caregiver familiare per l'anno 2026 - Fondo unico per l'inclusione delle persone con disabilita'. (26A05817)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05817/SG"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05872/SG",
-    "data": "2026-11-07",
-    "titolo": "",
-    "descrizione": "Comunicato relativo ai lavori preparatori della legge 28 luglio 2026, n. 137, riguardante: «Delega al Governo per la riforma dell'ordinamento forense». (Legge pubblicata nella Gazzetta Ufficiale - Serie generale - n. 177 del 1° agosto 2026). (26A05872)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/07/26A05872/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05857/SG",
+    "data": "2026-11-10",
+    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO DI GOVERNO PER LA REALIZZAZIONE DELLA LINEA 2 DELLA METROPOLITANA DELLA CITTA' DI TORINO - COMUNICATO",
+    "descrizione": "Ordinanza n. 59 del 3 novembre 2026 - Contratto 2/2025 (L2.T1.S 2-2025) - Attivita' di Due Diligence ambientale (DDA) finalizzate alla verifica della conformita' rispetto alle vigenti normative ambientali delle aree oggetto di espropri, asservimento o occupazione temporanea nell'ambito della realizzazione della Linea 2 della metropolitana automatica di Torino. (26A05857)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/10/26A05857/SG"
    }
   ],
   "Governo": [
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/il-presidente-meloni-bologna-e-san-lazzaro-di-savena/33077",
+    "data": "2026-11-10",
+    "titolo": "Il Presidente Meloni a Bologna e San Lazzaro di Savena",
+    "descrizione": "Il Presidente del Consiglio, Giorgia Meloni, ha visitato questo pomeriggio l’Esposizione Internazionale di Macchine per l'Agricoltura e il Giardinaggio (EIMA), presso BolognaFiere. A seguire il Presidente ha visitato Conserve Italia, in occasione del cinquantesimo anniversario del Gruppo aderente a Confcooperative, a San Lazzaro di Savena (BO).",
+    "url": "https://www.governo.it/it/articolo/il-presidente-meloni-bologna-e-san-lazzaro-di-savena/33077"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/xxii-edizione-del-premio-giacomo-matteotti-la-cerimonia-di-premiazione/33074",
+    "data": "2026-11-10",
+    "titolo": "XXII edizione del Premio Giacomo Matteotti, la cerimonia di premiazione",
+    "descrizione": "Alla cerimonia hanno preso parte il Segretario generale della Presidenza del Consiglio e Presidente della Commissione esaminatrice, Carlo Deodato, i componenti della Commissione (Alberto Aghemo, Giovanni Belardelli, Ernesto Galli Della Loggia, Adriano Monti Buzzetti Colella, Tommaso Piffer e Gianpaolo Romanato), docenti e studenti dell’Istituto di Istruzione Superiore “Tommaso Salvini” di Roma, de",
+    "url": "https://www.governo.it/it/articolo/xxii-edizione-del-premio-giacomo-matteotti-la-cerimonia-di-premiazione/33074"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/statement-todays-meeting-abu-dhabi-between-eu-france-germany-italy-united-kingdom-ukraine",
+    "data": "2026-11-10",
+    "titolo": "Statement on today&#039;s meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
+    "descrizione": "Dichiarazione sull’incontro odierno ad Abu Dhabi tra l’Unione europea, la Francia, la Germania, l’Italia, il Regno Unito, l’Ucraina, gli Stati Uniti e la NATO.",
+    "url": "https://www.governo.it/it/articolo/statement-todays-meeting-abu-dhabi-between-eu-france-germany-italy-united-kingdom-ukraine"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-197/33070",
+    "data": "2026-11-09",
+    "titolo": "Comunicato stampa del Consiglio dei Ministri n. 197",
+    "descrizione": "Il Consiglio dei Ministri si è riunito lunedì 9 novembre 2026, alle ore 18.01 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
+    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-197/33070"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/decreto-bollette-dichiarazione-del-presidente-meloni/33069",
+    "data": "2026-11-09",
+    "titolo": "Decreto Bollette, dichiarazione del Presidente Meloni",
+    "descrizione": "Il Consiglio dei Ministri ha approvato il nuovo Decreto Bollette. Abbiamo scelto di affrontare uno dei nodi più difficili del caro energia: il meccanismo che fa salire il prezzo dell’elettricità a causa del costo del gas e pesa sui conti delle famiglie e delle imprese. Il decreto interviene su questo punto, con tre scelte precise. La prima: stabilisce un tetto al gas utilizzato per produrre elettr",
+    "url": "https://www.governo.it/it/articolo/decreto-bollette-dichiarazione-del-presidente-meloni/33069"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/consiglio-dei-ministri-n-197/33065",
+    "data": "2026-11-09",
+    "titolo": "Consiglio dei Ministri n. 197",
+    "descrizione": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
+    "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-197/33065"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-197/33064",
+    "data": "2026-11-09",
+    "titolo": "Convocazione del Consiglio dei Ministri n. 197",
+    "descrizione": "Il Consiglio dei ministri è convocato oggi, lunedì 9 novembre 2026, alle ore 17:30 a Palazzo Chigi, per l'esame del seguente ordine del giorno:",
+    "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-197/33064"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/giorno-della-libert-dichiarazione-del-presidente-meloni/33061",
+    "data": "2026-11-09",
+    "titolo": "Giorno della Libertà, dichiarazione del Presidente Meloni",
+    "descrizione": "Trentasette anni fa cadeva il Muro di Berlino. Non soltanto una barriera di cemento, ma il simbolo di un sistema che per anni aveva negato a milioni di persone la libertà, la dignità e il diritto di scegliere il proprio futuro. Il 9 novembre 1989 ha segnato una svolta nella storia dell’Europa, affermando la forza di chi non ha mai rinunciato a rivendicare il proprio diritto di vivere libero. [...]",
+    "url": "https://www.governo.it/it/articolo/giorno-della-libert-dichiarazione-del-presidente-meloni/33061"
+   },
    {
     "fonte": "Governo",
     "id": "gov:https://www.governo.it/it/articolo/le-condoglianze-del-presidente-meloni-alla-polonia/33052",
@@ -2401,314 +1717,8 @@
     "titolo": "Dichiarazione del Presidente del Consiglio Meloni",
     "descrizione": "Esprimo la mia piena solidarietà al Vice Presidente del Consiglio Antonio Tajani per quanto emerso sull’attività di hacker filorussi e sulla diffusione sul dark web di dati personali che lo riguardano. La messa in vendita di informazioni riservate su esponenti delle istituzioni desta grande preoccupazione e va affrontata con la massima determinazione. Altrettanto preoccupante è la circolazione di ",
     "url": "https://www.governo.it/it/articolo/dichiarazione-del-presidente-del-consiglio-meloni/33050"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/visita-del-presidente-meloni-alla-128-edizione-di-fieracavalli/33049",
-    "data": "2026-11-06",
-    "titolo": "Visita del Presidente Meloni alla 128ª edizione di Fieracavalli",
-    "descrizione": "Il Presidente del Consiglio, Giorgia Meloni, ha visitato a Verona la 128ª edizione di Fieracavalli.",
-    "url": "https://www.governo.it/it/articolo/visita-del-presidente-meloni-alla-128-edizione-di-fieracavalli/33049"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/il-presidente-meloni-alla-83-edizione-di-eicma/33047",
-    "data": "2026-11-06",
-    "titolo": "Il Presidente Meloni alla 83ª edizione di EICMA",
-    "descrizione": "Il Presidente Meloni questa mattina, a Milano, ha visitato l'83ª edizione dell'Esposizione Internazionale Ciclo Motociclo e Accessori (EICMA).",
-    "url": "https://www.governo.it/it/articolo/il-presidente-meloni-alla-83-edizione-di-eicma/33047"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/adozione-delle-specifiche-tecniche-del-sistema-it-wallet/33045",
-    "data": "2026-11-06",
-    "titolo": "Adozione delle Specifiche Tecniche del Sistema IT-Wallet",
-    "descrizione": "Decreto del Capo del Dipartimento per la trasformazione digitale del 24 settembre 2026 di adozione delle Specifiche Tecniche del Sistema IT-Wallet durante la Sperimentazione.",
-    "url": "https://www.governo.it/it/articolo/adozione-delle-specifiche-tecniche-del-sistema-it-wallet/33045"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042",
-    "data": "2026-11-05",
-    "titolo": "Comunicato stampa del Consiglio dei Ministri n. 196",
-    "descrizione": "Il Consiglio dei Ministri si è riunito giovedì 5 novembre 2026, alle ore 17.14 a Palazzo Chigi, sotto la presidenza del Presidente Giorgia Meloni. Segretario, il Sottosegretario alla Presidenza Alfredo Mantovano. ٠٠٠٠٠",
-    "url": "https://www.governo.it/it/articolo/comunicato-stampa-del-consiglio-dei-ministri-n-196/33042"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/consiglio-dei-ministri-n-196/33040",
-    "data": "2026-11-05",
-    "titolo": "Consiglio dei Ministri n. 196",
-    "descrizione": "Si è svolta a Palazzo Chigi la riunione del Consiglio dei Ministri. Nel comunicato stampa i provvedimenti approvati.",
-    "url": "https://www.governo.it/it/articolo/consiglio-dei-ministri-n-196/33040"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-196/33039",
-    "data": "2026-11-05",
-    "titolo": "Convocazione del Consiglio dei Ministri n. 196",
-    "descrizione": "Il Consiglio dei Ministri è convocato giovedì 5 novembre 2026 alle ore 17:00 a Palazzo Chigi, per l’esame del seguente ordine del giorno:",
-    "url": "https://www.governo.it/it/articolo/convocazione-del-consiglio-dei-ministri-n-196/33039"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/definizione-delle-misure-tecniche-e-organizzative-del-sistema-it-wallet/33033",
-    "data": "2026-11-04",
-    "titolo": "Definizione delle misure tecniche e organizzative del Sistema IT-Wallet",
-    "descrizione": "Pubblicato il Decreto del Capo del dipartimento per la trasformazione digitale del 29 settembre 2026 di definizione delle misure tecniche e organizzative da adottarsi con riferimento ai trattamenti di dati personali effettuati nell’ambito del Sistema IT-Wallet, ai sensi dell’articolo 8, comma 5, del Dpcm 19 marzo 2026.",
-    "url": "https://www.governo.it/it/articolo/definizione-delle-misure-tecniche-e-organizzative-del-sistema-it-wallet/33033"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/giornata-dell-unit-nazionale-e-delle-forze-armate-palazzo-chigi-si-illumina-con-il",
-    "data": "2026-11-04",
-    "titolo": "Giornata dell’Unità Nazionale e delle Forze armate, Palazzo Chigi si illumina con il Tricolore",
-    "descrizione": "In occasione della “Giornata dell’Unità Nazionale e delle Forze armate”, dall’imbrunire della giornata odierna fino all’alba del 5 novembre 2026, la facciata principale di Palazzo Chigi sarà illuminata con il Tricolore italiano: verde, bianco e rosso, a bande verticali.",
-    "url": "https://www.governo.it/it/articolo/giornata-dell-unit-nazionale-e-delle-forze-armate-palazzo-chigi-si-illumina-con-il"
-   }
-  ],
-  "Commissione, notizie": [
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "New guidance on electricity imports under Centralised Clearance for Import (CCI)",
-    "descrizione": "New guidance supports a harmonised EU approach to electricity imports under the Centralised Clearance for Import (CCI) framework.",
-    "url": "https://taxation-customs.ec.europa.eu/news/new-guidance-electricity-imports-under-centralised-clearance-import-cci-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "EU releases €16 million in humanitarian aid for Myanmar and Rohingya refugees in Bangladesh",
-    "descrizione": "The European Union has allocated an additional €16 million in humanitarian aid to help communities impacted by the ongoing conflict in Myanmar, as well as Rohingya refugees and their host communities in Bangladesh.",
-    "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/eu-releases-eur16-million-humanitarian-aid-myanmar-and-rohingya-refugees-bangladesh-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "Commission initiates safeguard investigation into imports of PET resin chemicals",
-    "descrizione": "Today, the Commission initiated a safeguard investigation to assess whether safeguard measures are needed to protect EU industry from a significant increase in imports of polyethylene terephthalate (PET) resin chemicals.",
-    "url": "https://policy.trade.ec.europa.eu/news/commission-initiates-safeguard-investigation-imports-pet-resin-chemicals-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://energy.ec.europa.eu/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "EU to push for accelerated global climate action at COP31",
-    "descrizione": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.",
-    "url": "https://energy.ec.europa.eu/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/eu-actions-prevent-and-combat-child-poverty-explained-children-and-young-people-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "EU actions to prevent and combat child poverty explained to children and young people",
-    "descrizione": "A new child-friendly publication, “Breaking the cycle of child poverty - Strengthening the European Child Guarantee”, explains how the EU is working towards every child having a fair chance in life.",
-    "url": "https://employment-social-affairs.ec.europa.eu/news/eu-actions-prevent-and-combat-child-poverty-explained-children-and-young-people-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://enlargement.ec.europa.eu/news/commission-opens-negotiations-extend-roam-home-western-balkans-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "Commission opens negotiations to extend ‘Roam Like at Home’ to the Western Balkans",
-    "descrizione": "As announced by President Ursula von der Leyen during her travel to the Western Balkans in October 2026, the European Commission has opened negotiations to integrate Albania, Bosnia and Herzegovina, Kosovo, Montenegro, North Macedonia and Serbia into the EU's ‘Roam Like at Home' regime.",
-    "url": "https://enlargement.ec.europa.eu/news/commission-opens-negotiations-extend-roam-home-western-balkans-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://housing.ec.europa.eu/whats-new/news/european-responsible-housing-awards-open-applications-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "European Responsible Housing Awards open for applications",
-    "descrizione": "The 2027 edition of the European Responsible Housing Awards is open for applications until 31 December 2026.",
-    "url": "https://housing.ec.europa.eu/whats-new/news/european-responsible-housing-awards-open-applications-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361",
-    "data": "2026-11-06",
-    "titolo": "TikTok: preliminary findings on harmful “rabbit hole” effect",
-    "descrizione": "The European Commission has preliminarily found TikTok in breach of the Digital Services Act (DSA) for the so-called ‘rabbit hole effect' of its recommender system.",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/en/ip_26_2361"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:/news-and-media/news/celebrating-30-years-marie-sklodowska-curie-actions-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "Celebrating 30 years of the Marie Skłodowska-Curie Actions",
-    "descrizione": "Over three decades of the European Union’s flagship programme for researcher training, mobility and career development",
-    "url": "/news-and-media/news/celebrating-30-years-marie-sklodowska-curie-actions-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "EU to push for accelerated global climate action at COP31",
-    "descrizione": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, from 9-20 November, the European Union will work with international partners to accelerate global climate action and deliver on the goals of the Paris Agreement.",
-    "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-push-accelerated-global-climate-action-cop31-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en",
-    "data": "2026-11-06",
-    "titolo": "Paris Peace Forum 2026: Mediating Together for a Peace That Lasts",
-    "descrizione": "The European Commission’s Service for Foreign Policy Instruments (FPI) will put the spotlight on how peace mediation is adapting to a changing world at the Paris Peace Forum 2026, with its thematic panel “Peace Mediation Today: New Actors, New Coalitions, Lasting Results” on 10 November.",
-    "url": "https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-mediating-together-peace-lasts-2026-11-06_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/how-social-dialogue-can-help-prevent-prepare-and-respond-crises-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "How social dialogue can help prevent, prepare for and respond to crises",
-    "descrizione": "At the 2026 Civil Protection Forum, employers and trade unions discussed how social dialogue can help prevent, prepare for and respond to crises. Social partners discuss strengthening preparedness at the Civil Protection Forum.",
-    "url": "https://employment-social-affairs.ec.europa.eu/news/how-social-dialogue-can-help-prevent-prepare-and-respond-crises-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://enlargement.ec.europa.eu/news/commission-disburses-eur436-billion-ukraine-under-eur90-billion-ukraine-support-loan-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "Commission disburses €4.36 billion to Ukraine under the €90 billion Ukraine Support Loan",
-    "descrizione": "Today, the European Commission disbursed €4.36 billion to Ukraine under the Ukraine Support Loan. This payment includes €3.7 billion for the second instalment of macro-financial assistance (MFA) agreed for 2026 and €658 million under the defence leg of the Loan.",
-    "url": "https://enlargement.ec.europa.eu/news/commission-disburses-eur436-billion-ukraine-under-eur90-billion-ukraine-support-loan-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-co-hosts-investfrontier-launching-event-bringing-together-humanitarian-actors-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "Commissioner Lahbib co-hosts InvestFrontier launching event, bringing together humanitarian actors, financial institutions, businesses and philanthropy",
-    "descrizione": "Commissioner for Equality, Preparedness and Crisis Management Hadja Lahbib is participating in the kick-off meeting of the InvestFrontier initiative, held in Brussels on 6 November 2026, and bringing together humanitarian aid, business and philanthropy.",
-    "url": "https://civil-protection-humanitarian-aid.ec.europa.eu/news-stories/news/commissioner-lahbib-co-hosts-investfrontier-launching-event-bringing-together-humanitarian-actors-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/commission-launches-strategy-strengthen-vocational-skills-across-europe-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "Commission launches strategy to strengthen vocational skills across Europe",
-    "descrizione": "The European Commission adopted the European VET strategy as part of the Education and Skills package. Through the strategy, the EU will better support EU countries in modernising their VET systems.",
-    "url": "https://employment-social-affairs.ec.europa.eu/news/commission-launches-strategy-strengthen-vocational-skills-across-europe-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "Commission aims to unlock business opportunities for EU medical device companies in China",
-    "descrizione": "The European Commission is today leading a delegation of European medical device companies to Shanghai to support new business opportunities in the Chinese market.",
-    "url": "https://policy.trade.ec.europa.eu/news/commission-aims-unlock-business-opportunities-eu-medical-device-companies-china-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-invites-nominations-next-president-european-research-council-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "Commission invites nominations for the next President of the European Research Council",
-    "descrizione": "Research and innovation news alert: The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.",
-    "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-invites-nominations-next-president-european-research-council-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "Shaping Europe’s future through education and training",
-    "descrizione": "The education and skills package helps reverse the decline in basic skills and improve teaching and how digital tools and AI are used in education",
-    "url": "/news-and-media/news/shaping-europes-future-through-education-and-training-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://blue-economy-observatory.ec.europa.eu/news/eu-maritime-security-strategy-joint-report-highlights-progress-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "EU Maritime Security Strategy: joint report highlights progress",
-    "descrizione": "The European Commission and the High Representative have presented the first Joint Report on the implementation of the EU Maritime Security Strategy since 2023.",
-    "url": "https://blue-economy-observatory.ec.europa.eu/news/eu-maritime-security-strategy-joint-report-highlights-progress-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://blue-economy-observatory.ec.europa.eu/news/commission-presents-its-vision-2040-thriving-fisheries-and-aquaculture-sector-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "Commission presents its Vision 2040 for a thriving fisheries and aquaculture sector",
-    "descrizione": "The European Commission presented its Vision for fisheries and aquaculture towards 2040, setting the direction for the next 15 years to strengthen the environmental and economic viability of the sector.",
-    "url": "https://blue-economy-observatory.ec.europa.eu/news/commission-presents-its-vision-2040-thriving-fisheries-and-aquaculture-sector-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://finance.ec.europa.eu/news/commission-meeting-sanctions-implementation-brings-together-member-states-and-international-partners-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "Commission meeting on sanctions implementation brings together Member States and international partners",
-    "descrizione": "The eighth meeting of the High‑Level Group on Union Restrictive Measures (sanctions) is being held today&nbsp;5&nbsp;November&nbsp;2026.",
-    "url": "https://finance.ec.europa.eu/news/commission-meeting-sanctions-implementation-brings-together-member-states-and-international-partners-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://home-affairs.ec.europa.eu/news/commission-launches-second-annual-migration-management-cycle-2026-11-05_en",
-    "data": "2026-11-05",
-    "titolo": "Commission launches second Annual Migration Management Cycle",
-    "descrizione": "On 6&nbsp;November, the Commission launched the second Annual Migration Management Cycle, providing a comprehensive overview of migration trends and risks in the EU over the previous year, identifying Member States facing migratory pressure, and proposing the establishment of the second Solidarity Pool.",
-    "url": "https://home-affairs.ec.europa.eu/news/commission-launches-second-annual-migration-management-cycle-2026-11-05_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-commission-and-european-space-agency-launch-joint-website-showcasing-collaborative-research-2026-11-04_en",
-    "data": "2026-11-04",
-    "titolo": "The European Commission and European Space Agency launch a joint website showcasing collaborative research on our changing planet",
-    "descrizione": "The joint Earth System Science Initiative connects European research projects to better understand environmental change and provide knowledge relevant to European policies and society.",
-    "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/european-commission-and-european-space-agency-launch-joint-website-showcasing-collaborative-research-2026-11-04_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en",
-    "data": "2026-11-04",
-    "titolo": "Commission strengthens Europe’s position as the world’s leading tourism destination",
-    "descrizione": "The Commission presents a new EU Sustainable Tourism Strategy, to increase the sector’s competitiveness, sustainability and resilience.",
-    "url": "https://transport.ec.europa.eu/news-events/news/commission-strengthens-europes-position-worlds-leading-tourism-destination-2026-11-04_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en",
-    "data": "2026-11-04",
-    "titolo": "EU sets out a new Strategy for the Arctic",
-    "descrizione": "The EU's new Arctic Strategy builds on issues identified in the EU’s 2021 Arctic policy and responds to the major geopolitical, security and environmental changes that have taken place since then.",
-    "url": "https://blue-economy-observatory.ec.europa.eu/news/eu-sets-out-new-strategy-arctic-2026-11-04_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:/news-and-media/news/results-04-11-2026-auction-eu-bills-2026-11-04_en",
-    "data": "2026-11-04",
-    "titolo": "Results of 04-11-2026 auction (EU-Bills)",
-    "descrizione": "Auction results EU-Bills.",
-    "url": "/news-and-media/news/results-04-11-2026-auction-eu-bills-2026-11-04_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en",
-    "data": "2026-11-04",
-    "titolo": "2026 Enlargement Package shows that reform commitment delivers progress towards EU membership",
-    "descrizione": "Today, the European Commission adopted its annual Enlargement Package, taking stock of progress made by the enlargement partners over the past year and setting out reform priorities for the way forward.",
-    "url": "https://enlargement.ec.europa.eu/news/2026-enlargement-package-shows-reform-commitment-delivers-progress-towards-eu-membership-2026-11-04_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/hospitals-and-healthcare-social-partners-celebrate-20-years-social-dialogue-2026-11-04_en",
-    "data": "2026-11-04",
-    "titolo": "Hospitals and healthcare social partners celebrate 20 years of social dialogue",
-    "descrizione": "For two decades, the EU Sectoral Social Dialogue Committee for Hospitals and Healthcare has delivered joint solutions to support workers, employers and resilient healthcare systems across Europe.",
-    "url": "https://employment-social-affairs.ec.europa.eu/news/hospitals-and-healthcare-social-partners-celebrate-20-years-social-dialogue-2026-11-04_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://energy.ec.europa.eu/news/biomethane-mechanism-first-matching-round-connect-buyers-and-suppliers-2026-11-04_en",
-    "data": "2026-11-04",
-    "titolo": "Biomethane Mechanism: First matching round to connect buyers and suppliers",
-    "descrizione": "The European Commission is launching the first matching round under the Biomethane Mechanism to bring potential buyers and suppliers of biomethane together across Europe.",
-    "url": "https://energy.ec.europa.eu/news/biomethane-mechanism-first-matching-round-connect-buyers-and-suppliers-2026-11-04_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-1",
-    "data": "2026-11-04",
-    "titolo": "Eurostat: Non-household electricity prices fall further in 2026",
-    "descrizione": "In the first half of 2026, the average price of electricity for non-household consumers in the EU was €0.18 per kilowatt-hour (kWh).",
-    "url": "https://ec.europa.eu/eurostat/en/web/products-eurostat-news/w/ddn-20261104-1"
    }
   ]
  },
- "prova_feed_eurlex": "HTTP 200, 70630 byte, feed RSS"
+ "prova_feed_eurlex": "HTTP 200, 70665 byte, feed RSS"
 }
