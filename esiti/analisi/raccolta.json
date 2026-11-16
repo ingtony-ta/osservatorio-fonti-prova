@@ -1,8 +1,8 @@
 {
- "finestra_da": "2026-11-12",
- "finestra_al": "2026-11-13",
- "sparql_da": "2026-11-05",
- "eseguita_alle_utc": "2026-11-14T18:37:36+00:00",
+ "finestra_da": "2026-11-14",
+ "finestra_al": "2026-11-15",
+ "sparql_da": "2026-11-07",
+ "eseguita_alle_utc": "2026-11-16T22:43:03+00:00",
  "errori": [
   "MIMIT, notizie: URLError: <urlopen error timed out>",
   "Ministero della salute, comunicati: ParseError: syntax error: line 1, column 0"
@@ -10,9 +10,69 @@
  "sezioni": {
   "GUUE, atti nuovi (SPARQL)": [
    {
-    "celex": "32026R2502",
-    "date": "2026-11-12",
-    "title": "Regolamento di esecuzione (UE) 2026/2502 della Commissione, del 12 novembre 2026, che revoca l’autorizzazione dell’Unione per il biocida singolo Superficid express WIPES in conformità al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio e che abroga il regolamento di esecuzione (UE) 2023/1105 della Commissione"
+    "celex": "32026D2546",
+    "date": "2026-11-16",
+    "title": "Decisione (PESC) 2026/2546 del Consiglio, del 16 novembre 2026, che modifica la decisione (PESC) 2019/797 concernente misure restrittive contro gli attacchi informatici che minacciano l’Unione o i suoi Stati membri"
+   },
+   {
+    "celex": "32026R2550",
+    "date": "2026-11-16",
+    "title": "Regolamento di esecuzione (UE) 2026/2550 del Consiglio, del 16 novembre 2026, che attua il regolamento (UE) 2019/796 concernente misure restrittive contro gli attacchi informatici che minacciano l’Unione o i suoi Stati membri"
+   },
+   {
+    "celex": "32026R2568",
+    "date": "2026-11-16",
+    "title": "Regolamento di esecuzione (UE) 2026/2568 del Consiglio, del 16 novembre 2026, che attua il regolamento (UE) 2024/386, che istituisce misure restrittive nei confronti di Hamas e della Jihad islamica palestinese e dei soggetti che ne sostengono, facilitano o permettono la commissione di atti di violenza"
+   },
+   {
+    "celex": "32026D2570",
+    "date": "2026-11-16",
+    "title": "Decisione (PESC) 2026/2570 del Consiglio, del 16 novembre 2026, che modifica la decisione (PESC) 2024/385, che istituisce misure restrittive nei confronti di Hamas e della Jihad islamica palestinese e dei soggetti che ne sostengono, facilitano o permettono la commissione di atti di violenza"
+   },
+   {
+    "celex": "32026R2558",
+    "date": "2026-11-16",
+    "title": "Regolamento di esecuzione (UE) 2026/2558 del Consiglio, del 16 novembre 2026, che attua il regolamento (UE) 2024/2642, concernente misure restrittive in considerazione delle attività destabilizzanti della Russia"
+   },
+   {
+    "celex": "32026D2556",
+    "date": "2026-11-16",
+    "title": "Decisione (PESC) 2026/2556 del Consiglio, del 16 novembre 2026, che modifica la decisione (PESC) 2024/2643, concernente misure restrittive in considerazione delle attività destabilizzanti della Russia"
+   },
+   {
+    "celex": "32026R2569",
+    "date": "2026-11-16",
+    "title": "Regolamento di esecuzione (UE) 2026/2569 del Consiglio, del 16 novembre 2026, che attua il regolamento (UE) 2020/1998, relativo a misure restrittive contro gravi violazioni e abusi dei diritti umani"
+   },
+   {
+    "celex": "32026R2574",
+    "date": "2026-11-16",
+    "title": "Regolamento di esecuzione (UE) 2026/2574 del Consiglio, del 16 novembre 2026, che attua il regolamento (UE) n. 269/2014, concernente misure restrittive relative ad azioni che compromettono o minacciano l’integrità territoriale, la sovranità e l’indipendenza dell’Ucraina"
+   },
+   {
+    "celex": "32026D2575",
+    "date": "2026-11-16",
+    "title": "Decisione (PESC) 2026/2575 del Consiglio, del 16 novembre 2026, che modifica la decisione 2014/145/PESC, concernente misure restrittive relative ad azioni che compromettono o minacciano l'integrità territoriale, la sovranità e l'indipendenza dell'Ucraina"
+   },
+   {
+    "celex": "32026D2571",
+    "date": "2026-11-16",
+    "title": "Decisione (PESC) 2026/2571 del Consiglio, del 16 novembre 2026, che modifica la decisione (PESC) 2020/1999 relativa a misure restrittive contro gravi violazioni e abusi dei diritti umani"
+   },
+   {
+    "celex": "32026R2526",
+    "date": "2026-11-13",
+    "title": "Regolamento di esecuzione (UE) 2026/2526 della Commissione, del 13 novembre 2026, che revoca l’autorizzazione dell’Unione per il biocida singolo Manorapid express GEL in conformità al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio e che abroga il regolamento di esecuzione (UE) 2023/1106 della Commissione"
+   },
+   {
+    "celex": "32026R2520",
+    "date": "2026-11-13",
+    "title": "Regolamento di esecuzione (UE) 2026/2520 della Commissione, del 13 novembre 2026, che autorizza una deroga a norma del regolamento (UE) 2024/573 del Parlamento europeo e del Consiglio per quanto riguarda l'uso di gas fluorurati a effetto serra in determinate apparecchiature per lavanderie industriali munite di pompe di calore"
+   },
+   {
+    "celex": "32026R2547",
+    "date": "2026-11-13",
+    "title": "Regolamento di esecuzione (UE) 2026/2547 della Commissione, del 13 novembre 2026, che istituisce un dazio antidumping definitivo sulle importazioni di alcuni prodotti piatti di acciaio laminati a freddo originari dell’India, del Giappone, di Taiwan, della Turchia e del Vietnam"
    },
    {
     "celex": "32026R2504",
@@ -20,29 +80,14 @@
     "title": "Regolamento di esecuzione (UE) 2026/2504 della Commissione, del 12 novembre 2026, che revoca l’autorizzazione dell’Unione per il biocida singolo Sterillium liquid in conformità al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio e che abroga il regolamento di esecuzione (UE) 2025/1867 della Commissione"
    },
    {
-    "celex": "32026R2506",
-    "date": "2026-11-12",
-    "title": "Regolamento di esecuzione (UE) 2026/2506 della Commissione, del 12 novembre 2026, che revoca l'autorizzazione dell'Unione per il biocida singolo Superficid express in conformità al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio e che abroga il regolamento di esecuzione (UE) 2023/1133 della Commissione"
-   },
-   {
     "celex": "32026R2503",
     "date": "2026-11-12",
     "title": "Regolamento di esecuzione (UE) 2026/2503 della Commissione, del 12 novembre 2026, che modifica gli allegati XIV e XV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Giappone negli elenchi di paesi terzi da cui è autorizzato l’ingresso nell’Unione di partite di carni fresche di pollame e di prodotti a base di carne ottenuti da pollame"
    },
    {
-    "celex": "32026R2517",
-    "date": "2026-11-12",
-    "title": "Regolamento di esecuzione (UE) 2026/2517 della Commissione, del 12 novembre 2026, concernente il mancato rinnovo dell’approvazione della sostanza attiva buprofezin in conformità al regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio e la modifica del regolamento di esecuzione (UE) n. 540/2011 della Commissione"
-   },
-   {
     "celex": "32026R2501",
     "date": "2026-11-12",
     "title": "Regolamento (UE) 2026/2501 della Commissione, del 12 novembre 2026, recante modifica dell’allegato XVII del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH) per quanto riguarda il piombo contenuto in talune attrezzature da pesca"
-   },
-   {
-    "celex": "32026R2509",
-    "date": "2026-11-12",
-    "title": "Regolamento di esecuzione (UE) 2026/2509 della Commissione, del 12 novembre 2026, che garantisce la protezione nell’Unione all’indicazione geografica اللبان العُماني (Incenso omanita) iscritta nel registro internazionale delle denominazioni di origine e delle indicazioni geografiche dell’atto di Ginevra"
    },
    {
     "celex": "32026R2511",
@@ -55,9 +100,29 @@
     "title": "Decisione di esecuzione (UE) 2026/2505 della Commissione, del 12 novembre 2026, recante rettifica della decisione di esecuzione (UE) 2026/1971 che modifica la decisione di esecuzione (UE) 2026/1279 per quanto riguarda le norme armonizzate per i guanti di protezione per parrucchieri, gli indumenti di protezione contro la pioggia e la protezione degli occhi e del viso per uso professionale elaborate a sostegno del regolamento (UE) 2016/425 del Parlamento europeo e del Consiglio"
    },
    {
+    "celex": "32026R2517",
+    "date": "2026-11-12",
+    "title": "Regolamento di esecuzione (UE) 2026/2517 della Commissione, del 12 novembre 2026, concernente il mancato rinnovo dell’approvazione della sostanza attiva buprofezin in conformità al regolamento (CE) n. 1107/2009 del Parlamento europeo e del Consiglio e la modifica del regolamento di esecuzione (UE) n. 540/2011 della Commissione"
+   },
+   {
+    "celex": "32026R2509",
+    "date": "2026-11-12",
+    "title": "Regolamento di esecuzione (UE) 2026/2509 della Commissione, del 12 novembre 2026, che garantisce la protezione nell’Unione all’indicazione geografica اللبان العُماني (Incenso omanita) iscritta nel registro internazionale delle denominazioni di origine e delle indicazioni geografiche dell’atto di Ginevra"
+   },
+   {
     "celex": "32026D2510",
     "date": "2026-11-12",
     "title": "Decisione (UE) 2026/2510 della Commissione, del 12 novembre 2026, che conferma la partecipazione dell'Irlanda alla decisione (UE) 2023/1076 del Consiglio relativa alla conclusione, a nome dell'Unione europea, della convenzione del Consiglio d'Europa sulla prevenzione e la lotta contro la violenza nei confronti delle donne e la violenza domestica per quanto riguarda la cooperazione giudiziaria in materia penale, l'asilo e il non respingimento"
+   },
+   {
+    "celex": "32026R2502",
+    "date": "2026-11-12",
+    "title": "Regolamento di esecuzione (UE) 2026/2502 della Commissione, del 12 novembre 2026, che revoca l’autorizzazione dell’Unione per il biocida singolo Superficid express WIPES in conformità al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio e che abroga il regolamento di esecuzione (UE) 2023/1105 della Commissione"
+   },
+   {
+    "celex": "32026R2506",
+    "date": "2026-11-12",
+    "title": "Regolamento di esecuzione (UE) 2026/2506 della Commissione, del 12 novembre 2026, che revoca l'autorizzazione dell'Unione per il biocida singolo Superficid express in conformità al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio e che abroga il regolamento di esecuzione (UE) 2023/1133 della Commissione"
    },
    {
     "celex": "32026M12581",
@@ -70,11 +135,6 @@
     "title": "Regolamento di esecuzione (UE) 2026/2512 della Commissione, del 10 novembre 2026, che istituisce dazi antidumping provvisori sulle importazioni di determinati esteri acrilici originari della Repubblica popolare cinese, del Regno dell’Arabia Saudita, della Repubblica del Sud Africa e degli Stati Uniti d’America"
    },
    {
-    "celex": "32026R2485",
-    "date": "2026-11-10",
-    "title": "Regolamento di esecuzione (UE) 2026/2485 della Commissione, del 10 novembre 2026, che autorizza una deroga a norma del regolamento (UE) 2024/573 del Parlamento europeo e del Consiglio per quanto riguarda l’uso di gas fluorurati a effetto serra in determinati refrigeratori fissi (chillers) utilizzati per il (ri)raffreddamento e il controllo della temperatura delle macchine utensili"
-   },
-   {
     "celex": "32026R2486",
     "date": "2026-11-10",
     "title": "Regolamento di esecuzione (UE) 2026/2486 della Commissione, del 10 novembre 2026, che autorizza una deroga a norma del regolamento (UE) 2024/573 del Parlamento europeo e del Consiglio per quanto riguarda l’immissione sul mercato di gas fluorurati a effetto serra in determinati tipi di pompe di calore monoblocco installate in ambienti chiusi"
@@ -83,11 +143,6 @@
     "celex": "32026R2491",
     "date": "2026-11-10",
     "title": "Regolamento di esecuzione (UE) 2026/2491 della Commissione, del 10 novembre 2026, che autorizza una deroga a norma del regolamento (UE) 2024/573 del Parlamento europeo e del Consiglio per quanto riguarda l’uso di gas fluorurati a effetto serra in determinati refrigeratori fissi (chillers) per uso medico"
-   },
-   {
-    "celex": "32026D2488",
-    "date": "2026-11-10",
-    "title": "Decisione di esecuzione (UE) 2026/2488 della Commissione, del 10 novembre 2026, che stabilisce le norme per l’applicazione della direttiva (UE) 2024/2881 del Parlamento europeo e del Consiglio per quanto riguarda i dettagli tecnici sulla dimostrazione e sulla detrazione dei superamenti imputabili a fonti naturali"
    },
    {
     "celex": "32026R2487",
@@ -105,14 +160,9 @@
     "title": "Regolamento di esecuzione (UE) 2026/2497 della Commissione, del 10 novembre 2026, che istituisce un dazio antidumping provvisorio sulle importazioni di tubi di rame originari della Repubblica popolare cinese, del Messico, del Vietnam e dell’Uzbekistan"
    },
    {
-    "celex": "32026D06026",
+    "celex": "32026R2485",
     "date": "2026-11-10",
-    "title": "Decisione del Consiglio, del 10 novembre 2026, relativa alla sostituzione di un supplente del comitato consultivo per il coordinamento dei sistemi di sicurezza sociale per la Svezia"
-   },
-   {
-    "celex": "32026D2492",
-    "date": "2026-11-10",
-    "title": "Decisione di esecuzione (UE) 2026/2492 della Commissione, del 10 novembre 2026, che respinge la domanda di protezione di un’indicazione geografica a norma dell’articolo 21, paragrafo 1, del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio, [Tavas Yanık Koyun Yoğurdu (IGP)] [notificata con il numero C(2026) 7866]"
+    "title": "Regolamento di esecuzione (UE) 2026/2485 della Commissione, del 10 novembre 2026, che autorizza una deroga a norma del regolamento (UE) 2024/573 del Parlamento europeo e del Consiglio per quanto riguarda l’uso di gas fluorurati a effetto serra in determinati refrigeratori fissi (chillers) utilizzati per il (ri)raffreddamento e il controllo della temperatura delle macchine utensili"
    },
    {
     "celex": "32026M12665",
@@ -125,14 +175,49 @@
     "title": "Decisione della Commissione, del 10/11/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12664 - BLACKSTONE / CLEARLAKE / DISCOVERY EDUCATION) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
    },
    {
+    "celex": "32026D2488",
+    "date": "2026-11-10",
+    "title": "Decisione di esecuzione (UE) 2026/2488 della Commissione, del 10 novembre 2026, che stabilisce le norme per l’applicazione della direttiva (UE) 2024/2881 del Parlamento europeo e del Consiglio per quanto riguarda i dettagli tecnici sulla dimostrazione e sulla detrazione dei superamenti imputabili a fonti naturali"
+   },
+   {
+    "celex": "32026D2492",
+    "date": "2026-11-10",
+    "title": "Decisione di esecuzione (UE) 2026/2492 della Commissione, del 10 novembre 2026, che respinge la domanda di protezione di un’indicazione geografica a norma dell’articolo 21, paragrafo 1, del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio, [Tavas Yanık Koyun Yoğurdu (IGP)] [notificata con il numero C(2026) 7866]"
+   },
+   {
+    "celex": "32026D06026",
+    "date": "2026-11-10",
+    "title": "Decisione del Consiglio, del 10 novembre 2026, relativa alla sostituzione di un supplente del comitato consultivo per il coordinamento dei sistemi di sicurezza sociale per la Svezia"
+   },
+   {
+    "celex": "32026D2481",
+    "date": "2026-11-09",
+    "title": "Decisione di esecuzione (UE) 2026/2481 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1195 per quanto riguarda la norma armonizzata per la sterilizzazione dei prodotti sanitari"
+   },
+   {
+    "celex": "32026R2523",
+    "date": "2026-11-09",
+    "title": "Regolamento di esecuzione (UE) 2026/2523 della Commissione, del 9 novembre 2026, che modifica gli allegati IV, V e XIV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Sud Africa, al Canada, al Regno Unito e agli Stati Uniti negli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di partite di determinati animali e prodotti di origine animale"
+   },
+   {
+    "celex": "32026D2479",
+    "date": "2026-11-09",
+    "title": "Decisione di esecuzione (UE) 2026/2479 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1182 per quanto riguarda le norme armonizzate per la sterilizzazione dei prodotti sanitari, l'indagine clinica dei dispositivi medici per soggetti umani, i profilattici in lattice di gomma naturale, la valutazione biologica dei dispositivi medici, gli apparecchi di lavaggio e disinfezione, gli apparecchi elettromedicali e i connettori di piccole dimensioni per liquidi e gas in applicazioni sanitarie"
+   },
+   {
+    "celex": "32026M12258",
+    "date": "2026-11-09",
+    "title": "Decisione della Commissione, del 09/11/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12258 - VOLKSWAGEN / EUROPCAR) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
+   },
+   {
+    "celex": "32026M12574",
+    "date": "2026-11-09",
+    "title": "Decisione della Commissione, del 09/11/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12574 - CVC / ROCCAFORTE / ECO ERIDANIA) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
+   },
+   {
     "celex": "32026D2543",
     "date": "2026-11-09",
     "title": "Decisione (UE) 2026/2543 del Consiglio, del 9 novembre 2026, relativa alla posizione da adottare, a nome dell’Unione europea, in sede di Comitato misto SEE riguardo a una modifica dell’allegato II (Regolamentazioni tecniche, norme, prove e certificazioni) e del protocollo 37 (contenente l’elenco di cui all’articolo 101) dell’accordo SEE (Direttiva concernente il miele) (Testo rilevante ai fini del SEE)"
-   },
-   {
-    "celex": "32026D2533",
-    "date": "2026-11-09",
-    "title": "Decisione di esecuzione (UE) 2026/2533 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2024/2207 relativa ad alcune misure di emergenza contro il vaiolo degli ovini e dei caprini in Grecia [notificata con il numero C(2026)8074]"
    },
    {
     "celex": "32026D2549",
@@ -150,24 +235,14 @@
     "title": "Decisione di esecuzione (UE) 2026/2551 del Consiglio, del 9 novembre 2026, che autorizza la Slovenia ad applicare aliquote di accisa ridotte alla benzina senza piombo e al gasolio utilizzati come carburante, ai sensi dell’articolo 19 della direttiva 2003/96/CE"
    },
    {
-    "celex": "32026R2523",
+    "celex": "32026D2528",
     "date": "2026-11-09",
-    "title": "Regolamento di esecuzione (UE) 2026/2523 della Commissione, del 9 novembre 2026, che modifica gli allegati IV, V e XIV del regolamento di esecuzione (UE) 2021/404 per quanto riguarda le voci relative al Sud Africa, al Canada, al Regno Unito e agli Stati Uniti negli elenchi di paesi terzi, territori o loro zone da cui è autorizzato l’ingresso nell’Unione di partite di determinati animali e prodotti di origine animale"
+    "title": "Decisione di esecuzione (UE) 2026/2528 della Commissione, del 9 novembre 2026, che modifica l’allegato della decisione di esecuzione (UE) 2023/2447 relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri [notificata con il numero C(2026) 8073]"
    },
    {
     "celex": "32026D2480",
     "date": "2026-11-09",
     "title": "Decisione di esecuzione (UE) 2026/2480 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2022/1668 per quanto riguarda la norma armonizzata relativa alle apparecchiature con modo di protezione n"
-   },
-   {
-    "celex": "32026D2479",
-    "date": "2026-11-09",
-    "title": "Decisione di esecuzione (UE) 2026/2479 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1182 per quanto riguarda le norme armonizzate per la sterilizzazione dei prodotti sanitari, l'indagine clinica dei dispositivi medici per soggetti umani, i profilattici in lattice di gomma naturale, la valutazione biologica dei dispositivi medici, gli apparecchi di lavaggio e disinfezione, gli apparecchi elettromedicali e i connettori di piccole dimensioni per liquidi e gas in applicazioni sanitarie"
-   },
-   {
-    "celex": "32026D2481",
-    "date": "2026-11-09",
-    "title": "Decisione di esecuzione (UE) 2026/2481 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1195 per quanto riguarda la norma armonizzata per la sterilizzazione dei prodotti sanitari"
    },
    {
     "celex": "32026D2508",
@@ -185,99 +260,9 @@
     "title": "Decisione di esecuzione (UE) 2026/2478 della Commissione, del 9 novembre 2026, che respinge la domanda di protezione di un’indicazione geografica a norma dell’articolo 21, paragrafo 1, del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio, Kale Biberi (DOP) [notificata con il numero C(2026) 7838]"
    },
    {
-    "celex": "32026D2528",
+    "celex": "32026D2533",
     "date": "2026-11-09",
-    "title": "Decisione di esecuzione (UE) 2026/2528 della Commissione, del 9 novembre 2026, che modifica l’allegato della decisione di esecuzione (UE) 2023/2447 relativa a misure di emergenza in relazione a focolai di influenza aviaria ad alta patogenicità in alcuni Stati membri [notificata con il numero C(2026) 8073]"
-   },
-   {
-    "celex": "32026M12258",
-    "date": "2026-11-09",
-    "title": "Decisione della Commissione, del 09/11/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12258 - VOLKSWAGEN / EUROPCAR) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
-   },
-   {
-    "celex": "32026M12574",
-    "date": "2026-11-09",
-    "title": "Decisione della Commissione, del 09/11/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12574 - CVC / ROCCAFORTE / ECO ERIDANIA) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
-   },
-   {
-    "celex": "32026R2525",
-    "date": "2026-11-06",
-    "title": "Regolamento di esecuzione (UE) 2026/2525 della Commissione, del 6 novembre 2026, recante iscrizione dell’indicazione geografica Cicoria puntarelle molfettese (IGP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2524",
-    "date": "2026-11-06",
-    "title": "Regolamento di esecuzione (UE) 2026/2524 della Commissione, del 6 novembre 2026, recante iscrizione dell’indicazione geografica Fior di latte molisano (DOP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2529",
-    "date": "2026-11-06",
-    "title": "Regolamento di esecuzione (UE) 2026/2529 della Commissione, del 6 novembre 2026, recante iscrizione dell’indicazione geografica Mazzit / Mazzita (IGP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2476",
-    "date": "2026-11-06",
-    "title": "Regolamento di esecuzione (UE) 2026/2476 della Commissione, del 6 novembre 2026, che cancella la registrazione della denominazione di origine protetta Graves supérieures (DOP)"
-   },
-   {
-    "celex": "32026R2474",
-    "date": "2026-11-06",
-    "title": "Regolamento di esecuzione (UE) 2026/2474 della Commissione, del 6 novembre 2026, che rilascia un’autorizzazione dell’Unione per il biocida Product 3 conformemente al regolamento (UE) n. 528/2012 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026D2522",
-    "date": "2026-11-06",
-    "title": "Decisione di esecuzione (UE) 2026/2522 della Commissione, del 6 novembre 2026, a norma dell’articolo 11 del regolamento (UE) 2024/1351 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026M12298",
-    "date": "2026-11-06",
-    "title": "Decisione della Commissione, del 06/11/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12298 - SNOWHAWK / ARES / MACQUARIE / DATA REALTY GROUP / PRIME DATA CENTERS) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua inglese è il solo facente fede)"
-   },
-   {
-    "celex": "32026M12623",
-    "date": "2026-11-06",
-    "title": "Decisione della Commissione, del 06/11/2026 che dichiara la compatibilità con il mercato comune di una concentrazione (Caso n. COMP/M.12623 - ARDIAN / TECHNOLOGY & STRATEGY) in base al Regolamento (CE) n. 139/2004 del Consiglio (Il testo in lingua francese è il solo facente fede)"
-   },
-   {
-    "celex": "32026D2468",
-    "date": "2026-11-05",
-    "title": "Decisione di esecuzione (UE) 2026/2468 della Commissione, del 5 novembre 2026, che stabilisce le modalità di applicazione della direttiva (UE) 2024/2881 del Parlamento europeo e del Consiglio per quanto riguarda i dettagli tecnici della metodologia per determinare i contributi derivanti dalla risospensione del particolato a seguito della sabbiatura o salatura invernali delle strade, nonché le informazioni corrispondenti che gli Stati membri devono fornire"
-   },
-   {
-    "celex": "32026R2467",
-    "date": "2026-11-05",
-    "title": "Regolamento di esecuzione (UE) 2026/2467 della Commissione, del 5 novembre 2026, relativo alla compensazione finanziaria per i consumatori finali di combustibili e alle quote restituite per le emissioni non contemplate dal capo IV bis della direttiva 2003/87/CE del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2496",
-    "date": "2026-11-05",
-    "title": "Regolamento di esecuzione (UE) 2026/2496 della Commissione, del 5 novembre 2026, recante modifica dell'allegato I del regolamento di esecuzione (UE) 2023/594 che stabilisce misure speciali di controllo delle malattie per la peste suina africana"
-   },
-   {
-    "celex": "32026R2409",
-    "date": "2026-11-05",
-    "title": "Regolamento di esecuzione (UE) 2026/2409 della Commissione, del 5 novembre 2026, che dispone la registrazione delle importazioni di determinati polioli di polietere originari della Repubblica popolare cinese al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione"
-   },
-   {
-    "celex": "32026R2515",
-    "date": "2026-11-05",
-    "title": "Regolamento di esecuzione (UE) 2026/2515 della Commissione, del 5 novembre 2026, recante iscrizione dell’indicazione geografica Lipovská minerálna voda Salvator/Salvator (DOP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2514",
-    "date": "2026-11-05",
-    "title": "Regolamento di esecuzione (UE) 2026/2514 della Commissione, del 5 novembre 2026, recante iscrizione dell'indicazione geografica Korytnica/Korytnická (DOP) nel registro dell'Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2513",
-    "date": "2026-11-05",
-    "title": "Regolamento di esecuzione (UE) 2026/2513 della Commissione, del 5 novembre 2026, recante iscrizione dell'indicazione geografica Sulinka (DOP) nel registro dell'Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
-   },
-   {
-    "celex": "32026R2516",
-    "date": "2026-11-05",
-    "title": "Regolamento di esecuzione (UE) 2026/2516 della Commissione, del 5 novembre 2026, recante iscrizione dell’indicazione geografica Baldovská/Baldovská minerálna voda (DOP) nel registro dell’Unione delle indicazioni geografiche a norma del regolamento (UE) 2024/1143 del Parlamento europeo e del Consiglio"
+    "title": "Decisione di esecuzione (UE) 2026/2533 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2024/2207 relativa ad alcune misure di emergenza contro il vaiolo degli ovini e dei caprini in Grecia [notificata con il numero C(2026)8074]"
    }
   ],
   "GUUE, atti collegati agli atti di riferimento (SPARQL)": [
@@ -288,37 +273,13 @@
     "target": "32006R1907"
    },
    {
-    "celex": "32026R2474",
-    "date": "2026-11-06",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32012R0528"
-   },
-   {
     "celex": "32026R2501",
     "date": "2026-11-12",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
     "target": "32006R1907"
    },
    {
-    "celex": "52026XC05855",
-    "date": "2026-11-05",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32016R0426"
-   },
-   {
-    "celex": "32026R2502",
-    "date": "2026-11-12",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32012R0528"
-   },
-   {
     "celex": "32026R2504",
-    "date": "2026-11-12",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32012R0528"
-   },
-   {
-    "celex": "32026R2506",
     "date": "2026-11-12",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
     "target": "32012R0528"
@@ -330,22 +291,22 @@
     "target": "32012R0528"
    },
    {
-    "celex": "32011R1007R(08)",
-    "date": "2026-11-05",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
-    "target": "32011R1007"
-   },
-   {
-    "celex": "32024L2853R(03)",
-    "date": "2026-11-11",
-    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
-    "target": "32024L2853"
-   },
-   {
-    "celex": "32026R2485",
-    "date": "2026-11-10",
+    "celex": "32026R2502",
+    "date": "2026-11-12",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32024R0573"
+    "target": "32012R0528"
+   },
+   {
+    "celex": "32026R2526",
+    "date": "2026-11-13",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
+    "target": "32012R0528"
+   },
+   {
+    "celex": "32026R2506",
+    "date": "2026-11-12",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
+    "target": "32012R0528"
    },
    {
     "celex": "32026R2486",
@@ -366,36 +327,42 @@
     "target": "32024R1689"
    },
    {
-    "celex": "52026XC05948",
-    "date": "2026-11-06",
+    "celex": "32026R2485",
+    "date": "2026-11-10",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
-    "target": "32013R0952"
+    "target": "32024R0573"
    },
    {
     "celex": "52026XC06005",
     "date": "2026-11-12",
     "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
     "target": "32024R1689"
+   },
+   {
+    "celex": "32024L2853R(03)",
+    "date": "2026-11-11",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_corrects_resource_legal",
+    "target": "32024L2853"
+   },
+   {
+    "celex": "32026R2520",
+    "date": "2026-11-13",
+    "p": "http://publications.europa.eu/ontology/cdm#resource_legal_based_on_resource_legal",
+    "target": "32024R0573"
    }
   ],
   "GUUE, atti che citano o interpretano gli atti di riferimento (SPARQL)": [
+   {
+    "celex": "52026DC0617",
+    "date": "2026-11-13",
+    "atti": "32013R0952",
+    "titolo": "RELAZIONE DELLA COMMISSIONE AL PARLAMENTO EUROPEO E AL CONSIGLIO sulle autorizzazioni all'esportazione nel 2025 a norma del regolamento relativo al commercio di determinate merci che potrebbero essere utilizzate per la pena di morte, per la tortura o per altri trattamenti o pene crudeli, inumani o degradanti"
+   },
    {
     "celex": "52026XC05958",
     "date": "2026-11-13",
     "atti": "32013R0952",
     "titolo": "Avviso di apertura di un riesame in previsione della scadenza delle misure antidumping applicabili alle importazioni di glicole monoetilenico originario degli Stati Uniti d’America e del Regno dell’Arabia Saudita"
-   },
-   {
-    "celex": "32026R2501",
-    "date": "2026-11-12",
-    "atti": "32008R1272",
-    "titolo": "Regolamento (UE) 2026/2501 della Commissione, del 12 novembre 2026, recante modifica dell’allegato XVII del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH) per quanto riguarda il piombo contenuto in talune attrezzature da pesca"
-   },
-   {
-    "celex": "52026XC06005",
-    "date": "2026-11-12",
-    "atti": "32005L0029 32019R1020 32022R2065",
-    "titolo": "Comunicazione della Commissione — Orientamenti sull’attuazione degli obblighi di trasparenza per determinati sistemi di IA a norma dell’articolo 50 del regolamento (UE) 2024/1689 (regolamento sull’IA)"
    },
    {
     "celex": "32026D2505",
@@ -404,10 +371,46 @@
     "titolo": "Decisione di esecuzione (UE) 2026/2505 della Commissione, del 12 novembre 2026, recante rettifica della decisione di esecuzione (UE) 2026/1971 che modifica la decisione di esecuzione (UE) 2026/1279 per quanto riguarda le norme armonizzate per i guanti di protezione per parrucchieri, gli indumenti di protezione contro la pioggia e la protezione degli occhi e del viso per uso professionale elaborate a sostegno del regolamento (UE) 2016/425 del Parlamento europeo e del Consiglio"
    },
    {
+    "celex": "52026XC06005",
+    "date": "2026-11-12",
+    "atti": "32005L0029 32019R1020 32022R2065",
+    "titolo": "Comunicazione della Commissione — Orientamenti sull’attuazione degli obblighi di trasparenza per determinati sistemi di IA a norma dell’articolo 50 del regolamento (UE) 2024/1689 (regolamento sull’IA)"
+   },
+   {
+    "celex": "32026R2501",
+    "date": "2026-11-12",
+    "atti": "32008R1272",
+    "titolo": "Regolamento (UE) 2026/2501 della Commissione, del 12 novembre 2026, recante modifica dell’allegato XVII del regolamento (CE) n. 1907/2006 del Parlamento europeo e del Consiglio concernente la registrazione, la valutazione, l’autorizzazione e la restrizione delle sostanze chimiche (REACH) per quanto riguarda il piombo contenuto in talune attrezzature da pesca"
+   },
+   {
+    "celex": "52026PC1100",
+    "date": "2026-11-11",
+    "atti": "32008R0765 32017R1369 32019L0771 32022R2065 32023R0988 32024L0825 32024L2853 32024R1689",
+    "titolo": ""
+   },
+   {
+    "celex": "52026PC1110",
+    "date": "2026-11-11",
+    "atti": "32005L0029 32019L0771 32022R2065 32024R1689",
+    "titolo": ""
+   },
+   {
+    "celex": "52026PC1120",
+    "date": "2026-11-11",
+    "atti": "32019R1020 32022R2065 32023R0988 32024R1689",
+    "titolo": ""
+   },
+   {
     "celex": "52026PC0612",
     "date": "2026-11-10",
     "atti": "32013R0952",
     "titolo": "Proposta di REGOLAMENTO DEL CONSIGLIO che modifica il regolamento (UE) 2021/2278 recante sospensione dei dazi della tariffa doganale comune di cui all'articolo 56, paragrafo 2, lettera c), del regolamento (UE) n. 952/2013 del Parlamento europeo e del Consiglio per taluni prodotti agricoli e industriali"
+   },
+   {
+    "celex": "32026D2479",
+    "date": "2026-11-09",
+    "atti": "32017R0745",
+    "titolo": "Decisione di esecuzione (UE) 2026/2479 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1182 per quanto riguarda le norme armonizzate per la sterilizzazione dei prodotti sanitari, l'indagine clinica dei dispositivi medici per soggetti umani, i profilattici in lattice di gomma naturale, la valutazione biologica dei dispositivi medici, gli apparecchi di lavaggio e disinfezione, gli apparecchi elettromedicali e i connettori di piccole dimensioni per liquidi e gas in applicazioni sanitarie"
    },
    {
     "celex": "52026DC0596",
@@ -420,33 +423,73 @@
     "date": "2026-11-09",
     "atti": "32024R0573",
     "titolo": ""
-   },
-   {
-    "celex": "32026D2479",
-    "date": "2026-11-09",
-    "atti": "32017R0745",
-    "titolo": "Decisione di esecuzione (UE) 2026/2479 della Commissione, del 9 novembre 2026, che modifica la decisione di esecuzione (UE) 2021/1182 per quanto riguarda le norme armonizzate per la sterilizzazione dei prodotti sanitari, l'indagine clinica dei dispositivi medici per soggetti umani, i profilattici in lattice di gomma naturale, la valutazione biologica dei dispositivi medici, gli apparecchi di lavaggio e disinfezione, gli apparecchi elettromedicali e i connettori di piccole dimensioni per liquidi e gas in applicazioni sanitarie"
-   },
-   {
-    "celex": "52026XC05774",
-    "date": "2026-11-06",
-    "atti": "32013R0952",
-    "titolo": "Avviso di apertura di un riesame in previsione della scadenza delle misure antidumping applicabili alle importazioni di legno compensato di betulla originario della Russia"
-   },
-   {
-    "celex": "52026XC05783",
-    "date": "2026-11-06",
-    "atti": "32013R0952",
-    "titolo": "Avviso di apertura di un procedimento antidumping relativo alle importazioni di poliammide-6 originaria della Repubblica popolare cinese"
-   },
-   {
-    "celex": "32026R2409",
-    "date": "2026-11-05",
-    "atti": "32006R1907",
-    "titolo": "Regolamento di esecuzione (UE) 2026/2409 della Commissione, del 5 novembre 2026, che dispone la registrazione delle importazioni di determinati polioli di polietere originari della Repubblica popolare cinese al fine di consentire la riscossione di dazi antidumping sulle importazioni soggette a registrazione"
    }
   ],
   "Commissione, sala stampa": [
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:SPEECH/26/2461",
+    "data": "2026-11-16",
+    "titolo": "Video message by President von der Leyen at the Reykjavik Global Forum",
+    "tipo": "Speech",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2461"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:SPEECH/26/2453",
+    "data": "2026-11-16",
+    "titolo": "Opening remarks by Executive Vice-President Ribera on the Commission decision to approve UniCredit's acquisition of Commerzbank",
+    "tipo": "Speech",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2453"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2452",
+    "data": "2026-11-16",
+    "titolo": "Commission disburses another €1.71 billion to Ukraine for drones, ammunition and air defence systems ",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2452"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2451",
+    "data": "2026-11-16",
+    "titolo": "Ministers from EU, Black Sea, South Caucasus and Central Asia advance cooperation on cross-regional security and connectivity",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2451"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2448",
+    "data": "2026-11-16",
+    "titolo": "Commission partially greenlights Slovakia's eighth payment request for €548 million under NextGenerationEU",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2448"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2444",
+    "data": "2026-11-16",
+    "titolo": "Commission partially greenlights Romania's fifth   payment request for €2.67 billion under NextGenerationEU",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2444"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:SPEECH/26/2442",
+    "data": "2026-11-16",
+    "titolo": "Speech by President von der Leyen at the Enlargement Forum",
+    "tipo": "Speech",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2442"
+   },
+   {
+    "fonte": "Commissione, sala stampa",
+    "id": "pc:IP/26/2440",
+    "data": "2026-11-16",
+    "titolo": "Commission unconditionally approves UniCredit's acquisition of Commerzbank",
+    "tipo": "Press release",
+    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2440"
+   },
    {
     "fonte": "Commissione, sala stampa",
     "id": "pc:STATEMENT/26/2441",
@@ -782,70 +825,6 @@
     "titolo": "Commission disburses €4.36 billion to Ukraine under the €90 billion Ukraine Support Loan",
     "tipo": "Press release",
     "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2349"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:QANDA/26/2339",
-    "data": "2026-11-05",
-    "titolo": "Questions and answers on the Education and Skills package",
-    "tipo": "Questions and answers",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/qanda_26_2339"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2338",
-    "data": "2026-11-05",
-    "titolo": "Commission launches Education and Skills package to tackle declining basic skills, rapid digital change and teacher shortages",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2338"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:STATEMENT/26/2348",
-    "data": "2026-11-04",
-    "titolo": "Statement following meeting on prosperity talks today",
-    "tipo": "Statement",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/statement_26_2348"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2345",
-    "data": "2026-11-04",
-    "titolo": "€525 million investment set to drive new generation of European chip design companies",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2345"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:SPEECH/26/2344",
-    "data": "2026-11-04",
-    "titolo": "Remarks by High Representative/Vice-President Kallas and Commissioner Kos on the 2026 Enlargement Package",
-    "tipo": "Speech",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2344"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:SPEECH/26/2333",
-    "data": "2026-11-04",
-    "titolo": "Press remarks by Executive Vice-President Fitto and Commissioner Tzitzikostas on the EU Sustainable Tourism Strategy",
-    "tipo": "Speech",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2333"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:IP/26/2325",
-    "data": "2026-11-04",
-    "titolo": "2026 Enlargement Package shows that reform commitment delivers progress towards EU membership",
-    "tipo": "Press release",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/ip_26_2325"
-   },
-   {
-    "fonte": "Commissione, sala stampa",
-    "id": "pc:SPEECH/26/2329",
-    "data": "2026-11-04",
-    "titolo": "Remarks by Commissioners Šefčovič and Dombrovskis on the 2027 Commission work programme and 2026 Overview Report on Simplification, Implementation and Enforcement",
-    "tipo": "Speech",
-    "url": "https://ec.europa.eu/commission/presscorner/detail/it/speech_26_2329"
    }
   ],
   "Have Your Say, consultazioni aperte": [
@@ -909,7 +888,7 @@
     "data": "2026-11-04",
     "titolo": "European climate resilience and risk management law",
     "tipo": "PROP_REG Ares(2025)5580019",
-    "scadenza": "2027-01-09",
+    "scadenza": "2027-01-11",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14770_it"
    },
    {
@@ -1152,7 +1131,7 @@
     "data": "2026-10-15",
     "titolo": "European Critical Communication System",
     "tipo": "PROP_REG Ares(2025)1162810",
-    "scadenza": "2027-01-09",
+    "scadenza": "2027-01-11",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14532_it"
    },
    {
@@ -1161,7 +1140,7 @@
     "data": "2026-10-15",
     "titolo": "Creation of a European critical communication system",
     "tipo": "PROP_REG COM(2026)1020",
-    "scadenza": "2027-01-09",
+    "scadenza": "2027-01-11",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/19517_it"
    },
    {
@@ -1206,7 +1185,7 @@
     "data": "2026-10-09",
     "titolo": "Revision of the Standardisation Regulation",
     "tipo": "PROP_REG Ares(2025)576265",
-    "scadenza": "2027-01-09",
+    "scadenza": "2027-01-11",
     "url": "https://ec.europa.eu/info/law/better-regulation/have-your-say/initiatives/14511_it"
    },
    {
@@ -1294,11 +1273,83 @@
   "Consiglio UE, comunicati": [
    {
     "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/statement/",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/speech-by-president-antonio-costa-at-the-eu-enlargement-forum-2026/",
+    "data": "",
+    "titolo": "Speech by President António Costa at the EU Enlargement Forum 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/speech-by-president-antonio-costa-at-the-eu-enlargement-forum-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/media-advisory-foreign-affairs-council-defence-of-17-november-2026/",
+    "data": "",
+    "titolo": "Media advisory - Foreign Affairs Council (Defence) of 17 November 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/media-advisory-foreign-affairs-council-defence-of-17-november-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-eu-lists-113-individuals-and-entities-to-further-restrict-russia-s-ability-to-finance-its-war-of-aggression/",
+    "data": "",
+    "titolo": "Ukraine: EU lists 113 individuals and entities to further restrict Russia’s ability to finance its war of aggression",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-eu-lists-113-individuals-and-entities-to-further-restrict-russia-s-ability-to-finance-its-war-of-aggression/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/eu-global-human-rights-sanctions-regime-council-lists-four-haitian-entities-over-serious-human-rights-violations/",
+    "data": "",
+    "titolo": "EU Global Human Rights Sanctions Regime: Council lists four Haitian entities over serious human rights violations",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/eu-global-human-rights-sanctions-regime-council-lists-four-haitian-entities-over-serious-human-rights-violations/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/russia-s-fimi-and-malicious-cyber-activities-council-imposes-sanctions-on-30-individuals-and-two-entities/",
+    "data": "",
+    "titolo": "Russia’s FIMI and malicious cyber activities: Council imposes sanctions on 30 individuals and two entities",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/russia-s-fimi-and-malicious-cyber-activities-council-imposes-sanctions-on-30-individuals-and-two-entities/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/hamas-and-the-palestinian-islamic-jihad-eu-adds-one-entity-and-its-founder-to-the-sanctions-list/",
+    "data": "",
+    "titolo": "Hamas and the Palestinian Islamic Jihad: EU adds one entity and its founder to the sanctions list",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/hamas-and-the-palestinian-islamic-jihad-eu-adds-one-entity-and-its-founder-to-the-sanctions-list/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-facility-council-approves-largest-ever-payment-of-8-billion-to-kyiv/",
+    "data": "",
+    "titolo": "Ukraine Facility: Council approves largest-ever payment of €8 billion to Kyiv",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/ukraine-facility-council-approves-largest-ever-payment-of-8-billion-to-kyiv/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/press-briefing-education-youth-culture-and-sport-council-of-19-and-20-november-2026/",
+    "data": "",
+    "titolo": "Press briefing - Education, Youth, Culture and Sport Council of 19 and 20 November 2026",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/press-briefing-education-youth-culture-and-sport-council-of-19-and-20-november-2026/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/european-peace-facility-council-increases-support-for-maritime-security-in-the-gulf-of-guinea-to-31-million/",
+    "data": "",
+    "titolo": "European Peace Facility: Council increases support for maritime security in the Gulf of Guinea to €31 million",
+    "tipo": "feed",
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/16/european-peace-facility-council-increases-support-for-maritime-security-in-the-gulf-of-guinea-to-31-million/"
+   },
+   {
+    "fonte": "Consiglio UE, comunicati",
+    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/israelpalestine-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-humanitarian-developments-in-gaza/",
     "data": "",
     "titolo": "ISRAEL/PALESTINE: Statement by the High Representative on behalf of the European Union on the humanitarian developments in Gaza",
     "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/statement/"
+    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/14/israelpalestine-statement-by-the-high-representative-on-behalf-of-the-european-union-on-the-humanitarian-developments-in-gaza/"
    },
    {
     "fonte": "Consiglio UE, comunicati",
@@ -1379,469 +1430,413 @@
     "titolo": "Opening remarks by President António Costa at the meeting of the European Political Community in Dublin",
     "tipo": "feed",
     "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/12/opening-remarks-by-president-antonio-costa-at-the-meeting-of-the-european-political-community-in-dublin/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/",
-    "data": "",
-    "titolo": "Media advisory - Meeting of the European Political Community of 12 November 2026 and the Informal meeting of Heads of State or Government of 13 November 2026",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/media-advisory-meeting-of-the-european-political-community-of-12-november-2026-and-the-informal-meeting-of-heads-of-state-or-government-of-13-november-2026/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/press-briefing-ahead-of-the-foreign-affairs-council-and-the-foreign-affairs-defence-councils-of-16-and-17-november-2026/",
-    "data": "",
-    "titolo": "Press briefing ahead of the Foreign Affairs Council and the Foreign Affairs (Defence) Councils of 16 and 17 November 2026",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/press-briefing-ahead-of-the-foreign-affairs-council-and-the-foreign-affairs-defence-councils-of-16-and-17-november-2026/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/eu-budget-for-2027-council-and-parliament-reach-agreement/",
-    "data": "",
-    "titolo": "EU budget for 2027: Council and Parliament reach agreement",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/11/eu-budget-for-2027-council-and-parliament-reach-agreement/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/",
-    "data": "",
-    "titolo": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the proliferation and use of chemical weapons",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-proliferation-and-use-of-chemical-weapons/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-democratic-people-s-republic-of-korea/",
-    "data": "",
-    "titolo": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the Democratic People’s Republic of Korea",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-democratic-people-s-republic-of-korea/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-leadership-of-the-transnistrian-region-of-the-republic-of-moldova/",
-    "data": "",
-    "titolo": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against the leadership of the Transnistrian region of the Republic of Moldova",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-the-leadership-of-the-transnistrian-region-of-the-republic-of-moldova/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-isil-da-esh-and-al-qaeda-and-persons-groups-undertakings-and-entities-associated-with-them/",
-    "data": "",
-    "titolo": "Statement by the High Representative on behalf of the EU on the alignment of certain countries concerning restrictive measures against ISIL (Da’esh) and Al-Qaeda and persons, groups, undertakings and entities associated with them",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-by-the-high-representative-on-behalf-of-the-eu-on-the-alignment-of-certain-countries-concerning-restrictive-measures-against-isil-da-esh-and-al-qaeda-and-persons-groups-undertakings-and-entities-associated-with-them/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-on-today-s-meeting-in-abu-dhabi-between-the-eu-france-germany-italy-united-kingdom-ukraine-united-states-and-nato/",
-    "data": "",
-    "titolo": "Statement on today's meeting in Abu Dhabi between the EU, France, Germany, Italy, United Kingdom, Ukraine, United States and NATO",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/10/statement-on-today-s-meeting-in-abu-dhabi-between-the-eu-france-germany-italy-united-kingdom-ukraine-united-states-and-nato/"
-   },
-   {
-    "fonte": "Consiglio UE, comunicati",
-    "id": "cu:https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/",
-    "data": "",
-    "titolo": "Ukraine: Council extends EU Military Assistance Mission mandate for two years",
-    "tipo": "feed",
-    "url": "https://www.consilium.europa.eu/en/press/press-releases/2026/11/09/ukraine-council-extends-eu-military-assistance-mission-mandate-for-two-years/"
    }
   ],
   "Gazzetta Ufficiale, serie UE": [
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=5&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 14 settembre 2026, n. 2045",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=5&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 3 luglio 2026, n. 1560",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=5&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=5&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=34&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 14 settembre 2026, n. 2047",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=39&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 3 luglio 2026, n. 1563",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=34&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=39&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=38&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 14 settembre 2026, n. 2049",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=202&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2083",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=38&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=202&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=40&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 11 settembre 2026, n. 2094",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=215&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2084",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=40&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=215&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=122&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "DECISIONE 20 novembre 2025, n. 2060",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=222&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2085",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=122&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=222&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=163&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "DECISIONE PESC 10 settembre 2026, n. 2063",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=226&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2086",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=163&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=226&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=165&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "DECISIONE PESC 15 settembre 2026, n. 2103",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=231&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2087",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=165&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=231&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=167&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "RACCOMANDAZIONE 9 settembre 2026, n. 2069",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=235&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2088",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=167&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=235&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=177&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 10 luglio 2026, n. 2093",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=251&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2089",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=177&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=251&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=184&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 14 settembre 2026, n. 2046",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=255&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2090",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=184&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=255&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=297&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 9 settembre 2026, n. 2078",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=261&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2091",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=297&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=261&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=298&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "DECISIONE 14 settembre 2026, n. 2048",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=264&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2096",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=298&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=264&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=301&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "DECISIONE 2 giugno 2026, n. 1",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=268&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2097",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=301&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=268&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=306&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "DECISIONE 14 luglio 2026, n. 2065",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=350&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2098",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=306&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=350&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=308&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "ACCORDO",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=355&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 14 settembre 2026, n. 2105",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=308&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=355&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=332&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 13 luglio 2026, n. 2102",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=357&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2128",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=332&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=357&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=346&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2057",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=363&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2130",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=346&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=363&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=350&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2061",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=367&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2135",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=350&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=367&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=356&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2064",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=449&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2143",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=356&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=449&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=359&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2070",
+    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=451&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
+    "data": "Sun, 15 Nov 2026",
+    "titolo": "RETTIFICA 26 maggio 2026, n. 1149",
     "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=359&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=365&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2072",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=365&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=368&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2074",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=368&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=371&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2076",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=371&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=376&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2077",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=376&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=381&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2079",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=381&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=385&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 17 settembre 2026, n. 2104",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=385&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=388&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 14 settembre 2026, n. 2106",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=388&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=389&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 18 settembre 2026, n. 2133",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=389&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=410&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "DECISIONE 17 settembre 2026, n. 2059",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=410&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=412&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "DECISIONE 17 settembre 2026, n. 2109",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=412&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=416&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "REGOLAMENTO 16 settembre 2026, n. 2108",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=416&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=697&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "RETTIFICA 23 maggio 2025, n. 1176",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=697&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=698&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "RETTIFICA 7 maggio 2026, n. 1061",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=698&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=699&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "RETTIFICA 2 dicembre 2021, n. 2115",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=699&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=700&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "RETTIFICA 19 dicembre 2024, n. 40",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=700&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
-   },
-   {
-    "fonte": "Gazzetta Ufficiale, serie UE",
-    "id": "gu:http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=701&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false",
-    "data": "Wed, 11 Nov 2026",
-    "titolo": "RETTIFICA 14 settembre 2023, n. 1809",
-    "tipo": "feed",
-    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=701&dataPubblicazioneGazzetta=20261112&numeroGazzetta=89&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
+    "url": "http://www.gazzettaufficiale.it/do/gazzetta/unione_europea/3/pdfPaginato?numPagina=451&dataPubblicazioneGazzetta=20261116&numeroGazzetta=90&tipoSerie=S2&tipoSupplemento=GU&numeroSupplemento=0&edizione=0&elenco30giorni=false"
    }
   ],
   "Gazzetta Ufficiale, serie generale": [
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26G00224/SG",
-    "data": "2026-11-14",
-    "titolo": "DECRETO LEGISLATIVO 2 novembre 2026, n.208",
-    "descrizione": "Attuazione della direttiva (UE) 2024/2831 del Parlamento europeo e del Consiglio, del 23 ottobre 2024, relativa al miglioramento delle condizioni di lavoro nel lavoro mediante piattaforme digitali. (26G00224)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26G00224/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/SG",
+    "data": "2026-11-16",
+    "titolo": "LEGGE 13 novembre 2026, n.209",
+    "descrizione": "Conversione in legge, con modificazioni, del decreto-legge 17 settembre 2026, n. 162, recante disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonche' in materia fiscale. (26G00226)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26G00226/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05937/SG",
-    "data": "2026-11-14",
-    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - DECRETO 4 novembre 2026",
-    "descrizione": "Aggiornamento del registro nazionale delle varieta' e dei cloni di vite. (26A05937)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05937/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05929/SG",
+    "data": "2026-11-16",
+    "titolo": "DECRETO DEL PRESIDENTE DEL CONSIGLIO DEI MINISTRI 24 settembre 2026",
+    "descrizione": "Inserimento della Commissione indipendente per la verifica dell'equilibrio economico e finanziario delle societa' sportive professionistiche nella tabella A allegata alla legge 29 ottobre 1984, n. 720, istitutiva del sistema di tesoreria unica per gli enti ed organismi pubblici. (26A05929)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05929/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05935/SG",
-    "data": "2026-11-14",
-    "titolo": "MINISTERO DELLA SALUTE - DECRETO 30 luglio 2026",
-    "descrizione": "Aggiornamento della definizione di utilizzazioni minori di interesse agricolo ai sensi dell'articolo 3, punto 26, del regolamento (CE) n. 1107/2009. (26A05935)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05935/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05930/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 5 ottobre 2026",
+    "descrizione": "Cofinanziamento nazionale dell'aiuto supplementare per le misure adottate in applicazione degli articoli 1 e 2 del regolamento di esecuzione (UE) 2026/1894 della Commissione, del 27 luglio 2026, ai sensi della legge 16 aprile 1987, n. 183. (Decreto n. 15/2026). (26A05930)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05930/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05936/SG",
-    "data": "2026-11-14",
-    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO PER L'ATTUAZIONE DEGLI INTERVENTI PUBBLICI NELL'AREA DEI CAMPI FLEGREI - ORDINANZA 2 novembre 2026",
-    "descrizione": "Disposizioni attuative per la realizzazione dell'intervento Piano intermodale dell'area Flegrea. Interventi connessi al Piano di allontanamento in caso di emergenza vulcanica - 3° stralcio funzionale - Opere di completamento connesse alla realizzazione della nuova Darsena per traghetti del porto di Pozzuoli - CUP B84C23000810001. (Ordinanza n. 30/2026). (26A05936)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05936/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06010/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - DECRETO 11 novembre 2026",
+    "descrizione": "Emissione delle operazioni di sottoscrizione dei buoni ordinari del Tesoro a 364 giorni, prima e seconda tranche. (26A06010)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06010/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05908/SG",
-    "data": "2026-11-14",
-    "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026",
-    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di anifrolumab, «Saphnelo». (Determina n. 1545/2026). (26A05908)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05908/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06006/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DELLA GIUSTIZIA - DECRETO 5 novembre 2026",
+    "descrizione": "Sostituzione del decreto 22 settembre 2016, concernente condizioni essenziali e massimali minimi delle polizze assicurative a copertura della responsabilita' civile e degli infortuni derivanti dall'esercizio della professione di avvocato. (26A06006)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06006/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05909/SG",
-    "data": "2026-11-14",
-    "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026",
-    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di darunavir/cobicistat, «Rezolsta». (Determina n. 1546/2026). (26A05909)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05909/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05942/SG",
+    "data": "2026-11-16",
+    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO RICOSTRUZIONE SISMA 2016 - ORDINANZA 24 settembre 2026",
+    "descrizione": "Modifiche ed integrazioni all'ordinanza speciale n. 31 del 31 dicembre 2021, recante «Programma straordinario di ricostruzione e definizione delle modalita' di attuazione degli interventi finalizzati al recupero delle strutture scolastiche dei comuni delle Regioni Abruzzo, Lazio, Marche e Umbria». (Ordinanza speciale n. 177). (26A05942)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05942/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05910/SG",
-    "data": "2026-11-14",
-    "titolo": "AGENZIA ITALIANA DEL FARMACO - DETERMINA 4 novembre 2026",
-    "descrizione": "Classificazione, ai sensi dell'articolo 12, comma 5, della legge 8 novembre 2012, n. 189, del medicinale per uso umano, a base di berotralstat, «Orladeyo». (Determina n. 1547/2026). (26A05910)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05910/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05943/SG",
+    "data": "2026-11-16",
+    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO RICOSTRUZIONE SISMA 2016 - ORDINANZA 24 settembre 2026",
+    "descrizione": "Modifiche ed integrazioni all'ordinanza speciale n. 7 del 6 maggio 2021, recante «Interventi di ricostruzione del patrimonio edilizio ATER Teramo». (Ordinanza speciale n. 178). (26A05943)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05943/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05938/SG",
-    "data": "2026-11-14",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05944/SG",
+    "data": "2026-11-16",
+    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - COMMISSARIO STRAORDINARIO RICOSTRUZIONE SISMA 2016 - ORDINANZA 24 settembre 2026",
+    "descrizione": "Modifiche ed integrazioni all'ordinanza speciale n. 41 del 30 dicembre 2022, recante «Interventi preordinati alla ricostruzione del Comune di Pioraco - Quartiere La Madonnetta». (Ordinanza speciale n. 179). (26A05944)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05944/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05931/SG",
+    "data": "2026-11-16",
+    "titolo": "COMMISSIONE NAZIONALE PER LE SOCIETA' E LA BORSA - DELIBERA 4 novembre 2026",
+    "descrizione": "Modifiche ai regolamenti in materia di emittenti, mercati e intermediari. (Delibera n. 24195). (26A05931)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05931/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06055/SG",
+    "data": "2026-11-16",
+    "titolo": "TESTO COORDINATO DEL DECRETO-LEGGE 17 settembre 2026, n.162",
+    "descrizione": "Testo del decreto-legge 17 settembre 2026, n. 162 (in Gazzetta Ufficiale - Serie generale - n. 216 del 17 settembre 2026), coordinato con la legge di conversione 13 novembre 2026, n. 209 (in questa stessa Gazzetta Ufficiale alla pag. 1), recante: «Disposizioni urgenti per il sostegno economico e il contenimento degli effetti derivanti dal perdurante aumento del costo dei carburanti, nonche' in mat",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A06055/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05913/SG",
+    "data": "2026-11-16",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale omeopatico per uso umano «Oscillococcinum». (26A05938)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05938/SG"
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di liraglutide, «Rondit» (26A05913)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05913/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05939/SG",
-    "data": "2026-11-14",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05914/SG",
+    "data": "2026-11-16",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di candesartan, «Candesartan Sandoz». (26A05939)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05939/SG"
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di mesalazina, «Azzavix» (26A05914)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05914/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05940/SG",
-    "data": "2026-11-14",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05915/SG",
+    "data": "2026-11-16",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di minoxidil, «Trefostil». (26A05940)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05940/SG"
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di eribulina, «Eribulina Hikma» (26A05915)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05915/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05941/SG",
-    "data": "2026-11-14",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05946/SG",
+    "data": "2026-11-16",
     "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
-    "descrizione": "Autorizzazione all'importazione parallela del medicinale per uso umano «Verzenios» (26A05941)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A05941/SG"
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di xilometazolina cloridrato, «Vivin Naso Chiuso». (26A05946)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05946/SG"
    },
    {
     "fonte": "Gazzetta Ufficiale, serie generale",
-    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A06053/SG",
-    "data": "2026-11-14",
-    "titolo": "CORTE SUPREMA DI CASSAZIONE - COMUNICATO",
-    "descrizione": "Annuncio di una proposta di legge di iniziativa popolare (26A06053)",
-    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/14/26A06053/SG"
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05947/SG",
+    "data": "2026-11-16",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Autorizzazione all'immissione in commercio del medicinale per uso umano, a base di liraglutide, «Liramed» (26A05947)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05947/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05969/SG",
+    "data": "2026-11-16",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Modifica dell'autorizzazione all'immissione in commercio del medicinale per uso umano, a base di zolpidem tartrato, «Belirem». (26A05969)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05969/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05982/SG",
+    "data": "2026-11-16",
+    "titolo": "AGENZIA ITALIANA DEL FARMACO - COMUNICATO",
+    "descrizione": "Avviso di pubblicazione di provvedimenti di classificazione e rimborsabilita', ed atti correlati, di specialita' medicinali sul portale «TrovaNormeFarmaco». (26A05982)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05982/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05983/SG",
+    "data": "2026-11-16",
+    "titolo": "AGENZIA PER L'ITALIA DIGITALE - COMUNICATO",
+    "descrizione": "Adozione delle linee guida per l'adozione di intelligenza artificiale nella pubblica amministrazione (26A05983)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05983/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05970/SG",
+    "data": "2026-11-16",
+    "titolo": "CAMERA DI COMMERCIO INDUSTRIA ARTIGIANATO E AGRICOLTURA DEL GRAN SASSO D'ITALIA - COMUNICATO",
+    "descrizione": "Provvedimento concernente i marchi di identificazione dei metalli preziosi (26A05970)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05970/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05925/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DELL'AGRICOLTURA, DELLA SOVRANITA' ALIMENTARE E DELLE FORESTE - COMUNICATO",
+    "descrizione": "Domanda di modifica del disciplinare di produzione della indicazione geografica protetta «Pesca di Verona» (26A05925)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05925/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05948/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 19 ottobre 2026 (26A05948)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05948/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05949/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 20 ottobre 2026 (26A05949)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05949/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05950/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 21 ottobre 2026 (26A05950)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05950/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05951/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 22 ottobre 2026 (26A05951)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05951/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05952/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DELL'ECONOMIA E DELLE FINANZE - COMUNICATO",
+    "descrizione": "Cambi di riferimento rilevati a titolo indicativo del giorno 23 ottobre 2026 (26A05952)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05952/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05945/SG",
+    "data": "2026-11-16",
+    "titolo": "MINISTERO DEL LAVORO E DELLE POLITICHE SOCIALI - COMUNICATO",
+    "descrizione": "Proroga fino al 5 febbraio 2027, dell'incarico del Commissario ad acta dell'Ente nazionale di previdenza e assistenza della professione infermieristica, conferito con decreto 5 novembre 2025 e gia' prorogato di sei mesi con decreto 15 maggio 2026. (26A05945)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05945/SG"
+   },
+   {
+    "fonte": "Gazzetta Ufficiale, serie generale",
+    "id": "gusg:http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05932/SG",
+    "data": "2026-11-16",
+    "titolo": "PRESIDENZA DEL CONSIGLIO DEI MINISTRI - DIPARTIMENTO PER LA TRASFORMAZIONE DIGITALE - COMUNICATO",
+    "descrizione": "Adozione delle specifiche tecniche del Sistema IT-Wallet durante la sperimentazione (26A05932)",
+    "url": "http://www.gazzettaufficiale.it/eli/id/2026/11/16/26A05932/SG"
    }
   ],
   "Governo": [
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/visita-al-comando-unit-forestali-ambientali-e-agroalimentari-dellarma-dei-carabinieri-cufaa",
+    "data": "2026-11-16",
+    "titolo": "Visita al Comando Unità Forestali, Ambientali e Agroalimentari dell&#039;Arma dei Carabinieri (CUFAA)",
+    "descrizione": "Il Presidente del Consiglio, Giorgia Meloni, a Napoli, ha visitato il Comando Unità Forestali, Ambientali e Agroalimentari dell'Arma dei Carabinieri (CUFAA).",
+    "url": "https://www.governo.it/it/articolo/visita-al-comando-unit-forestali-ambientali-e-agroalimentari-dellarma-dei-carabinieri-cufaa"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/giornata-europea-memoria-delle-vittime-degli-incidenti-sul-lavoro-dichiarazione-del",
+    "data": "2026-11-16",
+    "titolo": "Giornata europea in memoria delle vittime degli incidenti sul lavoro, dichiarazione del Presidente Meloni",
+    "descrizione": "Con l’adozione formale da parte del Consiglio dell'Unione Europea, l'8 agosto diventa oggi la “Giornata europea in memoria delle vittime degli incidenti sul lavoro e per la tutela e la dignità dei lavoratori”. È la data della tragedia di Marcinelle, dove nel 1956 morirono 262 minatori di diverse nazionalità, 136 dei quali italiani. Da venticinque anni, grazie all’indimenticato Ministro Tremaglia, ",
+    "url": "https://www.governo.it/it/articolo/giornata-europea-memoria-delle-vittime-degli-incidenti-sul-lavoro-dichiarazione-del"
+   },
+   {
+    "fonte": "Governo",
+    "id": "gov:https://www.governo.it/it/articolo/giornata-mondiale-e-nazionale-memoria-delle-vittime-della-strada-dichiarazione-del",
+    "data": "2026-11-15",
+    "titolo": "Giornata mondiale e nazionale in memoria delle vittime della strada, dichiarazione del Presidente Meloni",
+    "descrizione": "Onorare il ricordo delle vittime, essere al fianco dei loro cari e delle loro famiglie, rinnovare l’impegno per impedire che altre vite possano essere spezzate sulle nostre strade. Questo è il messaggio che ribadiamo oggi, in occasione della Giornata mondiale e nazionale in memoria delle vittime della strada. La sicurezza stradale è una priorità e si fonda sull’educazione, sulla formazione e sulla",
+    "url": "https://www.governo.it/it/articolo/giornata-mondiale-e-nazionale-memoria-delle-vittime-della-strada-dichiarazione-del"
+   },
    {
     "fonte": "Governo",
     "id": "gov:https://www.governo.it/it/articolo/incontro-con-i-leader-delle-forze-di-opposizione-sugli-allarmi-bomba-nelle-scuole/33119",
@@ -1897,33 +1892,49 @@
     "titolo": "Riunione della Coalizione europea contro le droghe",
     "descrizione": "A margine del Vertice della Comunità politica europea di Dublino, il Presidente del Consiglio, Giorgia Meloni, e il Presidente della Repubblica francese, Emmanuel Macron, hanno presieduto una nuova riunione dei leader della Coalizione europea contro le droghe (ECAD), iniziativa promossa congiuntamente da Italia e Francia.",
     "url": "https://www.governo.it/it/articolo/riunione-della-coalizione-europea-contro-le-droghe/33102"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/riunione-del-comitato-interministeriale-la-sicurezza-della-repubblica/33098",
-    "data": "2026-11-12",
-    "titolo": "Riunione del Comitato interministeriale per la sicurezza della Repubblica",
-    "descrizione": "Si è riunito questo pomeriggio, a Palazzo Chigi, il Comitato interministeriale per la sicurezza della Repubblica (CISR) in sede tecnica, alla presenza del Sottosegretario alla Presidenza del Consiglio e Autorità delegata per la sicurezza della Repubblica, Alfredo Mantovano, del Ministro dell’interno Matteo Piantedosi, del Ministro dell’istruzione e del merito Giuseppe Valditara e dei componenti te",
-    "url": "https://www.governo.it/it/articolo/riunione-del-comitato-interministeriale-la-sicurezza-della-repubblica/33098"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/incontro-con-il-primo-ministro-del-regno-unito-burnham/33097",
-    "data": "2026-11-12",
-    "titolo": "Incontro con il Primo Ministro del Regno Unito Burnham",
-    "descrizione": "A margine del Vertice della Comunità politica europea di Dublino, il Presidente del Consiglio, Giorgia Meloni, ha incontrato il Primo Ministro del Regno Unito, Andy Burnham. Il colloquio ha consentito di confermare la solidità delle relazioni bilaterali e la volontà condivisa di rafforzare ulteriormente la cooperazione tra Italia e Regno Unito, in particolare sui temi della sicurezza e della difes",
-    "url": "https://www.governo.it/it/articolo/incontro-con-il-primo-ministro-del-regno-unito-burnham/33097"
-   },
-   {
-    "fonte": "Governo",
-    "id": "gov:https://www.governo.it/it/articolo/lavoro-la-dichiarazione-del-presidente-meloni-sullintesa-raggiunta-tra-le-parti-sociali",
-    "data": "2026-11-12",
-    "titolo": "Lavoro, la dichiarazione del Presidente Meloni sull&#039;intesa raggiunta tra le parti sociali",
-    "descrizione": "L’intesa raggiunta questa mattina tra le parti sociali sulla qualità del lavoro e sulla rappresentanza segna un traguardo storico per innovare le relazioni sindacali e industriali in Italia. È un passo decisivo, per rafforzare le retribuzioni dei lavoratori e per rendere il nostro sistema economico e produttivo più competitivo e capace di affrontare le complesse sfide di questo tempo. Siamo orgogl",
-    "url": "https://www.governo.it/it/articolo/lavoro-la-dichiarazione-del-presidente-meloni-sullintesa-raggiunta-tra-le-parti-sociali"
    }
   ],
   "Commissione, notizie": [
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en",
+    "data": "2026-11-16",
+    "titolo": "Translating Europe Forum 2026: Language professionals matter!",
+    "descrizione": "Discover the key takeaways and highlights from #2026TEF.",
+    "url": "https://translation.ec.europa.eu/news-and-events/news/translating-europe-forum-2026-language-professionals-matter-2026-11-16_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en",
+    "data": "2026-11-16",
+    "titolo": "Commission publishes technical guidance to support implementation of the Digital Product Passport Registry",
+    "descrizione": "A complete set of technical documentation is now available to help organisations prepare their systems for the EU Digital Product Passport (DPP) Registry.",
+    "url": "https://single-market-economy.ec.europa.eu/news/digital-product-passport-registry-technical-guidance-available-2026-11-16_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en",
+    "data": "2026-11-16",
+    "titolo": "Electricity Coordination Group considers EU electricity market prepared for the winter",
+    "descrizione": "The EU electricity market is suitably prepared for the winter, but it is necessary to continue monitoring the market closely, according to discussions between the European Commission, national experts and key stakeholders in the Electricity Coordination Group (ECG) meeting that took place yesterday.",
+    "url": "https://energy.ec.europa.eu/news/electricity-coordination-group-considers-eu-electricity-market-prepared-winter-2026-11-16_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en",
+    "data": "2026-11-16",
+    "titolo": "Commission unconditionally approves UniCredit's acquisition of Commerzbank",
+    "descrizione": "The European Commission has unconditionally approved, under the EU Merger Regulation, the proposed acquisition by UniCredit of Commerzbank. The Commission concluded that the transaction would raise no competition concerns in the European Economic Area (‘EEA').",
+    "url": "https://competition-policy.ec.europa.eu/about/news/commission-unconditionally-approves-unicredits-acquisition-commerzbank-2026-11-16_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en",
+    "data": "2026-11-16",
+    "titolo": "Joint press statement by Michael McGrath, Commissioner for Democracy, Justice, the Rule of Law and Consumer Protection and Immaculate Kassait, Data Commissioner of Kenya",
+    "descrizione": "The EU and Kenya advance towards a landmark mutual data adequacy arrangement, paving the way for safe data flows, stronger digital trade, research cooperation and investment opportunities - the first such EU-Africa partnership.",
+    "url": "/news-and-media/news/joint-press-statement-michael-mcgrath-commissioner-democracy-justice-rule-law-and-consumer-2026-11-16_en"
+   },
    {
     "fonte": "Commissione, notizie",
     "id": "ecn:https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en",
@@ -1931,46 +1942,6 @@
     "titolo": "Ten citizen-led energy communities win the first EU Prize for Governance Innovations in Energy Communities",
     "descrizione": "Today, the European Commission awarded the first Prize for Governance Innovations in Energy Communities. The prize recognises renewable and citizen energy communities that stand out for how they make decisions, share benefits and work with local authorities and businesses.",
     "url": "https://energy.ec.europa.eu/news/ten-citizen-led-energy-communities-win-first-eu-prize-governance-innovations-energy-communities-2026-11-13_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
-    "data": "2026-11-13",
-    "titolo": "At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean",
-    "descrizione": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the&nbsp;Pact for the Mediterranean.&nbsp;They are part of the EU’s commitment to work with international partners to accelerate global climate action and deliver on the goals of...",
-    "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
-    "data": "2026-11-13",
-    "titolo": "Commission launches first global alliance on climate and health research funding at COP31",
-    "descrizione": "Research and innovation news alert: The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.",
-    "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en",
-    "data": "2026-11-13",
-    "titolo": "2.3 million tonnes of textile waste generated in 2024",
-    "descrizione": "In 2024, 2.3 million tonnes of textile waste were generated in the EU. Household disposal accounted for over half of this amount. During the same year, 1.4 million tonnes of textile waste were treated, corresponding to 63% of all textile waste generated that year.",
-    "url": "https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2",
-    "data": "2026-11-13",
-    "titolo": "Value of agriculture output hits record high in 2025",
-    "descrizione": "In 2025, the value of EU agricultural output reached a record €558.7 billion in basic prices, up 4.8% from €532.9 billion in 2024.",
-    "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en",
-    "data": "2026-11-13",
-    "titolo": "Announcement of next auction (EU-Bills) on 18-11-2026",
-    "descrizione": "Auction announcement EU-Bills.",
-    "url": "/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en"
    },
    {
     "fonte": "Commissione, notizie",
@@ -1982,22 +1953,6 @@
    },
    {
     "fonte": "Commissione, notizie",
-    "id": "ecn:https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en",
-    "data": "2026-11-13",
-    "titolo": "President von der Leyen and Commissioner Kos to host second EU Enlargement Forum",
-    "descrizione": "On Monday, President of European Commission, Ursula von der Leyen, together with Commissioner for Enlargement Marta Kos will host in Brussels the second EU Enlargement Forum, entitled 'Wider Europe - Stronger Europe'.",
-    "url": "https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en",
-    "data": "2026-11-13",
-    "titolo": "Paris Peace Forum 2026: Peace Mediation Built on Endurance and Empathy",
-    "descrizione": "On 10–11 November, the European Commission’s Service for Foreign Policy Instruments (FPI) participated in the ninth edition of the Paris Peace Forum, placing peace mediation at the heart of its participation.",
-    "url": "https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
     "id": "ecn:https://environment.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-13_en",
     "data": "2026-11-13",
     "titolo": "Commission restricts lead in fishing weights and lures to protect people and the environment",
@@ -2006,19 +1961,11 @@
    },
    {
     "fonte": "Commissione, notizie",
-    "id": "ecn:https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+    "id": "ecn:https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en",
     "data": "2026-11-13",
-    "titolo": "EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment",
-    "descrizione": "The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.",
-    "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en",
-    "data": "2026-11-13",
-    "titolo": "Learning from Ukraine: Resilience by Design",
-    "descrizione": "The Ukrainian Cluster Alliance (UCA) published a brochure on Resilience by Design and the role of clusters in strengthening it. The brochure presents UA Resilience as a shared ecosystem capability: connecting industrial capacity, effective institutions, security, people and skills, and European coop",
-    "url": "https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en"
+    "titolo": "President von der Leyen and Commissioner Kos to host second EU Enlargement Forum",
+    "descrizione": "On Monday, President of European Commission, Ursula von der Leyen, together with Commissioner for Enlargement Marta Kos will host in Brussels the second EU Enlargement Forum, entitled 'Wider Europe - Stronger Europe'.",
+    "url": "https://enlargement.ec.europa.eu/news/president-von-der-leyen-and-commissioner-kos-host-second-eu-enlargement-forum-2026-11-13_en"
    },
    {
     "fonte": "Commissione, notizie",
@@ -2038,91 +1985,107 @@
    },
    {
     "fonte": "Commissione, notizie",
+    "id": "ecn:https://competition-policy.ec.europa.eu/about/news/commission-approves-eur286-million-german-state-aid-port-hamburg-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "Commission approves €286 million German State aid to port of Hamburg",
+    "descrizione": "The European Commission has approved, under EU State aid rules, two €143 million German measures to support infrastructure works in the port of Hamburg. The measures concern two distinct infrastructure projects, one at the Salzgitter quay and one at the Steinwerder quay.",
+    "url": "https://competition-policy.ec.europa.eu/about/news/commission-approves-eur286-million-german-state-aid-port-hamburg-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "2.3 million tonnes of textile waste generated in 2024",
+    "descrizione": "In 2024, 2.3 million tonnes of textile waste were generated in the EU. Household disposal accounted for over half of this amount. During the same year, 1.4 million tonnes of textile waste were treated, corresponding to 63% of all textile waste generated that year.",
+    "url": "https://environment.ec.europa.eu/news/23-million-tonnes-textile-waste-generated-2024-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2",
+    "data": "2026-11-13",
+    "titolo": "Value of agriculture output hits record high in 2025",
+    "descrizione": "In 2025, the value of EU agricultural output reached a record €558.7 billion in basic prices, up 4.8% from €532.9 billion in 2024.",
+    "url": "https://ec.europa.eu/eurostat/web/products-eurostat-news/w/ddn-20261111-2"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "At COP31, the Commission launches climate-related actions under the Pact for the Mediterranean",
+    "descrizione": "At the COP31 UN Climate Change Conference in Antalya, Türkiye, the Commission today presented the climate-related actions under the&nbsp;Pact for the Mediterranean.&nbsp;They are part of the EU’s commitment to work with international partners to accelerate global climate action and deliver on the goals of...",
+    "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/cop31-commission-launches-climate-related-actions-under-pact-mediterranean-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "Commission launches first global alliance on climate and health research funding at COP31",
+    "descrizione": "Research and innovation news alert: The European Commission has launched the search for the next President of the European Research Council (ERC), inviting nominations for a scientific leader to champion frontier research and represent European science on the world stage.",
+    "url": "https://research-and-innovation.ec.europa.eu/news/all-research-and-innovation-news/commission-launches-first-global-alliance-climate-and-health-research-funding-cop31-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "Announcement of next auction (EU-Bills) on 18-11-2026",
+    "descrizione": "Auction announcement EU-Bills.",
+    "url": "/news-and-media/news/announcement-next-auction-eu-bills-18-11-2026-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "Paris Peace Forum 2026: Peace Mediation Built on Endurance and Empathy",
+    "descrizione": "On 10–11 November, the European Commission’s Service for Foreign Policy Instruments (FPI) participated in the ninth edition of the Paris Peace Forum, placing peace mediation at the heart of its participation.",
+    "url": "https://fpi.ec.europa.eu/news-and-events/news/paris-peace-forum-2026-peace-mediation-built-endurance-and-empathy-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://competition-policy.ec.europa.eu/about/news/commission-sends-supplementary-statement-objections-ppc-over-predatory-pricing-greek-wholesale-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "Commission sends Supplementary Statement of Objections to PPC over predatory pricing in the Greek wholesale electricity market",
+    "descrizione": "The European Commission has sent a Supplementary Statement of Objections to the Greek electricity provider Public Power Corporation S.A. ('PPC').",
+    "url": "https://competition-policy.ec.europa.eu/about/news/commission-sends-supplementary-statement-objections-ppc-over-predatory-pricing-greek-wholesale-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://climate.ec.europa.eu/news-other-reads/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment",
+    "descrizione": "The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.",
+    "url": "https://climate.ec.europa.eu/news-other-reads/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "EU and GGGI sign €10 million contribution agreement to mobilise up to €1 billion in climate-aligned investment",
+    "descrizione": "The European Union and the Global Green Growth Institute today signed a €10 million contribution agreement for the Global Gateway Climate Investment Facility designed to help partner countries translate climate commitments into investment-ready projects and mobilise public and private finance.",
+    "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/eu-and-gggi-sign-eur10-million-contribution-agreement-mobilise-eur1-billion-climate-aligned-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "Learning from Ukraine: Resilience by Design",
+    "descrizione": "The Ukrainian Cluster Alliance (UCA) published a brochure on Resilience by Design and the role of clusters in strengthening it. The brochure presents UA Resilience as a shared ecosystem capability: connecting industrial capacity, effective institutions, security, people and skills, and European coop",
+    "url": "https://defence-industry-space.ec.europa.eu/learning-ukraine-resilience-design-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en",
+    "data": "2026-11-13",
+    "titolo": "Oil Coordination Group confirms continued supply stability across the EU",
+    "descrizione": "Experts from the Commission, EU countries, the International Energy Agency (IEA), the Energy Community and NATO met again today in the Oil Coordination Group to take stock, together with industry representatives, of the current oil market situation.",
+    "url": "https://energy.ec.europa.eu/news/oil-coordination-group-confirms-continued-supply-stability-across-eu-2026-11-13_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
     "id": "ecn:https://defence-industry-space.ec.europa.eu/advanced-sensors-next-generation-communications-how-european-defence-fund-helps-european-defence-2026-11-13_en",
     "data": "2026-11-13",
     "titolo": "From advanced sensors to Next-Generation Communications: How the European Defence Fund helps the European defence industry develop critical technologies",
     "descrizione": "The defence landscape is constantly evolving and requires constant innovation. New technologies are mandatory to keep the armed forces of the EU member states always ahead.&nbsp;&nbsp;",
     "url": "https://defence-industry-space.ec.europa.eu/advanced-sensors-next-generation-communications-how-european-defence-fund-helps-european-defence-2026-11-13_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://finance.ec.europa.eu/news/commission-seeks-feedback-limited-assurance-standards-sustainability-reporting-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "Commission seeks feedback on limited assurance standards for sustainability reporting",
-    "descrizione": "The consultation invites feedback on&nbsp;the&nbsp;Committee of European Auditing Oversight Bodies’&nbsp;(CEAOB) technical advice, as well as on their proposed adjustments to&nbsp;the&nbsp;international&nbsp;standard.",
-    "url": "https://finance.ec.europa.eu/news/commission-seeks-feedback-limited-assurance-standards-sustainability-reporting-2026-11-12_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation",
-    "descrizione": "The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').",
-    "url": "https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://blue-economy-observatory.ec.europa.eu/news/search-africas-most-promising-blue-economy-businesses-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "Search is on for Africa’s most promising blue economy businesses",
-    "descrizione": "The call for pitchers for BlueInvest Africa 2027 has started! African entrepreneurs who are developing innovative and sustainable solutions for the blue economy are invited to apply. The call remains open until 31 December 2026.",
-    "url": "https://blue-economy-observatory.ec.europa.eu/news/search-africas-most-promising-blue-economy-businesses-2026-11-12_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://climate.ec.europa.eu/news-other-reads/news/speech-president-von-der-leyen-united-nations-climate-change-conference-cop31-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "Speech by President von der Leyen at the United Nations Climate Change Conference (COP31)",
-    "descrizione": "Speech by President von der Leyen at the United Nations Climate Change Conference (COP31)",
-    "url": "https://climate.ec.europa.eu/news-other-reads/news/speech-president-von-der-leyen-united-nations-climate-change-conference-cop31-2026-11-12_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://international-partnerships.ec.europa.eu/news-and-events/news/young-leaders-help-shape-future-eu-international-partnerships-youth-policy-dialogue-commissioner-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "Young leaders help shape the future of EU international partnerships at Youth Policy Dialogue with Commissioner Síkela",
-    "descrizione": "Today in Brussels, European Commissioner for International Partnerships Jozef Síkela met with 29 young leaders from around the world for the second Youth Policy Dialogue on International Partnerships.",
-    "url": "https://international-partnerships.ec.europa.eu/news-and-events/news/young-leaders-help-shape-future-eu-international-partnerships-youth-policy-dialogue-commissioner-2026-11-12_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://blue-economy-observatory.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "Agreement reached on 2027 fishing opportunities for the Baltic Sea",
-    "descrizione": "The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the&nbsp;Commission proposal made in August this year.",
-    "url": "https://blue-economy-observatory.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-11-12_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/register-joint-pact-skills-eafa-webinar-cross-border-labour-mobility-and-skills-portability-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "Register for joint Pact for Skills–EAfA webinar on cross-border labour mobility and skills portability",
-    "descrizione": "The Pact for Skills and the European Alliance for Apprenticeships (EAfA) are hosting a Knowledge Exchange Event on cooperation in EU cross-border regions. The webinar will take place on 17 November 2026 from 11:00–12:30 CET",
-    "url": "https://employment-social-affairs.ec.europa.eu/news/register-joint-pact-skills-eafa-webinar-cross-border-labour-mobility-and-skills-portability-2026-11-12_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "Join EAfA’s webinar on integrating basic skills in apprenticeships",
-    "descrizione": "On 19 November, from 11:00-12:30 CET, the European Alliance for Apprenticeships will host a webinar to discuss how to integrate basic skills development in apprenticeship programmes and present the upcoming EAfA toolkit tackling this important topic.",
-    "url": "https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://home-affairs.ec.europa.eu/news/results-euda-drug-survey-6-10-people-eu-see-drug-trafficking-and-drug-use-serious-problems-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "The results of EUDA Drug Survey: 6 in 10 people in the EU see drug trafficking and drug use as serious problems",
-    "descrizione": "European Union Drugs Agency (EUDA) published the results of Drug Survey on how people across Europe view drugs, their impact and how society should respond.&nbsp;The EUDA surveyed 95 883 people (aged 15 and over) in 35 European countries, including respondents in the 27 EU countries.",
-    "url": "https://home-affairs.ec.europa.eu/news/results-euda-drug-survey-6-10-people-eu-see-drug-trafficking-and-drug-use-serious-problems-2026-11-12_en"
-   },
-   {
-    "fonte": "Commissione, notizie",
-    "id": "ecn:https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en",
-    "data": "2026-11-12",
-    "titolo": "Eurostat: Emergency oil stocks slightly down; commercial stocks up in July 2026",
-    "descrizione": "In July 2026, the EU held 103.5 million tonnes of emergency oil stocks. Compared with June 2026, emergency oil stocks decreased by 2.5%, while compared with July 2025, the drop was more substantial, at 4.2%.",
-    "url": "https://energy.ec.europa.eu/news/eurostat-emergency-oil-stocks-slightly-down-commercial-stocks-july-2026-2026-11-12_en"
    },
    {
     "fonte": "Commissione, notizie",
@@ -2134,37 +2097,45 @@
    },
    {
     "fonte": "Commissione, notizie",
-    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/career-guidance-lifelong-learning-changing-labour-markets-2026-11-12_en",
+    "id": "ecn:https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en",
     "data": "2026-11-12",
-    "titolo": "Career guidance for lifelong learning in changing labour markets",
-    "descrizione": "How can career guidance support lifelong learning in changing labour markets? As part of European Skills &amp; VET Week, UNESCO-UNEVOC brought together international experts to explore inclusive career pathways, skills development and the future of guidance in TVET.",
-    "url": "https://employment-social-affairs.ec.europa.eu/news/career-guidance-lifelong-learning-changing-labour-markets-2026-11-12_en"
+    "titolo": "Commission welcomes Nederlandse Spoorwegen's new sales policy for railway vehicles and closes antitrust investigation",
+    "descrizione": "The European Commission has decided to close its preliminary antitrust probe into allegedly anticompetitive behaviour by the Dutch State-owned rail incumbent Nederlandse Spoorwegen (‘NS').",
+    "url": "https://competition-policy.ec.europa.eu/about/news/commission-welcomes-nederlandse-spoorwegens-new-sales-policy-railway-vehicles-and-closes-antitrust-2026-11-12_en"
    },
    {
     "fonte": "Commissione, notizie",
-    "id": "ecn:https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en",
+    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en",
     "data": "2026-11-12",
-    "titolo": "EU-Armenia: New agreements on closer cooperation in the areas of customs and taxation",
-    "descrizione": "EU and Armenia today signed two agreements on Armenia’s participation in the EU’s Customs and Fiscalis programmes.",
-    "url": "https://taxation-customs.ec.europa.eu/news/eu-armenia-new-agreements-closer-cooperation-areas-customs-and-taxation-2026-11-12_en"
+    "titolo": "Join EAfA’s webinar on integrating basic skills in apprenticeships",
+    "descrizione": "On 19 November, from 11:00-12:30 CET, the European Alliance for Apprenticeships will host a webinar to discuss how to integrate basic skills development in apprenticeship programmes and present the upcoming EAfA toolkit tackling this important topic.",
+    "url": "https://employment-social-affairs.ec.europa.eu/news/join-eafas-webinar-integrating-basic-skills-apprenticeships-2026-11-12_en"
    },
    {
     "fonte": "Commissione, notizie",
-    "id": "ecn:https://single-market-economy.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-12_en",
+    "id": "ecn:https://employment-social-affairs.ec.europa.eu/news/register-joint-pact-skills-eafa-webinar-cross-border-labour-mobility-and-skills-portability-2026-11-12_en",
     "data": "2026-11-12",
-    "titolo": "Commission restricts lead in fishing weights and lures to protect people and the environment",
-    "descrizione": "On 12 November 2026, the Commission adopted measures to restrict lead in fishing weights and lures under the EU’s chemicals legislation, REACH.",
-    "url": "https://single-market-economy.ec.europa.eu/news/commission-restricts-lead-fishing-weights-and-lures-protect-people-and-environment-2026-11-12_en"
+    "titolo": "Register for joint Pact for Skills–EAfA webinar on cross-border labour mobility and skills portability",
+    "descrizione": "The Pact for Skills and the European Alliance for Apprenticeships (EAfA) are hosting a Knowledge Exchange Event on cooperation in EU cross-border regions. The webinar will take place on 17 November 2026 from 11:00–12:30 CET",
+    "url": "https://employment-social-affairs.ec.europa.eu/news/register-joint-pact-skills-eafa-webinar-cross-border-labour-mobility-and-skills-portability-2026-11-12_en"
    },
    {
     "fonte": "Commissione, notizie",
-    "id": "ecn:https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en",
+    "id": "ecn:https://blue-economy-observatory.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-11-12_en",
     "data": "2026-11-12",
-    "titolo": "EU and Egypt bring Partnership forward by advancing cooperation on electronic signatures and seals",
-    "descrizione": "Today, the European Commission and Egypt have reached an important milestone in their digital cooperation, and a significant deliverable of the EU-Egypt Summit of 22 October 2025, by achieving technical alignment of electronic signatures and seal schemes between the European Union and Egypt.",
-    "url": "https://north-africa-middle-east-gulf.ec.europa.eu/news/eu-and-egypt-bring-partnership-forward-advancing-cooperation-electronic-signatures-and-seals-2026-11-12_en"
+    "titolo": "Agreement reached on 2027 fishing opportunities for the Baltic Sea",
+    "descrizione": "The Council of the European Union reached a political agreement on the fishing opportunities in the Baltic Sea for 2027, following the&nbsp;Commission proposal made in August this year.",
+    "url": "https://blue-economy-observatory.ec.europa.eu/news/agreement-reached-2027-fishing-opportunities-baltic-sea-2026-11-12_en"
+   },
+   {
+    "fonte": "Commissione, notizie",
+    "id": "ecn:https://finance.ec.europa.eu/news/commission-seeks-feedback-limited-assurance-standards-sustainability-reporting-2026-11-12_en",
+    "data": "2026-11-12",
+    "titolo": "Commission seeks feedback on limited assurance standards for sustainability reporting",
+    "descrizione": "The consultation invites feedback on&nbsp;the&nbsp;Committee of European Auditing Oversight Bodies’&nbsp;(CEAOB) technical advice, as well as on their proposed adjustments to&nbsp;the&nbsp;international&nbsp;standard.",
+    "url": "https://finance.ec.europa.eu/news/commission-seeks-feedback-limited-assurance-standards-sustainability-reporting-2026-11-12_en"
    }
   ]
  },
- "prova_feed_eurlex": "HTTP 202, 0 byte, non è un feed (probabile sfida anti-bot)"
+ "prova_feed_eurlex": "HTTP 200, 72095 byte, feed RSS"
 }
